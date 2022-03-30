@@ -10,6 +10,7 @@ BISON           = bison
 BISON_MAJOR = $(shell $(BISON) --version | grep bison | sed -e 's/.* \([0-9]\+\)\.\([0-9]\+\).*/\1/')
 BISON_MINOR = $(shell $(BISON) --version | grep bison | sed -e 's/.* \([0-9]\+\)\.\([0-9]\+\).*/\2/')
 CXXFLAGS        += -DBISON_VERSION_$(BISON_MAJOR)
+CXXFLAGS        += -fexceptions
 
 # -----------------------------------------------------------------------------
 # special libraries
@@ -22,18 +23,47 @@ CXXFLAGS        += -DBISON_VERSION_$(BISON_MAJOR)
 #   export PKG_CONFIG_PATH
 #
 
+# FFmpeg-SVN
+ifdef MODULE_FFMPEG
+INCLUDES    += `pkg-config --cflags libavcodec --cflags libavformat --cflags libavutil --cflags libswscale`
+LDFLAGS     += `pkg-config --libs libavcodec --libs libavformat --libs libavutil --libs libswscale`
+DEFINES     += -DWITH_FFMPEG
+#ifeq ($(shell pkg-config --cflags libavutil --atleast-version=50 && echo 1),1)
+ifeq ($(shell pkg-config --cflags libavformat --atleast-version=52 && echo 1),1)
+DEFINES     += -DFFMPEG_VERSION=50 -D__STDC_CONSTANT_MACROS
+LDFLAGS     += $(shell pkg-config --libs libavdevice)
+else
+DEFINES     += -DFFMPEG_VERSION=49
+endif
+endif
+
 ifdef MODULE_AUDIO_FFMPEG
 INCLUDES    += `pkg-config --cflags libavformat libswresample libavcodec libavutil`
 LDFLAGS     += `pkg-config --libs   libavformat libswresample libavcodec libavutil`
 endif
 
+# OpenCV
+ifdef MODULE_OPENCV
+INCLUDES    += `pkg-config --cflags opencv`
+LDFLAGS     += `pkg-config --libs opencv` -lrt
+DEFINES     += -DWITH_OPENCV
+endif
+
+ifdef MODULE_MM_NN
+INCLUDES    += `pkg-config --cflags libkdtree`
+LDFLAGS     += `pkg-config --libs libkdtree`
+endif
+
 ifdef MODULE_OPENFST
+_ADD_OPENFST=1
+endif
+ifdef MODULE_KWS
 _ADD_OPENFST=1
 endif
 
 ifdef _ADD_OPENFST
-OPENFST_VERSION = 1.6.5
-OPENFSTDIR  = /opt/openfst
+OPENFST_VERSION = 1.6.3
+OPENFSTDIR  = /work/speech/tools/openfst-$(OPENFST_VERSION)
 OPENFSTLIBS = -lfst
 INCLUDES    += -isystem $(OPENFSTDIR)/include
 DEFINES     += -DOPENFST_$(shell echo $(OPENFST_VERSION) | tr . _)
@@ -46,10 +76,11 @@ LDFLAGS     += -L$(TBB_DIR)/lib -ltbb
 endif
 
 ifdef MODULE_TENSORFLOW
-TF_COMPILE_BASE = /opt/tensorflow/tensorflow
+TF_COMPILE_BASE = "/work/tools/asr/tensorflow/2.3.4-generic+cuda10.1+mkl/tensorflow"
 
 TF_CXXFLAGS  = -fexceptions
 TF_CXXFLAGS += -I$(TF_COMPILE_BASE)/
+TF_CXXFLAGS += -I$(TF_COMPILE_BASE)/bazel-bin/
 TF_CXXFLAGS += -I$(TF_COMPILE_BASE)/bazel-genfiles/
 TF_CXXFLAGS += -I$(TF_COMPILE_BASE)/bazel-tensorflow/external/eigen_archive/
 TF_CXXFLAGS += -I$(TF_COMPILE_BASE)/bazel-tensorflow/external/com_google_protobuf/src/
@@ -57,6 +88,14 @@ TF_CXXFLAGS += -I$(TF_COMPILE_BASE)/bazel-tensorflow/external/com_google_absl/
 
 TF_LDFLAGS  = -L$(TF_COMPILE_BASE)/bazel-bin/tensorflow -ltensorflow_cc -ltensorflow_framework
 TF_LDFLAGS += -Wl,-rpath -Wl,$(TF_COMPILE_BASE)/bazel-bin/tensorflow
+
+# mkl libs
+TF_BAZEL = $(TF_COMPILE_BASE)/bazel-tensorflow
+LDFLAGS   += -L$(TF_BAZEL)/external/mkl_linux/lib/
+LDFLAGS   += -Wl,-rpath -Wl,$(TF_BAZEL)/external/mkl_linux/lib/
+LDFLAGS   += -lmklml_intel -liomp5 -lpthread
+INCLUDES  += -I$(TF_BAZEL)/external/mkl_linux/include/
+LDFLAGS   += -llapack
 endif
 
 # -----------------------------------------------------------------------------
@@ -90,10 +129,8 @@ ifdef MODULE_INTEL_MKL
 LDFLAGS		+= -L/opt/intel/mkl/10.2.6.038/lib/em64t -L/opt/intel/mkl/10.2.6.038/lib/32 -lrwthmkl -liomp5 -lpthread
 INCLUDES	+= -I/opt/intel/mkl/10.2.6.038/include -I/opt/intel/mkl/10.2.6.038/include/fftw -I/opt/intel/mkl/10.2.6.038/include/em64t/lp64 -I/opt/intel/mkl/10.2.6.038/include/32
 else
-INCLUDES    += `pkg-config --cflags blas`
-INCLUDES    += `pkg-config --cflags lapack`
-LDFLAGS     += `pkg-config --libs blas`
-LDFLAGS     += `pkg-config --libs lapack`
+LDFLAGS     += -lblas
+LDFLAGS     += -llapack 
 endif
 endif
 
@@ -132,9 +169,18 @@ else
 LDFLAGS     += -lm
 endif
 
+ifdef MODULE_IMAGE
+# Image libraries like PNG, JPEG, PAM, ...
+LDFLAGS     += -lpng -ljpeg -lnetpbm
+# FFT
+endif
+ifdef MODULE_IMAGE_FFTW
+LDFLAGS     += -lfftw
+endif
+
 ifdef MODULE_PYTHON
-INCLUDES    += `python3-config --includes 2>/dev/null || pkg-config --cflags python`
-LDFLAGS     += `python3-config --libs 2>/dev/null || pkg-config --libs python`
+INCLUDES    += `/work/tools/asr/python/3.8.0/bin/python3-config --includes 2>/dev/null`
+LDFLAGS     += `/work/tools/asr/python/3.8.0/bin/python3-config --ldflags 2>/dev/null` -lpython3.8 -Wl,-rpath -Wl,/work/tools/asr/python/3.8.0/lib
 endif
 
 # X11 and QT
