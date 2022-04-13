@@ -538,9 +538,11 @@ private:
             //where independently from the source state identity (speech/silence)
             //the speech forward penalty is applied. Please note that leaving silence is conceptually
             //exiting and forwarding from silence, we can never only forward from silence.
-            Fsa::Weight speechFwdToSubtract = t_->semiring()->invert(Fsa::Weight((*transitionModel_[3])[StateTransitionModel::forward]));
+            StateType speechType = TransitionModel::phone0;
+            StateType silType    = TransitionModel::silence;
+            Fsa::Weight speechFwdToSubtract = t_->semiring()->invert(Fsa::Weight((*transitionModel_[speechType])[StateTransitionModel::forward]));
             Fsa::Weight correctedTdp = t_->semiring()->extend(ra->weight(),  speechFwdToSubtract);
-            correctedWeight = t_->semiring()->extend(correctedTdp, Fsa::Weight((*transitionModel_[2])[StateTransitionModel::forward]));
+            correctedWeight = t_->semiring()->extend(correctedTdp, Fsa::Weight((*transitionModel_[silType])[StateTransitionModel::forward]));
         }
         else
             correctedWeight = ra->weight();
