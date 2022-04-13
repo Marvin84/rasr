@@ -532,24 +532,25 @@ private:
     void doExit(const StackItem& current, const Fsa::Arc* ra) {
         require(alphabet_->isDisambiguator(ra->input()));
         verify(!applyExitTransitionToFinalStates_);
-        Fsa::Weight ExitSilence;
+        Fsa::Weight correctedWeight;
         if (current.emission == silenceLabel_){
             //we need to correct for the algorithmic bug introduced by epsilon arcs in case of exit,
             //where independently from the source state identity (speech/silence)
             //the speech forward penalty is applied. Please note that leaving silence is conceptually
             //exiting and forwarding from silence, we can never only forward from silence.
-            Fsa::Weight invertedFwd = t_->semiring()->invert(Fsa::Weight((*transitionModel_[3])[StateTransitionModel::forward]));
-            Fsa::Weight correctedTdp = t_->semiring()->extend(ra->weight(),  invertedFwd);
-            ExitSilence = t_->semiring()->extend(correctedTdp, Fsa::Weight((*transitionModel_[2])[StateTransitionModel::forward]));
+            Fsa::Weight speechFwdToSubtract = t_->semiring()->invert(Fsa::Weight((*transitionModel_[3])[StateTransitionModel::forward]));
+            Fsa::Weight correctedTdp = t_->semiring()->extend(ra->weight(),  speechFwdToSubtract);
+            correctedWeight = t_->semiring()->extend(correctedTdp, Fsa::Weight((*transitionModel_[2])[StateTransitionModel::forward]));
         }
         else
-            ExitSilence = ra->weight();
+            correctedWeight = ra->weight();
         current.result->newArc(getStateId(State::allowForward | State::allowSkip | State::allowExit | State::isFinal,
                                           Fsa::Epsilon,
                                           TransitionModel::entryM1,
                                           ra->target()),
-                               t_->semiring()->extend(ExitSilence, weight(current, StateTransitionModel::exit)),
+                               t_->semiring()->extend(correctedWeight, weight(current, StateTransitionModel::exit)),
                                ra->input(), ra->output());
+
     }
 
     void doDischarge(const StackItem& current) {
