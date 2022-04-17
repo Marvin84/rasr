@@ -1,0 +1,7 @@
+<map id="Mm::FeatureScorerIntelOptimization" name="Mm::FeatureScorerIntelOptimization">
+<area shape="rect" id="node2" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="56,511,187,537"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="54,421,189,448"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="166,213,301,255"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="211,109,346,151"/>
+<area shape="rect" id="node5" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="129,317,273,359"/>
+</map>

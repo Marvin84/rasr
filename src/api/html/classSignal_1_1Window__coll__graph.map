@@ -1,0 +1,9 @@
+<map id="Signal::Window" name="Signal::Window">
+<area shape="rect" id="node2" href="$classSignal_1_1WindowBuffer.html" title="WindowBuffer is buffer collecting vectors of samples and delivering (overlapping) segments of a given..." alt="" coords="5,440,153,467"/>
+<area shape="rect" id="node3" href="$classSignal_1_1WindowFunction.html" title="WindowFunction is base class for different windowing functions. " alt="" coords="178,440,341,467"/>
+<area shape="rect" id="node4" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="116,351,275,377"/>
+<area shape="rect" id="node5" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="42,247,250,288"/>
+<area shape="rect" id="node6" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="65,171,227,197"/>
+<area shape="rect" id="node7" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="63,95,229,121"/>
+<area shape="rect" id="node9" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="274,254,373,281"/>
+</map>

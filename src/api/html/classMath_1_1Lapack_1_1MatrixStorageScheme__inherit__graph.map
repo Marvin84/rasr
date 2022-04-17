@@ -1,0 +1,4 @@
+<map id="Math::Lapack::MatrixStorageScheme" name="Math::Lapack::MatrixStorageScheme">
+<area shape="rect" id="node2" href="$structMath_1_1Lapack_1_1ColumnByColumnStorage.html" title="Calculates the index of the matrix element [row][column] in a 1&#45;D buffer in which elements are stored..." alt="" coords="5,95,220,136"/>
+<area shape="rect" id="node3" href="$structMath_1_1Lapack_1_1RowByRowStorage.html" title="Calculates the index of the matrix element [row][column] in a 1&#45;D buffer in which elements are stored..." alt="" coords="245,102,469,129"/>
+</map>

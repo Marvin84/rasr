@@ -1,0 +1,5 @@
+<map id="Signal::TemporalIntegration" name="Signal::TemporalIntegration">
+<area shape="rect" id="node3" href="$classSignal_1_1SlidingAlgorithmNode.html" title="Signal::SlidingAlgorithm\lNode\&lt; TemporalIntegration \&gt;" alt="" coords="15,169,207,211"/>
+<area shape="rect" id="node2" href="$classSignal_1_1TimeWindowBuffer.html" title="Signal::TimeWindowBuffer\l\&lt; Flow::Vector\&lt; f32 \&gt; \&gt;" alt="" coords="23,5,200,47"/>
+<area shape="rect" id="node4" href="$classSignal_1_1TemporalIntegrationNode.html" title="Temporal Integration Node. " alt="" coords="5,259,217,285"/>
+</map>

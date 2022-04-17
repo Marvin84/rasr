@@ -1,0 +1,14 @@
+<map id="Ftl::StorageAutomaton&lt; _Automaton &gt;" name="Ftl::StorageAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node3" href="$classFsa_1_1PackedAutomaton.html" title="Fsa::PackedAutomaton\l\&lt; Automaton \&gt;" alt="" coords="347,201,505,243"/>
+<area shape="rect" id="node4" href="$classFtl_1_1StaticAutomaton.html" title="Ftl::StaticAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="355,267,497,308"/>
+<area shape="rect" id="node5" href="$classAm_1_1AllophoneStateToPhonemeTransducer.html" title="Am::AllophoneStateToPhoneme\lTransducer\&lt; Automaton \&gt;" alt="" coords="575,5,783,47"/>
+<area shape="rect" id="node6" href="$classAm_1_1EmissionToPhonemeTransducer.html" title="Am::EmissionToPhonemeTransducer\l\&lt; Automaton \&gt;" alt="" coords="559,71,798,112"/>
+<area shape="rect" id="node7" href="$classBliss_1_1LemmaAcceptor.html" title="Bliss::LemmaAcceptor\l\&lt; Automaton \&gt;" alt="" coords="601,136,756,177"/>
+<area shape="rect" id="node8" href="$classBliss_1_1LemmaPronunciationAcceptor.html" title="Bliss::LemmaPronunciation\lAcceptor\&lt; Automaton \&gt;" alt="" coords="588,201,769,243"/>
+<area shape="rect" id="node9" href="$classBliss_1_1LemmaPronunciationToLemmaTransducer.html" title="Bliss::LemmaPronunciation\lToLemmaTransducer\&lt; Automaton \&gt;" alt="" coords="563,267,795,308"/>
+<area shape="rect" id="node10" href="$classBliss_1_1LemmaToEvaluationTokenTransducer.html" title="Bliss::LemmaToEvaluation\lTokenTransducer\&lt; Automaton \&gt;" alt="" coords="573,332,784,373"/>
+<area shape="rect" id="node11" href="$classBliss_1_1LemmaToSyntacticTokenTransducer.html" title="Bliss::LemmaToSyntacticToken\lTransducer\&lt; Automaton \&gt;" alt="" coords="575,397,783,439"/>
+<area shape="rect" id="node12" href="$classBliss_1_1PhonemeToLemmaPronunciationTransducer.html" title="Bliss::PhonemeToLemmaPronunciation\lTransducer\&lt; Automaton \&gt;" alt="" coords="553,463,804,504"/>
+<area shape="rect" id="node13" href="$classFsa_1_1Search_1_1FirstBestTracer.html" title="Fsa::Search::FirstBestTracer\l\&lt; Automaton \&gt;" alt="" coords="583,528,774,569"/>
+<area shape="rect" id="node14" href="$classFsa_1_1Search_1_1LatticeTracer.html" title="update: " alt="" coords="852,535,1029,562"/>
+</map>

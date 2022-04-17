@@ -1,0 +1,5 @@
+<map id="Core::XmlRegularElement::Transition" name="Core::XmlRegularElement::Transition">
+<area shape="rect" id="node2" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="48,95,177,121"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="156,5,387,32"/>
+</map>

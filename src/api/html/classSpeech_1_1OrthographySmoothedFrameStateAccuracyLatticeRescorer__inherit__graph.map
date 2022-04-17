@@ -1,0 +1,9 @@
+<map id="Speech::OrthographySmoothedFrameStateAccuracyLatticeRescorer" name="Speech::OrthographySmoothedFrameStateAccuracyLatticeRescorer">
+<area shape="rect" id="node2" href="$classSpeech_1_1FrameStateAccuracyLatticeRescorer.html" title="Speech::FrameStateAccuracy\lLatticeRescorer" alt="" coords="25,468,223,509"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1ApproximateDistanceLatticeRescorer.html" title="Speech::ApproximateDistance\lLatticeRescorer" alt="" coords="25,379,223,420"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1DistanceLatticeRescorer.html" title="Speech::DistanceLatticeRescorer" alt="" coords="15,304,233,331"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="41,229,207,256"/>
+<area shape="rect" id="node6" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="41,155,207,181"/>
+<area shape="rect" id="node7" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="61,80,187,107"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="59,5,189,32"/>
+</map>

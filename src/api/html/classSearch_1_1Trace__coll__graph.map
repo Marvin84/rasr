@@ -1,0 +1,16 @@
+<map id="Search::Trace" name="Search::Trace">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="645,65,811,91"/>
+<area shape="rect" id="node3" href="$structSearch_1_1SearchAlgorithm_1_1TracebackItem.html" title="Search::SearchAlgorithm\l::TracebackItem" alt="" coords="645,116,811,157"/>
+<area shape="rect" id="node4" href="$structSearch_1_1SearchAlgorithm_1_1ScoreVector.html" title="Search::SearchAlgorithm\l::ScoreVector" alt="" coords="255,5,421,47"/>
+<area shape="rect" id="node5" href="$structLattice_1_1WordBoundary_1_1Transit.html" title="Lattice::WordBoundary\l::Transit" alt="" coords="261,71,415,112"/>
+<area shape="rect" id="node6" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="247,214,429,241"/>
+<area shape="rect" id="node7" href="$classBliss_1_1Pronunciation.html" title="A pronunciation in the Bliss lexicon. " alt="" coords="659,198,797,225"/>
+<area shape="rect" id="node8" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="677,315,779,342"/>
+<area shape="rect" id="node9" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="291,319,385,346"/>
+<area shape="rect" id="node10" href="$classBliss_1_1Symbol.html" title="Symbols are character strings which are collected in a SymbolSet. " alt="" coords="5,379,108,406"/>
+<area shape="rect" id="node11" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="257,371,419,412"/>
+<area shape="rect" id="node12" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="247,436,429,477"/>
+<area shape="rect" id="node13" href="$classSearch_1_1PathTrace.html" title="Search::PathTrace" alt="" coords="663,366,793,393"/>
+<area shape="rect" id="node14" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Search::\lTrace \&gt;" alt="" coords="658,419,798,460"/>
+<area shape="rect" id="node15" href="$classSearch_1_1AccessiblePriorityQueue.html" title="Search::AccessiblePriority\lQueue\&lt; AlternativeHistory,\l std::vector\&lt; AlternativeHistory\l \&gt;, AlternativeHistoryCompare \&gt;" alt="" coords="623,492,833,563"/>
+</map>

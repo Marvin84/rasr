@@ -1,0 +1,19 @@
+<map id="Speech::ApproximateDistanceLatticeRescorer" name="Speech::ApproximateDistanceLatticeRescorer">
+<area shape="rect" id="node7" href="$classSpeech_1_1ApproximatePhoneAccuracyLatticeRescorer.html" title="Speech::ApproximatePhone\lAccuracyLatticeRescorer" alt="" coords="1317,104,1501,145"/>
+<area shape="rect" id="node11" href="$classSpeech_1_1ArchiveApproximateWordAccuracyLatticeRescorer.html" title="Speech::ArchiveApproximate\lWordAccuracyLatticeRescorer" alt="" coords="1309,201,1509,243"/>
+<area shape="rect" id="node12" href="$classSpeech_1_1FrameStateAccuracyLatticeRescorer.html" title="Speech::FrameStateAccuracy\lLatticeRescorer" alt="" coords="1311,267,1508,308"/>
+<area shape="rect" id="node17" href="$classSpeech_1_1OrthographyApproximateWordAccuracyLatticeRescorer.html" title="Speech::OrthographyApproximate\lWordAccuracyLatticeRescorer" alt="" coords="1300,332,1519,373"/>
+<area shape="rect" id="node18" href="$classSpeech_1_1OrthographyFrameWordAccuracyLatticeRescorer.html" title="Speech::OrthographyFrame\lWordAccuracyLatticeRescorer" alt="" coords="1309,397,1509,439"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1DistanceLatticeRescorer.html" title="Speech::DistanceLatticeRescorer" alt="" coords="787,274,1005,301"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="572,274,739,301"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="357,274,524,301"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,274,309,301"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,274,136,301"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1ArchiveApproximatePhoneAccuracyLatticeRescorer.html" title="Speech::ArchiveApproximate\lPhoneAccuracyLatticeRescorer" alt="" coords="1583,5,1789,47"/>
+<area shape="rect" id="node9" href="$classSpeech_1_1OrthographyApproximatePhoneAccuracyLatticeRescorer.html" title="Speech::OrthographyApproximate\lPhoneAccuracyLatticeRescorer" alt="" coords="1577,71,1795,112"/>
+<area shape="rect" id="node10" href="$classSpeech_1_1OrthographyApproximatePhoneAccuracyMaskLatticeRescorer.html" title="Speech::OrthographyApproximate\lPhoneAccuracyMaskLatticeRescorer" alt="" coords="1567,136,1805,177"/>
+<area shape="rect" id="node13" href="$classSpeech_1_1ArchiveFrameStateAccuracyLatticeRescorer.html" title="Speech::ArchiveFrameState\lAccuracyLatticeRescorer" alt="" coords="1593,201,1779,243"/>
+<area shape="rect" id="node14" href="$classSpeech_1_1OrthographyFramePhoneAccuracyLatticeRescorer.html" title="Speech::OrthographyFrame\lPhoneAccuracyLatticeRescorer" alt="" coords="1583,267,1789,308"/>
+<area shape="rect" id="node15" href="$classSpeech_1_1OrthographyFrameStateAccuracyLatticeRescorer.html" title="Speech::OrthographyFrame\lStateAccuracyLatticeRescorer" alt="" coords="1586,332,1786,373"/>
+<area shape="rect" id="node16" href="$classSpeech_1_1OrthographySmoothedFrameStateAccuracyLatticeRescorer.html" title="Speech::OrthographySmoothed\lFrameStateAccuracyLatticeRescorer" alt="" coords="1567,397,1805,439"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Speech::LatticeSimpleModifyNode" name="Speech::LatticeSimpleModifyNode">
+<area shape="rect" id="node2" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="2739,215,2869,242"/>
+<area shape="rect" id="node3" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2561,215,2651,242"/>
+<area shape="rect" id="node4" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2347,215,2485,242"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2032,215,2157,242"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1593,263,1723,290"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1228,263,1363,290"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="493,255,628,296"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,271,303,312"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="487,71,635,112"/>
+<area shape="rect" id="node18" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,142,319,169"/>
+<area shape="rect" id="node25" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="343,470,453,497"/>
+<area shape="rect" id="node26" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="668,405,763,431"/>
+<area shape="rect" id="node28" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; f64 \&gt;" alt="" coords="483,5,639,47"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="819,255,963,296"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1593,90,1723,117"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1237,125,1353,151"/>
+<area shape="rect" id="node15" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1242,74,1349,101"/>
+<area shape="rect" id="node16" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,63,967,90"/>
+<area shape="rect" id="node24" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="477,175,644,202"/>
+<area shape="rect" id="node19" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1609,213,1707,239"/>
+<area shape="rect" id="node20" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="2004,308,2185,349"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1387,169,1531,195"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="787,168,995,209"/>
+<area shape="rect" id="node27" href="$classCore_1_1ParameterFloatVector.html" title="Declaration class for float vector parameters. " alt="" coords="1019,11,1204,38"/>
+<area shape="rect" id="node29" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="2727,266,2881,293"/>
+</map>

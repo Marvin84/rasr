@@ -1,0 +1,13 @@
+<map id="Speech::PronunciationLatticeRescorerAutomaton" name="Speech::PronunciationLatticeRescorerAutomaton">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeRescorerAutomaton" alt="" coords="1245,131,1475,157"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="963,131,1141,157"/>
+<area shape="rect" id="node4" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="617,72,771,99"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="310,23,451,65"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="292,89,469,116"/>
+<area shape="rect" id="node9" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="581,123,807,165"/>
+<area shape="rect" id="node10" href="$classBliss_1_1LemmaPronunciationAlphabet.html" title="Adaptor: Lexicon as FSA alphabet of lemma&#45;pronunciations. " alt="" coords="1269,182,1451,223"/>
+<area shape="rect" id="node11" href="$classFsa_1_1Alphabet.html" title="The abstract definition of an alphabet. " alt="" coords="1001,189,1103,216"/>
+<area shape="rect" id="node12" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="611,189,777,216"/>
+<area shape="rect" id="node13" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="960,240,1144,267"/>
+</map>

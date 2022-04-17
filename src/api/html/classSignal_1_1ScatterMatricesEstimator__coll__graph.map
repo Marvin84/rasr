@@ -1,0 +1,27 @@
+<map id="Signal::ScatterMatricesEstimator" name="Signal::ScatterMatricesEstimator">
+<area shape="rect" id="node2" href="$classSignal_1_1ScatterMatrixEstimator.html" title="Base class for scatter matrix estimators. " alt="" coords="2396,272,2596,299"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2086,144,2211,171"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1611,91,1741,117"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1193,85,1327,112"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,83,557,125"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,209,564,250"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,284,308,311"/>
+<area shape="rect" id="node29" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="412,377,568,418"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,81,879,122"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1611,143,1741,169"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1202,136,1318,163"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1207,187,1313,213"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,203,883,229"/>
+<area shape="rect" id="node21" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="409,275,571,301"/>
+<area shape="rect" id="node24" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,325,573,352"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1627,193,1725,220"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="2065,195,2232,221"/>
+<area shape="rect" id="node19" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1395,245,1528,272"/>
+<area shape="rect" id="node20" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="725,254,888,295"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1861,297,2005,324"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="703,319,911,361"/>
+<area shape="rect" id="node25" href="$classMath_1_1Matrix.html" title="Math::Matrix\&lt; Sum \&gt;" alt="" coords="2075,359,2222,385"/>
+<area shape="rect" id="node26" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Math\l::Vector\&lt; Sum, VectorRange\lCheckOffPolicy \&gt;, VectorRangeCheck\lOffPolicy \&gt;" alt="" coords="1552,349,1800,419"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="935,485,1125,512"/>
+</map>

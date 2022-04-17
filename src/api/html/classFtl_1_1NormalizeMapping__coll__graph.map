@@ -1,0 +1,10 @@
+<map id="Ftl::NormalizeMapping&lt; _Automaton &gt;" name="Ftl::NormalizeMapping&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFsa_1_1Mapping.html" title="Mapping between state ids of two automatons; see compose for examples. " alt="" coords="821,5,922,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="523,5,690,32"/>
+<area shape="rect" id="node4" href="$classFtl_1_1NormalizeAutomaton.html" title="Ftl::NormalizeAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="788,57,955,98"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="536,57,677,98"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="201,69,411,96"/>
+<area shape="rect" id="node8" href="$classFsa_1_1Hash.html" title="Fsa::Hash\&lt; Fsa::StateId,\l Ftl::NormalizeAutomaton\l::StateIdKey \&gt;" alt="" coords="521,121,692,177"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Cursor \&gt;" alt="" coords="227,124,385,151"/>
+<area shape="rect" id="node11" href="$structFtl_1_1NormalizeAutomaton_1_1StateIdKey.html" title="Ftl::NormalizeAutomaton\l\&lt; _Automaton \&gt;::StateIdKey" alt="" coords="211,175,401,217"/>
+</map>

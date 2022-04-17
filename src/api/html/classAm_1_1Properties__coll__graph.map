@@ -1,0 +1,15 @@
+<map id="Am::Properties" name="Am::Properties">
+<area shape="rect" id="node2" href="$classCart_1_1Properties.html" title="Abstract set of properties, i.e. " alt="" coords="48,527,163,553"/>
+<area shape="rect" id="node3" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="5,423,181,464"/>
+<area shape="rect" id="node4" href="$classAm_1_1PropertyMap.html" title="Am::PropertyMap" alt="" coords="201,527,325,553"/>
+<area shape="rect" id="node5" href="$classCart_1_1PropertyMap.html" title="The property map fullfills two tasks. " alt="" coords="206,430,335,457"/>
+<area shape="rect" id="node6" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="33,333,199,360"/>
+<area shape="rect" id="node7" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="224,333,323,360"/>
+<area shape="rect" id="node8" href="$classAm_1_1AllophoneState.html" title="Am::AllophoneState" alt="" coords="349,527,488,553"/>
+<area shape="rect" id="node9" href="$structAm_1_1Allophone.html" title="Am::Allophone" alt="" coords="369,430,476,457"/>
+<area shape="rect" id="node10" href="$classBliss_1_1ContextPhonology_1_1PhonemeInContext.html" title="Phonology::Allophone" alt="" coords="349,333,497,360"/>
+<area shape="rect" id="node11" href="$classBliss_1_1Allophone.html" title="Abstract base class for all types of allophones. " alt="" coords="343,237,459,263"/>
+<area shape="rect" id="node12" href="$structBliss_1_1ContextPhonology_1_1Context.html" title="Bliss::ContextPhonology\l::Context" alt="" coords="483,229,650,271"/>
+<area shape="rect" id="node13" href="$classBliss_1_1ContextPhonology_1_1SemiContext.html" title="Bliss::ContextPhonology\l::SemiContext" alt="" coords="483,111,650,152"/>
+<area shape="rect" id="node15" href="$classCart_1_1Conditions.html" title="Representing a set of conditions; each condition is in turn represented by a std::string. " alt="" coords="512,527,629,553"/>
+</map>

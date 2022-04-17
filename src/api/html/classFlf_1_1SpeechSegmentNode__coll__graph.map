@@ -1,0 +1,29 @@
+<map id="Flf::SpeechSegmentNode" name="Flf::SpeechSegmentNode">
+<area shape="rect" id="node2" href="$classFlf_1_1Node.html" title="Flf::Node" alt="" coords="1940,161,2016,188"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1659,131,1785,157"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1350,181,1481,208"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1101,181,1236,208"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="513,119,647,161"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="180,97,315,138"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="506,38,654,79"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="164,45,331,72"/>
+<area shape="rect" id="node21" href="$classBliss_1_1SpeechSegment.html" title="Segment of a Recording containing speech. " alt="" coords="1645,457,1799,484"/>
+<area shape="rect" id="node24" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="159,641,336,668"/>
+<area shape="rect" id="node26" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="1109,535,1228,561"/>
+<area shape="rect" id="node27" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="819,535,965,561"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="820,119,964,161"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1351,80,1480,107"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1111,20,1227,47"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1115,80,1222,107"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="816,68,968,95"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1366,131,1465,157"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1639,181,1805,208"/>
+<area shape="rect" id="node19" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Link \&gt;" alt="" coords="1650,55,1794,81"/>
+<area shape="rect" id="node22" href="$classBliss_1_1Segment.html" title="General segment of a Recording. " alt="" coords="1360,687,1471,713"/>
+<area shape="rect" id="node23" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="515,720,645,747"/>
+<area shape="rect" id="node25" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="497,656,663,683"/>
+<area shape="rect" id="node28" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="527,605,633,632"/>
+<area shape="rect" id="node29" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="503,537,657,578"/>
+<area shape="rect" id="node31" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="503,419,657,461"/>
+<area shape="rect" id="node34" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Segment \&gt;" alt="" coords="1883,489,2073,516"/>
+</map>

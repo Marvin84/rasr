@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classNn_1_1BatchFeatureScorer_1_1ContextScorer.html" title="Stores the current feature and the number of buffered features. " alt="" coords="164,5,327,47"/>
+<area shape="rect" id="node3" href="$classNn_1_1PythonFeatureScorer_1_1ContextScorer.html" title="Stores the current feature and the number of buffered features. " alt="" coords="160,71,331,112"/>
+<area shape="rect" id="node4" href="$classNn_1_1TrainerFeatureScorer_1_1ContextScorer.html" title="Stores the current feature and the number of buffered features. " alt="" coords="161,136,330,177"/>
+</map>

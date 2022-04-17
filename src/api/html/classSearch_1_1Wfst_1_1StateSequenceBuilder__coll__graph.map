@@ -1,0 +1,42 @@
+<map id="Search::Wfst::StateSequenceBuilder" name="Search::Wfst::StateSequenceBuilder">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2120,401,2245,427"/>
+<area shape="rect" id="node22" href="$classSearch_1_1Wfst_1_1NonWordTokens.html" title="Search::Wfst::NonWordTokens" alt="" coords="2872,442,3077,469"/>
+<area shape="rect" id="node23" href="$classBliss_1_1Lexicon.html" title="The Bliss lexicon. " alt="" coords="2499,758,2603,785"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1695,349,1825,375"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1277,349,1412,375"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="503,285,637,327"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="163,224,297,265"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="496,492,644,533"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="147,559,313,586"/>
+<area shape="rect" id="node28" href="$classCore_1_1Dependency.html" title="Core::Dependency" alt="" coords="337,617,468,643"/>
+<area shape="rect" id="node44" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="492,800,648,841"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="867,291,1011,332"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1695,399,1825,426"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1287,450,1403,477"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1291,399,1398,426"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="863,499,1015,526"/>
+<area shape="rect" id="node42" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="672,563,839,590"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1711,450,1809,477"/>
+<area shape="rect" id="node17" href="$classSearch_1_1Wfst_1_1AllophoneToAlloponeStateSequenceMap.html" title="maps an allophone to a state sequence index. " alt="" coords="2881,116,3068,157"/>
+<area shape="rect" id="node18" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Allophone\lAlphabet \&gt;" alt="" coords="2459,123,2643,164"/>
+<area shape="rect" id="node19" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Allophone\lStateAlphabet \&gt;" alt="" coords="2459,5,2643,47"/>
+<area shape="rect" id="node20" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="2477,196,2624,237"/>
+<area shape="rect" id="node21" href="$classSearch_1_1Wfst_1_1StateSequenceMap.html" title="Search::Wfst::StateSequenceMap" alt="" coords="2440,71,2661,98"/>
+<area shape="rect" id="node24" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="2099,733,2266,759"/>
+<area shape="rect" id="node25" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; const\l Bliss::EvaluationToken * \&gt;" alt="" coords="1887,948,2068,989"/>
+<area shape="rect" id="node26" href="$structCore_1_1Obstack_1_1Chunk.html" title="Core::Obstack\&lt; T \&gt;\l::Chunk" alt="" coords="869,821,1008,863"/>
+<area shape="rect" id="node29" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::LemmaPronunciation \&gt;" alt="" coords="1456,1017,1620,1059"/>
+<area shape="rect" id="node30" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; const\l Bliss::SyntacticToken * \&gt;" alt="" coords="1890,687,2065,728"/>
+<area shape="rect" id="node31" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::Phoneme::Id \&gt;" alt="" coords="1464,769,1612,811"/>
+<area shape="rect" id="node36" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::Symbol::Char \&gt;" alt="" coords="1271,880,1419,921"/>
+<area shape="rect" id="node39" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Symbol \&gt;" alt="" coords="1451,829,1625,855"/>
+<area shape="rect" id="node32" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Lemma * \&gt;" alt="" coords="2109,1077,2257,1119"/>
+<area shape="rect" id="node34" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::PhonemeInventory \&gt;" alt="" coords="2105,1143,2261,1184"/>
+<area shape="rect" id="node35" href="$classBliss_1_1SymbolSet.html" title="A pool of Symbols. " alt="" coords="1699,890,1821,917"/>
+<area shape="rect" id="node38" href="$classBliss_1_1SymbolSequenceSet.html" title="Bliss::SymbolSequenceSet\l\&lt; Bliss::Symbol \&gt;" alt="" coords="2092,835,2273,876"/>
+<area shape="rect" id="node37" href="$classBliss_1_1TokenInventory.html" title="Bliss::TokenInventory" alt="" coords="2108,569,2257,595"/>
+<area shape="rect" id="node40" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="2479,453,2623,479"/>
+<area shape="rect" id="node41" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1039,556,1247,597"/>
+<area shape="rect" id="node43" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="1443,1070,1633,1097"/>
+<area shape="rect" id="node45" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="2883,493,3067,519"/>
+</map>

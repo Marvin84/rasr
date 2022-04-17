@@ -1,0 +1,10 @@
+<map id="Cart::XmlFloatBoxBuilderElement" name="Cart::XmlFloatBoxBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="31,207,197,234"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="48,117,177,143"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,13,132,39"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="156,13,387,39"/>
+<area shape="rect" id="node6" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; FloatBox \&gt;" alt="" coords="225,200,374,241"/>
+<area shape="rect" id="node7" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="217,109,381,151"/>
+<area shape="rect" id="node8" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="413,5,553,47"/>
+<area shape="rect" id="node9" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="405,117,567,143"/>
+</map>

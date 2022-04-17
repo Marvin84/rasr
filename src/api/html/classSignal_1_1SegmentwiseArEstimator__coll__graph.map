@@ -1,0 +1,8 @@
+<map id="Signal::SegmentwiseArEstimator" name="Signal::SegmentwiseArEstimator">
+<area shape="rect" id="node2" href="$classSignal_1_1SegmentwiseEstimator.html" title="Signal::SegmentwiseEstimator" alt="" coords="858,5,1059,32"/>
+<area shape="rect" id="node3" href="$classMath_1_1LevinsonLeastSquares.html" title="Levinson algorithm to estimate all&#45;pole linear predication parameters. " alt="" coords="863,56,1054,83"/>
+<area shape="rect" id="node4" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Data \&gt;" alt="" coords="613,16,763,43"/>
+<area shape="rect" id="node6" href="$classMath_1_1Matrix.html" title="Math::Matrix\&lt; Data \&gt;" alt="" coords="615,99,761,125"/>
+<area shape="rect" id="node9" href="$classSignal_1_1BandpassAutocorrelation.html" title="Autocorrelation of from segment of amplitude spectrum. " alt="" coords="853,107,1064,133"/>
+<area shape="rect" id="node7" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Math\l::Vector\&lt; Data, VectorRange\lCheckOffPolicy \&gt;, VectorRangeCheck\lOffPolicy \&gt;" alt="" coords="277,77,525,147"/>
+</map>

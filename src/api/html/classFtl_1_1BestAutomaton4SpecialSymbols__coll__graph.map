@@ -1,0 +1,10 @@
+<map id="Ftl::BestAutomaton4SpecialSymbols&lt; _Automaton &gt;" name="Ftl::BestAutomaton4SpecialSymbols&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="989,49,1130,90"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="631,56,840,83"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SsspBackward4SpecialSymbols.html" title="Ftl::SsspBackward4Special\lSymbols\&lt; _Automaton \&gt;" alt="" coords="968,143,1151,185"/>
+<area shape="rect" id="node6" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="640,107,831,133"/>
+<area shape="rect" id="node7" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="248,97,387,138"/>
+<area shape="rect" id="node9" href="$classFsa_1_1Stack.html" title="Fsa::Stack\&lt; Fsa::StateId \&gt;" alt="" coords="424,161,607,188"/>
+<area shape="rect" id="node10" href="$classFtl_1_1StatePotentials.html" title="Ftl::StatePotentials\l\&lt; typename _Automaton\l::Weight \&gt;" alt="" coords="653,220,818,276"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; typename\l _Automaton::Weight \&gt;" alt="" coords="235,227,400,269"/>
+</map>

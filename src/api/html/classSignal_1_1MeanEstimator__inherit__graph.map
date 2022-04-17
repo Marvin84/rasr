@@ -1,0 +1,6 @@
+<map id="Signal::MeanEstimator" name="Signal::MeanEstimator">
+<area shape="rect" id="node4" href="$classSignal_1_1MeanEstimatorNode.html" title="Signal::MeanEstimatorNode" alt="" coords="5,229,191,256"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1MeanEstimator.html" title="Speech::MeanEstimator" alt="" coords="215,229,378,256"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="134,80,259,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="131,5,262,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Ftl::PosteriorPruneAutomaton&lt; _Automaton &gt;" name="Ftl::PosteriorPruneAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="550,49,691,90"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="235,56,444,83"/>
+<area shape="rect" id="node5" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="525,115,716,141"/>
+<area shape="rect" id="node6" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="270,107,409,149"/>
+<area shape="rect" id="node8" href="$classFtl_1_1StatePotentials.html" title="Ftl::StatePotentials\l\&lt; _Weight \&gt;" alt="" coords="553,175,688,217"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; _Weight \&gt;" alt="" coords="255,183,423,209"/>
+</map>

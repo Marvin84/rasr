@@ -1,0 +1,5 @@
+<map id="Lattice::MorphismAutomaton" name="Lattice::MorphismAutomaton">
+<area shape="rect" id="node4" href="$classLattice_1_1NaryMorphismAutomaton.html" title="Lattice::NaryMorphismAutomaton" alt="" coords="5,229,223,256"/>
+<area shape="rect" id="node5" href="$classLattice_1_1UnaryMorphismAutomaton.html" title="Lattice::UnaryMorphismAutomaton" alt="" coords="247,229,471,256"/>
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Fsa::SlaveAutomaton" alt="" coords="163,80,311,107"/>
+</map>

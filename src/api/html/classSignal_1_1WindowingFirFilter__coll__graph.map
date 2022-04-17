@@ -1,0 +1,11 @@
+<map id="Signal::WindowingFirFilter" name="Signal::WindowingFirFilter">
+<area shape="rect" id="node2" href="$classSignal_1_1WindowBuffer.html" title="WindowBuffer is buffer collecting vectors of samples and delivering (overlapping) segments of a given..." alt="" coords="5,516,153,543"/>
+<area shape="rect" id="node3" href="$classSignal_1_1KaiserWindowFunction.html" title="KaiserWindowFunction. " alt="" coords="177,516,377,543"/>
+<area shape="rect" id="node4" href="$classSignal_1_1WindowFunction.html" title="WindowFunction is base class for different windowing functions. " alt="" coords="195,440,358,467"/>
+<area shape="rect" id="node5" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="115,351,273,377"/>
+<area shape="rect" id="node6" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="41,247,249,288"/>
+<area shape="rect" id="node7" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="63,171,226,197"/>
+<area shape="rect" id="node8" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="61,95,228,121"/>
+<area shape="rect" id="node10" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="273,254,371,281"/>
+<area shape="rect" id="node11" href="$classSignal_1_1Convolution.html" title="Convolution: Fast Fourier Transform based implementation of time doimain convolution. " alt="" coords="401,516,536,543"/>
+</map>

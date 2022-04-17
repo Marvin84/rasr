@@ -1,0 +1,4 @@
+<map id="Lattice::WordLattice" name="Lattice::WordLattice">
+<area shape="rect" id="node3" href="$classLattice_1_1StandardWordLattice.html" title="A &quot;normal&quot; word lattice with acoustic and language model scores and word boundary information as it i..." alt="" coords="5,169,196,196"/>
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="18,5,183,47"/>
+</map>

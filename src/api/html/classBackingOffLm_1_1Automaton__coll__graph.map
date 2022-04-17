@@ -1,0 +1,9 @@
+<map id="Lm::BackingOffLm::Automaton" name="Lm::BackingOffLm::Automaton">
+<area shape="rect" id="node2" href="$classLm_1_1LanguageModelAutomaton.html" title="Lm::LanguageModelAutomaton" alt="" coords="541,70,744,97"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="242,13,357,39"/>
+<area shape="rect" id="node4" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="207,63,391,90"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="204,114,395,141"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Lm::BackingOff\lLm::Internal \&gt;" alt="" coords="551,132,734,173"/>
+<area shape="rect" id="node8" href="$classLm_1_1BackingOffLm_1_1Node.html" title="Lm::BackingOffLm::Node" alt="" coords="557,219,728,246"/>
+</map>

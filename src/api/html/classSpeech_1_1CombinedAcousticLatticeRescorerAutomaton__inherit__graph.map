@@ -1,0 +1,8 @@
+<map id="Speech::CombinedAcousticLatticeRescorerAutomaton" name="Speech::CombinedAcousticLatticeRescorerAutomaton">
+<area shape="rect" id="node7" href="$classCombinedAcousticSummedPronunciationLatticeRescorerAutomaton.html" title="CombinedAcousticSummedPronunciation\lLatticeRescorerAutomaton" alt="" coords="1273,5,1536,47"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1CombinedAcousticSummedPronunciationLatticeRescorerAutomaton.html" title="Speech::CombinedAcoustic\lSummedPronunciationLatticeRescorer\lAutomaton" alt="" coords="1282,70,1527,126"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeRescorerAutomaton" alt="" coords="764,49,993,75"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="537,49,716,75"/>
+<area shape="rect" id="node4" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="335,49,489,75"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="145,41,287,83"/>
+</map>

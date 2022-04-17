@@ -1,0 +1,7 @@
+<map id="Flf::OracleAlignment::PosteriorCost" name="Flf::OracleAlignment::PosteriorCost">
+<area shape="rect" id="node4" href="$classFlf_1_1OracleAlignment_1_1OracleCost.html" title="Flf::OracleAlignment\l::OracleCost" alt="" coords="673,5,814,47"/>
+<area shape="rect" id="node5" href="$classFlf_1_1OracleAlignment_1_1OracleLoss.html" title="Flf::OracleAlignment\l::OracleLoss" alt="" coords="673,71,814,112"/>
+<area shape="rect" id="node6" href="$classFlf_1_1OracleAlignment_1_1WeightedOracleCost.html" title="Flf::OracleAlignment\l::WeightedOracleCost" alt="" coords="668,136,819,177"/>
+<area shape="rect" id="node2" href="$classFlf_1_1ConfusionNetworkAlignment_1_1Cost.html" title="Flf::ConfusionNetworkAlignment\l::Cost" alt="" coords="220,71,431,112"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,78,172,105"/>
+</map>

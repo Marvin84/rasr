@@ -1,0 +1,6 @@
+<map id="Core::XmlDocumentElement" name="Core::XmlDocumentElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="115,184,282,211"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="90,95,219,121"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="47,5,174,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="198,5,429,32"/>
+</map>

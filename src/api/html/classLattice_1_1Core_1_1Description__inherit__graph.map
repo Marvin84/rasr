@@ -1,0 +1,4 @@
+<map id="Lattice::Core::Description" name="Lattice::Core::Description">
+<area shape="rect" id="node2" href="$classLattice_1_1Mm_1_1FeatureDescription.html" title="Vector of stream descriptions Stream description is a set of attributes describing a feature stream..." alt="" coords="5,80,215,107"/>
+<area shape="rect" id="node3" href="$classLattice_1_1WordLatticeDescription.html" title="Lattice::WordLatticeDescription" alt="" coords="239,80,445,107"/>
+</map>

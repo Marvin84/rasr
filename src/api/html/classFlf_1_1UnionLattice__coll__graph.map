@@ -1,0 +1,6 @@
+<map id="Flf::UnionLattice" name="Flf::UnionLattice">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="SlaveLattice" alt="" coords="179,117,273,143"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="121,13,331,39"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ConstLattice\lRef \&gt;" alt="" coords="324,109,507,151"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="531,117,721,143"/>
+</map>

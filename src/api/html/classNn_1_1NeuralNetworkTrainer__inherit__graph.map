@@ -1,0 +1,11 @@
+<map id="Nn::NeuralNetworkTrainer&lt; T &gt;" name="Nn::NeuralNetworkTrainer&lt; T &gt;">
+<area shape="rect" id="node4" href="$classNn_1_1FeedForwardTrainer.html" title="Base class for all supervised feed forward trainer. " alt="" coords="627,5,822,32"/>
+<area shape="rect" id="node6" href="$classNn_1_1FrameErrorEvaluator.html" title="only computes frame classification error and objective function (supervised trainer) ..." alt="" coords="625,56,824,83"/>
+<area shape="rect" id="node7" href="$classNn_1_1MeanAndVarianceTrainer.html" title="computes mean and variance of input features " alt="" coords="612,107,837,133"/>
+<area shape="rect" id="node8" href="$classNn_1_1NetworkEvaluator.html" title="only forwards through the network and dumps the NN output (= emission label posteriors) ..." alt="" coords="633,157,816,184"/>
+<area shape="rect" id="node9" href="$classNn_1_1PythonTrainer.html" title="Nn::PythonTrainer\&lt; T \&gt;" alt="" coords="645,208,805,235"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,107,309,133"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,107,136,133"/>
+<area shape="rect" id="node5" href="$classNn_1_1FeedForwardAutoTrainer.html" title="Nn::FeedForwardAutoTrainer\&lt; T \&gt;" alt="" coords="885,5,1108,32"/>
+<area shape="rect" id="node10" href="$classNn_1_1PythonEvaluator.html" title="only forwards through the network and dumps the NN output (= emission label posteriors) ..." alt="" coords="909,208,1084,235"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="Speech::FramePhoneAccuracyLatticeRescorerNode" name="Speech::FramePhoneAccuracyLatticeRescorerNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1ApproximateDistanceLatticeRescorerNode.html" title="ApproximateLatticeRescorerNode. " alt="" coords="973,1393,1171,1435"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DistanceLatticeRescorerNode.html" title="LatticeDistanceRescorerNode. " alt="" coords="783,1317,1033,1344"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1LatticeRescorerNode.html" title="LatticeRescorerNode. " alt="" coords="792,1228,989,1255"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1SegmentNode.html" title="SegmentNode. " alt="" coords="787,1139,944,1165"/>
+<area shape="rect" id="node6" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="674,1055,803,1082"/>
+<area shape="rect" id="node7" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="421,951,510,978"/>
+<area shape="rect" id="node8" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="396,847,535,874"/>
+<area shape="rect" id="node9" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="735,729,860,755"/>
+<area shape="rect" id="node34" href="$classSpeech_1_1MetricFsaBuilder.html" title="Speech::MetricFsaBuilder\l\&lt; Lattice::ConstWordLatticeRef \&gt;" alt="" coords="697,840,916,881"/>
+<area shape="rect" id="node10" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="555,598,685,625"/>
+<area shape="rect" id="node11" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="341,475,475,501"/>
+<area shape="rect" id="node14" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="370,228,505,269"/>
+<area shape="rect" id="node15" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="323,111,458,152"/>
+<area shape="rect" id="node21" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="719,228,867,269"/>
+<area shape="rect" id="node22" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="921,118,1087,145"/>
+<area shape="rect" id="node29" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="154,177,265,204"/>
+<area shape="rect" id="node30" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="86,293,181,320"/>
+<area shape="rect" id="node40" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="926,228,1082,269"/>
+<area shape="rect" id="node13" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="336,344,480,385"/>
+<area shape="rect" id="node16" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="710,598,839,625"/>
+<area shape="rect" id="node17" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="855,475,971,501"/>
+<area shape="rect" id="node19" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="721,475,828,501"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="829,351,981,378"/>
+<area shape="rect" id="node28" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="529,235,695,262"/>
+<area shape="rect" id="node37" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1040,293,1203,320"/>
+<area shape="rect" id="node43" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1386,235,1537,262"/>
+<area shape="rect" id="node23" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1069,598,1168,625"/>
+<area shape="rect" id="node33" href="$classSpeech_1_1TimeAlignmentBasedMetricLatticeBuilder.html" title="Base class for metrics which are based on the time alignment, e.g. " alt="" coords="1198,944,1397,985"/>
+<area shape="rect" id="node35" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1326,729,1485,755"/>
+<area shape="rect" id="node24" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="236,721,417,763"/>
+<area shape="rect" id="node26" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="420,671,564,697"/>
+<area shape="rect" id="node27" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="504,344,712,385"/>
+<area shape="rect" id="node31" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; PhonemeSequence\lAlignmentGenerator \&gt;" alt="" coords="970,944,1174,985"/>
+<area shape="rect" id="node32" href="$classSpeech_1_1FramePhoneAccuracyLatticeBuilder.html" title="frame phone accuracy " alt="" coords="1168,1048,1371,1089"/>
+<area shape="rect" id="node36" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1289,409,1497,451"/>
+<area shape="rect" id="node38" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const WordLattice \&gt;" alt="" coords="991,847,1201,874"/>
+<area shape="rect" id="node39" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="1063,417,1254,443"/>
+<area shape="rect" id="node41" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1495,525,1641,552"/>
+<area shape="rect" id="node42" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1380,344,1543,385"/>
+</map>

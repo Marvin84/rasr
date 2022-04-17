@@ -1,0 +1,6 @@
+<map id="Flow::Cache" name="Flow::Cache">
+<area shape="rect" id="node4" href="$classFlow_1_1CacheNode.html" title="Flow::CacheNode" alt="" coords="5,229,132,256"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1ConfidenceArchive.html" title="used for weighted accumulation " alt="" coords="157,229,341,256"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="95,80,221,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="93,5,223,32"/>
+</map>

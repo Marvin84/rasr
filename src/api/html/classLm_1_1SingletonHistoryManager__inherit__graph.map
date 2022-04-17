@@ -1,0 +1,5 @@
+<map id="Lm::SingletonHistoryManager" name="Lm::SingletonHistoryManager">
+<area shape="rect" id="node3" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node4" href="$classLm_1_1Zerogram.html" title="Lm::Zerogram" alt="" coords="217,162,319,189"/>
+<area shape="rect" id="node2" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="113,5,253,32"/>
+</map>

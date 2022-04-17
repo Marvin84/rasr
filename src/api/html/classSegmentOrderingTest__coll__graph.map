@@ -1,0 +1,8 @@
+<map id="SegmentOrderingTest" name="SegmentOrderingTest">
+<area shape="rect" id="node2" href="$classTest_1_1ConfigurableFixture.html" title="Test fixture for classes derived from Core::Configurable / Core::Component, which require a configura..." alt="" coords="75,523,245,549"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="174,433,309,460"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="199,225,334,267"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="153,109,287,151"/>
+<area shape="rect" id="node9" href="$classTest_1_1Directory.html" title="Directory for intermediate files. " alt="" coords="359,175,468,201"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="177,329,321,371"/>
+</map>

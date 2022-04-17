@@ -1,0 +1,48 @@
+<map id="Search::Wfst::Builder::SleeveOperation" name="Search::Wfst::Builder::SleeveOperation">
+<area shape="rect" id="node5" href="$classSearch_1_1Wfst_1_1Builder_1_1AddNonWordTokens.html" title="adds non&#45;word tokens (silence/noise) to the grammar transducer. " alt="" coords="776,5,927,47"/>
+<area shape="rect" id="node6" href="$classSearch_1_1Wfst_1_1Builder_1_1ArcInputSort.html" title="sort arcs by input label. " alt="" coords="778,71,925,112"/>
+<area shape="rect" id="node7" href="$classSearch_1_1Wfst_1_1Builder_1_1ArcOutputSort.html" title="sort arcs by output label. " alt="" coords="778,136,925,177"/>
+<area shape="rect" id="node8" href="$classSearch_1_1Wfst_1_1Builder_1_1CheckLabels.html" title="Search::Wfst::Builder\l::CheckLabels" alt="" coords="778,201,925,243"/>
+<area shape="rect" id="node9" href="$classSearch_1_1Wfst_1_1Builder_1_1CloseLexicon.html" title="build the closure of the lexicon transducer " alt="" coords="778,267,925,308"/>
+<area shape="rect" id="node10" href="$classSearch_1_1Wfst_1_1Builder_1_1Compose.html" title="weighted transducer composition " alt="" coords="778,332,925,373"/>
+<area shape="rect" id="node12" href="$classSearch_1_1Wfst_1_1Builder_1_1ContextBuilder.html" title="create allophone (triphone) to phoneme mapping " alt="" coords="778,397,925,439"/>
+<area shape="rect" id="node13" href="$classSearch_1_1Wfst_1_1Builder_1_1Count.html" title="Search::Wfst::Builder\l::Count" alt="" coords="778,463,925,504"/>
+<area shape="rect" id="node14" href="$classSearch_1_1Wfst_1_1Builder_1_1CreateStateSequences.html" title="replace the allophone index labels by an index of its (tied) allophones state sequence. " alt="" coords="769,528,934,569"/>
+<area shape="rect" id="node15" href="$classSearch_1_1Wfst_1_1Builder_1_1CreateStateSequenceSymbols.html" title="Search::Wfst::Builder\l::CreateStateSequenceSymbols" alt="" coords="747,593,956,635"/>
+<area shape="rect" id="node16" href="$classSearch_1_1Wfst_1_1Builder_1_1CreateSubwordGrammar.html" title="Modify a subword LM transducer such that it is composable with a regular (fullword) G transducer..." alt="" coords="764,659,939,700"/>
+<area shape="rect" id="node17" href="$classSearch_1_1Wfst_1_1Builder_1_1Determinize.html" title="determinize weighted transducer " alt="" coords="778,724,925,765"/>
+<area shape="rect" id="node18" href="$classSearch_1_1Wfst_1_1Builder_1_1ExpandStates.html" title="Expand HMM arcs to HMM state arcs. " alt="" coords="778,789,925,831"/>
+<area shape="rect" id="node19" href="$classSearch_1_1Wfst_1_1Builder_1_1Factorize.html" title="merge chains of arcs. " alt="" coords="778,855,925,896"/>
+<area shape="rect" id="node20" href="$classSearch_1_1Wfst_1_1Builder_1_1Info.html" title="logs number of states and arcs " alt="" coords="778,920,925,961"/>
+<area shape="rect" id="node21" href="$classSearch_1_1Wfst_1_1Builder_1_1Invert.html" title="invert a transduction " alt="" coords="778,985,925,1027"/>
+<area shape="rect" id="node22" href="$classSearch_1_1Wfst_1_1Builder_1_1LabelCoding.html" title="base class for LabelEncode, LabelDecode " alt="" coords="778,1051,925,1092"/>
+<area shape="rect" id="node26" href="$classSearch_1_1Wfst_1_1Builder_1_1Minimize.html" title="minimize weighted transducer " alt="" coords="778,1116,925,1157"/>
+<area shape="rect" id="node27" href="$classSearch_1_1Wfst_1_1Builder_1_1NormalizeEpsilon.html" title="produce epsilon&#45;normalized automaton " alt="" coords="778,1181,925,1223"/>
+<area shape="rect" id="node28" href="$classSearch_1_1Wfst_1_1Builder_1_1Pop.html" title="remove one automaton from the stack " alt="" coords="762,1247,941,1274"/>
+<area shape="rect" id="node29" href="$classSearch_1_1Wfst_1_1Builder_1_1Project.html" title="Project to input or output labels. " alt="" coords="778,1299,925,1340"/>
+<area shape="rect" id="node30" href="$classSearch_1_1Wfst_1_1Builder_1_1PushLabels.html" title="push weights to intial state " alt="" coords="778,1364,925,1405"/>
+<area shape="rect" id="node31" href="$classSearch_1_1Wfst_1_1Builder_1_1PushOutputLabels.html" title="move eps:&lt;word&gt; labels such that the output occurs on the next non&#45;epsilon arc. " alt="" coords="778,1429,925,1471"/>
+<area shape="rect" id="node32" href="$classSearch_1_1Wfst_1_1Builder_1_1PushWeights.html" title="push weights to intial state " alt="" coords="778,1495,925,1536"/>
+<area shape="rect" id="node33" href="$classSearch_1_1Wfst_1_1Builder_1_1Relabel.html" title="relabeling " alt="" coords="778,1560,925,1601"/>
+<area shape="rect" id="node34" href="$classSearch_1_1Wfst_1_1Builder_1_1RemoveEmptyPath.html" title="Modify the G transducer such that at only paths with a least non&#45;epsilon label are successful..." alt="" coords="778,1625,925,1667"/>
+<area shape="rect" id="node35" href="$classSearch_1_1Wfst_1_1Builder_1_1RemoveEpsilon.html" title="remove epsilon arcs " alt="" coords="778,1691,925,1732"/>
+<area shape="rect" id="node36" href="$classSearch_1_1Wfst_1_1Builder_1_1RemoveHmmDisambiguators.html" title="replace all (input) HMM disambiguation symbols by epsilon. " alt="" coords="750,1756,953,1797"/>
+<area shape="rect" id="node37" href="$classSearch_1_1Wfst_1_1Builder_1_1RemovePhoneDisambiguators.html" title="Replace disambiguator symbols with epsilon. " alt="" coords="748,1821,955,1863"/>
+<area shape="rect" id="node38" href="$classSearch_1_1Wfst_1_1Builder_1_1RemoveWeights.html" title="map all weights to Weight::One() " alt="" coords="778,1887,925,1928"/>
+<area shape="rect" id="node39" href="$classSearch_1_1Wfst_1_1Builder_1_1RestoreOutputSymbols.html" title="restore output labels encoded as input symbols " alt="" coords="768,1952,935,1993"/>
+<area shape="rect" id="node40" href="$classSearch_1_1Wfst_1_1Builder_1_1ScaleLabelWeights.html" title="scale weights of arcs with a specific label. " alt="" coords="778,2017,925,2059"/>
+<area shape="rect" id="node41" href="$classSearch_1_1Wfst_1_1Builder_1_1ScaleWeights.html" title="scale weights of the automaton " alt="" coords="778,2083,925,2124"/>
+<area shape="rect" id="node42" href="$classSearch_1_1Wfst_1_1Builder_1_1Synchronize.html" title="synchronize an automaton " alt="" coords="778,2148,925,2189"/>
+<area shape="rect" id="node43" href="$classSearch_1_1Wfst_1_1Builder_1_1WriteOperation.html" title="base class for write operations " alt="" coords="778,2213,925,2255"/>
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1Builder_1_1Operation.html" title="abstract base class for all operations " alt="" coords="357,1116,504,1157"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,1123,309,1150"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,1123,136,1150"/>
+<area shape="rect" id="node11" href="$classSearch_1_1Wfst_1_1Builder_1_1ReachableCompose.html" title="applies composition using a label lookahead matcher. " alt="" coords="1004,332,1152,373"/>
+<area shape="rect" id="node23" href="$classSearch_1_1Wfst_1_1Builder_1_1LabelDecode.html" title="split combined input/output labels to regular input and output labels. " alt="" coords="1005,1019,1151,1060"/>
+<area shape="rect" id="node24" href="$classSearch_1_1Wfst_1_1Builder_1_1LabelEncode.html" title="combine input and output labels. " alt="" coords="1005,1084,1151,1125"/>
+<area shape="rect" id="node25" href="$classSearch_1_1Wfst_1_1Builder_1_1WeightEncode.html" title="Combine input label and weight. " alt="" coords="1200,1084,1347,1125"/>
+<area shape="rect" id="node44" href="$classSearch_1_1Wfst_1_1Builder_1_1Compress.html" title="write automaton in a compressed format, to be used with Search::CompressedNetwork disk usage is about..." alt="" coords="1005,2115,1151,2156"/>
+<area shape="rect" id="node45" href="$classSearch_1_1Wfst_1_1Builder_1_1CreateLookahead.html" title="converts the input automaton to an FstLib::StdOLabelLookAheadFst and writes it do disk..." alt="" coords="1005,2180,1151,2221"/>
+<area shape="rect" id="node46" href="$classSearch_1_1Wfst_1_1Builder_1_1WriteFsa.html" title="write automaton in Fsa format " alt="" coords="1005,2245,1151,2287"/>
+<area shape="rect" id="node47" href="$classSearch_1_1Wfst_1_1Builder_1_1WriteFst.html" title="write automaton in Fst format " alt="" coords="1005,2311,1151,2352"/>
+</map>

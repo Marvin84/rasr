@@ -1,0 +1,9 @@
+<map id="Flf::BoundariesCopyBuilder" name="Flf::BoundariesCopyBuilder">
+<area shape="rect" id="node2" href="$classFlf_1_1TraverseState.html" title="Traverse a lattice. " alt="" coords="5,171,132,197"/>
+<area shape="rect" id="node3" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="11,81,121,108"/>
+<area shape="rect" id="node4" href="$classFlf_1_1StaticBoundaries.html" title="Flf::StaticBoundaries" alt="" coords="161,171,305,197"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Boundary \&gt;" alt="" coords="145,81,320,108"/>
+<area shape="rect" id="node7" href="$classFlf_1_1Boundaries.html" title="State Boundaries; collection of state boundary. " alt="" coords="351,81,461,108"/>
+<area shape="rect" id="node8" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="328,5,495,32"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Boundaries \&gt;" alt="" coords="329,171,533,197"/>
+</map>

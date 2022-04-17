@@ -1,0 +1,9 @@
+<map id="Speech::Feature" name="Speech::Feature">
+<area shape="rect" id="node2" href="$classMm_1_1Feature.html" title="Feature is container for objects comming from different feature stream at the same time..." alt="" coords="45,275,141,301"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,199,172,225"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Timestamp.html" title="Base class for Flow packets with time stamp information. " alt="" coords="167,275,290,301"/>
+<area shape="rect" id="node5" href="$classFlow_1_1Data.html" title="Base class for Data class in Flow Features: &#45;Multithread safe reference counting. ..." alt="" coords="196,199,283,225"/>
+<area shape="rect" id="node6" href="$classCore_1_1ThreadSafeReferenceCounted.html" title="Base class for reference&#45;counted objects used in a multithreaded environment. " alt="" coords="44,95,229,136"/>
+<area shape="rect" id="node7" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="89,5,184,32"/>
+<area shape="rect" id="node8" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="253,102,364,129"/>
+</map>

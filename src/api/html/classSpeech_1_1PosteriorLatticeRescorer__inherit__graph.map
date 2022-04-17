@@ -1,0 +1,8 @@
+<map id="Speech::PosteriorLatticeRescorer" name="Speech::PosteriorLatticeRescorer">
+<area shape="rect" id="node6" href="$classSpeech_1_1CombinedPosteriorLatticeRescorer.html" title="Speech::CombinedPosterior\lLatticeRescorer" alt="" coords="1005,5,1190,47"/>
+<area shape="rect" id="node7" href="$classSpeech_1_1ExpectationPosteriorLatticeRescorer.html" title="Speech::ExpectationPosterior\lLatticeRescorer" alt="" coords="1000,71,1195,112"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="572,46,739,73"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="357,46,524,73"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,46,309,73"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,46,136,73"/>
+</map>

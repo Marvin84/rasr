@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCore_1_1XmlBuilderElement.html" title="Core::XmlBuilderElement\l\&lt; std::vector\&lt; T \&gt;, XmlElement,\l CreateByContext \&gt;" alt="" coords="5,5,216,61"/>
+<area shape="rect" id="node2" href="$classCore_1_1XmlVectorElement.html" title="XmlVectorElement implements XmlBuilderElement for an arbitrary XmlSchemaParser which parses a vector ..." alt="" coords="264,20,463,47"/>
+</map>

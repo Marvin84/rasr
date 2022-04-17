@@ -1,0 +1,49 @@
+<map id="Ftl::SlaveAutomaton&lt; _Automaton &gt;" name="Ftl::SlaveAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node3" href="$classAligner_1_1WordLatticeBuilder_1_1AddWordBoundaryDisambiguatorsAutomaton.html" title="Aligner::WordLatticeBuilder\l::AddWordBoundaryDisambiguators\lAutomaton\&lt; Automaton \&gt;" alt="" coords="335,5,565,61"/>
+<area shape="rect" id="node4" href="$classFlf_1_1ArcFilterLattice.html" title="Flf::ArcFilterLattice\l\&lt; Lattice \&gt;" alt="" coords="383,85,517,126"/>
+<area shape="rect" id="node5" href="$classFlf_1_1ArcRemovalLattice.html" title="Flf::ArcRemovalLattice\l\&lt; Lattice \&gt;" alt="" coords="372,150,528,191"/>
+<area shape="rect" id="node6" href="$classFlf_1_1FittingLattice.html" title="Fits the lattice into [begin, end]: " alt="" coords="390,215,510,257"/>
+<area shape="rect" id="node7" href="$classFlf_1_1FwdBwdPruningLattice.html" title="Flf::FwdBwdPruningLattice\l\&lt; Lattice \&gt;" alt="" coords="361,281,539,322"/>
+<area shape="rect" id="node8" href="$classFlf_1_1LmComposeLattice.html" title="compose with lm " alt="" coords="371,346,529,387"/>
+<area shape="rect" id="node9" href="$classFlf_1_1NormalizeEpsilonClosureLattice.html" title="Flf::NormalizeEpsilonClosure\lLattice\&lt; Lattice \&gt;" alt="" coords="354,411,546,453"/>
+<area shape="rect" id="node10" href="$classFlf_1_1PhoneCoveragePruningLattice.html" title="Flf::PhoneCoveragePruning\lLattice\&lt; Lattice \&gt;" alt="" coords="359,477,541,518"/>
+<area shape="rect" id="node11" href="$classFlf_1_1ReplaceSingleDimensionLattice.html" title="Flf::ReplaceSingleDimension\lLattice\&lt; Lattice \&gt;" alt="" coords="355,542,545,583"/>
+<area shape="rect" id="node12" href="$classFlf_1_1RescoreLattice.html" title="Rescore lattice; specialisation of modify lattice, structure preserving flf&#45;to&#45;flf. " alt="" coords="383,607,517,649"/>
+<area shape="rect" id="node14" href="$classFlf_1_1ScoreAppendLattice.html" title="Flf::ScoreAppendLattice\l\&lt; Lattice \&gt;" alt="" coords="369,673,531,714"/>
+<area shape="rect" id="node15" href="$classFlf_1_1TopologicalOrderLattice.html" title="Flf::TopologicalOrderLattice\l\&lt; Lattice \&gt;" alt="" coords="359,738,541,779"/>
+<area shape="rect" id="node16" href="$classFlf_1_1TransducerLattice.html" title="Flf::TransducerLattice\l\&lt; Lattice \&gt;" alt="" coords="375,803,525,845"/>
+<area shape="rect" id="node17" href="$classFlf_1_1UnionLattice.html" title="Flf::UnionLattice\&lt;\l Lattice \&gt;" alt="" coords="387,869,513,910"/>
+<area shape="rect" id="node18" href="$classFlf_1_1UnweightLattice.html" title="Flf::UnweightLattice\l\&lt; Lattice \&gt;" alt="" coords="381,934,519,975"/>
+<area shape="rect" id="node19" href="$classFsa_1_1AlignLinearNbestAutomaton.html" title="Fsa::AlignLinearNbestAutomaton\l\&lt; Automaton \&gt;" alt="" coords="343,999,557,1041"/>
+<area shape="rect" id="node20" href="$classFsa_1_1ChangePropertiesAutomaton.html" title="Fsa::ChangePropertiesAutomaton\l\&lt; Automaton \&gt;" alt="" coords="341,1065,559,1106"/>
+<area shape="rect" id="node21" href="$classFsa_1_1RandomPathAutomaton.html" title="Fsa::RandomPathAutomaton\l\&lt; Automaton \&gt;" alt="" coords="355,1130,545,1171"/>
+<area shape="rect" id="node22" href="$classFsa_1_1ReorderAutomaton.html" title="Fsa::ReorderAutomaton\l\&lt; Automaton \&gt;" alt="" coords="369,1195,531,1237"/>
+<area shape="rect" id="node23" href="$classFtl_1_1BestAutomaton.html" title="Ftl::BestAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="383,1261,517,1302"/>
+<area shape="rect" id="node24" href="$classFtl_1_1BestAutomaton4SpecialSymbols.html" title="A best automaton which is able to work with FAIL arcs. " alt="" coords="357,1326,543,1367"/>
+<area shape="rect" id="node25" href="$classFtl_1_1CacheAutomaton.html" title="Ftl::CacheAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="377,1391,523,1433"/>
+<area shape="rect" id="node26" href="$classFtl_1_1ChangeInputAlphabetAutomaton.html" title="Ftl::ChangeInputAlphabet\lAutomaton\&lt; _Automaton \&gt;" alt="" coords="361,1457,539,1498"/>
+<area shape="rect" id="node27" href="$classFtl_1_1ChangeInputOutputAlphabetAutomaton.html" title="Ftl::ChangeInputOutputAlphabet\lAutomaton\&lt; _Automaton \&gt;" alt="" coords="345,1522,555,1563"/>
+<area shape="rect" id="node28" href="$classFtl_1_1ChangeOutputAlphabetAutomaton.html" title="Ftl::ChangeOutputAlphabet\lAutomaton\&lt; _Automaton \&gt;" alt="" coords="360,1587,540,1629"/>
+<area shape="rect" id="node29" href="$classFtl_1_1ChangeSemiringAutomaton.html" title="Ftl::ChangeSemiringAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="348,1653,552,1694"/>
+<area shape="rect" id="node30" href="$classFtl_1_1ComplementAutomaton.html" title="Ftl::ComplementAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="359,1718,541,1759"/>
+<area shape="rect" id="node31" href="$classFtl_1_1ExtendFinalAutomaton.html" title="Ftl::ExtendFinalAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="361,1783,539,1825"/>
+<area shape="rect" id="node32" href="$classFtl_1_1FirstBestAutomaton.html" title="Ftl::FirstBestAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="369,1849,531,1890"/>
+<area shape="rect" id="node33" href="$classFtl_1_1KleeneClosureAutomaton.html" title="Ftl::KleeneClosureAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="353,1914,547,1955"/>
+<area shape="rect" id="node34" href="$classFtl_1_1LocalDeterminizeAutomaton.html" title="Ftl::LocalDeterminizeAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="345,1979,555,2021"/>
+<area shape="rect" id="node35" href="$classFtl_1_1ModifyAutomaton.html" title="Ftl::ModifyAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="377,2045,523,2086"/>
+<area shape="rect" id="node36" href="$classFtl_1_1NBestAutomaton.html" title="Ftl::NBestAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="377,2110,523,2151"/>
+<area shape="rect" id="node37" href="$classFtl_1_1NormalizeAutomaton.html" title="Ftl::NormalizeAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="367,2175,533,2217"/>
+<area shape="rect" id="node38" href="$classFtl_1_1PartialAutomaton.html" title="Ftl::PartialAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="377,2241,523,2282"/>
+<area shape="rect" id="node39" href="$classFtl_1_1PosteriorPruneAutomaton.html" title="pruning based on posterior scores still has some problems with floating point accuracy (some single a..." alt="" coords="353,2306,547,2347"/>
+<area shape="rect" id="node40" href="$classFtl_1_1PrunePosteriorAutomaton4SpecialSymbols.html" title="Ftl::PrunePosteriorAutomaton4\lSpecialSymbols\&lt; _Automaton \&gt;" alt="" coords="345,2371,555,2413"/>
+<area shape="rect" id="node41" href="$classFtl_1_1RemoveFailure4SpecialSymbols.html" title="A FAIL arc removal automaton. " alt="" coords="359,2437,541,2478"/>
+<area shape="rect" id="node42" href="$classFtl_1_1SyncPruneAutomaton.html" title="Ftl::SyncPruneAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="364,2502,536,2543"/>
+<area shape="rect" id="node43" href="$classFtl_1_1TrimAutomaton.html" title="trim deletes all non&#45;accessible and non&#45;coaccessible states, optimized by using SCC&#39;s ..." alt="" coords="383,2567,517,2609"/>
+<area shape="rect" id="node44" href="$classLattice_1_1MergeWordLattice.html" title="merge " alt="" coords="363,2633,537,2674"/>
+<area shape="rect" id="node45" href="$classLattice_1_1MorphismAutomaton.html" title="Lattice::MorphismAutomaton\l\&lt; Automaton \&gt;" alt="" coords="355,2698,545,2739"/>
+<area shape="rect" id="node46" href="$classLattice_1_1SlaveWordLattice.html" title="Lattice::SlaveWordLattice\l\&lt; Automaton \&gt;" alt="" coords="364,2763,536,2805"/>
+<area shape="rect" id="node47" href="$classLattice_1_1TimeConditionedWordLattice.html" title="Lattice::TimeConditioned\lWordLattice\&lt; Automaton \&gt;" alt="" coords="361,2829,539,2870"/>
+<area shape="rect" id="node48" href="$classLevenshteinNBestList.html" title="LevenshteinNBestListBuilder. " alt="" coords="375,2894,525,2935"/>
+<area shape="rect" id="node49" href="$classSearch_1_1SentenceEndAutomaton.html" title="Search::SentenceEndAutomaton\l\&lt; Automaton \&gt;" alt="" coords="344,2959,556,3001"/>
+<area shape="rect" id="node13" href="$classFlf_1_1ArithmeticLattice.html" title="f(x;const) " alt="" coords="613,607,756,649"/>
+</map>

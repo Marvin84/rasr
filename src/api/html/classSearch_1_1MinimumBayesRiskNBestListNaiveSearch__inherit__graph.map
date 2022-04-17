@@ -1,0 +1,6 @@
+<map id="Search::MinimumBayesRiskNBestListNaiveSearch" name="Search::MinimumBayesRiskNBestListNaiveSearch">
+<area shape="rect" id="node2" href="$classSearch_1_1MinimumBayesRiskNBestListSearch.html" title="Interface for search process of minimum Bayes risk using nbestlists as evaluation space..." alt="" coords="5,244,193,285"/>
+<area shape="rect" id="node3" href="$classSearch_1_1MinimumBayesRiskSearch.html" title="Interface for performing a search for the best string in an Fsa w.r.t. " alt="" coords="5,155,193,196"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="37,80,162,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="34,5,165,32"/>
+</map>

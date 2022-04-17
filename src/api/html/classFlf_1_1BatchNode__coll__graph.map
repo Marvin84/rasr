@@ -1,0 +1,18 @@
+<map id="Flf::BatchNode" name="Flf::BatchNode">
+<area shape="rect" id="node2" href="$classFlf_1_1Node.html" title="Flf::Node" alt="" coords="364,719,440,745"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="113,615,238,641"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="7,511,138,537"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="5,421,140,448"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="157,213,292,255"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="203,109,337,151"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="447,213,595,255"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="495,117,661,143"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="122,317,266,359"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="161,511,291,537"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="168,421,284,448"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="309,421,415,448"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="445,325,597,351"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="315,511,414,537"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="263,615,429,641"/>
+<area shape="rect" id="node19" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Link \&gt;" alt="" coords="454,615,598,641"/>
+</map>

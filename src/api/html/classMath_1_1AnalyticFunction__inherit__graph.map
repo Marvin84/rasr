@@ -1,0 +1,33 @@
+<map id="Math::AnalyticFunction" name="Math::AnalyticFunction">
+<area shape="rect" id="node3" href="$classMath_1_1BinaryAnalyticFunction.html" title="Interface class for binary analytic functions. " alt="" coords="424,107,617,133"/>
+<area shape="rect" id="node8" href="$classMath_1_1UnaryAnalyticFunction.html" title="Interface class for unary analytic functions. " alt="" coords="425,689,616,716"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,385,172,412"/>
+<area shape="rect" id="node4" href="$structMath_1_1AdditionFunction.html" title="f(x, y) = x + y " alt="" coords="715,5,871,32"/>
+<area shape="rect" id="node5" href="$structMath_1_1DivisionFunction.html" title="f(x, y) = x / y " alt="" coords="715,56,871,83"/>
+<area shape="rect" id="node6" href="$structMath_1_1MultiplicationFunction.html" title="f(x, y) = x * y " alt="" coords="700,107,885,133"/>
+<area shape="rect" id="node7" href="$structMath_1_1SubstractionFunction.html" title="f(x, y) = x &#45; y " alt="" coords="701,157,884,184"/>
+<area shape="rect" id="node9" href="$classMath_1_1AnalyticUnaryComposition.html" title="Base class for Composition of two analytic functions. " alt="" coords="685,208,900,235"/>
+<area shape="rect" id="node13" href="$structMath_1_1ArcCosh.html" title="f(x) = acosh(x) Remarks: &#45;acosh(x) = log(x + sqrt(x^2 &#45; 1)). " alt="" coords="737,259,848,285"/>
+<area shape="rect" id="node14" href="$structMath_1_1ArcSinh.html" title="f(x) = asinh(x) Remarks: &#45;asinh(x) = log(x + sqrt(x^2 + 1)). " alt="" coords="740,309,845,336"/>
+<area shape="rect" id="node15" href="$structMath_1_1BilinearTransform.html" title="Bilinear Transform. " alt="" coords="712,360,873,387"/>
+<area shape="rect" id="node16" href="$classMath_1_1ConstantFunction.html" title="f(x) = c " alt="" coords="711,411,874,437"/>
+<area shape="rect" id="node17" href="$structMath_1_1Cosh.html" title="f(x) = cosh(x) " alt="" coords="747,461,838,488"/>
+<area shape="rect" id="node18" href="$structMath_1_1DerivedArcCosh.html" title="f(x) = d acosh(x) / dx = 1 / sqrt(x^2 &#45; 1) " alt="" coords="715,512,870,539"/>
+<area shape="rect" id="node19" href="$structMath_1_1DerivedArcSinh.html" title="f(x) = d asinh(x) / dx = 1 / sqrt(x^2 + 1) " alt="" coords="717,563,868,589"/>
+<area shape="rect" id="node20" href="$structMath_1_1DerivedMelWarpingCore.html" title="Derived Mel warping function core: d f_{Mel} / df = 1.0 / log(10) / (700.0 + f) " alt="" coords="692,613,893,640"/>
+<area shape="rect" id="node21" href="$structMath_1_1EqualLoudnessPreemphasis.html" title="Equal Loudness Preemphasis E(f) = (omega^4 * (omega^2 + 56.8e6)) / ((omega^2 + 6.3e6))^2 * (omega^2 +..." alt="" coords="681,664,905,691"/>
+<area shape="rect" id="node22" href="$structMath_1_1EqualLoudnessPreemphasis40dB.html" title="40dB equal Loudness Preemphasis (taken from Sprachcore/ICSI) E(f) = (f^2 / (f^2 + 1..." alt="" coords="665,715,920,741"/>
+<area shape="rect" id="node23" href="$structMath_1_1EqualLoudnessPreemphasis4Khz.html" title="Equal Loudness Preemphasis optimized for 4KHz bandwidth E(f) = (omega^4 * (omega^2 + 56..." alt="" coords="665,765,920,792"/>
+<area shape="rect" id="node24" href="$structMath_1_1FloorFloatFunction.html" title="f(x) = floorf(x) " alt="" coords="709,816,876,843"/>
+<area shape="rect" id="node25" href="$structMath_1_1IdentityFunction.html" title="f(x) = x " alt="" coords="717,867,869,893"/>
+<area shape="rect" id="node26" href="$structMath_1_1InverseMelWarpingCore.html" title="Inverse of Mel warping function core: f = (10^(f_{Mel}) &#45; 1) * 700. " alt="" coords="693,917,892,944"/>
+<area shape="rect" id="node27" href="$structMath_1_1MelWarpingCore.html" title="Mel warping function core f_{Mel} = log10 (1 + f / 700) " alt="" coords="715,968,871,995"/>
+<area shape="rect" id="node28" href="$classMath_1_1OffsetFunction.html" title="f(x) = x + b " alt="" coords="720,1019,865,1045"/>
+<area shape="rect" id="node29" href="$classMath_1_1PiecewiseConstantFunction.html" title="Piecewise constant function. " alt="" coords="681,1069,904,1096"/>
+<area shape="rect" id="node30" href="$classMath_1_1PiecewiseLinearFunction.html" title="Math::PiecewiseLinearFunction" alt="" coords="691,1120,895,1147"/>
+<area shape="rect" id="node31" href="$classMath_1_1ScalingFunction.html" title="f(x) = a * x " alt="" coords="717,1171,869,1197"/>
+<area shape="rect" id="node32" href="$structMath_1_1Sinh.html" title="f(x) = sinh(x) " alt="" coords="750,1221,835,1248"/>
+<area shape="rect" id="node10" href="$classMath_1_1AnalyticMultiplication.html" title="f(x)*g(x) " alt="" coords="968,157,1151,184"/>
+<area shape="rect" id="node11" href="$classMath_1_1AnalyticNesting.html" title="f(g(x)) " alt="" coords="984,208,1135,235"/>
+<area shape="rect" id="node12" href="$classMath_1_1AnalyticSummation.html" title="f(x)+g(x) " alt="" coords="973,259,1145,285"/>
+</map>

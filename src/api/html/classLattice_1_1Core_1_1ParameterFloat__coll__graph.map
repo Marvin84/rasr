@@ -1,0 +1,5 @@
+<map id="Lattice::Core::ParameterFloat" name="Lattice::Core::ParameterFloat">
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1RangedParameter.html" title="Lattice::Core::RangedParameter\l\&lt; f64 \&gt;" alt="" coords="7,261,218,303"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1Parameter.html" title="Lattice::Core::Parameter\l\&lt; f64 \&gt;" alt="" coords="30,171,195,212"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="5,95,220,121"/>
+</map>

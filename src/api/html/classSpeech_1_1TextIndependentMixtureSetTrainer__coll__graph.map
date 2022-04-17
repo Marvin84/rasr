@@ -1,0 +1,34 @@
+<map id="Speech::TextIndependentMixtureSetTrainer" name="Speech::TextIndependentMixtureSetTrainer">
+<area shape="rect" id="node2" href="$classSpeech_1_1LabeledFeatureProcessor.html" title="LabeledFeatureProcessor is base class for algorithms processing labeled feature vectors. " alt="" coords="2649,53,2872,80"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2017,95,2143,121"/>
+<area shape="rect" id="node19" href="$classSpeech_1_1MixtureSetTrainer.html" title="MixtureSetTrainer. " alt="" coords="2896,197,3073,224"/>
+<area shape="rect" id="node24" href="$classMm_1_1AbstractMixtureSetEstimator.html" title="Base Class for accumulator and estimator class for mixture sets. " alt="" coords="2405,415,2625,441"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1588,61,1719,88"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1151,52,1285,79"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="424,85,559,126"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,154,303,195"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="417,214,565,255"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,288,319,315"/>
+<area shape="rect" id="node36" href="$classCore_1_1Description.html" title="Vector of stream descriptions Stream descriptions if a set of attributes describing a (feature) strea..." alt="" coords="173,500,297,527"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="784,73,928,114"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1589,136,1718,163"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1160,103,1276,129"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1165,153,1271,180"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="780,215,932,241"/>
+<area shape="rect" id="node23" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="589,288,756,315"/>
+<area shape="rect" id="node28" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="591,357,754,384"/>
+<area shape="rect" id="node31" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1143,500,1293,527"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1604,403,1703,429"/>
+<area shape="rect" id="node26" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2001,515,2159,541"/>
+<area shape="rect" id="node18" href="$classSpeech_1_1MlMixtureSetTrainer.html" title="maximum likelihood mixture set trainer " alt="" coords="3123,197,3313,224"/>
+<area shape="rect" id="node20" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Mm\l::AssigningFeatureScorer \&gt;" alt="" coords="1989,214,2171,255"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="2008,288,2152,315"/>
+<area shape="rect" id="node22" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1317,281,1525,322"/>
+<area shape="rect" id="node25" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1997,464,2163,491"/>
+<area shape="rect" id="node27" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1549,473,1757,514"/>
+<area shape="rect" id="node29" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="2007,565,2153,592"/>
+<area shape="rect" id="node30" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1572,558,1735,599"/>
+<area shape="rect" id="node34" href="$classSum.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="1177,637,1259,664"/>
+<area shape="rect" id="node33" href="$classMm_1_1ProbabilityStatistics.html" title="Histogram statistics for probabilities. " alt="" coords="1789,645,1957,672"/>
+<area shape="rect" id="node35" href="$classMm_1_1FeatureDescription.html" title="Vector of stream descriptions Stream description is a set of attributes describing a feature stream..." alt="" coords="956,685,1119,712"/>
+</map>

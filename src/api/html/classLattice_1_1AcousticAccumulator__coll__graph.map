@@ -1,0 +1,10 @@
+<map id="Lattice::AcousticAccumulator&lt; Trainer &gt;" name="Lattice::AcousticAccumulator&lt; Trainer &gt;">
+<area shape="rect" id="node2" href="$classLattice_1_1BaseAccumulator.html" title="BaseAccumulator. " alt="" coords="1047,47,1219,88"/>
+<area shape="rect" id="node3" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="833,54,955,81"/>
+<area shape="rect" id="node4" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="515,13,619,39"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="235,5,373,47"/>
+<area shape="rect" id="node7" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="455,64,680,105"/>
+<area shape="rect" id="node8" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; Speech::PhonemeSequenceAlignment\lGenerator \&gt;" alt="" coords="1004,111,1261,167"/>
+<area shape="rect" id="node9" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Am::AcousticModel \&gt;" alt="" coords="1035,191,1231,232"/>
+<area shape="rect" id="node10" href="$classLattice_1_1Core_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="1053,265,1212,291"/>
+</map>

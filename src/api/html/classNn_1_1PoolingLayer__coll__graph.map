@@ -1,0 +1,33 @@
+<map id="Nn::PoolingLayer&lt; T &gt;" name="Nn::PoolingLayer&lt; T &gt;">
+<area shape="rect" id="node2" href="$classNn_1_1NeuralNetworkLayer.html" title="Abstract base class for all neural network layers. " alt="" coords="2331,489,2529,516"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1895,128,2021,155"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1531,41,1662,68"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1127,41,1262,68"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,83,557,125"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,151,292,193"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,211,564,253"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,339,308,365"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,73,879,114"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1532,92,1661,119"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1137,92,1253,119"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1141,143,1248,169"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,217,883,244"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1113,339,1276,365"/>
+<area shape="rect" id="node23" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1119,403,1270,429"/>
+<area shape="rect" id="node34" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,540,573,567"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1547,279,1646,305"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1879,371,2037,397"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1493,330,1701,371"/>
+<area shape="rect" id="node26" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1515,642,1678,683"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1885,468,2031,495"/>
+<area shape="rect" id="node22" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1515,395,1678,437"/>
+<area shape="rect" id="node27" href="$classMath_1_1CudaVector.html" title="Math::CudaVector\&lt; T \&gt;" alt="" coords="1517,725,1677,752"/>
+<area shape="rect" id="node28" href="$classMath_1_1FastVector.html" title="Math::FastVector\&lt; T \&gt;" alt="" coords="1117,708,1272,735"/>
+<area shape="rect" id="node25" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1891,613,2025,640"/>
+<area shape="rect" id="node29" href="$classMath_1_1CudaDataStructure.html" title="Math::CudaDataStructure" alt="" coords="1109,759,1280,785"/>
+<area shape="rect" id="node30" href="$structMath_1_1curandGenerator__t.html" title="Math::curandGenerator_t" alt="" coords="723,724,890,751"/>
+<area shape="rect" id="node31" href="$structMath_1_1cublasHandle__t.html" title="Math::cublasHandle_t" alt="" coords="732,775,881,801"/>
+<area shape="rect" id="node32" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1304,833,1448,860"/>
+<area shape="rect" id="node33" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="703,826,911,867"/>
+<area shape="rect" id="node35" href="$classNn_1_1Types.html" title="Nn::Types\&lt; unsigned\l int \&gt;" alt="" coords="2357,885,2503,926"/>
+</map>

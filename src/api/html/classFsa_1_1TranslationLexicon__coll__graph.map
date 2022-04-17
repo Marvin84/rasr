@@ -1,0 +1,6 @@
+<map id="Fsa::TranslationLexicon" name="Fsa::TranslationLexicon">
+<area shape="rect" id="node3" href="$classFsa_1_1StaticAlphabet.html" title="The implementation of a statically allocated alphabet. " alt="" coords="538,85,675,112"/>
+<area shape="rect" id="node4" href="$classFsa_1_1Alphabet.html" title="The abstract definition of an alphabet. " alt="" coords="255,59,358,85"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,59,172,85"/>
+<area shape="rect" id="node6" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStaticAlphabet::Symbol \&gt;" alt="" coords="221,110,392,151"/>
+</map>

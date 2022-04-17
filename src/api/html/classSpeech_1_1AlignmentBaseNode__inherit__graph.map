@@ -1,0 +1,9 @@
+<map id="Speech::AlignmentBaseNode" name="Speech::AlignmentBaseNode">
+<area shape="rect" id="node7" href="$classSpeech_1_1AlignmentNode.html" title="AlignmentNode. " alt="" coords="5,461,168,487"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1AlignmentWithLinearSegmentationNode.html" title="Speech::AlignmentWithLinear\lSegmentationNode" alt="" coords="192,453,387,495"/>
+<area shape="rect" id="node2" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="123,304,253,331"/>
+<area shape="rect" id="node3" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="143,229,233,256"/>
+<area shape="rect" id="node4" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="119,155,257,181"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="125,80,251,107"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="123,5,253,32"/>
+</map>

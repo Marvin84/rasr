@@ -1,0 +1,13 @@
+<map id="Cart::XmlTrainingInformationBuilderElement" name="Cart::XmlTrainingInformationBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="936,28,1100,55"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="708,28,875,55"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="399,25,528,52"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="57,5,184,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="5,71,236,97"/>
+<area shape="rect" id="node7" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; Information \&gt;" alt="" coords="943,79,1093,121"/>
+<area shape="rect" id="node8" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="709,79,873,121"/>
+<area shape="rect" id="node9" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="393,97,533,138"/>
+<area shape="rect" id="node10" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="711,145,872,172"/>
+<area shape="rect" id="node13" href="$structCart_1_1TrainingInformation.html" title="Information expected to be produced by generic cart trainer. " alt="" coords="935,251,1101,277"/>
+<area shape="rect" id="node14" href="$structCart_1_1Information.html" title="Generic information; empty by default. " alt="" coords="731,251,851,277"/>
+</map>

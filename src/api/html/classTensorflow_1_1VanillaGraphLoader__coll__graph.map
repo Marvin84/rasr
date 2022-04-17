@@ -1,0 +1,18 @@
+<map id="Tensorflow::VanillaGraphLoader" name="Tensorflow::VanillaGraphLoader">
+<area shape="rect" id="node2" href="$classTensorflow_1_1GraphLoader.html" title="Tensorflow::GraphLoader" alt="" coords="1796,349,1964,376"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1621,223,1747,249"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1328,144,1459,171"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1083,124,1217,151"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="417,117,552,158"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="411,261,559,302"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node19" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="407,342,563,383"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="696,117,840,158"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1329,196,1458,223"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1092,185,1208,212"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1097,236,1203,263"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="692,268,844,295"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1344,247,1443,273"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="868,349,1059,376"/>
+</map>

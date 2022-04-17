@@ -1,0 +1,13 @@
+<map id="Core::XmlRegularElement" name="Core::XmlRegularElement">
+<area shape="rect" id="node5" href="$classCart_1_1XmlDecisionTreeBuilderElement.html" title="Tenary decision tree; supports classification and multification. " alt="" coords="801,5,996,47"/>
+<area shape="rect" id="node6" href="$classCart_1_1XmlExampleListBuilderElement.html" title="&lt;example&#45;list&gt; &lt;property&#45;map&gt; ... " alt="" coords="803,71,994,112"/>
+<area shape="rect" id="node7" href="$classCart_1_1XmlExampleListMergerElement.html" title="Cart::XmlExampleListMerger\lElement" alt="" coords="803,136,994,177"/>
+<area shape="rect" id="node8" href="$classCart_1_1XmlPropertiesBuilderElement.html" title="&lt;properties&gt; &lt;key&gt; history[0] &lt;/key&gt; &lt;key&gt; central &lt;/key&gt; a ... " alt="" coords="810,201,987,243"/>
+<area shape="rect" id="node9" href="$classCart_1_1XmlPropertiesDefinitionBuilderElement.html" title="Cart::XmlPropertiesDefinition\lBuilderElement" alt="" coords="803,267,995,308"/>
+<area shape="rect" id="node10" href="$classCart_1_1XmlTrainingPlanBuilderElement.html" title="&lt;decision&#45;tree&#45;training&gt; &lt;properties&#45;definition&gt; ... " alt="" coords="803,332,994,373"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlRegularElementRelay.html" title="Core::XmlRegularElementRelay" alt="" coords="795,398,1003,425"/>
+<area shape="rect" id="node12" href="$classFsa_1_1AlphabetXmlParser.html" title="The Alphabet XML parser. " alt="" coords="817,449,981,475"/>
+<area shape="rect" id="node2" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="357,242,524,269"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="180,242,309,269"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,242,132,269"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Flf::CompoundWordSplittingMap" name="Flf::CompoundWordSplittingMap">
+<area shape="rect" id="node4" href="$classFlf_1_1CompoundEvaluationTokenSplittingMap.html" title="Flf::CompoundEvaluationToken\lSplittingMap" alt="" coords="641,5,846,47"/>
+<area shape="rect" id="node5" href="$classFlf_1_1CompoundLemmaPronunciationSplittingMap.html" title="Flf::CompoundLemmaPronunciation\lSplittingMap" alt="" coords="628,71,859,112"/>
+<area shape="rect" id="node6" href="$classFlf_1_1CompoundLemmaSplittingMap.html" title="Flf::CompoundLemmaSplittingMap" alt="" coords="632,137,855,163"/>
+<area shape="rect" id="node7" href="$classFlf_1_1CompoundSyntacticTokenSplittingMap.html" title="Flf::CompoundSyntacticToken\lSplittingMap" alt="" coords="644,188,843,229"/>
+<area shape="rect" id="node2" href="$classFlf_1_1LabelMap.html" title="Flf::LabelMap" alt="" coords="220,107,321,134"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,107,172,134"/>
+</map>

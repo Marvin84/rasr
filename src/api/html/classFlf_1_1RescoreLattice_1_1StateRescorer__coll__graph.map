@@ -1,0 +1,15 @@
+<map id="Flf::RescoreLattice::StateRescorer" name="Flf::RescoreLattice::StateRescorer">
+<area shape="rect" id="node2" href="$classFlf_1_1RescoreLattice.html" title="Rescore lattice; specialisation of modify lattice, structure preserving flf&#45;to&#45;flf. " alt="" coords="1168,87,1301,113"/>
+<area shape="rect" id="node3" href="$classFtl_1_1SlaveAutomaton.html" title="SlaveLattice" alt="" coords="951,52,1046,79"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="599,56,808,83"/>
+<area shape="rect" id="node6" href="$classFlf_1_1Semiring.html" title="Flf::Semiring" alt="" coords="655,121,751,148"/>
+<area shape="rect" id="node7" href="$classFtl_1_1Semiring.html" title="Ftl::Semiring\&lt; ScoresRef \&gt;" alt="" coords="260,5,443,32"/>
+<area shape="rect" id="node8" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node9" href="$classFlf_1_1ScoresRef.html" title="Flf::ScoresRef" alt="" coords="298,93,405,120"/>
+<area shape="rect" id="node10" href="$classFlf_1_1Scores.html" title="Flf::Scores" alt="" coords="45,93,132,120"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="274,144,429,171"/>
+<area shape="rect" id="node13" href="$classFlf_1_1Lattice.html" title="Lattice. " alt="" coords="661,240,745,267"/>
+<area shape="rect" id="node14" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Semiring,\l State \&gt;" alt="" coords="260,195,443,237"/>
+<area shape="rect" id="node15" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const StateMap \&gt;" alt="" coords="254,261,449,288"/>
+<area shape="rect" id="node16" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Boundaries \&gt;" alt="" coords="249,312,453,339"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="Signal::SegmentClusteringNode&lt; Model &gt;" name="Signal::SegmentClusteringNode&lt; Model &gt;">
+<area shape="rect" id="node2" href="$classSignal_1_1SleeveNode.html" title="Signal processing network node. " alt="" coords="3093,447,3231,473"/>
+<area shape="rect" id="node3" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="2879,355,3008,381"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2617,263,2706,289"/>
+<area shape="rect" id="node5" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2405,263,2543,289"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2051,341,2176,368"/>
+<area shape="rect" id="node28" href="$classSignal_1_1SegmentClustering.html" title="Segment Clustering. " alt="" coords="2385,627,2563,669"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1591,253,1721,280"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1167,253,1301,280"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="493,219,628,261"/>
+<area shape="rect" id="node12" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,235,303,277"/>
+<area shape="rect" id="node18" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="487,426,635,467"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,433,319,460"/>
+<area shape="rect" id="node26" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="343,107,453,133"/>
+<area shape="rect" id="node27" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="668,45,763,72"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="819,229,963,270"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1591,431,1721,457"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1176,385,1292,412"/>
+<area shape="rect" id="node16" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1181,436,1287,463"/>
+<area shape="rect" id="node17" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,469,967,496"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="477,368,644,395"/>
+<area shape="rect" id="node34" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="485,763,636,789"/>
+<area shape="rect" id="node38" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="479,519,642,545"/>
+<area shape="rect" id="node20" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1607,355,1705,381"/>
+<area shape="rect" id="node21" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="2023,182,2204,223"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1364,319,1508,345"/>
+<area shape="rect" id="node24" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="787,353,995,394"/>
+<area shape="rect" id="node29" href="$classMath_1_1Matrix.html" title="Math::Matrix\&lt; f32 \&gt;" alt="" coords="2045,661,2182,688"/>
+<area shape="rect" id="node30" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Math\l::Vector\&lt; f32, VectorRange\lCheckOffPolicy \&gt;, VectorRangeCheck\lOffPolicy \&gt;" alt="" coords="1532,617,1780,687"/>
+<area shape="rect" id="node32" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1828,765,1975,792"/>
+<area shape="rect" id="node33" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="809,763,972,805"/>
+<area shape="rect" id="node36" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2228,557,2361,584"/>
+<area shape="rect" id="node37" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="809,535,972,577"/>
+<area shape="rect" id="node39" href="$classSignal_1_1SegmentModelEstimator.html" title="Signal::SegmentModelEstimator\l\&lt; Model \&gt;" alt="" coords="3057,814,3267,855"/>
+</map>

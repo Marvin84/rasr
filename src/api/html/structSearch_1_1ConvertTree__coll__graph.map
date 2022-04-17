@@ -1,0 +1,32 @@
+<map id="Search::ConvertTree" name="Search::ConvertTree">
+<area shape="rect" id="node2" href="$classCore_1_1HashMap.html" title="Core::HashMap\&lt; StateId,\l Search::StateTree::StateId \&gt;" alt="" coords="2284,93,2479,135"/>
+<area shape="rect" id="node4" href="$classSearch_1_1HMMStateNetwork.html" title="Search::HMMStateNetwork" alt="" coords="2290,233,2473,259"/>
+<area shape="rect" id="node5" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l false, InvalidBatchId, SingleSuccessor\lBatchMask \&gt;" alt="" coords="1844,101,2095,186"/>
+<area shape="rect" id="node6" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l invalidBatch_, singleBatchMask_ \&gt;" alt="" coords="1370,108,1601,179"/>
+<area shape="rect" id="node7" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SubTreeListId, StateId,\l Search::HMMState, true,\l InvalidBatchId \&gt;" alt="" coords="1883,211,2055,281"/>
+<area shape="rect" id="node8" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SubTreeListId, StateId,\l Search::HMMState, invalidBatch_, 0 \&gt;" alt="" coords="1360,218,1611,274"/>
+<area shape="rect" id="node9" href="$classSearch_1_1StateTree.html" title="Acoustic prefix tree. " alt="" coords="2317,589,2445,615"/>
+<area shape="rect" id="node33" href="$classStateTree_1_1RequestQueue.html" title="Search::StateTree::\lRequestQueue" alt="" coords="2627,581,2763,623"/>
+<area shape="rect" id="node10" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1907,771,2032,798"/>
+<area shape="rect" id="node11" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1420,806,1551,833"/>
+<area shape="rect" id="node12" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1044,806,1179,833"/>
+<area shape="rect" id="node15" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,725,557,767"/>
+<area shape="rect" id="node16" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,741,292,783"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,593,564,635"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,542,308,569"/>
+<area shape="rect" id="node14" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,737,879,779"/>
+<area shape="rect" id="node17" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1421,702,1550,729"/>
+<area shape="rect" id="node18" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1053,649,1169,675"/>
+<area shape="rect" id="node20" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1058,702,1165,729"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,601,883,627"/>
+<area shape="rect" id="node27" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="409,538,571,565"/>
+<area shape="rect" id="node30" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,483,573,510"/>
+<area shape="rect" id="node24" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1436,755,1535,782"/>
+<area shape="rect" id="node25" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1203,537,1336,563"/>
+<area shape="rect" id="node26" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="725,531,888,572"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1655,474,1799,501"/>
+<area shape="rect" id="node29" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="703,465,911,507"/>
+<area shape="rect" id="node31" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="1896,640,2043,681"/>
+<area shape="rect" id="node32" href="$classSearch_1_1StateTree_1_1CoarticulationStructure.html" title="Search::StateTree::\lCoarticulationStructure" alt="" coords="1892,705,2047,747"/>
+<area shape="rect" id="node34" href="$classCore_1_1HashMap.html" title="Core::HashMap\&lt; Search\l::StateTree::StateId,\l StateId \&gt;" alt="" coords="2298,311,2465,367"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Core::XmlFlattenElementRelay" name="Core::XmlFlattenElementRelay">
+<area shape="rect" id="node2" href="$classCore_1_1XmlFlattenElement.html" title="Helper class.used for flattening unknown elements. " alt="" coords="28,171,197,197"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="48,95,177,121"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="156,5,387,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlAttributes.html" title="XML element attributes. " alt="" coords="221,171,359,197"/>
+</map>

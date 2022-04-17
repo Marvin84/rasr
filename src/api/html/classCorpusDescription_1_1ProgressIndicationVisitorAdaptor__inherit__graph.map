@@ -1,0 +1,4 @@
+<map id="Bliss::CorpusDescription::ProgressIndicationVisitorAdaptor" name="Bliss::CorpusDescription::ProgressIndicationVisitorAdaptor">
+<area shape="rect" id="node2" href="$classBliss_1_1CorpusVisitor.html" title="Abstract visitor base class for corpus traversal. " alt="" coords="46,80,185,107"/>
+<area shape="rect" id="node3" href="$classBliss_1_1SegmentVisitor.html" title="Abstract visitor base class for processing segments. " alt="" coords="41,5,189,32"/>
+</map>

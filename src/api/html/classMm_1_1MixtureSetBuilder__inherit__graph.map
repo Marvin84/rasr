@@ -1,0 +1,4 @@
+<map id="Mm::MixtureSetBuilder" name="Mm::MixtureSetBuilder">
+<area shape="rect" id="node2" href="$classMm_1_1MixtureSpecificCovarianceBuilder.html" title="MixtureSpecificCovarianceTopologyBuilder creates a mixture set with mixture specific covariance matri..." alt="" coords="5,80,213,121"/>
+<area shape="rect" id="node3" href="$classMm_1_1PooledCovarianceBuilder.html" title="PooledCovarianceTopologyBuilder creates a mixture set with one pooled covariance matrix. " alt="" coords="238,87,437,114"/>
+</map>

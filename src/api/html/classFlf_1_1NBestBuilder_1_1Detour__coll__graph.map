@@ -1,0 +1,9 @@
+<map id="Flf::NBestBuilder::Detour" name="Flf::NBestBuilder::Detour">
+<area shape="rect" id="node2" href="$classFlf_1_1BinaryLookUp.html" title="A reduced binary map (like std::map): " alt="" coords="632,5,767,47"/>
+<area shape="rect" id="node4" href="$structFlf_1_1NBestBuilder_1_1Arc.html" title="Flf::NBestBuilder::Arc" alt="" coords="624,71,775,98"/>
+<area shape="rect" id="node5" href="$classFlf_1_1NBestBuilder_1_1DissenterList.html" title="Flf::NBestBuilder::\lDissenterList" alt="" coords="634,123,765,164"/>
+<area shape="rect" id="node6" href="$classFlf_1_1BinaryPriorityQueue.html" title="Flf::BinaryPriorityQueue\l\&lt; Range, RangeWeakOrder \&gt;" alt="" coords="329,123,525,164"/>
+<area shape="rect" id="node7" href="$structFlf_1_1NBestBuilder_1_1DissenterList_1_1RangeWeakOrder.html" title="Flf::NBestBuilder::\lDissenterList::RangeWeakOrder" alt="" coords="5,123,216,164"/>
+<area shape="rect" id="node8" href="$structFlf_1_1NBestBuilder_1_1PrefixTree_1_1Node.html" title="Flf::NBestBuilder::\lPrefixTree::Node" alt="" coords="634,188,765,229"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="358,188,497,229"/>
+</map>

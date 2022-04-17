@@ -1,0 +1,11 @@
+<map id="Fsa::Search::Slice" name="Fsa::Search::Slice">
+<area shape="rect" id="node2" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; u32 \&gt;" alt="" coords="639,40,797,67"/>
+<area shape="rect" id="node6" href="$classFtl_1_1StaticAutomaton.html" title="Ftl::StaticAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="647,115,789,157"/>
+<area shape="rect" id="node4" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ExpandedToken \&gt;" alt="" coords="611,199,825,225"/>
+<area shape="rect" id="node7" href="$classFtl_1_1StorageAutomaton.html" title="Ftl::StorageAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="337,75,490,117"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Semiring \&gt;" alt="" coords="5,56,203,83"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="9,116,199,143"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Ref \&gt;" alt="" coords="345,141,481,182"/>
+<area shape="rect" id="node13" href="$classFsa_1_1Stack.html" title="Fsa::Stack\&lt; Token \&gt;" alt="" coords="645,249,791,276"/>
+<area shape="rect" id="node15" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="663,300,773,327"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ftl::LeftComposeMapping&lt; _Automaton &gt;" name="Ftl::LeftComposeMapping&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFtl_1_1ComposeMapping.html" title="Ftl::ComposeMapping\l\&lt; _Automaton \&gt;" alt="" coords="105,185,256,227"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Mapping.html" title="Mapping between state ids of two automatons; see compose for examples. " alt="" coords="38,89,139,115"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node5" href="$classFtl_1_1ComposeAutomaton.html" title="Composition result of two transducers. " alt="" coords="164,81,328,123"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Am::ClassicTransducerBuilder::AllophoneSuffix::Hash" name="Am::ClassicTransducerBuilder::AllophoneSuffix::Hash">
+<area shape="rect" id="node2" href="$classAm_1_1ClassicTransducerBuilder.html" title="Am::ClassicTransducerBuilder" alt="" coords="605,195,804,221"/>
+<area shape="rect" id="node3" href="$classAm_1_1TransducerBuilder.html" title="Create transducers for the AcousticModel. " alt="" coords="259,5,414,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::ClassicAcousticModel \&gt;" alt="" coords="251,57,423,98"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::PhonemeAlphabet \&gt;" alt="" coords="259,122,415,163"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AllophoneStateAlphabet \&gt;" alt="" coords="246,187,427,229"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Fsa::StaticAutomaton \&gt;" alt="" coords="221,253,452,280"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::EmissionAlphabet \&gt;" alt="" coords="263,305,410,346"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AllophoneAlphabet \&gt;" alt="" coords="261,370,412,411"/>
+</map>

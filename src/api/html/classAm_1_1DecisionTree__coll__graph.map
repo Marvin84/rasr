@@ -1,0 +1,20 @@
+<map id="Am::DecisionTree" name="Am::DecisionTree">
+<area shape="rect" id="node2" href="$classCart_1_1DecisionTree.html" title="Tenary decision tree; supports classification and multification. " alt="" coords="532,811,664,837"/>
+<area shape="rect" id="node3" href="$classCart_1_1BinaryTree.html" title="&lt;binary&#45;tree&gt; &lt;node&gt; &lt;node id=&quot;...&quot;&gt; [&lt;information&gt; ... " alt="" coords="332,714,451,741"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="163,609,289,635"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="7,511,138,537"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="5,421,140,448"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="147,213,281,255"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="192,109,327,151"/>
+<area shape="rect" id="node16" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="403,213,551,255"/>
+<area shape="rect" id="node17" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="484,117,651,143"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="110,317,254,359"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="161,511,291,537"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="168,421,284,448"/>
+<area shape="rect" id="node14" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="309,421,415,448"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="401,325,553,351"/>
+<area shape="rect" id="node18" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="315,511,414,537"/>
+<area shape="rect" id="node19" href="$classCart_1_1BinaryTree_1_1Node.html" title="Cart::BinaryTree::Node" alt="" coords="313,609,470,635"/>
+<area shape="rect" id="node20" href="$structCart_1_1Information.html" title="Generic information; empty by default. " alt="" coords="439,511,559,537"/>
+<area shape="rect" id="node21" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="635,707,811,748"/>
+</map>

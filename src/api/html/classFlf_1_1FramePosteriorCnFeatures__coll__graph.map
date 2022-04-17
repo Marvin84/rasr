@@ -1,0 +1,10 @@
+<map id="Flf::FramePosteriorCnFeatures" name="Flf::FramePosteriorCnFeatures">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1037,15,1203,41"/>
+<area shape="rect" id="node3" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1047,65,1193,92"/>
+<area shape="rect" id="node4" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="681,58,844,99"/>
+<area shape="rect" id="node5" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="449,19,600,45"/>
+<area shape="rect" id="node6" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,7,308,33"/>
+<area shape="rect" id="node9" href="$classFlf_1_1FramePosteriorCnFeatures_1_1Internal.html" title="Flf::FramePosteriorCnFeatures\l::Internal" alt="" coords="1019,117,1221,158"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const PosteriorCn \&gt;" alt="" coords="659,124,867,151"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Probability \&gt;" alt="" coords="672,175,853,201"/>
+</map>

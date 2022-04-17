@@ -1,0 +1,9 @@
+<map id="Speech::Recognizer" name="Speech::Recognizer">
+<area shape="rect" id="node4" href="$classFlf_1_1IncrementalRecognizer.html" title="Flf::IncrementalRecognizer" alt="" coords="5,229,184,256"/>
+<area shape="rect" id="node5" href="$classFlf_1_1Recognizer.html" title="Flf::Recognizer" alt="" coords="209,229,319,256"/>
+<area shape="rect" id="node6" href="$classSpeech_1_1OfflineRecognizer.html" title="Speech::OfflineRecognizer" alt="" coords="344,229,523,256"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="201,80,327,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="199,5,329,32"/>
+<area shape="rect" id="node7" href="$classSpeech_1_1ConstrainedOfflineRecognizer.html" title="Speech::ConstrainedOffline\lRecognizer" alt="" coords="238,304,421,345"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1DelayedRecognizer.html" title="Recognizer with a delay in output, used for search algorithms with an acoustic look&#45;ahead. " alt="" coords="445,311,633,338"/>
+</map>

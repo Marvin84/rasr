@@ -1,0 +1,33 @@
+<map id="Audio::FlacInputNode" name="Audio::FlacInputNode">
+<area shape="rect" id="node2" href="$classAudio_1_1SourceNode.html" title="Abstract Flow node for audio input. " alt="" coords="2976,407,3111,433"/>
+<area shape="rect" id="node3" href="$classAudio_1_1Node.html" title="Abstract Flow node for audio input/output. " alt="" coords="2731,231,2826,257"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2556,308,2645,335"/>
+<area shape="rect" id="node5" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2267,372,2405,399"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1932,445,2057,472"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1493,573,1623,600"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1128,563,1263,589"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="493,555,628,597"/>
+<area shape="rect" id="node12" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,481,303,522"/>
+<area shape="rect" id="node18" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="487,285,635,326"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,359,319,385"/>
+<area shape="rect" id="node26" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="343,183,453,209"/>
+<area shape="rect" id="node27" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="668,625,763,652"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="819,555,963,597"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1493,325,1623,352"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1137,383,1253,409"/>
+<area shape="rect" id="node16" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1142,325,1249,352"/>
+<area shape="rect" id="node17" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,269,967,296"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="477,353,644,380"/>
+<area shape="rect" id="node30" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="485,61,636,88"/>
+<area shape="rect" id="node34" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="479,411,642,437"/>
+<area shape="rect" id="node20" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1509,472,1607,499"/>
+<area shape="rect" id="node21" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="1904,379,2085,421"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1287,275,1431,301"/>
+<area shape="rect" id="node24" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="787,321,995,362"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1709,56,1856,83"/>
+<area shape="rect" id="node29" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="809,46,972,87"/>
+<area shape="rect" id="node32" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2109,525,2243,552"/>
+<area shape="rect" id="node33" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="809,438,972,479"/>
+<area shape="rect" id="node35" href="$classFlacDecoder.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="2995,499,3091,525"/>
+<area shape="rect" id="node36" href="$structFlacDecoder_1_1FlacData.html" title="FlacDecoder::FlacData" alt="" coords="2700,583,2857,609"/>
+</map>

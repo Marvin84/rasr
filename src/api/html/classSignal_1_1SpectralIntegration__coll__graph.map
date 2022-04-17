@@ -1,0 +1,8 @@
+<map id="Signal::SpectralIntegration" name="Signal::SpectralIntegration">
+<area shape="rect" id="node2" href="$classSignal_1_1WindowFunction.html" title="WindowFunction is base class for different windowing functions. " alt="" coords="160,440,323,467"/>
+<area shape="rect" id="node3" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="79,351,238,377"/>
+<area shape="rect" id="node4" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="5,247,213,288"/>
+<area shape="rect" id="node5" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="28,171,191,197"/>
+<area shape="rect" id="node6" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="26,95,193,121"/>
+<area shape="rect" id="node8" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="237,254,336,281"/>
+</map>

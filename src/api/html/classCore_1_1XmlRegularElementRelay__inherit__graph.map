@@ -1,0 +1,6 @@
+<map id="Core::XmlRegularElementRelay" name="Core::XmlRegularElementRelay">
+<area shape="rect" id="node2" href="$classCore_1_1XmlRegularElement.html" title="XML element declaration for the regular content model. " alt="" coords="22,229,197,256"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="26,155,193,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="45,80,174,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="46,5,173,32"/>
+</map>

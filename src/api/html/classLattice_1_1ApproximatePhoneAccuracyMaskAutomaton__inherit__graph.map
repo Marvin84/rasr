@@ -1,0 +1,7 @@
+<map id="Lattice::ApproximatePhoneAccuracyMaskAutomaton" name="Lattice::ApproximatePhoneAccuracyMaskAutomaton">
+<area shape="rect" id="node2" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="15,408,193,449"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="5,319,203,360"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="15,244,193,271"/>
+<area shape="rect" id="node5" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="27,169,181,196"/>
+<area shape="rect" id="node6" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="33,80,175,121"/>
+</map>

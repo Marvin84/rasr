@@ -1,0 +1,5 @@
+<map id="Speech::TextIndependentScatterMatricesEstimator" name="Speech::TextIndependentScatterMatricesEstimator">
+<area shape="rect" id="node2" href="$classSpeech_1_1LabeledFeatureProcessor.html" title="LabeledFeatureProcessor is base class for algorithms processing labeled feature vectors. " alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="54,80,179,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="51,5,182,32"/>
+</map>

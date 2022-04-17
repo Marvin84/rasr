@@ -1,0 +1,8 @@
+<map id="Cart::XmlIgnoreInformationBuilderElement" name="Cart::XmlIgnoreInformationBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlIgnoreElement.html" title="Helper class.used for ignoring unknown elements. " alt="" coords="5,177,171,203"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="23,87,153,114"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="25,5,151,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; Information \&gt;" alt="" coords="195,169,344,211"/>
+<area shape="rect" id="node6" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="182,80,346,121"/>
+<area shape="rect" id="node7" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="370,87,531,114"/>
+</map>

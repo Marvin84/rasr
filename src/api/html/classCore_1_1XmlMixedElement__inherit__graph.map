@@ -1,0 +1,11 @@
+<map id="Core::XmlMixedElement" name="Core::XmlMixedElement">
+<area shape="rect" id="node5" href="$classCart_1_1XmlBinaryTreeRootBuilderElement.html" title="&lt;node&gt; &lt;node id=&quot;...&quot;&gt; &lt;information&gt; ... " alt="" coords="784,5,993,47"/>
+<area shape="rect" id="node6" href="$classCart_1_1XmlQuestionRefListBuilderElement.html" title="&lt;questions&gt; &lt;question index=&quot;0&quot; description=&quot;hmm&#45;state&quot;&gt; &lt;key&gt; state &lt;/key&gt; &lt;values&gt; 1..." alt="" coords="803,71,975,112"/>
+<area shape="rect" id="node7" href="$classCart_1_1XmlStepBuilderElement.html" title="&lt;step name=&quot;silence&quot; action=&quot;split|cluster&quot;&gt; &lt;min&#45;obs&gt; 0 &lt;/min&#45;obs&gt; &lt;min&#45;gain&gt; 0.0 &lt;/min&#45;gain&gt; &lt;quest..." alt="" coords="792,137,985,163"/>
+<area shape="rect" id="node8" href="$classCart_1_1XmlTrainingInformationBuilderElement.html" title="Information produced be cart trainer. " alt="" coords="794,188,983,229"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlMixedElementRelay.html" title="Core::XmlMixedElementRelay" alt="" coords="789,254,988,281"/>
+<area shape="rect" id="node10" href="$classFlf_1_1Semiring_1_1XmlElement.html" title="Flf::Semiring::XmlElement" alt="" coords="801,305,976,331"/>
+<area shape="rect" id="node2" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="357,166,524,193"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="180,166,309,193"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,166,132,193"/>
+</map>

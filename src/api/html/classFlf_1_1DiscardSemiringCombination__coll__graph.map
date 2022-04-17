@@ -1,0 +1,7 @@
+<map id="Flf::DiscardSemiringCombination" name="Flf::DiscardSemiringCombination">
+<area shape="rect" id="node2" href="$classFlf_1_1SemiringCombinationHelper_1_1Internal.html" title="Flf::SemiringCombination\lHelper::Internal" alt="" coords="564,90,733,131"/>
+<area shape="rect" id="node3" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ScoreId \&gt;" alt="" coords="252,5,417,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ConstSemiring\lRef \&gt;" alt="" coords="237,57,432,98"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="239,123,430,149"/>
+<area shape="rect" id="node8" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="257,173,412,200"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Search::Wfst::Statistics::ActiveHypsStatistic" name="Search::Wfst::Statistics::ActiveHypsStatistic">
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1Statistics_1_1SearchSpaceStatistic.html" title="Search::Wfst::Statistics\l::SearchSpaceStatistic\&lt; u32 \&gt;" alt="" coords="43,199,245,240"/>
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1Statistics_1_1AbstractStatistic.html" title="Interface for statistic classes. " alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node4" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; u32 \&gt;" alt="" coords="193,102,351,129"/>
+</map>

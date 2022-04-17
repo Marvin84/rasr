@@ -1,0 +1,24 @@
+<map id="Flf::FwdBwdBuilderNode" name="Flf::FwdBwdBuilderNode">
+<area shape="rect" id="node2" href="$classFlf_1_1Node.html" title="Flf::Node" alt="" coords="1963,181,2039,208"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1681,131,1806,157"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1371,80,1502,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1044,80,1179,107"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,83,557,125"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,210,564,251"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,74,879,115"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1372,131,1501,157"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1053,131,1169,157"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1058,181,1165,208"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,215,883,241"/>
+<area shape="rect" id="node24" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,284,573,311"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1387,181,1486,208"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1660,181,1827,208"/>
+<area shape="rect" id="node19" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Link \&gt;" alt="" coords="1671,232,1815,259"/>
+<area shape="rect" id="node21" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const FwdBwd \&gt;" alt="" coords="1906,233,2097,260"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1203,284,1347,311"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="703,277,911,318"/>
+<area shape="rect" id="node25" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; FwdBwdBuilder \&gt;" alt="" coords="1904,335,2099,361"/>
+<area shape="rect" id="node26" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="1946,385,2057,412"/>
+</map>

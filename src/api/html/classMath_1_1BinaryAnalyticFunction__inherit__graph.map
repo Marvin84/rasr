@@ -1,0 +1,8 @@
+<map id="Math::BinaryAnalyticFunction" name="Math::BinaryAnalyticFunction">
+<area shape="rect" id="node4" href="$structMath_1_1AdditionFunction.html" title="f(x, y) = x + y " alt="" coords="680,5,836,32"/>
+<area shape="rect" id="node5" href="$structMath_1_1DivisionFunction.html" title="f(x, y) = x / y " alt="" coords="680,56,836,83"/>
+<area shape="rect" id="node6" href="$structMath_1_1MultiplicationFunction.html" title="f(x, y) = x * y " alt="" coords="665,107,851,133"/>
+<area shape="rect" id="node7" href="$structMath_1_1SubstractionFunction.html" title="f(x, y) = x &#45; y " alt="" coords="667,157,849,184"/>
+<area shape="rect" id="node2" href="$classMath_1_1AnalyticFunction.html" title="Interface class for analytic functions. " alt="" coords="220,81,376,108"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,81,172,108"/>
+</map>

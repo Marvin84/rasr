@@ -1,0 +1,17 @@
+<map id="Lattice::ApproximatePhoneAccuracyAutomaton::LatticeToActiveStates" name="Lattice::ApproximatePhoneAccuracyAutomaton::LatticeToActiveStates">
+<area shape="rect" id="node2" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="1774,71,1895,98"/>
+<area shape="rect" id="node3" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="1393,19,1497,46"/>
+<area shape="rect" id="node4" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="1005,5,1144,47"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="581,65,807,107"/>
+<area shape="rect" id="node9" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="985,126,1164,153"/>
+<area shape="rect" id="node7" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="1745,188,1924,229"/>
+<area shape="rect" id="node8" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="1347,129,1544,171"/>
+<area shape="rect" id="node10" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="617,141,771,167"/>
+<area shape="rect" id="node11" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="310,99,451,140"/>
+<area shape="rect" id="node13" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,131,215,158"/>
+<area shape="rect" id="node14" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="292,165,469,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; States \&gt;" alt="" coords="995,177,1154,203"/>
+<area shape="rect" id="node17" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Bliss::LemmaPronunciation\lAlphabet \&gt;" alt="" coords="960,227,1189,283"/>
+<area shape="rect" id="node18" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; PhonemeSequenceAlignment\lGenerator \&gt;" alt="" coords="1343,194,1548,250"/>
+<area shape="rect" id="node19" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Am::AllophoneState\lAlphabet \&gt;" alt="" coords="1352,274,1539,330"/>
+</map>

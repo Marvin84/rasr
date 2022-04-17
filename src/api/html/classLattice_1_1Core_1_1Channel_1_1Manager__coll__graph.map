@@ -1,0 +1,10 @@
+<map id="Lattice::Core::Channel::Manager" name="Lattice::Core::Channel::Manager">
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="803,12,981,38"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1Configuration.html" title="Central configuration class. " alt="" coords="407,12,589,38"/>
+<area shape="rect" id="node9" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="168,68,383,94"/>
+<area shape="rect" id="node5" href="$classLattice_1_1Core_1_1Mutex.html" title="A mutex. " alt="" coords="1285,117,1426,144"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1265,66,1445,93"/>
+<area shape="rect" id="node7" href="$classLattice_1_1Core_1_1RangedParameter.html" title="Lattice::Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1005,70,1216,111"/>
+<area shape="rect" id="node8" href="$classLattice_1_1Core_1_1Parameter.html" title="Lattice::Core::Parameter\l\&lt; s32 \&gt;" alt="" coords="613,72,779,114"/>
+<area shape="rect" id="node10" href="$classLattice_1_1Core_1_1StringHashMap.html" title="Lattice::Core::StringHash\lMap\&lt; Channel::Target * \&gt;" alt="" coords="1269,168,1442,210"/>
+</map>

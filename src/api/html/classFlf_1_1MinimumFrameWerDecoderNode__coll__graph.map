@@ -1,0 +1,23 @@
+<map id="Flf::MinimumFrameWerDecoderNode" name="Flf::MinimumFrameWerDecoderNode">
+<area shape="rect" id="node2" href="$classFlf_1_1Node.html" title="Flf::Node" alt="" coords="1991,247,2067,273"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1570,169,1695,196"/>
+<area shape="rect" id="node21" href="$classFlf_1_1MinimumFrameWerDecoder.html" title="Flf::MinimumFrameWerDecoder" alt="" coords="2207,119,2415,145"/>
+<area shape="rect" id="node22" href="$classFlf_1_1MinimumFrameWerDecoder_1_1SearchSpace.html" title="The real Decoder. " alt="" coords="1925,111,2133,153"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1210,181,1341,208"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="969,181,1104,208"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,217,548,258"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,283,292,325"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,37,555,78"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,104,308,131"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="688,209,832,250"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1211,125,1340,152"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="979,125,1095,152"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="983,75,1090,101"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="684,44,836,71"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1226,68,1325,95"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1549,309,1716,336"/>
+<area shape="rect" id="node19" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Link \&gt;" alt="" coords="1561,259,1705,285"/>
+<area shape="rect" id="node23" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="1537,108,1728,135"/>
+<area shape="rect" id="node24" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; FwdBwdBuilder \&gt;" alt="" coords="2213,272,2408,299"/>
+<area shape="rect" id="node25" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="2255,323,2366,349"/>
+</map>

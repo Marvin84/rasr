@@ -1,0 +1,49 @@
+<map id="XmlDecisionTreeParser" name="XmlDecisionTreeParser">
+<area shape="rect" id="node2" href="$classCart_1_1XmlDecisionTreeParser.html" title="Generic decision tree parser as produced by the generic decision tree trainer. " alt="" coords="3109,407,3303,434"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlSchemaParser.html" title="Stack based XML parser. " alt="" coords="2437,441,2603,467"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlParser.html" title="Basic event driven XML parser. " alt="" coords="2079,173,2197,199"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1643,173,1768,199"/>
+<area shape="rect" id="node50" href="$classCart_1_1BinaryTree.html" title="&lt;binary&#45;tree&gt; &lt;node&gt; &lt;node id=&quot;...&quot;&gt; [&lt;information&gt; ... " alt="" coords="2079,301,2197,327"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="683,107,813,134"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="199,134,333,161"/>
+<area shape="rect" id="node13" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="192,193,340,235"/>
+<area shape="rect" id="node45" href="$classCart_1_1XmlQuestionRefListBuilderElement.html" title="&lt;questions&gt; &lt;question index=&quot;0&quot; description=&quot;hmm&#45;state&quot;&gt; &lt;key&gt; state &lt;/key&gt; &lt;values&gt; 1..." alt="" coords="2434,944,2606,985"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1218,173,1347,199"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="863,122,979,149"/>
+<area shape="rect" id="node11" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="867,173,974,199"/>
+<area shape="rect" id="node12" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="467,201,619,227"/>
+<area shape="rect" id="node49" href="$classCart_1_1DecisionTree.html" title="Tenary decision tree; supports classification and multification. " alt="" coords="2454,302,2586,329"/>
+<area shape="rect" id="node14" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1233,419,1332,446"/>
+<area shape="rect" id="node37" href="$classCart_1_1PropertyMap.html" title="The property map fullfills two tasks. " alt="" coords="2073,511,2203,538"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1633,74,1777,101"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1179,5,1387,47"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="837,13,1004,39"/>
+<area shape="rect" id="node18" href="$classCore_1_1XmlDocumentElement.html" title="Helper class used by XmlSchemaParser when outside the document&#39;s root element. " alt="" coords="1611,937,1800,963"/>
+<area shape="rect" id="node19" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="1199,1003,1366,1030"/>
+<area shape="rect" id="node24" href="$classCore_1_1XmlRegularElement.html" title="XML element declaration for the regular content model. " alt="" coords="1618,1147,1793,1174"/>
+<area shape="rect" id="node35" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="1623,995,1787,1022"/>
+<area shape="rect" id="node20" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="856,954,985,981"/>
+<area shape="rect" id="node32" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="1411,885,1577,911"/>
+<area shape="rect" id="node21" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="480,934,607,961"/>
+<area shape="rect" id="node22" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="428,999,659,1026"/>
+<area shape="rect" id="node23" href="$classCart_1_1XmlDecisionTreeBuilderElement.html" title="Tenary decision tree; supports classification and multification. " alt="" coords="2793,547,2988,588"/>
+<area shape="rect" id="node29" href="$classCart_1_1XmlPropertiesDefinitionBuilderElement.html" title="Cart::XmlPropertiesDefinition\lBuilderElement" alt="" coords="2424,665,2616,707"/>
+<area shape="rect" id="node47" href="$classCore_1_1XmlRegularElementRelay.html" title="Core::XmlRegularElementRelay" alt="" coords="2034,1133,2242,1159"/>
+<area shape="rect" id="node25" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; DecisionTree \&gt;" alt="" coords="1631,755,1780,796"/>
+<area shape="rect" id="node26" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="1201,728,1365,769"/>
+<area shape="rect" id="node30" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap \&gt;" alt="" coords="1631,572,1780,613"/>
+<area shape="rect" id="node33" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap::IndexedString \&gt;" alt="" coords="1601,689,1809,731"/>
+<area shape="rect" id="node41" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; BinaryTree::Node \&gt;" alt="" coords="1631,507,1780,548"/>
+<area shape="rect" id="node46" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; QuestionRefList \&gt;" alt="" coords="1631,820,1780,861"/>
+<area shape="rect" id="node27" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="851,685,991,727"/>
+<area shape="rect" id="node28" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="1202,603,1363,630"/>
+<area shape="rect" id="node31" href="$classCart_1_1XmlIndexedStringBuilderElement.html" title="&lt;properties&#45;definition&gt; &lt;key&gt; central &lt;/key&gt; &lt;value&#45;map&gt; # a &lt;/value&#45;map&gt;... " alt="" coords="2039,748,2237,789"/>
+<area shape="rect" id="node34" href="$classCore_1_1XmlMixedElementRelay.html" title="Core::XmlMixedElementRelay" alt="" coords="2039,975,2237,1002"/>
+<area shape="rect" id="node40" href="$classCart_1_1XmlBinaryTreeRootBuilderElement.html" title="&lt;node&gt; &lt;node id=&quot;...&quot;&gt; &lt;information&gt; ... " alt="" coords="2033,385,2243,427"/>
+<area shape="rect" id="node36" href="$classCore_1_1XmlAttributes.html" title="XML element attributes. " alt="" coords="1637,1082,1774,1109"/>
+<area shape="rect" id="node38" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1622,638,1789,665"/>
+<area shape="rect" id="node42" href="$classCart_1_1InformationBuilder.html" title="Cart::InformationBuilder" alt="" coords="1625,393,1785,419"/>
+<area shape="rect" id="node43" href="$classCart_1_1BinaryTree_1_1Node.html" title="Cart::BinaryTree::Node" alt="" coords="1627,342,1784,369"/>
+<area shape="rect" id="node44" href="$structCart_1_1Information.html" title="Generic information; empty by default. " alt="" coords="1223,342,1343,369"/>
+<area shape="rect" id="node48" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="2050,631,2226,672"/>
+</map>

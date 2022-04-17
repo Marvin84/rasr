@@ -1,0 +1,6 @@
+<map id="Speech::PronunciationLatticeRescorer" name="Speech::PronunciationLatticeRescorer">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="18,229,185,256"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="18,155,185,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="39,80,164,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="36,5,167,32"/>
+</map>

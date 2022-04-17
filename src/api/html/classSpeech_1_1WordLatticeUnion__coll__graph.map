@@ -1,0 +1,39 @@
+<map id="Speech::WordLatticeUnion" name="Speech::WordLatticeUnion">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="2431,791,2623,817"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2043,879,2169,905"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1700,879,1831,905"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1289,845,1423,872"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="470,838,605,879"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="181,899,316,941"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="463,679,611,721"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="165,657,332,684"/>
+<area shape="rect" id="node21" href="$classLattice_1_1Archive.html" title="Lattice::Archive" alt="" coords="2470,376,2583,403"/>
+<area shape="rect" id="node24" href="$classLattice_1_1Core_1_1Configuration.html" title="Central configuration class. " alt="" coords="1265,404,1447,431"/>
+<area shape="rect" id="node30" href="$classLattice_1_1Core_1_1Parameter.html" title="Lattice::Core::Parameter\l\&lt; std::string \&gt;" alt="" coords="455,319,620,361"/>
+<area shape="rect" id="node31" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,268,356,295"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="844,838,988,879"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1701,657,1830,684"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1298,556,1414,583"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1303,657,1409,684"/>
+<area shape="rect" id="node27" href="$classLattice_1_1Core_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1275,505,1437,532"/>
+<area shape="rect" id="node28" href="$classLattice_1_1Core_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1279,455,1433,481"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="840,687,992,713"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1716,828,1815,855"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="2023,761,2189,788"/>
+<area shape="rect" id="node19" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lLatticeSetProcessor \&gt;" alt="" coords="2030,813,2182,854"/>
+<area shape="rect" id="node20" href="$classLattice_1_1ArchiveReader.html" title="Lattice::ArchiveReader" alt="" coords="2672,299,2827,325"/>
+<area shape="rect" id="node22" href="$classLattice_1_1Core_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2020,475,2192,501"/>
+<area shape="rect" id="node23" href="$classLattice_1_1Core_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1676,443,1855,469"/>
+<area shape="rect" id="node25" href="$classLattice_1_1Core_1_1Choice.html" title="Choice class. " alt="" coords="1692,392,1839,419"/>
+<area shape="rect" id="node32" href="$classLattice_1_1Core_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2023,266,2189,307"/>
+<area shape="rect" id="node26" href="$classLattice_1_1Core_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1677,544,1853,571"/>
+<area shape="rect" id="node29" href="$classLattice_1_1Core_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="833,319,999,361"/>
+<area shape="rect" id="node34" href="$classLattice_1_1Core_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1257,209,1455,236"/>
+<area shape="rect" id="node39" href="$classLattice_1_1Core_1_1Parameter.html" title="Lattice::Core::Parameter\l\&lt; f64 \&gt;" alt="" coords="644,170,809,211"/>
+<area shape="rect" id="node33" href="$classLattice_1_1Core_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="1668,221,1863,262"/>
+<area shape="rect" id="node41" href="$classLattice_1_1Core_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="1668,155,1863,197"/>
+<area shape="rect" id="node36" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lexicon \&gt;" alt="" coords="2043,331,2169,373"/>
+<area shape="rect" id="node37" href="$classLattice_1_1Core_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1479,99,1644,141"/>
+<area shape="rect" id="node38" href="$classLattice_1_1Core_1_1RangedParameter.html" title="Lattice::Core::RangedParameter\l\&lt; f64 \&gt;" alt="" coords="1023,131,1233,173"/>
+<area shape="rect" id="node40" href="$classLattice_1_1Core_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="2216,172,2407,199"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMm_1_1PointerIndexMap.html" title="Mm::PointerIndexMap\l\&lt; Core::Ref\&lt; Mm::AbstractCovariance\lEstimator \&gt;, hashReference\&lt;\l Mm::AbstractCovarianceEstimator\l \&gt;, std::equal_to\&lt; Core::Ref\&lt; Mm\l::AbstractCovarianceEstimator \&gt; \&gt; \&gt;" alt="" coords="5,5,253,105"/>
+<area shape="rect" id="node2" href="$classMm_1_1ReferenceIndexMap.html" title="Mm::ReferenceIndexMap\l\&lt; Mm::AbstractCovarianceEstimator \&gt;" alt="" coords="301,35,548,76"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="Aligner" name="Aligner">
+<area shape="rect" id="node2" href="$classCore_1_1Application.html" title="Application class: " alt="" coords="2456,427,2579,453"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2077,235,2202,261"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1657,240,1787,267"/>
+<area shape="rect" id="node19" href="$classCore_1_1Channel_1_1Manager.html" title="Central management of channel output. " alt="" coords="2057,175,2221,201"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1243,219,1378,245"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="451,569,585,610"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,638,292,679"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="444,698,592,739"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,823,308,849"/>
+<area shape="rect" id="node34" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; f64 \&gt;" alt="" coords="440,915,596,957"/>
+<area shape="rect" id="node40" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; s32 \&gt;" alt="" coords="440,981,596,1022"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="820,234,964,275"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1657,296,1787,323"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1253,300,1369,327"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1257,381,1364,408"/>
+<area shape="rect" id="node41" href="$classCore_1_1CompressedOutputStream.html" title="Core::CompressedOutputStream" alt="" coords="1820,57,2033,84"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="816,561,968,588"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="811,772,973,799"/>
+<area shape="rect" id="node28" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="620,849,787,876"/>
+<area shape="rect" id="node37" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="443,1055,593,1081"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1673,460,1771,487"/>
+<area shape="rect" id="node31" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2060,629,2219,656"/>
+<area shape="rect" id="node18" href="$classCore_1_1Timer.html" title="Core::Timer" alt="" coords="2094,528,2185,555"/>
+<area shape="rect" id="node20" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="1675,189,1769,216"/>
+<area shape="rect" id="node21" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Channel::Target * \&gt;" alt="" coords="1648,123,1796,165"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1655,771,1789,797"/>
+<area shape="rect" id="node24" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1229,763,1392,805"/>
+<area shape="rect" id="node32" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1416,818,1624,859"/>
+<area shape="rect" id="node26" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="2067,880,2211,907"/>
+<area shape="rect" id="node27" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="997,869,1205,910"/>
+<area shape="rect" id="node29" href="$classFsa_1_1Weight.html" title="Fsa::Weight" alt="" coords="2471,1073,2564,1100"/>
+<area shape="rect" id="node30" href="$unionFsa_1_1Weight_1_1Value.html" title="Fsa::Weight::Value" alt="" coords="2072,1039,2207,1065"/>
+<area shape="rect" id="node33" href="$classCore_1_1ParameterFloatVector.html" title="Declaration class for float vector parameters. " alt="" coords="1009,933,1194,960"/>
+<area shape="rect" id="node35" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1447,1147,1593,1173"/>
+<area shape="rect" id="node36" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="811,1114,973,1155"/>
+<area shape="rect" id="node39" href="$classCore_1_1ParameterIntVector.html" title="Declaration class for int vector parameters. " alt="" coords="2251,989,2421,1016"/>
+</map>

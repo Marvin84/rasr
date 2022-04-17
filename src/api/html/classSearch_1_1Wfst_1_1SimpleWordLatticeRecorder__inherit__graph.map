@@ -1,0 +1,6 @@
+<map id="Search::Wfst::SimpleWordLatticeRecorder" name="Search::Wfst::SimpleWordLatticeRecorder">
+<area shape="rect" id="node5" href="$classSearch_1_1Wfst_1_1SimpleNonDetWordLatticeRecorder.html" title="Creates a word lattice as SimpleWordLatticeRecorder, but without final determinization. " alt="" coords="6,348,198,389"/>
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1HmmLatticeTraceRecorder.html" title="Constructs lattices with HMM input labels and word output labels. " alt="" coords="13,169,191,211"/>
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1LatticeTraceRecorder.html" title="Base class for lattice constructing TraceRecorders. " alt="" coords="13,80,191,121"/>
+<area shape="rect" id="node4" href="$classSearch_1_1Wfst_1_1TraceRecorder.html" title="Interface for book keeping classes. " alt="" coords="5,5,199,32"/>
+</map>

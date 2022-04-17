@@ -1,0 +1,8 @@
+<map id="Mm::RpropDiscriminativeMixtureSetEstimator" name="Mm::RpropDiscriminativeMixtureSetEstimator">
+<area shape="rect" id="node7" href="$classMm_1_1RpropDiscriminativeMixtureSetEstimatorWithISmoothing.html" title="DiscriminativeMixtureSetEstimatorWithISmoothing: Rprop. " alt="" coords="67,408,281,449"/>
+<area shape="rect" id="node2" href="$classMm_1_1DiscriminativeMixtureSetEstimator.html" title="DiscriminativeMixtureSetEstimator. " alt="" coords="85,229,263,271"/>
+<area shape="rect" id="node3" href="$classMm_1_1AbstractMixtureSetEstimator.html" title="Base Class for accumulator and estimator class for mixture sets. " alt="" coords="64,155,284,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="197,80,322,107"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="194,5,325,32"/>
+</map>

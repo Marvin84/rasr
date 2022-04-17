@@ -1,0 +1,15 @@
+<map id="Mc::Component" name="Mc::Component">
+<area shape="rect" id="node4" href="$classAm_1_1AcousticModel.html" title="Interface class for acoustic models Concepts and Future Plans: &#45;An acoustic model consist of: &#45;Emissi..." alt="" coords="543,5,679,32"/>
+<area shape="rect" id="node7" href="$classAm_1_1ScaledTransitionModel.html" title="Log&#45;linear scaling of transition model. " alt="" coords="520,56,703,83"/>
+<area shape="rect" id="node9" href="$classLm_1_1ScaledLanguageModel.html" title="Base class for scaled language models. " alt="" coords="522,107,701,133"/>
+<area shape="rect" id="node11" href="$classMm_1_1ScaledFeatureScorer.html" title="Feature scorer with log linear scale. " alt="" coords="524,157,699,184"/>
+<area shape="rect" id="node14" href="$classSpeech_1_1ModelCombination.html" title="Combination of a lexicon, an acoustic model, and a language model. " alt="" coords="520,208,703,235"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,107,309,133"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,107,136,133"/>
+<area shape="rect" id="node5" href="$classAm_1_1ClassicAcousticModel.html" title="ClassicAcousticModel. " alt="" coords="761,5,941,32"/>
+<area shape="rect" id="node6" href="$classAm_1_1AdaptedAcousticModel.html" title="AdaptedAcousticModel. " alt="" coords="1000,5,1184,32"/>
+<area shape="rect" id="node8" href="$classAm_1_1CombinedTransitionModel.html" title="Log&#45;linear combination of transition models. " alt="" coords="751,56,952,83"/>
+<area shape="rect" id="node10" href="$classLm_1_1LanguageModelScaling.html" title="Scaling of language model scores Wrapper class which multiplies the scores of an arbitrary language m..." alt="" coords="760,107,943,133"/>
+<area shape="rect" id="node12" href="$classMm_1_1CombinedFeatureScorer.html" title="Mm::CombinedFeatureScorer" alt="" coords="755,157,948,184"/>
+<area shape="rect" id="node13" href="$classMm_1_1FeatureScorerScaling.html" title="Wraper class for Feature scorer with log linear scale. " alt="" coords="763,208,940,235"/>
+</map>

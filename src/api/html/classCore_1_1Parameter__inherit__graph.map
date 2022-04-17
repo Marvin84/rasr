@@ -1,0 +1,6 @@
+<map id="Core::Parameter&lt; T &gt;" name="Core::Parameter&lt; T &gt;">
+<area shape="rect" id="node3" href="$classCore_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="5,155,245,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="269,155,464,181"/>
+<area shape="rect" id="node2" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="162,5,329,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="293,229,440,271"/>
+</map>

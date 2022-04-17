@@ -1,0 +1,6 @@
+<map id="Signal::SilenceDetection" name="Signal::SilenceDetection">
+<area shape="rect" id="node2" href="$classSignal_1_1SlidingWindow.html" title="Signal::SlidingWindow\l\&lt; Signal::SilenceDetection\l::Frame \&gt;" alt="" coords="40,305,217,361"/>
+<area shape="rect" id="node4" href="$classSignal_1_1SilenceDetection_1_1Frame.html" title="Signal::SilenceDetection\l::Frame" alt="" coords="167,194,333,235"/>
+<area shape="rect" id="node5" href="$classFlow_1_1DataPtr.html" title="Flow::DataPtr\&lt; Flow\l::Vector\&lt; Float \&gt; \&gt;" alt="" coords="179,96,321,137"/>
+<area shape="rect" id="node6" href="$classCore_1_1TsRef.html" title="Core::TsRef\&lt; Flow::\lVector\&lt; Float \&gt; \&gt;" alt="" coords="179,5,321,47"/>
+</map>

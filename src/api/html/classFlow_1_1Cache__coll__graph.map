@@ -1,0 +1,33 @@
+<map id="Flow::Cache" name="Flow::Cache">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1895,457,2021,484"/>
+<area shape="rect" id="node25" href="$classCore_1_1XmlParser.html" title="Basic event driven XML parser. " alt="" coords="2301,260,2419,287"/>
+<area shape="rect" id="node33" href="$classCore_1_1Archive.html" title="Abstract base class for archives. " alt="" coords="2309,515,2411,541"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1531,513,1661,540"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1128,513,1263,540"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="421,531,555,573"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,574,292,615"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="414,362,562,403"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,319,308,345"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="793,531,937,573"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1531,412,1661,439"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1137,412,1253,439"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1142,463,1249,489"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="789,369,941,396"/>
+<area shape="rect" id="node19" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="407,239,569,265"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="593,307,760,333"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1547,463,1645,489"/>
+<area shape="rect" id="node17" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1335,133,1468,160"/>
+<area shape="rect" id="node18" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="784,187,947,229"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1886,303,2030,329"/>
+<area shape="rect" id="node21" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1492,295,1700,337"/>
+<area shape="rect" id="node23" href="$classFlow_1_1Attributes_1_1Parser.html" title="Flow::Attributes::Parser" alt="" coords="2772,241,2932,268"/>
+<area shape="rect" id="node24" href="$classCore_1_1XmlSchemaParser.html" title="Stack based XML parser. " alt="" coords="2504,241,2671,268"/>
+<area shape="rect" id="node26" href="$classCore_1_1XmlDocumentElement.html" title="Helper class used by XmlSchemaParser when outside the document&#39;s root element. " alt="" coords="2265,209,2455,236"/>
+<area shape="rect" id="node27" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="1875,236,2041,263"/>
+<area shape="rect" id="node28" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="1531,209,1661,236"/>
+<area shape="rect" id="node29" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="1132,199,1259,225"/>
+<area shape="rect" id="node30" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="1080,255,1311,281"/>
+<area shape="rect" id="node31" href="$classFlow_1_1Attributes.html" title="Set of Flow network attributes. " alt="" coords="2530,175,2645,201"/>
+<area shape="rect" id="node32" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="2277,159,2443,185"/>
+<area shape="rect" id="node34" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="1911,519,2005,545"/>
+</map>

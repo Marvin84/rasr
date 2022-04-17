@@ -1,0 +1,8 @@
+<map id="Search::Instance" name="Search::Instance">
+<area shape="rect" id="node2" href="$structSearch_1_1InstanceKey.html" title="Object that contains the information that conditions a network, and thereby makes the network unique..." alt="" coords="129,365,273,392"/>
+<area shape="rect" id="node3" href="$classLm_1_1History.html" title="Lm::History" alt="" coords="16,275,106,301"/>
+<area shape="rect" id="node4" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="78,171,265,212"/>
+<area shape="rect" id="node5" href="$classLm_1_1SingletonHistoryManager.html" title="Lm::SingletonHistoryManager" alt="" coords="77,81,272,108"/>
+<area shape="rect" id="node6" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="11,5,151,32"/>
+<area shape="rect" id="node7" href="$structSearch_1_1Instance_1_1StateRange.html" title="Search::Instance::StateRange" alt="" coords="298,365,496,392"/>
+</map>

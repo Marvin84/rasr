@@ -1,0 +1,45 @@
+<map id="Flf::CompoundLemmaSplittingMap" name="Flf::CompoundLemmaSplittingMap">
+<area shape="rect" id="node2" href="$classFlf_1_1CompoundWordSplittingMap.html" title="Flf::CompoundWordSplittingMap" alt="" coords="2851,730,3061,757"/>
+<area shape="rect" id="node3" href="$classFlf_1_1LabelMap.html" title="Flf::LabelMap" alt="" coords="2608,187,2709,214"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1630,827,1797,854"/>
+<area shape="rect" id="node15" href="$classBliss_1_1Lexicon.html" title="The Bliss lexicon. " alt="" coords="2103,598,2207,625"/>
+<area shape="rect" id="node40" href="$classBliss_1_1PhonemeInventory.html" title="Inventory of phonemic symbols. " alt="" coords="2071,1043,2239,1070"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; std::\lpair\&lt; bool, Mapping \&gt; \&gt;" alt="" coords="2075,12,2235,53"/>
+<area shape="rect" id="node7" href="$structFlf_1_1LabelMap_1_1Internal.html" title="Flf::LabelMap::Internal" alt="" coords="2079,85,2231,111"/>
+<area shape="rect" id="node8" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Ref \&gt;" alt="" coords="1645,71,1781,112"/>
+<area shape="rect" id="node23" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="192,449,340,491"/>
+<area shape="rect" id="node27" href="$classCore_1_1Dependency.html" title="Core::Dependency" alt="" coords="364,238,495,265"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; T \&gt;" alt="" coords="2091,187,2219,214"/>
+<area shape="rect" id="node13" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="2060,730,2251,757"/>
+<area shape="rect" id="node14" href="$classFlf_1_1Lexicon.html" title="Flf::Lexicon" alt="" coords="2613,1005,2704,1031"/>
+<area shape="rect" id="node16" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1651,953,1776,979"/>
+<area shape="rect" id="node17" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1212,953,1343,979"/>
+<area shape="rect" id="node18" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1213,1163,1342,1190"/>
+<area shape="rect" id="node19" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="820,1190,936,1217"/>
+<area shape="rect" id="node21" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="825,1139,931,1166"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="519,935,671,962"/>
+<area shape="rect" id="node24" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1228,1015,1327,1042"/>
+<area shape="rect" id="node25" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; const\l Bliss::EvaluationToken * \&gt;" alt="" coords="1404,415,1585,456"/>
+<area shape="rect" id="node26" href="$structCore_1_1Obstack_1_1Chunk.html" title="Core::Obstack\&lt; T \&gt;\l::Chunk" alt="" coords="525,559,664,600"/>
+<area shape="rect" id="node28" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::LemmaPronunciation \&gt;" alt="" coords="981,476,1145,517"/>
+<area shape="rect" id="node29" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; const\l Bliss::SyntacticToken * \&gt;" alt="" coords="1407,528,1582,569"/>
+<area shape="rect" id="node30" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::Phoneme::Id \&gt;" alt="" coords="989,588,1137,629"/>
+<area shape="rect" id="node35" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::Symbol::Char \&gt;" alt="" coords="804,700,952,741"/>
+<area shape="rect" id="node38" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Symbol \&gt;" alt="" coords="976,646,1151,673"/>
+<area shape="rect" id="node31" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Lemma * \&gt;" alt="" coords="1639,355,1787,396"/>
+<area shape="rect" id="node33" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::PhonemeInventory \&gt;" alt="" coords="1635,289,1791,331"/>
+<area shape="rect" id="node34" href="$classBliss_1_1SymbolSet.html" title="A pool of Symbols. " alt="" coords="1216,714,1339,741"/>
+<area shape="rect" id="node37" href="$classBliss_1_1SymbolSequenceSet.html" title="Bliss::SymbolSequenceSet\l\&lt; Bliss::Symbol \&gt;" alt="" coords="1623,648,1804,689"/>
+<area shape="rect" id="node41" href="$structPhonemeInventory_1_1Internal.html" title="Bliss::PhonemeInventory\l::Internal" alt="" coords="1629,879,1797,920"/>
+<area shape="rect" id="node36" href="$classBliss_1_1TokenInventory.html" title="Bliss::TokenInventory" alt="" coords="1639,1015,1788,1042"/>
+<area shape="rect" id="node39" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::LemmaToEvaluationTokenTransducer \&gt;" alt="" coords="2024,1317,2287,1359"/>
+<area shape="rect" id="node42" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l Bliss::PhonemeAlphabet \&gt;" alt="" coords="1187,879,1368,920"/>
+<area shape="rect" id="node43" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Lexicon \&gt;" alt="" coords="2081,782,2229,809"/>
+<area shape="rect" id="node44" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="2083,1145,2227,1171"/>
+<area shape="rect" id="node45" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1609,1129,1817,1171"/>
+<area shape="rect" id="node46" href="$classBliss_1_1Pronunciation.html" title="A pronunciation in the Bliss lexicon. " alt="" coords="2086,1415,2225,1442"/>
+<area shape="rect" id="node47" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="2568,1438,2749,1465"/>
+<area shape="rect" id="node48" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::LemmaToSyntacticTokenTransducer \&gt;" alt="" coords="2027,833,2283,875"/>
+<area shape="rect" id="node49" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::LemmaPronunciationToLemmaTransducer \&gt;" alt="" coords="2012,899,2299,940"/>
+<area shape="rect" id="node50" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::PhonemeToLemmaPronunciation\lTransducer \&gt;" alt="" coords="2044,963,2267,1019"/>
+</map>

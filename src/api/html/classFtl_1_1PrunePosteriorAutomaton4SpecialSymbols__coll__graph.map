@@ -1,0 +1,6 @@
+<map id="Ftl::PrunePosteriorAutomaton4SpecialSymbols&lt; _Automaton, _SsspForward4SpecialSymbols, _SsspBackward4SpecialSymbols &gt;" name="Ftl::PrunePosteriorAutomaton4SpecialSymbols&lt; _Automaton, _SsspForward4SpecialSymbols, _SsspBackward4SpecialSymbols &gt;">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="155,185,297,227"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="121,89,331,115"/>
+<area shape="rect" id="node5" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="323,193,513,219"/>
+<area shape="rect" id="node6" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="355,81,494,123"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Mm::DiscriminativeMixtureSetEstimator" name="Mm::DiscriminativeMixtureSetEstimator">
+<area shape="rect" id="node6" href="$classMm_1_1EbwDiscriminativeMixtureSetEstimator.html" title="EbwDiscriminativeMixtureSetEstimator. " alt="" coords="898,5,1102,47"/>
+<area shape="rect" id="node8" href="$classMm_1_1RpropDiscriminativeMixtureSetEstimator.html" title="RpropDiscriminativeMixtureSetEstimator. " alt="" coords="893,71,1107,112"/>
+<area shape="rect" id="node2" href="$classMm_1_1AbstractMixtureSetEstimator.html" title="Base Class for accumulator and estimator class for mixture sets. " alt="" coords="399,46,619,73"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="184,21,351,47"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="205,71,330,98"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,71,136,98"/>
+<area shape="rect" id="node7" href="$classMm_1_1EbwDiscriminativeMixtureSetEstimatorWithISmoothing.html" title="DiscriminativeMixtureSetEstimatorWithISmoothing: EBW. " alt="" coords="1159,5,1363,47"/>
+<area shape="rect" id="node9" href="$classMm_1_1RpropDiscriminativeMixtureSetEstimatorWithISmoothing.html" title="DiscriminativeMixtureSetEstimatorWithISmoothing: Rprop. " alt="" coords="1155,71,1368,112"/>
+</map>

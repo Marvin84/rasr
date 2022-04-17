@@ -1,0 +1,11 @@
+<map id="Speech::ApproximatePhoneAccuracyLatticeRescorerNode" name="Speech::ApproximatePhoneAccuracyLatticeRescorerNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1ApproximateDistanceLatticeRescorerNode.html" title="ApproximateLatticeRescorerNode. " alt="" coords="31,603,229,644"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DistanceLatticeRescorerNode.html" title="LatticeDistanceRescorerNode. " alt="" coords="5,528,255,555"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1LatticeRescorerNode.html" title="LatticeRescorerNode. " alt="" coords="31,453,229,480"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1SegmentNode.html" title="SegmentNode. " alt="" coords="51,379,209,405"/>
+<area shape="rect" id="node6" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="65,304,195,331"/>
+<area shape="rect" id="node7" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="85,229,175,256"/>
+<area shape="rect" id="node8" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="61,155,199,181"/>
+<area shape="rect" id="node9" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="67,80,193,107"/>
+<area shape="rect" id="node10" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="65,5,195,32"/>
+</map>

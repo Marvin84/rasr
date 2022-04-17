@@ -1,0 +1,6 @@
+<map id="Mm::ConvertCovarianceEstimator" name="Mm::ConvertCovarianceEstimator">
+<area shape="rect" id="node2" href="$classMm_1_1CovarianceEstimator.html" title="CovarianceEstimator. " alt="" coords="36,229,211,256"/>
+<area shape="rect" id="node3" href="$classMm_1_1AbstractCovarianceEstimator.html" title="AbstractCovarianceEstimator. " alt="" coords="12,155,235,181"/>
+<area shape="rect" id="node4" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="5,80,241,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="40,5,207,32"/>
+</map>

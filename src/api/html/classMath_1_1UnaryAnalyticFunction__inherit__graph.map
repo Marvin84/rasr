@@ -1,0 +1,28 @@
+<map id="Math::UnaryAnalyticFunction" name="Math::UnaryAnalyticFunction">
+<area shape="rect" id="node4" href="$classMath_1_1AnalyticUnaryComposition.html" title="Base class for Composition of two analytic functions. " alt="" coords="683,56,897,83"/>
+<area shape="rect" id="node8" href="$structMath_1_1ArcCosh.html" title="f(x) = acosh(x) Remarks: &#45;acosh(x) = log(x + sqrt(x^2 &#45; 1)). " alt="" coords="735,107,845,133"/>
+<area shape="rect" id="node9" href="$structMath_1_1ArcSinh.html" title="f(x) = asinh(x) Remarks: &#45;asinh(x) = log(x + sqrt(x^2 + 1)). " alt="" coords="737,157,843,184"/>
+<area shape="rect" id="node10" href="$structMath_1_1BilinearTransform.html" title="Bilinear Transform. " alt="" coords="709,208,871,235"/>
+<area shape="rect" id="node11" href="$classMath_1_1ConstantFunction.html" title="f(x) = c " alt="" coords="709,259,871,285"/>
+<area shape="rect" id="node12" href="$structMath_1_1Cosh.html" title="f(x) = cosh(x) " alt="" coords="745,309,835,336"/>
+<area shape="rect" id="node13" href="$structMath_1_1DerivedArcCosh.html" title="f(x) = d acosh(x) / dx = 1 / sqrt(x^2 &#45; 1) " alt="" coords="713,360,867,387"/>
+<area shape="rect" id="node14" href="$structMath_1_1DerivedArcSinh.html" title="f(x) = d asinh(x) / dx = 1 / sqrt(x^2 + 1) " alt="" coords="715,411,865,437"/>
+<area shape="rect" id="node15" href="$structMath_1_1DerivedMelWarpingCore.html" title="Derived Mel warping function core: d f_{Mel} / df = 1.0 / log(10) / (700.0 + f) " alt="" coords="689,461,891,488"/>
+<area shape="rect" id="node16" href="$structMath_1_1EqualLoudnessPreemphasis.html" title="Equal Loudness Preemphasis E(f) = (omega^4 * (omega^2 + 56.8e6)) / ((omega^2 + 6.3e6))^2 * (omega^2 +..." alt="" coords="678,512,902,539"/>
+<area shape="rect" id="node17" href="$structMath_1_1EqualLoudnessPreemphasis40dB.html" title="40dB equal Loudness Preemphasis (taken from Sprachcore/ICSI) E(f) = (f^2 / (f^2 + 1..." alt="" coords="663,563,917,589"/>
+<area shape="rect" id="node18" href="$structMath_1_1EqualLoudnessPreemphasis4Khz.html" title="Equal Loudness Preemphasis optimized for 4KHz bandwidth E(f) = (omega^4 * (omega^2 + 56..." alt="" coords="663,613,917,640"/>
+<area shape="rect" id="node19" href="$structMath_1_1FloorFloatFunction.html" title="f(x) = floorf(x) " alt="" coords="707,664,873,691"/>
+<area shape="rect" id="node20" href="$structMath_1_1IdentityFunction.html" title="f(x) = x " alt="" coords="714,715,866,741"/>
+<area shape="rect" id="node21" href="$structMath_1_1InverseMelWarpingCore.html" title="Inverse of Mel warping function core: f = (10^(f_{Mel}) &#45; 1) * 700. " alt="" coords="691,765,889,792"/>
+<area shape="rect" id="node22" href="$structMath_1_1MelWarpingCore.html" title="Mel warping function core f_{Mel} = log10 (1 + f / 700) " alt="" coords="712,816,868,843"/>
+<area shape="rect" id="node23" href="$classMath_1_1OffsetFunction.html" title="f(x) = x + b " alt="" coords="717,867,863,893"/>
+<area shape="rect" id="node24" href="$classMath_1_1PiecewiseConstantFunction.html" title="Piecewise constant function. " alt="" coords="679,917,901,944"/>
+<area shape="rect" id="node25" href="$classMath_1_1PiecewiseLinearFunction.html" title="Math::PiecewiseLinearFunction" alt="" coords="688,968,892,995"/>
+<area shape="rect" id="node26" href="$classMath_1_1ScalingFunction.html" title="f(x) = a * x " alt="" coords="714,1019,866,1045"/>
+<area shape="rect" id="node27" href="$structMath_1_1Sinh.html" title="f(x) = sinh(x) " alt="" coords="747,1069,833,1096"/>
+<area shape="rect" id="node2" href="$classMath_1_1AnalyticFunction.html" title="Interface class for analytic functions. " alt="" coords="220,563,376,589"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,563,172,589"/>
+<area shape="rect" id="node5" href="$classMath_1_1AnalyticMultiplication.html" title="f(x)*g(x) " alt="" coords="965,5,1148,32"/>
+<area shape="rect" id="node6" href="$classMath_1_1AnalyticNesting.html" title="f(g(x)) " alt="" coords="981,56,1132,83"/>
+<area shape="rect" id="node7" href="$classMath_1_1AnalyticSummation.html" title="f(x)+g(x) " alt="" coords="971,107,1143,133"/>
+</map>

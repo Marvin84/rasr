@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structSignal_1_1Warping_1_1InverseItem.html" title="InverseItem is base class for items in inverseWarpingFunction. " alt="" coords="5,101,196,127"/>
+<area shape="rect" id="node2" href="$classSignal_1_1Warping_1_1AritmeticMeanInverseItem.html" title="AritmeticMeanInverseItem merges the interval [begin . " alt="" coords="271,5,445,47"/>
+<area shape="rect" id="node3" href="$classSignal_1_1Warping_1_1CopyInverseItem.html" title="Copies the element at. " alt="" coords="247,71,469,98"/>
+<area shape="rect" id="node6" href="$structSignal_1_1Warping_1_1InsertZeroInverseItem.html" title="InsertZeroInverseItem creates values of the interval (first . " alt="" coords="267,123,449,164"/>
+<area shape="rect" id="node7" href="$classSignal_1_1Warping_1_1LinearInterpolationInverseItem.html" title="LinearInterpolationInverseItem creates values of the interval (first . " alt="" coords="244,188,472,229"/>
+<area shape="rect" id="node4" href="$structSignal_1_1Warping_1_1KeepEndInverseItem.html" title="KeepEndInverseItem creates values of the interval (first . " alt="" coords="529,32,703,73"/>
+<area shape="rect" id="node5" href="$structSignal_1_1Warping_1_1SelectBeginInverseItem.html" title="SelectBeginInverseItem merges the interval [begin . " alt="" coords="520,97,712,139"/>
+</map>

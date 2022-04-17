@@ -1,0 +1,19 @@
+\form#0:$ A \odot L \odot B $
+\form#1:$ L $
+\form#2:$(a, b)$
+\form#3:$a$
+\form#4:$b$
+\form#5:$A$
+\form#6:$B$
+\form#7:$(a_i, b_i)$
+\form#8:$A = a_1 ... a_n$
+\form#9:$B = b_1 ... b_n$
+\form#10:$a_i = \epsilon$
+\form#11:$b_i = \epsilon$
+\form#12:$a_i \neq b_i$
+\form#13:$L$
+\form#14:$a:a$
+\form#15:$a:\epsilon$
+\form#16:$\epsilon:a$
+\form#17:$a \neq b $
+\form#18:$A \odot L \odot B$

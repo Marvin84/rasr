@@ -1,0 +1,4 @@
+<map id="Am::AllophoneStateToPhonemeTransducer" name="Am::AllophoneStateToPhonemeTransducer">
+<area shape="rect" id="node2" href="$classFtl_1_1StaticAutomaton.html" title="Fsa::StaticAutomaton" alt="" coords="35,169,184,196"/>
+<area shape="rect" id="node3" href="$classFtl_1_1StorageAutomaton.html" title="Ftl::StorageAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="33,80,186,121"/>
+</map>

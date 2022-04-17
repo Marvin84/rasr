@@ -1,0 +1,7 @@
+<map id="Core::XmlChannel" name="Core::XmlChannel">
+<area shape="rect" id="node2" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="5,351,121,377"/>
+<area shape="rect" id="node4" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="146,351,253,377"/>
+<area shape="rect" id="node5" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="123,261,275,288"/>
+<area shape="rect" id="node6" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="125,171,273,212"/>
+<area shape="rect" id="node7" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="252,95,419,121"/>
+</map>

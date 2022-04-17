@@ -1,0 +1,10 @@
+<map id="Flf::LocalCostDecoder::ArcSymetricFrameErrorRiskBuilder" name="Flf::LocalCostDecoder::ArcSymetricFrameErrorRiskBuilder">
+<area shape="rect" id="node2" href="$classFlf_1_1LocalCostDecoder_1_1RiskBuilder.html" title="Flf::LocalCostDecoder\l::RiskBuilder" alt="" coords="764,122,917,163"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="454,5,621,32"/>
+<area shape="rect" id="node4" href="$structFlf_1_1LocalCostDecoder_1_1RiskBuilder_1_1HypothesisSpace.html" title="Flf::LocalCostDecoder\l::RiskBuilder::HypothesisSpace" alt="" coords="433,122,641,163"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Arc \&gt;" alt="" coords="199,44,339,71"/>
+<area shape="rect" id="node13" href="$structFlf_1_1LocalCostDecoder_1_1RiskBuilder_1_1SummationSpace.html" title="Flf::LocalCostDecoder\l::RiskBuilder::SummationSpace" alt="" coords="433,57,641,98"/>
+<area shape="rect" id="node7" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; State \&gt;" alt="" coords="193,112,344,139"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; u32 \&gt;" alt="" coords="467,188,608,215"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; T \&gt;" alt="" coords="473,239,601,265"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="Mm::BatchPreselectionIntFeatureScorer::ClusterIterator" name="Mm::BatchPreselectionIntFeatureScorer::ClusterIterator">
+<area shape="rect" id="node2" href="$classMm_1_1DensityClusteringBase.html" title="Mm::DensityClusteringBase" alt="" coords="1872,259,2059,285"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1683,137,1809,164"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1357,57,1488,84"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1028,55,1163,81"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="454,83,589,125"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,73,292,114"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="447,210,595,251"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,281,308,308"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="741,73,885,114"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1358,111,1487,137"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1037,105,1153,132"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1042,156,1149,183"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="737,217,889,244"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="446,335,597,361"/>
+<area shape="rect" id="node24" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="440,284,603,311"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1373,161,1472,188"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1187,360,1333,387"/>
+<area shape="rect" id="node19" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="732,353,895,394"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1512,297,1645,324"/>
+<area shape="rect" id="node23" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="732,282,895,323"/>
+</map>

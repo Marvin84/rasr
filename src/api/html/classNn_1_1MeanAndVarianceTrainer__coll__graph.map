@@ -1,0 +1,45 @@
+<map id="Nn::MeanAndVarianceTrainer&lt; T &gt;" name="Nn::MeanAndVarianceTrainer&lt; T &gt;">
+<area shape="rect" id="node2" href="$classNn_1_1NeuralNetworkTrainer.html" title="Base class for any neural network trainer. " alt="" coords="2504,791,2711,817"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1905,663,2030,689"/>
+<area shape="rect" id="node26" href="$classNn_1_1Criterion.html" title="Nn::Criterion\&lt; T \&gt;" alt="" coords="2237,524,2365,551"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1549,669,1680,696"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1161,715,1296,741"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="500,738,635,779"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="173,719,308,761"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="493,605,641,646"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="157,913,324,940"/>
+<area shape="rect" id="node33" href="$classBliss_1_1SpeechSegment.html" title="Segment of a Recording containing speech. " alt="" coords="1890,493,2045,520"/>
+<area shape="rect" id="node36" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="152,387,329,413"/>
+<area shape="rect" id="node38" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="1169,404,1288,431"/>
+<area shape="rect" id="node39" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="835,365,981,392"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="836,738,980,779"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1550,724,1679,751"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1171,823,1287,849"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1175,765,1282,792"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="832,565,984,592"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1147,903,1310,929"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="484,963,651,989"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1565,776,1664,803"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1888,791,2047,817"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1511,829,1719,870"/>
+<area shape="rect" id="node22" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1533,895,1696,937"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2079,904,2212,931"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1339,969,1483,996"/>
+<area shape="rect" id="node24" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="804,962,1012,1003"/>
+<area shape="rect" id="node27" href="$classMath_1_1CudaVector.html" title="Math::CudaVector\&lt; u32 \&gt;" alt="" coords="1881,395,2054,421"/>
+<area shape="rect" id="node28" href="$classMath_1_1FastVector.html" title="Math::FastVector\&lt; u32 \&gt;" alt="" coords="1531,387,1699,413"/>
+<area shape="rect" id="node46" href="$classMath_1_1FastMatrix.html" title="Math::FastMatrix\&lt; T \&gt;" alt="" coords="1538,200,1691,227"/>
+<area shape="rect" id="node47" href="$classMath_1_1CudaVector.html" title="Math::CudaVector\&lt; T \&gt;" alt="" coords="1887,163,2047,189"/>
+<area shape="rect" id="node48" href="$classMath_1_1FastVector.html" title="Math::FastVector\&lt; T \&gt;" alt="" coords="1537,149,1692,176"/>
+<area shape="rect" id="node30" href="$classMath_1_1CudaDataStructure.html" title="Math::CudaDataStructure" alt="" coords="1529,328,1700,355"/>
+<area shape="rect" id="node45" href="$classMath_1_1CudaMatrix.html" title="Math::CudaMatrix\&lt; T \&gt;" alt="" coords="1888,223,2047,249"/>
+<area shape="rect" id="node31" href="$structMath_1_1curandGenerator__t.html" title="Math::curandGenerator_t" alt="" coords="1145,303,1312,329"/>
+<area shape="rect" id="node32" href="$structMath_1_1cublasHandle__t.html" title="Math::cublasHandle_t" alt="" coords="1154,241,1303,268"/>
+<area shape="rect" id="node34" href="$classBliss_1_1Segment.html" title="General segment of a Recording. " alt="" coords="1559,455,1670,481"/>
+<area shape="rect" id="node35" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="502,269,633,296"/>
+<area shape="rect" id="node37" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="485,387,650,413"/>
+<area shape="rect" id="node40" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="514,437,621,464"/>
+<area shape="rect" id="node41" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="491,539,644,581"/>
+<area shape="rect" id="node43" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="491,321,644,362"/>
+<area shape="rect" id="node49" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; T \&gt;" alt="" coords="2236,1025,2365,1052"/>
+</map>

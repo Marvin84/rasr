@@ -1,0 +1,10 @@
+<map id="Bliss::Segment" name="Bliss::Segment">
+<area shape="rect" id="node2" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="5,329,136,356"/>
+<area shape="rect" id="node3" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="239,329,416,356"/>
+<area shape="rect" id="node7" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="896,223,1041,249"/>
+<area shape="rect" id="node5" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="577,380,743,407"/>
+<area shape="rect" id="node8" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="607,329,713,356"/>
+<area shape="rect" id="node6" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="1153,223,1272,249"/>
+<area shape="rect" id="node9" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="583,198,737,239"/>
+<area shape="rect" id="node11" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="583,263,737,305"/>
+</map>

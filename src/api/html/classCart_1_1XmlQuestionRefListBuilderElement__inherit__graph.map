@@ -1,0 +1,9 @@
+<map id="Cart::XmlQuestionRefListBuilderElement" name="Cart::XmlQuestionRefListBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="11,251,175,278"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="5,162,172,189"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="24,80,153,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="25,5,152,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; QuestionRefList \&gt;" alt="" coords="203,244,353,285"/>
+<area shape="rect" id="node7" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="196,155,360,196"/>
+<area shape="rect" id="node8" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="384,162,545,189"/>
+</map>

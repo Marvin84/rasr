@@ -1,0 +1,5 @@
+<map id="Core::TextInputStream::Buffer" name="Core::TextInputStream::Buffer">
+<area shape="rect" id="node6" href="$classCore_1_1TextInputStream.html" title="Stream for text input. " alt="" coords="49,289,204,316"/>
+<area shape="rect" id="node3" href="$classCore_1_1UnicodeInputConverter.html" title="Converter for reading text data. " alt="" coords="109,81,301,108"/>
+<area shape="rect" id="node4" href="$classCore_1_1CharsetConverter.html" title="Core::CharsetConverter" alt="" coords="125,5,286,32"/>
+</map>

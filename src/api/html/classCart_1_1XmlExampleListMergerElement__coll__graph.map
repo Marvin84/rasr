@@ -1,0 +1,47 @@
+<map id="Cart::XmlExampleListMergerElement" name="Cart::XmlExampleListMergerElement">
+<area shape="rect" id="node47" href="$structXmlExampleListMergerElement_1_1ExampleListMerger.html" title="Cart::XmlExampleListMerger\lElement::ExampleListMerger" alt="" coords="2957,626,3148,667"/>
+<area shape="rect" id="node2" href="$classCore_1_1XmlRegularElement.html" title="XML element declaration for the regular content model. " alt="" coords="1949,604,2124,631"/>
+<area shape="rect" id="node11" href="$classCart_1_1XmlPropertiesBuilderElement.html" title="&lt;properties&gt; &lt;key&gt; history[0] &lt;/key&gt; &lt;key&gt; central &lt;/key&gt; a ... " alt="" coords="2305,821,2482,862"/>
+<area shape="rect" id="node19" href="$classCart_1_1XmlPropertiesDefinitionBuilderElement.html" title="Cart::XmlPropertiesDefinition\lBuilderElement" alt="" coords="2297,698,2489,739"/>
+<area shape="rect" id="node48" href="$classCore_1_1XmlRegularElementRelay.html" title="Core::XmlRegularElementRelay" alt="" coords="2289,633,2497,660"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="1227,731,1393,757"/>
+<area shape="rect" id="node25" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="1594,741,1758,768"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="847,752,977,779"/>
+<area shape="rect" id="node22" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="1593,796,1759,823"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="500,721,627,748"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="448,787,679,813"/>
+<area shape="rect" id="node7" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; ExampleList \&gt;" alt="" coords="1601,1043,1751,1085"/>
+<area shape="rect" id="node8" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="1228,939,1392,981"/>
+<area shape="rect" id="node12" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; Properties \&gt;" alt="" coords="1601,978,1751,1019"/>
+<area shape="rect" id="node20" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap \&gt;" alt="" coords="1601,913,1751,954"/>
+<area shape="rect" id="node23" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap::IndexedString \&gt;" alt="" coords="1572,847,1780,889"/>
+<area shape="rect" id="node50" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; FloatBox \&gt;" alt="" coords="1601,1109,1751,1150"/>
+<area shape="rect" id="node9" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="842,978,982,1019"/>
+<area shape="rect" id="node10" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="1229,1025,1391,1052"/>
+<area shape="rect" id="node14" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="1588,375,1764,417"/>
+<area shape="rect" id="node18" href="$classCart_1_1Properties.html" title="Abstract set of properties, i.e. " alt="" coords="1979,415,2094,441"/>
+<area shape="rect" id="node29" href="$classCart_1_1ExampleList.html" title="Cart::ExampleList" alt="" coords="2330,228,2457,255"/>
+<area shape="rect" id="node15" href="$classCart_1_1Example.html" title="An example is the basic unit to be clustered; it contains of a properties object at which questions c..." alt="" coords="2340,427,2447,453"/>
+<area shape="rect" id="node16" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1593,487,1759,513"/>
+<area shape="rect" id="node27" href="$classCart_1_1PropertyMap.html" title="The property map fullfills two tasks. " alt="" coords="1972,516,2101,543"/>
+<area shape="rect" id="node17" href="$classCart_1_1FloatBox.html" title="An efficient implementation of a 2&#45;dim matrix. " alt="" coords="1983,364,2090,391"/>
+<area shape="rect" id="node21" href="$classCart_1_1XmlIndexedStringBuilderElement.html" title="&lt;properties&#45;definition&gt; &lt;key&gt; central &lt;/key&gt; &lt;value&#45;map&gt; # a &lt;/value&#45;map&gt;... " alt="" coords="1937,831,2136,873"/>
+<area shape="rect" id="node49" href="$classCart_1_1XmlFloatBoxBuilderElement.html" title="&lt;matrix&#45;f64 nRows=&quot;2&quot; nColumns=&quot;3&quot;&gt; 1.0 2.0 3.0 1.0 2.0 3.0 &lt;/matrix&#45;f64&gt; " alt="" coords="1951,1105,2122,1146"/>
+<area shape="rect" id="node24" href="$classCore_1_1XmlMixedElementRelay.html" title="Core::XmlMixedElementRelay" alt="" coords="1937,780,2136,807"/>
+<area shape="rect" id="node26" href="$classCore_1_1XmlAttributes.html" title="XML element attributes. " alt="" coords="1607,673,1745,700"/>
+<area shape="rect" id="node28" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1627,324,1725,351"/>
+<area shape="rect" id="node30" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1974,192,2099,219"/>
+<area shape="rect" id="node31" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1417,184,1548,211"/>
+<area shape="rect" id="node32" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="845,184,979,211"/>
+<area shape="rect" id="node35" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="168,241,303,282"/>
+<area shape="rect" id="node41" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="489,49,637,90"/>
+<area shape="rect" id="node42" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,189,319,216"/>
+<area shape="rect" id="node46" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="485,255,641,297"/>
+<area shape="rect" id="node34" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="491,190,635,231"/>
+<area shape="rect" id="node36" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1611,133,1741,160"/>
+<area shape="rect" id="node37" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1252,133,1368,160"/>
+<area shape="rect" id="node39" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1257,83,1363,109"/>
+<area shape="rect" id="node40" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="836,56,988,83"/>
+<area shape="rect" id="node43" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ExampleRef \&gt;" alt="" coords="1941,119,2133,145"/>
+<area shape="rect" id="node45" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="1012,263,1203,289"/>
+</map>

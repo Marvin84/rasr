@@ -1,0 +1,20 @@
+<map id="Cart::XmlPropertiesDefinitionBuilderElement" name="Cart::XmlPropertiesDefinitionBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlRegularElement.html" title="XML element declaration for the regular content model. " alt="" coords="1321,5,1496,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="708,77,875,104"/>
+<area shape="rect" id="node15" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="1111,99,1275,125"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="399,105,528,132"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="899,149,1065,176"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="57,76,184,103"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="5,140,236,167"/>
+<area shape="rect" id="node7" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap \&gt;" alt="" coords="1119,266,1268,307"/>
+<area shape="rect" id="node8" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="709,261,873,302"/>
+<area shape="rect" id="node13" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap::IndexedString \&gt;" alt="" coords="1089,201,1297,242"/>
+<area shape="rect" id="node9" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="393,233,533,274"/>
+<area shape="rect" id="node10" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="711,209,872,236"/>
+<area shape="rect" id="node11" href="$classCart_1_1XmlIndexedStringBuilderElement.html" title="&lt;properties&#45;definition&gt; &lt;key&gt; central &lt;/key&gt; &lt;value&#45;map&gt; # a &lt;/value&#45;map&gt;... " alt="" coords="1520,201,1719,242"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlMixedElementRelay.html" title="Core::XmlMixedElementRelay" alt="" coords="1520,99,1719,125"/>
+<area shape="rect" id="node16" href="$classCore_1_1XmlAttributes.html" title="XML element attributes. " alt="" coords="1125,48,1262,75"/>
+<area shape="rect" id="node17" href="$classCart_1_1PropertyMap.html" title="The property map fullfills two tasks. " alt="" coords="1555,327,1684,353"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1110,332,1277,359"/>
+<area shape="rect" id="node19" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1144,383,1243,409"/>
+</map>

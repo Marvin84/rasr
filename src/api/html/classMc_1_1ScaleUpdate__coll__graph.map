@@ -1,0 +1,6 @@
+<map id="Mc::ScaleUpdate" name="Mc::ScaleUpdate">
+<area shape="rect" id="node2" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Mc\l::ScaleUpdate::ScaleMap \&gt;" alt="" coords="5,261,188,303"/>
+<area shape="rect" id="node3" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="213,269,365,295"/>
+<area shape="rect" id="node4" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="215,171,363,212"/>
+<area shape="rect" id="node5" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="341,95,508,121"/>
+</map>

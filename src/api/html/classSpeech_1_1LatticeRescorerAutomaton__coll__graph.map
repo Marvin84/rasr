@@ -1,0 +1,8 @@
+<map id="Speech::LatticeRescorerAutomaton" name="Speech::LatticeRescorerAutomaton">
+<area shape="rect" id="node2" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="346,303,525,329"/>
+<area shape="rect" id="node3" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="198,206,353,233"/>
+<area shape="rect" id="node4" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="67,95,209,136"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="121,5,331,32"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="233,102,411,129"/>
+<area shape="rect" id="node8" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="376,199,601,240"/>
+</map>

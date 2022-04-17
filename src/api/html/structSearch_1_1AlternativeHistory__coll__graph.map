@@ -1,0 +1,8 @@
+<map id="Search::AlternativeHistory" name="Search::AlternativeHistory">
+<area shape="rect" id="node2" href="$classLm_1_1History.html" title="Lm::History" alt="" coords="10,282,101,309"/>
+<area shape="rect" id="node3" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="73,171,259,212"/>
+<area shape="rect" id="node4" href="$classLm_1_1SingletonHistoryManager.html" title="Lm::SingletonHistoryManager" alt="" coords="71,81,266,108"/>
+<area shape="rect" id="node5" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node6" href="$structSearch_1_1SearchAlgorithm_1_1ScoreVector.html" title="Search::SearchAlgorithm\l::ScoreVector" alt="" coords="125,275,292,316"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; class Search\l::Trace \&gt;" alt="" coords="316,275,483,316"/>
+</map>

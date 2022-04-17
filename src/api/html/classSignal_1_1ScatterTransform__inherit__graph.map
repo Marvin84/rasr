@@ -1,0 +1,9 @@
+<map id="Signal::ScatterTransform" name="Signal::ScatterTransform">
+<area shape="rect" id="node4" href="$classSignal_1_1EigenTransform.html" title="Base class for eigenvalue analysis based transformations. " alt="" coords="612,45,771,71"/>
+<area shape="rect" id="node7" href="$classSignal_1_1ScatterDiagonalNormalization.html" title="Calculates a transformation which makes the diagonal of the input scatter matrix to be unity..." alt="" coords="572,95,811,122"/>
+<area shape="rect" id="node8" href="$classSignal_1_1ScatterThresholding.html" title="Signal::ScatterThresholding" alt="" coords="600,146,783,173"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,95,309,122"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,95,136,122"/>
+<area shape="rect" id="node5" href="$classSignal_1_1LinearDiscriminantAnalysis.html" title="Linear Discriminant Analysis Input: between class and within class scatter matrices. " alt="" coords="863,5,1037,47"/>
+<area shape="rect" id="node6" href="$classSignal_1_1PrincipalComponentAnalysis.html" title="Principal Component Analysis. " alt="" coords="859,71,1041,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Flf::ConfusionNetwork" name="Flf::ConfusionNetwork">
+<area shape="rect" id="node2" href="$classFlf_1_1Cn_1_1ConfusionNetwork.html" title="Flf::Cn::ConfusionNetwork\l\&lt; Cn::Arc \&gt;" alt="" coords="510,64,689,105"/>
+<area shape="rect" id="node3" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Vector\&lt; Cn::Arc \&gt; \&gt;" alt="" coords="217,5,366,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="208,71,375,98"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="196,122,387,149"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const OracleAlignment\lProperties \&gt;" alt="" coords="488,129,711,171"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const MapProperties \&gt;" alt="" coords="488,195,711,222"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Normalized\lProperties \&gt;" alt="" coords="503,247,696,288"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const NBestAlignment\lProperties \&gt;" alt="" coords="488,312,711,353"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="504,378,695,405"/>
+</map>

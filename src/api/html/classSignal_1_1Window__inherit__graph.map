@@ -1,0 +1,5 @@
+<map id="Signal::Window" name="Signal::Window">
+<area shape="rect" id="node3" href="$classSignal_1_1SlidingAlgorithmNode.html" title="Signal::SlidingAlgorithm\lNode\&lt; Window \&gt;" alt="" coords="5,155,165,196"/>
+<area shape="rect" id="node2" href="$classSignal_1_1WindowBuffer.html" title="WindowBuffer is buffer collecting vectors of samples and delivering (overlapping) segments of a given..." alt="" coords="11,5,159,32"/>
+<area shape="rect" id="node4" href="$classSignal_1_1WindowNode.html" title="WindowNode. " alt="" coords="13,244,157,271"/>
+</map>

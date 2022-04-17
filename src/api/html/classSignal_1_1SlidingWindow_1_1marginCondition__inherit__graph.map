@@ -1,0 +1,5 @@
+<map id="Signal::SlidingWindow&lt; T &gt;::marginCondition" name="Signal::SlidingWindow&lt; T &gt;::marginCondition">
+<area shape="rect" id="node2" href="$structSignal_1_1SlidingWindow_1_1fullMarginCondition.html" title="Condition is satisfied if the sliding window is full. " alt="" coords="229,5,402,47"/>
+<area shape="rect" id="node3" href="$structSignal_1_1SlidingWindow_1_1notEmptyMarginCondition.html" title="Condition is satisfied if the sliding window contains at least one element. " alt="" coords="209,71,421,112"/>
+<area shape="rect" id="node4" href="$structSignal_1_1SlidingWindow_1_1presentNotEmptyMarginCondition.html" title="Condition is satisfied if the sliding window contains an element at the present position. " alt="" coords="214,135,417,191"/>
+</map>

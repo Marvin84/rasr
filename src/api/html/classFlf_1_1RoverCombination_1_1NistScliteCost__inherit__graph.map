@@ -1,0 +1,6 @@
+<map id="Flf::RoverCombination::NistScliteCost" name="Flf::RoverCombination::NistScliteCost">
+<area shape="rect" id="node4" href="$classFlf_1_1RoverCombination_1_1NistScliteTimeMediatedCost.html" title="D(correct) = | T1(ref) &#45; T1(hyp) | + | T2(ref) &#45; T2(hyp) | D(insertion) = T2(hyp) &#45; T1(hyp) D(deletio..." alt="" coords="680,5,877,47"/>
+<area shape="rect" id="node5" href="$classFlf_1_1RoverCombination_1_1NistScliteWordCost.html" title="Description of the cost structure: 0 &#45;&gt; Correct 0.001 &#45;&gt; Insertion, deletion of &#39;@&#39; (a NULL) 1 &#45;&gt; Sub..." alt="" coords="702,71,855,112"/>
+<area shape="rect" id="node2" href="$classFlf_1_1ConfusionNetworkAlignment_1_1Cost.html" title="Flf::ConfusionNetworkAlignment\l::Cost" alt="" coords="220,39,431,80"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,46,172,73"/>
+</map>

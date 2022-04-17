@@ -1,0 +1,5 @@
+<map id="Core::MappedArchive::Writer" name="Core::MappedArchive::Writer">
+<area shape="rect" id="node4" href="$classCore_1_1MappedArchive.html" title="This class represents an archive containing multiple &quot;virtual&quot; files, which can be mapped to memory..." alt="" coords="95,199,243,225"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="104,5,271,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1MMappedFile.html" title="This class represents a simple memory&#45;mapped file. " alt="" coords="285,102,421,129"/>
+</map>

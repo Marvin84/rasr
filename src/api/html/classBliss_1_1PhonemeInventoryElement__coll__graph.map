@@ -1,0 +1,6 @@
+<map id="Bliss::PhonemeInventoryElement" name="Bliss::PhonemeInventoryElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlBuilderElement.html" title="Core::XmlBuilderElement\l\&lt; PhonemeInventory, Core\l::XmlRegularElement, Core\l::CreateUsingNew \&gt;" alt="" coords="353,5,536,76"/>
+<area shape="rect" id="node3" href="$classBliss_1_1Phoneme.html" title="Phonemic symbol. " alt="" coords="387,101,502,127"/>
+<area shape="rect" id="node4" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="209,101,304,127"/>
+<area shape="rect" id="node5" href="$classBliss_1_1Symbol.html" title="Symbols are character strings which are collected in a SymbolSet. " alt="" coords="5,101,108,127"/>
+</map>

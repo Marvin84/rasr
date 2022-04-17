@@ -1,0 +1,5 @@
+<map id="Lm::ReferenceCountingHistoryManager" name="Lm::ReferenceCountingHistoryManager">
+<area shape="rect" id="node3" href="$classFsaLm_1_1HistoryManager.html" title="Lm::FsaLm::HistoryManager" alt="" coords="5,169,193,196"/>
+<area shape="rect" id="node4" href="$classLm_1_1WordlistInterfaceLm.html" title="Abstract bsse class for Philips&#45; and (legacy) RWTH language model adaptors. " alt="" coords="218,169,383,196"/>
+<area shape="rect" id="node2" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="129,5,269,32"/>
+</map>

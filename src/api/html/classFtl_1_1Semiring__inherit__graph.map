@@ -1,0 +1,13 @@
+<map id="Ftl::Semiring&lt; _Weight &gt;" name="Ftl::Semiring&lt; _Weight &gt;">
+<area shape="rect" id="node3" href="$classFsa_1_1CountSemiring__.html" title="Fsa::CountSemiring_" alt="" coords="446,5,591,32"/>
+<area shape="rect" id="node4" href="$classFtl_1_1CountPathsSemiring__.html" title="Ftl::CountPathsSemiring\l_\&lt; Count \&gt;" alt="" coords="436,57,601,98"/>
+<area shape="rect" id="node5" href="$classFtl_1_1LogSemiring.html" title="Ftl::LogSemiring\&lt; \l_Weight \&gt;" alt="" coords="454,122,583,163"/>
+<area shape="rect" id="node12" href="$classFtl_1_1SemiringAdapter.html" title="Ftl::SemiringAdapter\l\&lt; _Weight \&gt;" alt="" coords="448,187,589,229"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,97,172,124"/>
+<area shape="rect" id="node6" href="$classFsa_1_1PredefinedLogSemiring64__.html" title="Fsa::PredefinedLogSemiring64\l_\&lt; Weight64, f64 \&gt;" alt="" coords="649,34,849,75"/>
+<area shape="rect" id="node7" href="$classFsa_1_1PredefinedLogSemiring__.html" title="Fsa::PredefinedLogSemiring_" alt="" coords="653,100,846,127"/>
+<area shape="rect" id="node8" href="$classFtl_1_1ProbabilitySemiring.html" title="Ftl::ProbabilitySemiring\l\&lt; _Weight, _Type \&gt;" alt="" coords="671,151,828,193"/>
+<area shape="rect" id="node10" href="$classFtl_1_1TropicalSemiring.html" title="Ftl::TropicalSemiring\l\&lt; _Weight, _Type \&gt;" alt="" coords="678,217,821,258"/>
+<area shape="rect" id="node9" href="$classFsa_1_1PredefinedProbabilitySemiring__.html" title="Fsa::PredefinedProbability\lSemiring_" alt="" coords="919,151,1094,193"/>
+<area shape="rect" id="node11" href="$classFsa_1_1PredefinedTropicalSemiring__.html" title="Fsa::PredefinedTropicalSemiring_" alt="" coords="897,224,1116,251"/>
+</map>

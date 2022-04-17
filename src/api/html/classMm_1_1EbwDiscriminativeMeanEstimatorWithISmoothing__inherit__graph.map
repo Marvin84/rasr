@@ -1,0 +1,9 @@
+<map id="Mm::EbwDiscriminativeMeanEstimatorWithISmoothing" name="Mm::EbwDiscriminativeMeanEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1EbwDiscriminativeMeanEstimator.html" title="EbwDiscriminativeMeanEstimator. " alt="" coords="27,379,220,420"/>
+<area shape="rect" id="node3" href="$classMm_1_1DiscriminativeMeanEstimator.html" title="DiscriminativeMeanEstimator. " alt="" coords="12,304,235,331"/>
+<area shape="rect" id="node4" href="$classMm_1_1MeanEstimator.html" title="MeanEstimator. " alt="" coords="53,229,193,256"/>
+<area shape="rect" id="node5" href="$classMm_1_1AbstractMeanEstimator.html" title="AbstractMeanEstimator. " alt="" coords="29,155,218,181"/>
+<area shape="rect" id="node6" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="5,80,241,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="40,5,207,32"/>
+<area shape="rect" id="node8" href="$classMm_1_1ISmoothingMeanEstimator.html" title="ISmoothingMeanEstimator. " alt="" coords="244,386,451,413"/>
+</map>

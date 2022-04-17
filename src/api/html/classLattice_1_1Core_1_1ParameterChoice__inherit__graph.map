@@ -1,0 +1,5 @@
+<map id="Lattice::Core::ParameterChoice" name="Lattice::Core::ParameterChoice">
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="15,155,210,196"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="14,80,211,107"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="5,5,220,32"/>
+</map>

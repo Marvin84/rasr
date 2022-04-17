@@ -1,0 +1,5 @@
+<map id="Bliss::Segment" name="Bliss::Segment">
+<area shape="rect" id="node4" href="$classBliss_1_1SpeechSegment.html" title="Segment of a Recording containing speech. " alt="" coords="17,229,171,256"/>
+<area shape="rect" id="node2" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="29,80,159,107"/>
+<area shape="rect" id="node3" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="5,5,183,32"/>
+</map>

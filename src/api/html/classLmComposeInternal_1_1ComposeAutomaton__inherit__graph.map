@@ -1,0 +1,7 @@
+<map id="LmComposeInternal::ComposeAutomaton" name="LmComposeInternal::ComposeAutomaton">
+<area shape="rect" id="node5" href="$classLmComposeInternal_1_1LemmaComposeAutomaton.html" title="LmComposeInternal::\lLemmaComposeAutomaton" alt="" coords="814,5,998,47"/>
+<area shape="rect" id="node6" href="$classLmComposeInternal_1_1LemmaPronunciationComposeAutomaton.html" title="LmComposeInternal::\lLemmaPronunciationComposeAutomaton" alt="" coords="775,71,1037,112"/>
+<area shape="rect" id="node2" href="$classLm_1_1ComposeAutomaton.html" title="Lm::ComposeAutomaton" alt="" coords="365,46,532,73"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="203,46,317,73"/>
+<area shape="rect" id="node4" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="5,39,155,80"/>
+</map>

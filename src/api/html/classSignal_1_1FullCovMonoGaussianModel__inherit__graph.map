@@ -1,0 +1,5 @@
+<map id="Signal::FullCovMonoGaussianModel" name="Signal::FullCovMonoGaussianModel">
+<area shape="rect" id="node2" href="$classSignal_1_1BICFullCovMonoGaussianModel.html" title="Signal::BICFullCovMonoGaussian\lModel" alt="" coords="129,95,350,136"/>
+<area shape="rect" id="node3" href="$classSignal_1_1CorrFullCovMonoGaussianModel.html" title="Signal::CorrFullCovMonoGaussian\lModel" alt="" coords="5,184,228,225"/>
+<area shape="rect" id="node4" href="$classSignal_1_1KL2FullCovMonoGaussianModel.html" title="Signal::KL2FullCovMonoGaussian\lModel" alt="" coords="253,184,474,225"/>
+</map>

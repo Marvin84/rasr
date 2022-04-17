@@ -1,0 +1,4 @@
+<map id="Speech::LemmaPronunciationId_hash_map" name="Speech::LemmaPronunciationId_hash_map">
+<area shape="rect" id="node2" href="$classCore_1_1HashMap.html" title="Core::HashMap\&lt; Fsa\l::LabelId, f32 \&gt;" alt="" coords="237,27,385,69"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="219,93,403,120"/>
+</map>

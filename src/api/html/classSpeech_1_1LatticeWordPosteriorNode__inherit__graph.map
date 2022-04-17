@@ -1,0 +1,8 @@
+<map id="Speech::LatticeWordPosteriorNode" name="Speech::LatticeWordPosteriorNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeTransformNode.html" title="LatticeTransformNode Base node for unary operations on lattices, preserving the topology. " alt="" coords="17,379,220,405"/>
+<area shape="rect" id="node3" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="54,304,183,331"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="74,229,163,256"/>
+<area shape="rect" id="node5" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="49,155,188,181"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="56,80,181,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="53,5,184,32"/>
+</map>

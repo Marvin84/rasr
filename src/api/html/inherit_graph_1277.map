@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSearch_1_1Wfst_1_1TraceRecorder.html" title="Interface for book keeping classes. " alt="" coords="5,46,199,73"/>
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1FirstBestTraceRecorder.html" title="storage of Trace objects used by ExpandingFsaSearch " alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1LatticeTraceRecorder.html" title="Base class for lattice constructing TraceRecorders. " alt="" coords="254,71,433,112"/>
+<area shape="rect" id="node4" href="$classSearch_1_1Wfst_1_1HmmLatticeTraceRecorder.html" title="Constructs lattices with HMM input labels and word output labels. " alt="" coords="488,71,667,112"/>
+<area shape="rect" id="node5" href="$classSearch_1_1Wfst_1_1DetermisticHmmLatticeTraceRecorder.html" title="Creates lattices like HmmLatticeTraceRecorder, but applies transducer determinization afterwards..." alt="" coords="715,37,893,79"/>
+<area shape="rect" id="node6" href="$classSearch_1_1Wfst_1_1SimpleWordLatticeRecorder.html" title="Creates a word lattice. " alt="" coords="715,103,893,144"/>
+<area shape="rect" id="node7" href="$classSearch_1_1Wfst_1_1SimpleNonDetWordLatticeRecorder.html" title="Creates a word lattice as SimpleWordLatticeRecorder, but without final determinization. " alt="" coords="941,103,1133,144"/>
+</map>

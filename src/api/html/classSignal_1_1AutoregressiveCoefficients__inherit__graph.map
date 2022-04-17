@@ -1,0 +1,5 @@
+<map id="Signal::AutoregressiveCoefficients" name="Signal::AutoregressiveCoefficients">
+<area shape="rect" id="node2" href="$classFlow_1_1Timestamp.html" title="Base class for Flow packets with time stamp information. " alt="" coords="55,169,178,196"/>
+<area shape="rect" id="node3" href="$classFlow_1_1Data.html" title="Base class for Data class in Flow Features: &#45;Multithread safe reference counting. ..." alt="" coords="73,95,160,121"/>
+<area shape="rect" id="node4" href="$classCore_1_1ThreadSafeReferenceCounted.html" title="Base class for reference&#45;counted objects used in a multithreaded environment. " alt="" coords="24,5,209,47"/>
+</map>

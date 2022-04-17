@@ -1,0 +1,7 @@
+<map id="OpenFst::FstMapperAutomaton&lt; Fsa::Semiring, FstArc, WeightConverter &gt;" name="OpenFst::FstMapperAutomaton&lt; Fsa::Semiring, FstArc, WeightConverter &gt;">
+<area shape="rect" id="node2" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="396,13,511,39"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="26,5,175,47"/>
+<area shape="rect" id="node4" href="$classOpenFst_1_1FstMapperAutomatonImpl.html" title="OpenFst::FstMapperAutomaton\lImpl\&lt; Semiring, FstArc,\l WeightConverter, FsaAutomaton \&gt;" alt="" coords="339,63,568,119"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="5,74,196,101"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="5,125,196,151"/>
+</map>

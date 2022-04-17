@@ -1,0 +1,8 @@
+<map id="Signal::WindowBuffer" name="Signal::WindowBuffer">
+<area shape="rect" id="node2" href="$classSignal_1_1Window.html" title="Window. " alt="" coords="232,17,345,43"/>
+<area shape="rect" id="node5" href="$classSignal_1_1WindowingFirFilter.html" title="Signal::WindowingFirFilter" alt="" coords="201,71,376,98"/>
+<area shape="rect" id="node3" href="$classSignal_1_1SlidingAlgorithmNode.html" title="Signal::SlidingAlgorithm\lNode\&lt; Window \&gt;" alt="" coords="437,5,597,47"/>
+<area shape="rect" id="node4" href="$classSignal_1_1WindowNode.html" title="WindowNode. " alt="" coords="688,13,832,39"/>
+<area shape="rect" id="node6" href="$classSignal_1_1SlidingAlgorithmNode.html" title="Signal::SlidingAlgorithm\lNode\&lt; WindowingFirFilter \&gt;" alt="" coords="424,71,609,112"/>
+<area shape="rect" id="node7" href="$classSignal_1_1WindowingFirFilterNode.html" title="WindowingFirFilterNode. " alt="" coords="657,78,863,105"/>
+</map>

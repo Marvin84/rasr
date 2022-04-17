@@ -1,0 +1,15 @@
+<map id="Lattice::BaseAccumulator&lt; Trainer &gt;" name="Lattice::BaseAccumulator&lt; Trainer &gt;">
+<area shape="rect" id="node4" href="$classLattice_1_1AcousticAccumulator.html" title="AcousticAccumulator. " alt="" coords="547,182,740,223"/>
+<area shape="rect" id="node14" href="$classLattice_1_1LmAccumulator.html" title="LmAccumulator. " alt="" coords="563,247,723,289"/>
+<area shape="rect" id="node2" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="157,223,279,249"/>
+<area shape="rect" id="node3" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="5,223,109,249"/>
+<area shape="rect" id="node5" href="$classLattice_1_1CachedAcousticAccumulator.html" title="Lattice::CachedAcousticAccumulator\l\&lt; Trainer \&gt;" alt="" coords="788,117,1027,158"/>
+<area shape="rect" id="node12" href="$classLattice_1_1TdpAccumulator.html" title="TdpAccumulator. " alt="" coords="825,182,989,223"/>
+<area shape="rect" id="node13" href="$classNn_1_1CachedAcousticAccumulator.html" title="Nn::CachedAcousticAccumulator\l\&lt; Trainer \&gt;" alt="" coords="799,247,1015,289"/>
+<area shape="rect" id="node6" href="$classInternalGmm_1_1DenominatorAccumulator.html" title="InternalGmm::Denominator\lAccumulator\&lt; DiscriminativeMixture\lSetTrainer \&gt;" alt="" coords="1077,5,1311,61"/>
+<area shape="rect" id="node7" href="$classInternalGmm_1_1NumeratorAccumulator.html" title="InternalGmm::NumeratorAccumulator\l\&lt; DiscriminativeMixtureSetTrainer \&gt;" alt="" coords="1075,85,1313,126"/>
+<area shape="rect" id="node8" href="$classLattice_1_1CachedAcousticSparseAccumulator.html" title="CachedAcousticSparseAccumulator. " alt="" coords="1091,150,1297,191"/>
+<area shape="rect" id="node11" href="$classLattice_1_1WeightedCachedAcousticAccumulator.html" title="WeightedCachedAcousticAccumulator. " alt="" coords="1084,215,1304,257"/>
+<area shape="rect" id="node9" href="$classLattice_1_1DensityCachedAcousticAccumulator.html" title="DensityCachedAcousticAccumulator. " alt="" coords="1361,150,1572,191"/>
+<area shape="rect" id="node10" href="$classLattice_1_1WeightedDensityCachedAcousticAccumulator.html" title="WeightedDensityCachedAcousticAccumulator. " alt="" coords="1620,143,1811,199"/>
+</map>

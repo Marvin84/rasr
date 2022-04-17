@@ -1,0 +1,7 @@
+<map id="Core::XmlChoiceBuilderElement&lt; P &gt;" name="Core::XmlChoiceBuilderElement&lt; P &gt;">
+<area shape="rect" id="node2" href="$classCore_1_1XmlDataOnlyBuilderElement.html" title="Core::XmlDataOnlyBuilder\lElement\&lt; P, ChoiceConversion\l\&lt; P \&gt; \&gt;" alt="" coords="29,319,236,375"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; XmlEmptyElement, P, P, const P &amp; \&gt;" alt="" coords="5,229,260,271"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="49,155,216,181"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="68,80,197,107"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="69,5,196,32"/>
+</map>

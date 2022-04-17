@@ -1,0 +1,5 @@
+<map id="Search::Wfst::StateSequenceMap" name="Search::Wfst::StateSequenceMap">
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1FullyTiedStateSequenceMap.html" title="Search::Wfst::FullyTiedState\lSequenceMap" alt="" coords="303,5,493,47"/>
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1TiedStateSequenceMap.html" title="tie state sequences, i.e. " alt="" coords="275,71,521,98"/>
+<area shape="rect" id="node4" href="$classSearch_1_1Wfst_1_1UniqueStateSequenceMap.html" title="do not apply any state tying, i.e. " alt="" coords="309,123,487,164"/>
+</map>

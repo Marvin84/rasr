@@ -1,0 +1,6 @@
+<map id="AlignmentExtractor" name="AlignmentExtractor">
+<area shape="rect" id="node2" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="550,19,654,46"/>
+<area shape="rect" id="node3" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="261,5,400,47"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1Alignment.html" title="Speech::Alignment" alt="" coords="536,71,668,98"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Fsa\l::Alphabet \&gt;" alt="" coords="256,123,405,164"/>
+</map>

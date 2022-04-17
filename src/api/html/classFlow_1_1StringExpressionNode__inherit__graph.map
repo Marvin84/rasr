@@ -1,0 +1,11 @@
+<map id="Flow::StringExpressionNode" name="Flow::StringExpressionNode">
+<area shape="rect" id="node6" href="$classSignal_1_1CosineTransformNode.html" title="Cosine Transform Node Performs cosine transform with several options: &#45;arbitrary integrated warping f..." alt="" coords="917,5,1115,32"/>
+<area shape="rect" id="node7" href="$classSignal_1_1FilterBankNode.html" title="Filter Bank Node. " alt="" coords="938,56,1094,83"/>
+<area shape="rect" id="node8" href="$classSignal_1_1GammaToneNode.html" title="Gammatone filter bank node. " alt="" coords="930,107,1102,133"/>
+<area shape="rect" id="node9" href="$classSignal_1_1GenericWarpingNode.html" title="Warping node with arbitrary warping function Warping function can be any kind supported by Math::Anal..." alt="" coords="921,157,1111,184"/>
+<area shape="rect" id="node10" href="$classSignal_1_1MatrixMultiplicationNode.html" title="Matrix multiplication filter. " alt="" coords="927,209,1105,250"/>
+<area shape="rect" id="node2" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="544,107,633,133"/>
+<area shape="rect" id="node3" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="357,107,496,133"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,107,309,133"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,107,136,133"/>
+</map>

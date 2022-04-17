@@ -1,0 +1,8 @@
+<map id="Mm::MixtureSet" name="Mm::MixtureSet">
+<area shape="rect" id="node2" href="$classMm_1_1AbstractMixtureSet.html" title="AbstractMixtureSet administrates mixture objects and their relations. " alt="" coords="593,97,757,124"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="269,5,435,32"/>
+<area shape="rect" id="node4" href="$classMm_1_1PointerVector.html" title="Mm::PointerVector\&lt;\l Mm::AbstractDensity \&gt;" alt="" coords="271,57,433,98"/>
+<area shape="rect" id="node6" href="$classMm_1_1PointerVector.html" title="Mm::PointerVector\&lt;\l Mm::Mixture \&gt;" alt="" coords="283,122,421,163"/>
+<area shape="rect" id="node8" href="$classMm_1_1PointerVector.html" title="Mm::PointerVector\&lt;\l Mm::Mean \&gt;" alt="" coords="606,173,745,214"/>
+<area shape="rect" id="node10" href="$classMm_1_1PointerVector.html" title="Mm::PointerVector\&lt;\l Mm::Covariance \&gt;" alt="" coords="606,238,745,279"/>
+</map>

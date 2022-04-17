@@ -1,0 +1,9 @@
+<map id="Speech::LatticeExpectationPosteriorNode" name="Speech::LatticeExpectationPosteriorNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeTransform2Node.html" title="LatticeTransform2Node Base node for binary operations on lattices, preserving the topology..." alt="" coords="5,453,216,480"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1LatticeTransformNode.html" title="LatticeTransformNode Base node for unary operations on lattices, preserving the topology. " alt="" coords="9,379,212,405"/>
+<area shape="rect" id="node4" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="46,304,175,331"/>
+<area shape="rect" id="node5" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="66,229,155,256"/>
+<area shape="rect" id="node6" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="41,155,180,181"/>
+<area shape="rect" id="node7" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="48,80,173,107"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="45,5,176,32"/>
+</map>

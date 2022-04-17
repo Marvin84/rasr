@@ -1,0 +1,20 @@
+<map id="Mm::RpropDiscriminativeMeanEstimatorWithISmoothing" name="Mm::RpropDiscriminativeMeanEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1RpropDiscriminativeMeanEstimator.html" title="RpropDiscriminativeMeanEstimator. " alt="" coords="2061,127,2263,169"/>
+<area shape="rect" id="node3" href="$classMm_1_1DiscriminativeMeanEstimator.html" title="DiscriminativeMeanEstimator. " alt="" coords="1657,73,1880,100"/>
+<area shape="rect" id="node4" href="$classMm_1_1MeanEstimator.html" title="MeanEstimator. " alt="" coords="1411,71,1551,97"/>
+<area shape="rect" id="node5" href="$classMm_1_1AbstractMeanEstimator.html" title="AbstractMeanEstimator. " alt="" coords="958,5,1147,32"/>
+<area shape="rect" id="node6" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="656,5,892,32"/>
+<area shape="rect" id="node7" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="440,5,607,32"/>
+<area shape="rect" id="node8" href="$classMm_1_1VectorAccumulator.html" title="Mm::VectorAccumulator\l\&lt; FeatureType, std::plus\l\&lt; Sum \&gt;, plusWeighted\&lt; Sum \&gt; \&gt;" alt="" coords="941,56,1164,112"/>
+<area shape="rect" id="node9" href="$classMm_1_1RpropOptimization.html" title="Mm::RpropOptimization\l\&lt; MeanType \&gt;" alt="" coords="1689,127,1849,169"/>
+<area shape="rect" id="node10" href="$classMm_1_1RpropSettings.html" title="Mm::RpropSettings\&lt;\l MeanType \&gt;" alt="" coords="1409,129,1552,170"/>
+<area shape="rect" id="node11" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="979,240,1126,267"/>
+<area shape="rect" id="node12" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="693,233,855,274"/>
+<area shape="rect" id="node13" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="448,187,599,213"/>
+<area shape="rect" id="node14" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,156,308,183"/>
+<area shape="rect" id="node19" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="440,136,607,163"/>
+<area shape="rect" id="node17" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="981,136,1125,163"/>
+<area shape="rect" id="node18" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="670,129,878,170"/>
+<area shape="rect" id="node20" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Mm::Discriminative\lCovarianceEstimator \&gt;" alt="" coords="1667,193,1871,234"/>
+<area shape="rect" id="node21" href="$classMm_1_1ISmoothingMeanEstimator.html" title="ISmoothingMeanEstimator. " alt="" coords="2059,193,2265,220"/>
+</map>

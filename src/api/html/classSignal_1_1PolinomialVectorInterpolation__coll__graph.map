@@ -1,0 +1,9 @@
+<map id="Signal::PolinomialVectorInterpolation" name="Signal::PolinomialVectorInterpolation">
+<area shape="rect" id="node2" href="$classMath_1_1Lapack_1_1Matrix.html" title="Math::Lapack::Matrix\l\&lt; f64 \&gt;" alt="" coords="614,5,759,47"/>
+<area shape="rect" id="node3" href="$structMath_1_1Lapack_1_1ColumnByColumnStorage.html" title="Calculates the index of the matrix element [row][column] in a 1&#45;D buffer in which elements are stored..." alt="" coords="245,5,460,47"/>
+<area shape="rect" id="node4" href="$classMath_1_1Lapack_1_1MatrixStorageScheme.html" title="Base class for matrix storage schemes in 1&#45;D buffer. " alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node5" href="$classMath_1_1Lapack_1_1Vector.html" title="Math::Lapack::Vector\l\&lt; int \&gt;" alt="" coords="613,71,760,112"/>
+<area shape="rect" id="node7" href="$classSignal_1_1SlidingWindow.html" title="Signal::SlidingWindow\l\&lt; Flow::DataPtr \&gt;" alt="" coords="611,188,763,229"/>
+<area shape="rect" id="node9" href="$classFlow_1_1DataPtr.html" title="Class template for Data smart pointers Extends the features of Core::TsRef by: &#45;up and down cast usin..." alt="" coords="285,225,420,251"/>
+<area shape="rect" id="node10" href="$classCore_1_1TsRef.html" title="Class template for smart pointers using intrusive reference&#45;counting in a multithreaded environment..." alt="" coords="37,225,164,251"/>
+</map>

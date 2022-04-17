@@ -1,0 +1,25 @@
+<map id="Speech::FeatureExtractor" name="Speech::FeatureExtractor">
+<area shape="rect" id="node6" href="$classNn_1_1BufferedFeatureExtractor.html" title="Nn::BufferedFeatureExtractor\l\&lt; f32 \&gt;" alt="" coords="1017,61,1211,103"/>
+<area shape="rect" id="node10" href="$classNn_1_1BufferedFeatureExtractor.html" title="Nn::BufferedFeatureExtractor\l\&lt; FloatT \&gt;" alt="" coords="1017,127,1211,168"/>
+<area shape="rect" id="node12" href="$classNn_1_1BufferedFeatureExtractor.html" title="Extension of the Speech::FeatureExtractor. " alt="" coords="1001,193,1227,219"/>
+<area shape="rect" id="node14" href="$classSpeech_1_1AligningFeatureExtractor.html" title="AligningFeatureExtractor. " alt="" coords="1005,243,1223,270"/>
+<area shape="rect" id="node15" href="$classSpeech_1_1AverageFeatureScorerActivation.html" title="Speech::AverageFeatureScorer\lActivation" alt="" coords="1012,295,1216,336"/>
+<area shape="rect" id="node16" href="$classSpeech_1_1CovarianceEstimator.html" title="Speech::CovarianceEstimator" alt="" coords="1016,361,1212,387"/>
+<area shape="rect" id="node17" href="$classSpeech_1_1FeatureVectorExtractor.html" title="FeatureVectorExtractor is a corpus visitor application for feature vector extraction. " alt="" coords="1009,411,1219,438"/>
+<area shape="rect" id="node20" href="$classSpeech_1_1LabelingFeatureExtractor.html" title="Assigns labels to feature vectors Extracts features and corresponding string labels from the underlyi..." alt="" coords="1005,462,1223,489"/>
+<area shape="rect" id="node21" href="$classSpeech_1_1MeanEstimator.html" title="Speech::MeanEstimator" alt="" coords="1033,513,1195,539"/>
+<area shape="rect" id="node22" href="$classSpeech_1_1OfflineRecognizer.html" title="Speech::OfflineRecognizer" alt="" coords="1025,563,1203,590"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1DataExtractor.html" title="DataExtractor is a corpus visitor application for extraction of any data type. " alt="" coords="580,331,735,358"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1CorpusProcessor.html" title="CorpusProcessor base class for algorithms driven by a CorpusVisitor. " alt="" coords="357,331,532,358"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,331,309,358"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,331,136,358"/>
+<area shape="rect" id="node7" href="$classNn_1_1BufferedAlignedFeatureProcessor.html" title="Nn::BufferedAlignedFeature\lProcessor\&lt; f32 \&gt;" alt="" coords="1279,5,1462,47"/>
+<area shape="rect" id="node9" href="$classBufferedFeatureExtractor.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="1287,71,1455,98"/>
+<area shape="rect" id="node8" href="$classBufferedAlignedFeatureProcessor.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="1515,13,1732,39"/>
+<area shape="rect" id="node11" href="$classNn_1_1BufferedSegmentFeatureProcessor.html" title="Nn::BufferedSegmentFeature\lProcessor\&lt; FloatT \&gt;" alt="" coords="1275,125,1467,167"/>
+<area shape="rect" id="node13" href="$classNn_1_1BufferedAlignedFeatureProcessor.html" title="The class combines the &quot;BufferedFeatureExtractor&quot; and the &quot;AlignedFeatureProcessor&quot; and provides the ..." alt="" coords="1279,191,1462,232"/>
+<area shape="rect" id="node18" href="$classFeatureExtractor.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="1311,386,1430,413"/>
+<area shape="rect" id="node19" href="$classSpeech_1_1HistogramEstimator.html" title="HistogramEstimator. " alt="" coords="1275,437,1466,463"/>
+<area shape="rect" id="node23" href="$classSpeech_1_1ConstrainedOfflineRecognizer.html" title="Speech::ConstrainedOffline\lRecognizer" alt="" coords="1279,527,1462,568"/>
+<area shape="rect" id="node24" href="$classSpeech_1_1DelayedRecognizer.html" title="Recognizer with a delay in output, used for search algorithms with an acoustic look&#45;ahead. " alt="" coords="1277,593,1465,619"/>
+</map>

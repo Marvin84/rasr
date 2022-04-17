@@ -1,0 +1,5 @@
+<map id="Core::BundleArchive" name="Core::BundleArchive">
+<area shape="rect" id="node2" href="$classCore_1_1Archive.html" title="Abstract base class for archives. " alt="" coords="25,155,128,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="14,80,139,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="11,5,142,32"/>
+</map>

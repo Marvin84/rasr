@@ -1,0 +1,6 @@
+<map id="Lattice::MergeWordLattice" name="Lattice::MergeWordLattice">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Fsa::SlaveAutomaton" alt="" coords="313,56,461,83"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Internal\l::Context \&gt;" alt="" coords="311,107,462,149"/>
+<area shape="rect" id="node7" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; Lattice::WordBoundaries \&gt;" alt="" coords="292,173,481,214"/>
+</map>

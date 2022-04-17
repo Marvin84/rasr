@@ -1,0 +1,6 @@
+<map id="Lattice::Core::AbstractChoiceParameter&lt; T &gt;" name="Lattice::Core::AbstractChoiceParameter&lt; T &gt;">
+<area shape="rect" id="node4" href="$classLattice_1_1Core_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="5,244,171,285"/>
+<area shape="rect" id="node5" href="$classLattice_1_1Core_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="195,244,360,285"/>
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="84,80,281,107"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="75,5,290,32"/>
+</map>

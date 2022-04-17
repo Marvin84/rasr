@@ -1,0 +1,44 @@
+<map id="Bliss::CorpusDescription" name="Bliss::CorpusDescription">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2313,197,2438,224"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="780,196,911,223"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="279,299,413,325"/>
+<area shape="rect" id="node12" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="599,409,747,450"/>
+<area shape="rect" id="node13" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="263,367,429,393"/>
+<area shape="rect" id="node18" href="$classCore_1_1ProgressIndicator.html" title="Provide assurance to impatient users. " alt="" coords="1804,1179,1964,1205"/>
+<area shape="rect" id="node34" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="257,873,435,900"/>
+<area shape="rect" id="node36" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="1425,981,1544,1008"/>
+<area shape="rect" id="node37" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="966,981,1111,1008"/>
+<area shape="rect" id="node50" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="595,223,751,265"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="5,179,149,221"/>
+<area shape="rect" id="node7" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1819,533,1949,560"/>
+<area shape="rect" id="node28" href="$classBliss_1_1ProgressReportingVisitorAdaptor.html" title="Bliss::ProgressReporting\lVisitorAdaptor" alt="" coords="2292,1298,2459,1339"/>
+<area shape="rect" id="node8" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1427,484,1543,511"/>
+<area shape="rect" id="node10" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1431,433,1538,460"/>
+<area shape="rect" id="node11" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="963,416,1115,443"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1403,295,1566,321"/>
+<area shape="rect" id="node27" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="589,501,756,528"/>
+<area shape="rect" id="node14" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1835,171,1933,197"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2296,268,2455,295"/>
+<area shape="rect" id="node15" href="$classCorpusDescription_1_1ProgressIndicationVisitorAdaptor.html" title="Bliss::CorpusDescription\l::ProgressIndicationVisitorAdaptor" alt="" coords="2265,1125,2485,1166"/>
+<area shape="rect" id="node16" href="$classBliss_1_1CorpusVisitor.html" title="Abstract visitor base class for corpus traversal. " alt="" coords="1815,1233,1953,1260"/>
+<area shape="rect" id="node29" href="$classBliss_1_1SegmentOrderingVisitor.html" title="Changes the order of processed segments according to a given segment id list (full segment names)..." alt="" coords="2277,877,2474,904"/>
+<area shape="rect" id="node46" href="$classCorpusDescription_1_1SegmentPartitionVisitorAdaptor.html" title="Bliss::CorpusDescription\l::SegmentPartitionVisitorAdaptor" alt="" coords="2269,1226,2481,1267"/>
+<area shape="rect" id="node17" href="$classBliss_1_1SegmentVisitor.html" title="Abstract visitor base class for processing segments. " alt="" coords="1411,1296,1559,1323"/>
+<area shape="rect" id="node19" href="$classProgressIndicator_1_1DrawBuffer.html" title="Core::ProgressIndicator\l::DrawBuffer" alt="" coords="1405,1230,1565,1271"/>
+<area shape="rect" id="node21" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1780,222,1988,263"/>
+<area shape="rect" id="node24" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1803,287,1965,329"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2309,401,2442,428"/>
+<area shape="rect" id="node25" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1612,560,1756,587"/>
+<area shape="rect" id="node26" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="935,526,1143,567"/>
+<area shape="rect" id="node30" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Segment * \&gt;" alt="" coords="1810,842,1958,883"/>
+<area shape="rect" id="node32" href="$classBliss_1_1Segment.html" title="General segment of a Recording. " alt="" coords="1829,908,1939,935"/>
+<area shape="rect" id="node33" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="607,893,738,920"/>
+<area shape="rect" id="node35" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="590,839,755,865"/>
+<area shape="rect" id="node38" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="619,1011,726,1037"/>
+<area shape="rect" id="node39" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="596,945,749,986"/>
+<area shape="rect" id="node40" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="596,1113,749,1154"/>
+<area shape="rect" id="node42" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; AcousticCondition * \&gt;" alt="" coords="1803,711,1965,753"/>
+<area shape="rect" id="node44" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Speaker * \&gt;" alt="" coords="1810,777,1958,818"/>
+<area shape="rect" id="node47" href="$classCore_1_1StringHashSet.html" title="Core::StringHashSet" alt="" coords="1813,1373,1955,1400"/>
+<area shape="rect" id="node49" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="1167,64,1357,91"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Speech::AcousticLatticeRescorerNode" name="Speech::AcousticLatticeRescorerNode">
+<area shape="rect" id="node9" href="$classSpeech_1_1AlignmentAcousticLatticeRescorerNode.html" title="AlignmentAcousticLatticeRescorerNode In contrast to CombinedAcousticLatticeRescorer, this rescorer uses the scores from the alignment, which makes rescoring more efficient. " alt="" coords="38,603,221,644"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorerNode.html" title="LatticeRescorerNode. " alt="" coords="31,453,228,480"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1SegmentNode.html" title="SegmentNode. " alt="" coords="51,379,208,405"/>
+<area shape="rect" id="node4" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="65,304,194,331"/>
+<area shape="rect" id="node5" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="85,229,174,256"/>
+<area shape="rect" id="node6" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="60,155,199,181"/>
+<area shape="rect" id="node7" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="67,80,192,107"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="64,5,195,32"/>
+</map>

@@ -1,0 +1,49 @@
+<map id="Speech::SegmentwiseGmmTrainer" name="Speech::SegmentwiseGmmTrainer">
+<area shape="rect" id="node2" href="$classSpeech_1_1AcousticSegmentwiseTrainer.html" title="Speech::AcousticSegmentwise\lTrainer\&lt; GmmAccumulator \&gt;" alt="" coords="3824,675,4028,717"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1AbstractAcousticSegmentwiseTrainer.html" title="Speech::AbstractAcoustic\lSegmentwiseTrainer" alt="" coords="3369,675,3544,717"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1AbstractSegmentwiseTrainer.html" title="Speech::AbstractSegmentwise\lTrainer" alt="" coords="2871,829,3074,870"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="2435,1025,2627,1052"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2009,920,2134,947"/>
+<area shape="rect" id="node26" href="$classBliss_1_1OrthographicParser.html" title="Parses an orthographic sentence into lemmas. " alt="" coords="2446,1171,2617,1197"/>
+<area shape="rect" id="node47" href="$classSpeech_1_1MixtureSetTrainer.html" title="MixtureSetTrainer. " alt="" coords="2884,296,3061,323"/>
+<area shape="rect" id="node49" href="$classMm_1_1AbstractMixtureSetEstimator.html" title="Base Class for accumulator and estimator class for mixture sets. " alt="" coords="2421,555,2641,581"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="595,949,725,976"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="184,795,319,821"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="423,545,571,586"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="168,552,335,579"/>
+<area shape="rect" id="node45" href="$classCore_1_1Description.html" title="Vector of stream descriptions Stream descriptions if a set of attributes describing a (feature) strea..." alt="" coords="189,245,313,272"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1574,545,1703,572"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1139,497,1255,524"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1144,548,1251,575"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="749,548,901,575"/>
+<area shape="rect" id="node21" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1116,836,1279,863"/>
+<area shape="rect" id="node33" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="925,172,1092,199"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1589,747,1688,773"/>
+<area shape="rect" id="node19" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1992,763,2151,789"/>
+<area shape="rect" id="node17" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1988,1041,2155,1068"/>
+<area shape="rect" id="node18" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lLatticeSetProcessor \&gt;" alt="" coords="1995,1102,2147,1143"/>
+<area shape="rect" id="node20" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1535,829,1743,870"/>
+<area shape="rect" id="node25" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1557,915,1720,957"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1998,484,2145,511"/>
+<area shape="rect" id="node23" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1557,477,1720,518"/>
+<area shape="rect" id="node24" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2219,941,2352,968"/>
+<area shape="rect" id="node27" href="$classBliss_1_1OrthographicPrefixTree.html" title="Bliss::OrthographicPrefixTree" alt="" coords="1975,1176,2168,1203"/>
+<area shape="rect" id="node28" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::Lexicon \&gt;" alt="" coords="1993,1278,2149,1319"/>
+<area shape="rect" id="node29" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="2020,1227,2123,1253"/>
+<area shape="rect" id="node30" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lSegmentwiseFeatureExtractor \&gt;" alt="" coords="2867,894,3078,935"/>
+<area shape="rect" id="node31" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1999,57,2143,84"/>
+<area shape="rect" id="node32" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1303,141,1511,182"/>
+<area shape="rect" id="node34" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lPhonemeSequenceAlignmentGenerator \&gt;" alt="" coords="2841,959,3104,1001"/>
+<area shape="rect" id="node35" href="$classLattice_1_1CachedAcousticAccumulator.html" title="Lattice::CachedAcousticAccumulator\l\&lt; Trainer \&gt;" alt="" coords="3337,1402,3576,1443"/>
+<area shape="rect" id="node36" href="$classLattice_1_1AcousticAccumulator.html" title="AcousticAccumulator. " alt="" coords="2876,1546,3069,1587"/>
+<area shape="rect" id="node37" href="$classLattice_1_1BaseAccumulator.html" title="BaseAccumulator. " alt="" coords="2445,1679,2617,1721"/>
+<area shape="rect" id="node38" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="2011,1687,2132,1713"/>
+<area shape="rect" id="node39" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; Speech::PhonemeSequenceAlignment\lGenerator \&gt;" alt="" coords="2403,1475,2660,1531"/>
+<area shape="rect" id="node40" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Am::AcousticModel \&gt;" alt="" coords="2433,1554,2629,1595"/>
+<area shape="rect" id="node41" href="$classLattice_1_1Core_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="2452,1628,2611,1655"/>
+<area shape="rect" id="node42" href="$classLattice_1_1Collector.html" title="Lattice::Collector" alt="" coords="2912,1409,3033,1436"/>
+<area shape="rect" id="node44" href="$classMm_1_1FeatureDescription.html" title="Vector of stream descriptions Stream description is a set of attributes describing a feature stream..." alt="" coords="1777,23,1940,49"/>
+<area shape="rect" id="node46" href="$classSpeech_1_1DiscriminativeMixtureSetTrainer.html" title="discriminative mixture set trainer " alt="" coords="3600,51,3800,93"/>
+<area shape="rect" id="node48" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Mm\l::AssigningFeatureScorer \&gt;" alt="" coords="1981,333,2162,374"/>
+<area shape="rect" id="node50" href="$classMm_1_1ProbabilityStatistics.html" title="Histogram statistics for probabilities. " alt="" coords="1987,432,2155,459"/>
+</map>

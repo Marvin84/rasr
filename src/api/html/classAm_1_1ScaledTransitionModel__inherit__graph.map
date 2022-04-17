@@ -1,0 +1,7 @@
+<map id="Am::ScaledTransitionModel" name="Am::ScaledTransitionModel">
+<area shape="rect" id="node6" href="$classAm_1_1CombinedTransitionModel.html" title="Log&#45;linear combination of transition models. " alt="" coords="71,304,272,331"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node3" href="$classMc_1_1Component.html" title="Base class scaled model combination components. " alt="" coords="197,155,311,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="191,80,317,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="189,5,319,32"/>
+</map>

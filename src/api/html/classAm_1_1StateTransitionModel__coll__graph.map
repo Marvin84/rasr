@@ -1,0 +1,11 @@
+<map id="Am::StateTransitionModel" name="Am::StateTransitionModel">
+<area shape="rect" id="node2" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="137,523,268,549"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="106,421,241,448"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="106,213,241,255"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="135,109,270,151"/>
+<area shape="rect" id="node11" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="294,117,461,143"/>
+<area shape="rect" id="node5" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="101,317,245,359"/>
+<area shape="rect" id="node8" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="252,472,399,499"/>
+<area shape="rect" id="node9" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="303,317,465,359"/>
+<area shape="rect" id="node10" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="309,221,459,247"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Nn::TimeAlignedAutomaton&lt; FloatT &gt;::State" name="Nn::TimeAlignedAutomaton&lt; FloatT &gt;::State">
+<area shape="rect" id="node4" href="$classNn_1_1TimeAlignedAutomaton.html" title="Nn::TimeAlignedAutomaton\l\&lt; FloatT \&gt;" alt="" coords="603,107,785,149"/>
+<area shape="rect" id="node5" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="242,29,357,56"/>
+<area shape="rect" id="node6" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="5,22,155,63"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="226,81,373,122"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="204,147,395,173"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Fsa\l::StaticAutomaton \&gt;" alt="" coords="225,222,374,263"/>
+</map>

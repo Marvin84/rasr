@@ -1,0 +1,7 @@
+<map id="Mm::AssigningFeatureScorer::AssigningContextScorer" name="Mm::AssigningFeatureScorer::AssigningContextScorer">
+<area shape="rect" id="node3" href="$classMm_1_1CachedAssigningFeatureScorer_1_1CachedAssigningContextScorer.html" title="Implement emission independent precalculations for feature vector. " alt="" coords="399,111,615,167"/>
+<area shape="rect" id="node4" href="$classMm_1_1CachedAssigningTransformingFeatureScorer_1_1CachedAssigningTransformingContextScorer.html" title="Implement emission independent precalculations for feature vector. " alt="" coords="663,5,953,61"/>
+<area shape="rect" id="node5" href="$classNn_1_1FullFeatureScorer_1_1Context.html" title="Nn::FullFeatureScorer\l::Context" alt="" coords="733,85,883,126"/>
+<area shape="rect" id="node6" href="$classNn_1_1OnDemandFeatureScorer_1_1Context.html" title="Nn::OnDemandFeatureScorer\l::Context" alt="" coords="711,150,905,191"/>
+<area shape="rect" id="node7" href="$classNn_1_1PrecomputedFeatureScorer_1_1Context.html" title="Nn::PrecomputedFeatureScorer\l::Context" alt="" coords="705,215,911,257"/>
+</map>

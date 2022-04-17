@@ -1,0 +1,11 @@
+<map id="Mm::BatchFeatureScorerBase" name="Mm::BatchFeatureScorerBase">
+<area shape="rect" id="node6" href="$classMm_1_1BatchFloatFeatureScorer.html" title="Batched feature scorer using floats. " alt="" coords="828,21,1025,47"/>
+<area shape="rect" id="node8" href="$classMm_1_1BatchIntFeatureScorer.html" title="Batched feature scorer using integer computations. " alt="" coords="835,78,1018,105"/>
+<area shape="rect" id="node2" href="$classMm_1_1FeatureScorer.html" title="Abstract feature scorer interface. " alt="" coords="399,53,533,79"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="205,27,330,54"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,27,136,54"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="184,78,351,105"/>
+<area shape="rect" id="node7" href="$classMm_1_1BatchPreselectionFloatFeatureScorer.html" title="Mm::BatchPreselectionFloat\lFeatureScorer" alt="" coords="1077,5,1263,47"/>
+<area shape="rect" id="node9" href="$classMm_1_1BatchPreselectionIntFeatureScorer.html" title="Mm::BatchPreselectionInt\lFeatureScorer" alt="" coords="1083,71,1257,112"/>
+<area shape="rect" id="node10" href="$classMm_1_1BatchUnrolledIntFeatureScorer.html" title="Batched feature scorer using integer computations for a fixed size feature vector. " alt="" coords="1073,136,1267,177"/>
+</map>

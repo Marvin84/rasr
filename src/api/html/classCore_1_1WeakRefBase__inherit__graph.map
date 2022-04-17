@@ -1,0 +1,10 @@
+<map id="Core::WeakRefBase" name="Core::WeakRefBase">
+<area shape="rect" id="node2" href="$classCore_1_1WeakRef.html" title="Class template for smart pointers provining weak referencing. " alt="" coords="229,5,374,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l Am::EmissionAlphabet \&gt;" alt="" coords="216,57,387,98"/>
+<area shape="rect" id="node4" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l Bliss::PhonemeAlphabet \&gt;" alt="" coords="211,122,392,163"/>
+<area shape="rect" id="node5" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l EvaluationTokenAlphabet \&gt;" alt="" coords="208,187,395,229"/>
+<area shape="rect" id="node6" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l LemmaAlphabet \&gt;" alt="" coords="223,253,380,294"/>
+<area shape="rect" id="node7" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l LemmaPronunciationAlphabet \&gt;" alt="" coords="196,318,407,359"/>
+<area shape="rect" id="node8" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l LetterAlphabet \&gt;" alt="" coords="223,383,380,425"/>
+<area shape="rect" id="node9" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l SyntacticTokenAlphabet \&gt;" alt="" coords="211,449,391,490"/>
+</map>

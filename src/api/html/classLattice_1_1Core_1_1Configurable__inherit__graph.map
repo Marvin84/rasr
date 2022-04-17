@@ -1,0 +1,16 @@
+<map id="Lattice::Core::Configurable" name="Lattice::Core::Configurable">
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1Channel_1_1Manager.html" title="Central management of channel output. " alt="" coords="241,34,395,75"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="232,100,404,127"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Archive.html" title="Lattice::Archive" alt="" coords="486,24,599,51"/>
+<area shape="rect" id="node9" href="$classLattice_1_1Core_1_1Application.html" title="Application class: " alt="" coords="458,75,627,101"/>
+<area shape="rect" id="node10" href="$classLattice_1_1HtkReader.html" title="Parse a lattice in HTK SLF format. " alt="" coords="477,125,609,152"/>
+<area shape="rect" id="node11" href="$classLattice_1_1Mm_1_1FeatureScorer.html" title="Abstract feature scorer interface. " alt="" coords="452,176,633,203"/>
+<area shape="rect" id="node5" href="$classLattice_1_1ArchiveReader.html" title="Lattice::ArchiveReader" alt="" coords="704,5,859,32"/>
+<area shape="rect" id="node7" href="$classLattice_1_1ArchiveWriter.html" title="Lattice::ArchiveWriter" alt="" coords="707,56,855,83"/>
+<area shape="rect" id="node6" href="$classLattice_1_1FsaArchiveReader.html" title="Lattice::FsaArchiveReader" alt="" coords="941,5,1119,32"/>
+<area shape="rect" id="node8" href="$classLattice_1_1FsaArchiveWriter.html" title="Lattice::FsaArchiveWriter" alt="" coords="945,56,1115,83"/>
+<area shape="rect" id="node12" href="$classLattice_1_1Mm_1_1AssigningFeatureScorer.html" title="Abstract feature scorer interface with assignment to the best density. " alt="" coords="681,121,881,162"/>
+<area shape="rect" id="node15" href="$classLattice_1_1Mm_1_1CachedFeatureScorer.html" title="Abstract feature scorer interface with cached scores. " alt="" coords="687,186,875,227"/>
+<area shape="rect" id="node13" href="$classLattice_1_1Mm_1_1CachedAssigningFeatureScorer.html" title="Abstract feature scorer interface with cached scores and assignment. " alt="" coords="929,121,1131,162"/>
+<area shape="rect" id="node14" href="$classLattice_1_1Mm_1_1DensitySpecificCachedAssigningFeatureScorer.html" title="Lattice::Mm::DensitySpecific\lCachedAssigningFeatureScorer" alt="" coords="1179,121,1385,162"/>
+</map>

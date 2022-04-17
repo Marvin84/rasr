@@ -1,0 +1,9 @@
+<map id="Am::ClassicTransducerBuilder::AllophoneSuffix" name="Am::ClassicTransducerBuilder::AllophoneSuffix">
+<area shape="rect" id="node2" href="$classAm_1_1ClassicHmmTopology.html" title="ClassicHmmTopology. " alt="" coords="5,499,184,525"/>
+<area shape="rect" id="node3" href="$classAm_1_1AllophoneState.html" title="Am::AllophoneState" alt="" coords="208,499,347,525"/>
+<area shape="rect" id="node4" href="$structAm_1_1Allophone.html" title="Am::Allophone" alt="" coords="223,409,329,436"/>
+<area shape="rect" id="node5" href="$classBliss_1_1ContextPhonology_1_1PhonemeInContext.html" title="Phonology::Allophone" alt="" coords="202,333,350,360"/>
+<area shape="rect" id="node6" href="$classBliss_1_1Allophone.html" title="Abstract base class for all types of allophones. " alt="" coords="166,237,282,263"/>
+<area shape="rect" id="node7" href="$structBliss_1_1ContextPhonology_1_1Context.html" title="Bliss::ContextPhonology\l::Context" alt="" coords="306,229,473,271"/>
+<area shape="rect" id="node8" href="$classBliss_1_1ContextPhonology_1_1SemiContext.html" title="Bliss::ContextPhonology\l::SemiContext" alt="" coords="306,111,473,152"/>
+</map>

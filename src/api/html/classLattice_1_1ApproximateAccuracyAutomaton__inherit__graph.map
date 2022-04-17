@@ -1,0 +1,11 @@
+<map id="Lattice::ApproximateAccuracyAutomaton" name="Lattice::ApproximateAccuracyAutomaton">
+<area shape="rect" id="node6" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="1009,104,1188,145"/>
+<area shape="rect" id="node11" href="$classLattice_1_1ApproximateWordAccuracyAutomaton.html" title="ApproximateWordAccuracyAutomaton: Word lattices may contain epsilon arcs (input labels) but they must..." alt="" coords="1012,169,1185,211"/>
+<area shape="rect" id="node2" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="537,145,716,171"/>
+<area shape="rect" id="node3" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="335,145,489,171"/>
+<area shape="rect" id="node4" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="145,137,287,179"/>
+<area shape="rect" id="node7" href="$classLattice_1_1ApproximatePhoneAccuracyMaskAutomaton.html" title="ApproximatePhoneAccuracyMaskAutomaton. " alt="" coords="1258,5,1437,47"/>
+<area shape="rect" id="node8" href="$classLattice_1_1FramePhoneAccuracyAutomaton.html" title="FramePhoneAccuracyAutomaton. " alt="" coords="1248,71,1447,112"/>
+<area shape="rect" id="node9" href="$classLattice_1_1SoftFramePhoneAccuracyAutomaton.html" title="SoftFramePhoneAccuracyAutomaton. " alt="" coords="1236,136,1459,177"/>
+<area shape="rect" id="node10" href="$classLattice_1_1WeightedFramePhoneAccuracyAutomaton.html" title="WeightedFramePhoneAccuracyAutomaton. " alt="" coords="1248,201,1447,243"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Signal::SpectralIntegrationNode" name="Signal::SpectralIntegrationNode">
+<area shape="rect" id="node2" href="$classSignal_1_1SleeveNode.html" title="Signal processing network node. " alt="" coords="3244,348,3381,375"/>
+<area shape="rect" id="node3" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="3065,303,3195,330"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2753,122,2843,148"/>
+<area shape="rect" id="node5" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2449,230,2588,256"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2123,200,2248,227"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1683,200,1814,227"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1319,243,1453,270"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="493,236,628,277"/>
+<area shape="rect" id="node12" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,252,303,293"/>
+<area shape="rect" id="node18" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="487,170,635,212"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,379,319,406"/>
+<area shape="rect" id="node26" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="343,10,453,36"/>
+<area shape="rect" id="node27" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="2309,60,2404,87"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="887,236,1031,277"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1684,124,1813,151"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1328,111,1444,138"/>
+<area shape="rect" id="node16" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1333,162,1439,188"/>
+<area shape="rect" id="node17" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="883,178,1035,204"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="477,379,644,406"/>
+<area shape="rect" id="node32" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="668,435,831,462"/>
+<area shape="rect" id="node35" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="485,480,636,507"/>
+<area shape="rect" id="node20" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1699,402,1798,428"/>
+<area shape="rect" id="node29" href="$classSignal_1_1WindowFunction.html" title="WindowFunction is base class for different windowing functions. " alt="" coords="2437,414,2600,440"/>
+<area shape="rect" id="node30" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2106,435,2265,462"/>
+<area shape="rect" id="node21" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="2095,304,2276,345"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1477,311,1621,338"/>
+<area shape="rect" id="node24" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="855,370,1063,412"/>
+<area shape="rect" id="node28" href="$classSignal_1_1SpectralIntegration.html" title="Performs a reduction of the spectral dimension of a (Gammatone) filterbank output. " alt="" coords="2867,414,3041,440"/>
+<area shape="rect" id="node31" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1087,437,1295,478"/>
+<area shape="rect" id="node33" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1900,494,2047,520"/>
+<area shape="rect" id="node34" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="877,496,1040,537"/>
+</map>

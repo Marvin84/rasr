@@ -1,0 +1,17 @@
+<map id="Flf::CachingInPlaceStateRescorer" name="Flf::CachingInPlaceStateRescorer">
+<area shape="rect" id="node2" href="$classFlf_1_1RescoreLattice_1_1StateRescorer.html" title="Flf::RescoreLattice\l::StateRescorer" alt="" coords="933,169,1067,210"/>
+<area shape="rect" id="node3" href="$classFlf_1_1RescoreLattice.html" title="Rescore lattice; specialisation of modify lattice, structure preserving flf&#45;to&#45;flf. " alt="" coords="1188,131,1321,157"/>
+<area shape="rect" id="node4" href="$classFtl_1_1SlaveAutomaton.html" title="SlaveLattice" alt="" coords="953,93,1047,120"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="599,93,808,120"/>
+<area shape="rect" id="node7" href="$classFlf_1_1Semiring.html" title="Flf::Semiring" alt="" coords="655,144,751,171"/>
+<area shape="rect" id="node8" href="$classFtl_1_1Semiring.html" title="Ftl::Semiring\&lt; ScoresRef \&gt;" alt="" coords="260,5,443,32"/>
+<area shape="rect" id="node9" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node10" href="$classFlf_1_1ScoresRef.html" title="Flf::ScoresRef" alt="" coords="298,89,405,116"/>
+<area shape="rect" id="node11" href="$classFlf_1_1Scores.html" title="Flf::Scores" alt="" coords="45,89,132,116"/>
+<area shape="rect" id="node12" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="274,140,429,167"/>
+<area shape="rect" id="node14" href="$classFlf_1_1Lattice.html" title="Lattice. " alt="" coords="661,199,745,225"/>
+<area shape="rect" id="node15" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Semiring,\l State \&gt;" alt="" coords="260,191,443,233"/>
+<area shape="rect" id="node16" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const StateMap \&gt;" alt="" coords="254,257,449,284"/>
+<area shape="rect" id="node17" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Boundaries \&gt;" alt="" coords="249,308,453,335"/>
+<area shape="rect" id="node18" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Ref \&gt;" alt="" coords="932,249,1068,290"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="Flow::AbstractNode" name="Flow::AbstractNode">
+<area shape="rect" id="node4" href="$classFlow_1_1Network.html" title="Flow network class. " alt="" coords="544,432,651,459"/>
+<area shape="rect" id="node7" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="553,864,642,891"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,839,309,865"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,839,136,865"/>
+<area shape="rect" id="node5" href="$classFlow_1_1DataSource.html" title="Flow::Network handling several ports. " alt="" coords="754,31,881,57"/>
+<area shape="rect" id="node6" href="$classSpeech_1_1DataSource.html" title="Flow::Network handling several ports. " alt="" coords="1032,5,1175,32"/>
+<area shape="rect" id="node8" href="$classAudio_1_1Node.html" title="Abstract Flow node for audio input/output. " alt="" coords="770,132,865,159"/>
+<area shape="rect" id="node12" href="$classFlow_1_1CacheNode.html" title="Flow::CacheNode" alt="" coords="754,417,881,444"/>
+<area shape="rect" id="node13" href="$classFlow_1_1RepeaterNode.html" title="Flow network repeater. " alt="" coords="746,468,889,495"/>
+<area shape="rect" id="node14" href="$classFlow_1_1SequenceFilterNode.html" title="Filters input sequence according to a selection object. " alt="" coords="729,519,905,545"/>
+<area shape="rect" id="node15" href="$classFlow_1_1SinkNode.html" title="Base class for nodes with a single input. " alt="" coords="760,569,875,596"/>
+<area shape="rect" id="node17" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="753,620,882,647"/>
+<area shape="rect" id="node35" href="$classFlow_1_1SourceNode.html" title="Base class for nodes with a single output. " alt="" coords="752,671,883,697"/>
+<area shape="rect" id="node36" href="$classFlow_1_1StringExpressionNode.html" title="String expression resolved by node inputs. " alt="" coords="723,721,911,748"/>
+<area shape="rect" id="node37" href="$classFlow_1_1SynchronizationNode.html" title="Base class for algorithms which synchronise the input stream to a &quot;target&quot; stream according to the st..." alt="" coords="726,773,909,814"/>
+<area shape="rect" id="node38" href="$classFlow_1_1TypedDisaggregateNode.html" title="Flow::TypedDisaggregateNode\&lt; T \&gt;" alt="" coords="700,839,935,865"/>
+<area shape="rect" id="node39" href="$classFlow_1_1WarpTimeFilterNode.html" title="Makes the timeframes of the incoming packets consecutive, and logs a warping map which describes the ..." alt="" coords="728,889,907,916"/>
+<area shape="rect" id="node40" href="$classSignal_1_1CrossCorrelationNode.html" title="CrossCorrelationNode. " alt="" coords="720,940,915,967"/>
+<area shape="rect" id="node41" href="$classSignal_1_1DelayNode.html" title="Packet delay filter. " alt="" coords="752,991,883,1017"/>
+<area shape="rect" id="node42" href="$classSignal_1_1HistogramNormalizationNode.html" title="HistogramNormalizationNode. " alt="" coords="699,1041,936,1068"/>
+<area shape="rect" id="node43" href="$classSignal_1_1PeakDetectionNode.html" title="PeakDetectionNode. " alt="" coords="726,1092,909,1119"/>
+<area shape="rect" id="node44" href="$classSignal_1_1WarpingNode.html" title="Signal::WarpingNode" alt="" coords="745,1143,890,1169"/>
+<area shape="rect" id="node45" href="$classSpeech_1_1AlignmentDumpNode.html" title="Dumps alignments in a plain text format. " alt="" coords="718,1193,917,1220"/>
+<area shape="rect" id="node46" href="$classSpeech_1_1AlignmentToSequenceSelectionNode.html" title="Converts alignment into sequence selection and/or calculates ratio of the not&#45;filtered timeframes..." alt="" coords="715,1245,920,1286"/>
+<area shape="rect" id="node47" href="$classSpeech_1_1CorpusProcessorNode.html" title="CorpusProcessorNode: base class for nodes implementing a whole pass over a corpus. " alt="" coords="714,1310,921,1351"/>
+<area shape="rect" id="node48" href="$classSpeech_1_1FeatureShiftAdaptor.html" title="Apply shift adaptor in reverse to a feature stream, using a given alignment to choose regression clas..." alt="" coords="722,1376,913,1403"/>
+<area shape="rect" id="node49" href="$classTensorflow_1_1TensorflowForwardNode.html" title="Tensorflow::TensorflowForwardNode" alt="" coords="699,1427,935,1453"/>
+<area shape="rect" id="node9" href="$classAudio_1_1OpenSoundSystemDevice.html" title="Access to Open Sound System audio device. " alt="" coords="995,56,1212,83"/>
+<area shape="rect" id="node10" href="$classAudio_1_1SinkNode.html" title="Abstract Flow node for audio output. " alt="" coords="1043,107,1163,133"/>
+<area shape="rect" id="node11" href="$classAudio_1_1SourceNode.html" title="Abstract Flow node for audio input. " alt="" coords="1036,157,1171,184"/>
+<area shape="rect" id="node16" href="$classFlow_1_1VectorSplitNode.html" title="Flow::VectorSplitNode\&lt; T \&gt;" alt="" coords="1011,208,1196,235"/>
+<area shape="rect" id="node18" href="$classFlow_1_1CutterNode.html" title="Flow network. " alt="" coords="1041,259,1166,285"/>
+<area shape="rect" id="node19" href="$classFlow_1_1DemoNode.html" title="Flow::DemoNode" alt="" coords="1041,309,1165,336"/>
+<area shape="rect" id="node20" href="$classFlow_1_1DumpNode.html" title="Flow network. " alt="" coords="1041,360,1165,387"/>
+<area shape="rect" id="node21" href="$classFlow_1_1SimpleFunctionNode.html" title="Flow::SimpleFunctionNode\l\&lt; Function \&gt;" alt="" coords="1014,411,1193,453"/>
+<area shape="rect" id="node22" href="$classFlow_1_1TypeConverterNode.html" title="Converts object of type C::InputType to type C::OutputType by using the functor C. " alt="" coords="999,477,1208,504"/>
+<area shape="rect" id="node23" href="$classFlow_1_1VectorDemultiplexNode.html" title="Flow::VectorDemultiplexNode\&lt; T \&gt;" alt="" coords="989,528,1217,555"/>
+<area shape="rect" id="node24" href="$classFlow_1_1VectorMalformedNode.html" title="Flow::VectorMalformedNode\l\&lt; T, Policy \&gt;" alt="" coords="1009,579,1197,621"/>
+<area shape="rect" id="node25" href="$classFlow_1_1VectorScalarFunctionNode.html" title="VectorScalarFunctionNode maps a vector to a scalar value. " alt="" coords="1012,645,1195,686"/>
+<area shape="rect" id="node26" href="$classFlow_1_1VectorSelectNode.html" title="Allow to select elemnts from a feature vector without resorting to concat and split Parameter selecti..." alt="" coords="1005,711,1201,737"/>
+<area shape="rect" id="node27" href="$classNn_1_1NeuralNetworkForwardNode.html" title="neural network forward node. " alt="" coords="997,761,1209,788"/>
+<area shape="rect" id="node28" href="$classSignal_1_1AllPolesPowerSpectrumNode.html" title="Calculate the all poles (also called as maximum entropy) power spectrum estimate. ..." alt="" coords="984,812,1223,839"/>
+<area shape="rect" id="node29" href="$classSignal_1_1AutocorrelationToAutoregressionNode.html" title="Estimates autoregression parameters from autocorrelation. " alt="" coords="1019,863,1187,905"/>
+<area shape="rect" id="node30" href="$classSignal_1_1AutoregressionToCepstrumNode.html" title="Calculate cepstrum coefficients from autoregressive coefficients. " alt="" coords="1019,929,1187,970"/>
+<area shape="rect" id="node31" href="$classSignal_1_1AutoregressionToSpectrumNode.html" title="Calculate spectrum coefficients (CRBE) from autoregressive coefficients. " alt="" coords="1019,994,1187,1035"/>
+<area shape="rect" id="node32" href="$classSignal_1_1BayesClassificationNode.html" title="BayesClassificationNode. " alt="" coords="997,1060,1210,1087"/>
+<area shape="rect" id="node33" href="$classSignal_1_1ContinuousVectorTransformNode.html" title="For each ith element x in vector X performs x = op(x, f(i)). " alt="" coords="1018,1111,1189,1153"/>
+<area shape="rect" id="node34" href="$classSignal_1_1FastMatrixMultiplicationNode.html" title="Signal::FastMatrixMultiplication\lNode\&lt; T \&gt;" alt="" coords="1001,1177,1205,1218"/>
+</map>

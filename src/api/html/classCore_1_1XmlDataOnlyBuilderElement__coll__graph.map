@@ -1,0 +1,8 @@
+<map id="Core::XmlDataOnlyBuilderElement&lt; P, C &gt;" name="Core::XmlDataOnlyBuilderElement&lt; P, C &gt;">
+<area shape="rect" id="node2" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; XmlEmptyElement, P, P, const P &amp; \&gt;" alt="" coords="80,260,335,301"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="29,171,196,197"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="48,95,177,121"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="156,5,387,32"/>
+<area shape="rect" id="node7" href="$classP.html" title="P" alt="" coords="220,171,259,197"/>
+</map>

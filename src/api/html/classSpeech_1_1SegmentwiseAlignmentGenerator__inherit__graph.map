@@ -1,0 +1,7 @@
+<map id="Speech::SegmentwiseAlignmentGenerator" name="Speech::SegmentwiseAlignmentGenerator">
+<area shape="rect" id="node5" href="$classSpeech_1_1OrthographyAlignmentGenerator.html" title="OrthographyAlignmentGenerator. " alt="" coords="5,244,208,285"/>
+<area shape="rect" id="node6" href="$classSpeech_1_1PhonemeSequenceAlignmentGenerator.html" title="PhonemeSequenceAlignmentGenerator Used in combination with lattice rescoring. " alt="" coords="232,244,477,285"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="83,80,208,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="80,5,211,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="233,80,399,107"/>
+</map>

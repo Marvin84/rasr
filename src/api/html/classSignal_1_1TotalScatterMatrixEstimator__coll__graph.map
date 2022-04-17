@@ -1,0 +1,29 @@
+<map id="Signal::TotalScatterMatrixEstimator" name="Signal::TotalScatterMatrixEstimator">
+<area shape="rect" id="node2" href="$classSignal_1_1ScatterMatrixEstimator.html" title="Base class for scatter matrix estimators. " alt="" coords="2281,277,2481,304"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1941,148,2066,175"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1539,95,1669,121"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1121,89,1255,116"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="456,83,591,125"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="449,210,597,251"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,284,308,311"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="768,82,912,123"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1539,145,1669,172"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1130,140,1246,167"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1135,191,1241,217"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="764,207,916,233"/>
+<area shape="rect" id="node21" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="442,276,605,303"/>
+<area shape="rect" id="node24" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="440,327,607,353"/>
+<area shape="rect" id="node30" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="448,381,599,408"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1555,196,1653,223"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1920,200,2087,227"/>
+<area shape="rect" id="node19" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1323,251,1456,277"/>
+<area shape="rect" id="node20" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="759,258,921,299"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1752,303,1896,329"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="736,323,944,365"/>
+<area shape="rect" id="node25" href="$classMath_1_1Matrix.html" title="Math::Matrix\&lt; Sum \&gt;" alt="" coords="1930,367,2077,393"/>
+<area shape="rect" id="node26" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Math\l::Vector\&lt; Sum, VectorRange\lCheckOffPolicy \&gt;, VectorRangeCheck\lOffPolicy \&gt;" alt="" coords="1480,353,1728,423"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="2111,500,2257,527"/>
+<area shape="rect" id="node29" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="759,441,921,482"/>
+<area shape="rect" id="node32" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Sum \&gt;" alt="" coords="2307,561,2455,588"/>
+</map>

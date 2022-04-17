@@ -1,0 +1,5 @@
+<map id="Signal::ScatterThresholding" name="Signal::ScatterThresholding">
+<area shape="rect" id="node2" href="$classSignal_1_1ScatterTransform.html" title="Base class for scatter matrix based tranformations. " alt="" coords="13,155,180,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="34,80,159,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="31,5,162,32"/>
+</map>

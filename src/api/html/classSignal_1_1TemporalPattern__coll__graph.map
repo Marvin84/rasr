@@ -1,0 +1,12 @@
+<map id="Signal::TemporalPattern" name="Signal::TemporalPattern">
+<area shape="rect" id="node2" href="$classSignal_1_1CosineTransform.html" title="Discrete Cosine Transform with an optional warping of the input &#39;omega&#39; range. " alt="" coords="1243,27,1409,54"/>
+<area shape="rect" id="node3" href="$classMath_1_1Matrix.html" title="Math::Matrix\&lt; Value \&gt;" alt="" coords="945,27,1097,54"/>
+<area shape="rect" id="node4" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Math\l::Vector\&lt; Value, VectorRange\lCheckOffPolicy \&gt;, VectorRangeCheck\lOffPolicy \&gt;" alt="" coords="596,5,844,76"/>
+<area shape="rect" id="node6" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Value \&gt;" alt="" coords="1249,85,1403,111"/>
+<area shape="rect" id="node8" href="$classSignal_1_1WindowFunction.html" title="WindowFunction is base class for different windowing functions. " alt="" coords="1245,135,1407,162"/>
+<area shape="rect" id="node9" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="941,135,1100,162"/>
+<area shape="rect" id="node10" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="616,101,824,143"/>
+<area shape="rect" id="node11" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="371,109,533,135"/>
+<area shape="rect" id="node12" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,109,308,135"/>
+<area shape="rect" id="node14" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="671,177,769,203"/>
+</map>

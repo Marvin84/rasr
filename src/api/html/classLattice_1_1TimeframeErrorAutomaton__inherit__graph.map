@@ -1,0 +1,7 @@
+<map id="Lattice::TimeframeErrorAutomaton" name="Lattice::TimeframeErrorAutomaton">
+<area shape="rect" id="node6" href="$classLattice_1_1MaximumTimeframeErrorAutomaton.html" title="maximum scoring " alt="" coords="5,393,193,435"/>
+<area shape="rect" id="node7" href="$classLattice_1_1SumTimeframeErrorAutomaton.html" title="sum scoring " alt="" coords="218,393,405,435"/>
+<area shape="rect" id="node2" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="115,244,294,271"/>
+<area shape="rect" id="node3" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="127,169,282,196"/>
+<area shape="rect" id="node4" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="134,80,275,121"/>
+</map>

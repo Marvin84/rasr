@@ -1,0 +1,7 @@
+<map id="Mm::DiscriminativeMeanEstimator" name="Mm::DiscriminativeMeanEstimator">
+<area shape="rect" id="node2" href="$classMm_1_1MeanEstimator.html" title="MeanEstimator. " alt="" coords="860,47,1000,73"/>
+<area shape="rect" id="node3" href="$classMm_1_1AbstractMeanEstimator.html" title="AbstractMeanEstimator. " alt="" coords="523,5,713,32"/>
+<area shape="rect" id="node4" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="221,5,457,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node6" href="$classMm_1_1VectorAccumulator.html" title="Mm::VectorAccumulator\l\&lt; FeatureType, std::plus\l\&lt; Sum \&gt;, plusWeighted\&lt; Sum \&gt; \&gt;" alt="" coords="507,56,729,112"/>
+</map>

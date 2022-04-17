@@ -1,0 +1,10 @@
+<map id="Fsa::nBestAutomaton" name="Fsa::nBestAutomaton">
+<area shape="rect" id="node2" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="887,23,1002,50"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="532,5,681,47"/>
+<area shape="rect" id="node4" href="$classFsa_1_1TranslationLexicon.html" title="Fsa::TranslationLexicon" alt="" coords="864,85,1025,111"/>
+<area shape="rect" id="node6" href="$classFsa_1_1StaticAlphabet.html" title="The implementation of a statically allocated alphabet. " alt="" coords="538,150,675,177"/>
+<area shape="rect" id="node7" href="$classFsa_1_1Alphabet.html" title="The abstract definition of an alphabet. " alt="" coords="255,114,358,141"/>
+<area shape="rect" id="node8" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,114,172,141"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStaticAlphabet::Symbol \&gt;" alt="" coords="221,165,392,207"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="849,139,1040,166"/>
+</map>

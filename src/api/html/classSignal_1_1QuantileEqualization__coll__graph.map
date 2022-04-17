@@ -1,0 +1,5 @@
+<map id="Signal::QuantileEqualization" name="Signal::QuantileEqualization">
+<area shape="rect" id="node3" href="$classSignal_1_1SlidingWindow.html" title="Signal::SlidingWindow\l\&lt; Flow::DataPtr \&gt;" alt="" coords="95,171,247,212"/>
+<area shape="rect" id="node5" href="$classFlow_1_1DataPtr.html" title="Class template for Data smart pointers Extends the features of Core::TsRef by: &#45;up and down cast usin..." alt="" coords="232,81,367,108"/>
+<area shape="rect" id="node6" href="$classCore_1_1TsRef.html" title="Class template for smart pointers using intrusive reference&#45;counting in a multithreaded environment..." alt="" coords="236,5,363,32"/>
+</map>

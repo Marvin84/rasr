@@ -1,0 +1,16 @@
+<map id="Cart::XmlQuestionRefListBuilderElement" name="Cart::XmlQuestionRefListBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="963,30,1127,57"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlMixedElementRelay.html" title="Core::XmlMixedElementRelay" alt="" coords="1267,65,1466,92"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="697,120,864,146"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlRegularElement.html" title="XML element declaration for the regular content model. " alt="" coords="957,133,1132,160"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="393,120,523,146"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="57,90,184,117"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="5,154,236,181"/>
+<area shape="rect" id="node7" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; QuestionRefList \&gt;" alt="" coords="1292,174,1441,215"/>
+<area shape="rect" id="node8" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="963,238,1127,279"/>
+<area shape="rect" id="node9" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="711,195,851,236"/>
+<area shape="rect" id="node10" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="964,186,1125,213"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlRegularElementRelay.html" title="Core::XmlRegularElementRelay" alt="" coords="1263,122,1471,149"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlAttributes.html" title="XML element attributes. " alt="" coords="976,81,1113,108"/>
+<area shape="rect" id="node17" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="1279,352,1455,394"/>
+</map>

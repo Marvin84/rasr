@@ -1,0 +1,7 @@
+<map id="TestNeuralNetworkTrainer" name="TestNeuralNetworkTrainer">
+<area shape="rect" id="node2" href="$classTest_1_1ConfigurableFixture.html" title="Test fixture for classes derived from Core::Configurable / Core::Component, which require a configura..." alt="" coords="8,511,177,537"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="107,421,241,448"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="217,213,352,255"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="263,109,397,151"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="181,317,325,359"/>
+</map>

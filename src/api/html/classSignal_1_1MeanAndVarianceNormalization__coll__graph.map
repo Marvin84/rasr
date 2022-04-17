@@ -1,0 +1,20 @@
+<map id="Signal::MeanAndVarianceNormalization" name="Signal::MeanAndVarianceNormalization">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1632,215,1757,241"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1309,144,1440,171"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1014,121,1149,148"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,114,548,155"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,210,555,251"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="706,114,850,155"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1310,200,1439,227"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1023,247,1139,273"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1028,196,1135,223"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="702,183,854,209"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1325,251,1424,277"/>
+<area shape="rect" id="node17" href="$classSignal_1_1MeanNormalization.html" title="Arithmetic average of the sliding window is substracted from the output. " alt="" coords="1605,276,1784,303"/>
+<area shape="rect" id="node18" href="$classSignal_1_1Normalization.html" title="Base class for normalization algorithms. " alt="" coords="1301,303,1448,329"/>
+<area shape="rect" id="node19" href="$classSignal_1_1SlidingWindow.html" title="Signal::SlidingWindow\l\&lt; Flow::DataPtr \&gt;" alt="" coords="1005,298,1157,339"/>
+<area shape="rect" id="node21" href="$classFlow_1_1DataPtr.html" title="Class template for Data smart pointers Extends the features of Core::TsRef by: &#45;up and down cast usin..." alt="" coords="711,351,845,377"/>
+<area shape="rect" id="node22" href="$classCore_1_1TsRef.html" title="Class template for smart pointers using intrusive reference&#45;counting in a multithreaded environment..." alt="" coords="417,351,544,377"/>
+</map>

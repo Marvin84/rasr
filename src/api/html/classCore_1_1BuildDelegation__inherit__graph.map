@@ -1,0 +1,18 @@
+<map id="Core::BuildDelegation&lt; T &gt;" name="Core::BuildDelegation&lt; T &gt;">
+<area shape="rect" id="node4" href="$classCart_1_1XmlBinaryTreeRootBuilderElement.html" title="&lt;node&gt; &lt;node id=&quot;...&quot;&gt; &lt;information&gt; ... " alt="" coords="470,5,679,47"/>
+<area shape="rect" id="node5" href="$classCart_1_1XmlDecisionTreeBuilderElement.html" title="Tenary decision tree; supports classification and multification. " alt="" coords="477,71,672,112"/>
+<area shape="rect" id="node6" href="$classCart_1_1XmlExampleListBuilderElement.html" title="&lt;example&#45;list&gt; &lt;property&#45;map&gt; ... " alt="" coords="479,136,670,177"/>
+<area shape="rect" id="node7" href="$classCart_1_1XmlExampleListMergerElement.html" title="Cart::XmlExampleListMerger\lElement\&lt; ExampleList \&gt;" alt="" coords="479,201,670,243"/>
+<area shape="rect" id="node8" href="$classCart_1_1XmlFloatBoxBuilderElement.html" title="&lt;matrix&#45;f64 nRows=&quot;2&quot; nColumns=&quot;3&quot;&gt; 1.0 2.0 3.0 1.0 2.0 3.0 &lt;/matrix&#45;f64&gt; " alt="" coords="489,267,660,308"/>
+<area shape="rect" id="node9" href="$classCart_1_1XmlIgnoreInformationBuilderElement.html" title="Just ignore any information. " alt="" coords="475,332,674,373"/>
+<area shape="rect" id="node10" href="$classCart_1_1XmlIndexedStringBuilderElement.html" title="&lt;properties&#45;definition&gt; &lt;key&gt; central &lt;/key&gt; &lt;value&#45;map&gt; # a &lt;/value&#45;map&gt;... " alt="" coords="447,397,703,439"/>
+<area shape="rect" id="node11" href="$classCart_1_1XmlPropertiesBuilderElement.html" title="&lt;properties&gt; &lt;key&gt; history[0] &lt;/key&gt; &lt;key&gt; central &lt;/key&gt; a ... " alt="" coords="486,463,663,504"/>
+<area shape="rect" id="node12" href="$classCart_1_1XmlPropertiesDefinitionBuilderElement.html" title="Cart::XmlPropertiesDefinition\lBuilderElement\&lt; PropertyMap \&gt;" alt="" coords="471,528,679,569"/>
+<area shape="rect" id="node13" href="$classCart_1_1XmlQuestionRefListBuilderElement.html" title="&lt;questions&gt; &lt;question index=&quot;0&quot; description=&quot;hmm&#45;state&quot;&gt; &lt;key&gt; state &lt;/key&gt; &lt;values&gt; 1..." alt="" coords="461,593,689,635"/>
+<area shape="rect" id="node14" href="$classCart_1_1XmlStepBuilderElement.html" title="&lt;step name=&quot;silence&quot; action=&quot;split|cluster&quot;&gt; &lt;min&#45;obs&gt; 0 &lt;/min&#45;obs&gt; &lt;min&#45;gain&gt; 0.0 &lt;/min&#45;gain&gt; &lt;quest..." alt="" coords="472,658,677,714"/>
+<area shape="rect" id="node15" href="$classCart_1_1XmlTrainingInformationBuilderElement.html" title="Information produced be cart trainer. " alt="" coords="475,737,674,779"/>
+<area shape="rect" id="node16" href="$classCart_1_1XmlTrainingPlanBuilderElement.html" title="&lt;decision&#45;tree&#45;training&gt; &lt;properties&#45;definition&gt; ... " alt="" coords="475,802,674,858"/>
+<area shape="rect" id="node17" href="$classXmlBuilder2_1_1XmlDataOnlyBuilderElement.html" title="XmlBuilder2::XmlDataOnly\lBuilderElement\&lt; T \&gt;" alt="" coords="485,881,664,923"/>
+<area shape="rect" id="node2" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="5,401,169,443"/>
+<area shape="rect" id="node3" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="7,467,168,494"/>
+</map>

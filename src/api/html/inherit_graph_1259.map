@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSearch_1_1Wfst_1_1SearchSpaceBase.html" title="base class for all SearchSpace implementations defining the interface used by ExpandingFsaSearch ..." alt="" coords="5,13,220,39"/>
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1SearchSpace.html" title="SearchSpace implementation depending on 1) the implementation of the Network used 2) whether or not s..." alt="" coords="268,5,453,47"/>
+</map>

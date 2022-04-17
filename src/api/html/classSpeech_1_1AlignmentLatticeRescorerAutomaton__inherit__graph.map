@@ -1,0 +1,7 @@
+<map id="Speech::AlignmentLatticeRescorerAutomaton" name="Speech::AlignmentLatticeRescorerAutomaton">
+<area shape="rect" id="node2" href="$classSpeech_1_1CachedLatticeRescorerAutomaton.html" title="Speech::CachedLatticeRescorer\lAutomaton" alt="" coords="15,393,225,435"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeRescorerAutomaton" alt="" coords="5,319,235,345"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="31,244,209,271"/>
+<area shape="rect" id="node5" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="43,169,197,196"/>
+<area shape="rect" id="node6" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="49,80,191,121"/>
+</map>

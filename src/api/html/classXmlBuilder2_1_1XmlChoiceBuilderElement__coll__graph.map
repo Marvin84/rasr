@@ -1,0 +1,11 @@
+<map id="XmlBuilder2::XmlChoiceBuilderElement" name="XmlBuilder2::XmlChoiceBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="612,37,779,64"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="413,32,543,59"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="57,5,184,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="5,71,236,97"/>
+<area shape="rect" id="node6" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; Core::Choice::Value \&gt;" alt="" coords="613,89,777,130"/>
+<area shape="rect" id="node7" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l Core::Choice::Value &amp; \&gt;" alt="" coords="393,89,563,130"/>
+<area shape="rect" id="node8" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="51,138,191,179"/>
+<area shape="rect" id="node9" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; Core\l::Choice::Value * \&gt;" alt="" coords="398,154,558,195"/>
+<area shape="rect" id="node11" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="646,205,745,232"/>
+</map>

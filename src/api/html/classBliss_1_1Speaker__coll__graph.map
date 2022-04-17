@@ -1,0 +1,4 @@
+<map id="Bliss::Speaker" name="Bliss::Speaker">
+<area shape="rect" id="node2" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="69,95,246,121"/>
+<area shape="rect" id="node3" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="136,184,267,211"/>
+</map>

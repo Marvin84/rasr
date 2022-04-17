@@ -1,0 +1,14 @@
+<map id="EmissionLatticeRescorerAutomaton" name="EmissionLatticeRescorerAutomaton">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeExtratorInternal_1_1CachedLatticeRescorerAutomaton.html" title="Speech::LatticeExtratorInternal\l::CachedLatticeRescorerAutomaton" alt="" coords="1544,146,1775,187"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1LatticeExtratorInternal_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeExtratorInternal\l::LatticeRescorerAutomaton" alt="" coords="1247,106,1449,147"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="989,113,1168,140"/>
+<area shape="rect" id="node5" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="617,72,771,99"/>
+<area shape="rect" id="node6" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="310,23,451,65"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="292,89,469,116"/>
+<area shape="rect" id="node10" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="581,123,807,165"/>
+<area shape="rect" id="node11" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Fsa::Weight \&gt;" alt="" coords="1274,171,1422,213"/>
+<area shape="rect" id="node13" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Am::AcousticModel \&gt;" alt="" coords="1551,212,1768,239"/>
+<area shape="rect" id="node14" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; PhonemeSequence\lAlignmentGenerator \&gt;" alt="" coords="1557,263,1761,305"/>
+<area shape="rect" id="node15" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="1604,329,1715,356"/>
+</map>

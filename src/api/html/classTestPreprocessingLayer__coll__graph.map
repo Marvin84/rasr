@@ -1,0 +1,26 @@
+<map id="TestPreprocessingLayer" name="TestPreprocessingLayer">
+<area shape="rect" id="node2" href="$classTest_1_1ConfigurableFixture.html" title="Test fixture for classes derived from Core::Configurable / Core::Component, which require a configura..." alt="" coords="1413,35,1583,61"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1030,75,1165,101"/>
+<area shape="rect" id="node11" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1433,85,1563,112"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="448,127,583,169"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,119,292,161"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="441,257,589,298"/>
+<area shape="rect" id="node18" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,339,308,365"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="729,117,873,158"/>
+<area shape="rect" id="node9" href="$classNn_1_1NeuralNetworkLayer.html" title="Nn::NeuralNetworkLayer\l\&lt; f64 \&gt;" alt="" coords="2288,275,2455,317"/>
+<area shape="rect" id="node10" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1933,192,2058,219"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1433,136,1563,163"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1039,136,1155,163"/>
+<area shape="rect" id="node15" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1044,187,1151,213"/>
+<area shape="rect" id="node16" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="725,261,877,288"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1016,383,1179,409"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="440,409,591,436"/>
+<area shape="rect" id="node19" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1449,324,1547,351"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1916,387,2075,413"/>
+<area shape="rect" id="node21" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1394,441,1602,482"/>
+<area shape="rect" id="node28" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1417,375,1579,417"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1203,513,1349,540"/>
+<area shape="rect" id="node24" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="720,469,883,510"/>
+<area shape="rect" id="node27" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1929,457,2062,484"/>
+<area shape="rect" id="node29" href="$classNn_1_1Types.html" title="Nn::Types\&lt; f64 \&gt;" alt="" coords="1933,141,2058,168"/>
+</map>

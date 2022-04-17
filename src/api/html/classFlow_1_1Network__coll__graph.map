@@ -1,0 +1,24 @@
+<map id="Flow::Network" name="Flow::Network">
+<area shape="rect" id="node2" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2225,197,2364,224"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1932,341,2057,368"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1493,404,1623,431"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1128,363,1263,389"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="507,355,641,397"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="221,330,356,371"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="500,159,648,201"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="205,228,372,255"/>
+<area shape="rect" id="node26" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="233,473,344,500"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="819,355,963,397"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1493,280,1623,307"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1137,268,1253,295"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1142,212,1249,239"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,167,967,193"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="491,104,657,131"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1509,353,1607,380"/>
+<area shape="rect" id="node18" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="1904,194,2085,235"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1287,83,1431,109"/>
+<area shape="rect" id="node21" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="787,89,995,130"/>
+<area shape="rect" id="node23" href="$classFlow_1_1Data.html" title="Base class for Data class in Flow Features: &#45;Multithread safe reference counting. ..." alt="" coords="531,473,617,500"/>
+<area shape="rect" id="node24" href="$classCore_1_1ThreadSafeReferenceCounted.html" title="Base class for reference&#45;counted objects used in a multithreaded environment. " alt="" coords="196,525,381,566"/>
+<area shape="rect" id="node25" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="5,532,100,559"/>
+</map>

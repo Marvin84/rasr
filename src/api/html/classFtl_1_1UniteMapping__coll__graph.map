@@ -1,0 +1,8 @@
+<map id="Ftl::UniteMapping&lt; _Automaton &gt;" name="Ftl::UniteMapping&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFsa_1_1Mapping.html" title="Mapping between state ids of two automatons; see compose for examples. " alt="" coords="659,31,760,57"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="279,5,446,32"/>
+<area shape="rect" id="node4" href="$classFtl_1_1ConcatUnionAutomaton.html" title="Ftl::ConcatUnionAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="617,107,801,149"/>
+<area shape="rect" id="node6" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lFsa::AlphabetMapping \&gt;" alt="" coords="281,107,445,149"/>
+<area shape="rect" id="node8" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; _ConstAutomaton\lRef \&gt;" alt="" coords="256,173,469,214"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="267,239,458,265"/>
+</map>

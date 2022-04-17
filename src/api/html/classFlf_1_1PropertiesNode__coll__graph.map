@@ -1,0 +1,22 @@
+<map id="Flf::PropertiesNode" name="Flf::PropertiesNode">
+<area shape="rect" id="node2" href="$classFlf_1_1FilterNode.html" title="Flf::FilterNode" alt="" coords="2220,236,2325,263"/>
+<area shape="rect" id="node3" href="$classFlf_1_1Node.html" title="Flf::Node" alt="" coords="1985,161,2061,188"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1727,84,1853,111"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1418,73,1549,100"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1177,73,1312,100"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,99,548,141"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,166,292,207"/>
+<area shape="rect" id="node16" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,226,555,267"/>
+<area shape="rect" id="node17" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,295,308,321"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="773,90,917,131"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1419,124,1548,151"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1187,124,1303,151"/>
+<area shape="rect" id="node14" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1191,175,1298,201"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="769,233,921,260"/>
+<area shape="rect" id="node24" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="579,300,745,327"/>
+<area shape="rect" id="node18" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1434,15,1533,41"/>
+<area shape="rect" id="node19" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1707,185,1873,212"/>
+<area shape="rect" id="node20" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Link \&gt;" alt="" coords="1718,135,1862,161"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1951,300,2095,327"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="945,293,1153,334"/>
+</map>

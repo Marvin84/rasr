@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classLattice_1_1Core_1_1CharsetConverter.html" title="Lattice::Core::CharsetConverter" alt="" coords="5,46,213,73"/>
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1UnicodeInputConverter.html" title="Converter for reading text data. " alt="" coords="266,5,449,47"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1UnicodeOutputConverter.html" title="Converter for writing text data. " alt="" coords="261,71,453,112"/>
+</map>

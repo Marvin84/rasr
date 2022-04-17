@@ -1,0 +1,18 @@
+<map id="Bliss::SegmentOrderingVisitor::CustomCorpusGuide" name="Bliss::SegmentOrderingVisitor::CustomCorpusGuide">
+<area shape="rect" id="node2" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="1197,512,1316,539"/>
+<area shape="rect" id="node13" href="$classBliss_1_1SegmentOrderingVisitor.html" title="Changes the order of processed segments according to a given segment id list (full segment names)..." alt="" coords="1808,208,2005,235"/>
+<area shape="rect" id="node18" href="$classBliss_1_1Segment.html" title="General segment of a Recording. " alt="" coords="1535,347,1645,373"/>
+<area shape="rect" id="node3" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="896,512,1041,539"/>
+<area shape="rect" id="node24" href="$classBliss_1_1Corpus.html" title="A collection of recordings. " alt="" coords="1384,668,1485,695"/>
+<area shape="rect" id="node4" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="5,347,136,373"/>
+<area shape="rect" id="node5" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="239,364,416,391"/>
+<area shape="rect" id="node7" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="607,403,713,429"/>
+<area shape="rect" id="node8" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="577,352,743,379"/>
+<area shape="rect" id="node9" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="583,505,737,546"/>
+<area shape="rect" id="node11" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="583,570,737,611"/>
+<area shape="rect" id="node14" href="$classBliss_1_1CorpusVisitor.html" title="Abstract visitor base class for corpus traversal. " alt="" coords="1521,107,1659,133"/>
+<area shape="rect" id="node15" href="$classBliss_1_1SegmentVisitor.html" title="Abstract visitor base class for processing segments. " alt="" coords="1183,85,1331,112"/>
+<area shape="rect" id="node16" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Segment * \&gt;" alt="" coords="1516,158,1664,199"/>
+<area shape="rect" id="node20" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; AcousticCondition * \&gt;" alt="" coords="1509,26,1671,67"/>
+<area shape="rect" id="node22" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Speaker * \&gt;" alt="" coords="1516,223,1664,265"/>
+</map>

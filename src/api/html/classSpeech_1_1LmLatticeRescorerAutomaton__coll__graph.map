@@ -1,0 +1,15 @@
+<map id="Speech::LmLatticeRescorerAutomaton" name="Speech::LmLatticeRescorerAutomaton">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeRescorerAutomaton" alt="" coords="1245,107,1475,133"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="963,107,1141,133"/>
+<area shape="rect" id="node4" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="617,72,771,99"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="310,23,451,65"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="292,89,469,116"/>
+<area shape="rect" id="node9" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="581,123,807,165"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::ScaledLanguageModel \&gt;" alt="" coords="1273,158,1447,199"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; History \&gt;" alt="" coords="1279,224,1441,251"/>
+<area shape="rect" id="node13" href="$classBliss_1_1LemmaPronunciationAlphabet.html" title="Adaptor: Lexicon as FSA alphabet of lemma&#45;pronunciations. " alt="" coords="1269,275,1451,317"/>
+<area shape="rect" id="node14" href="$classFsa_1_1Alphabet.html" title="The abstract definition of an alphabet. " alt="" coords="1001,279,1103,305"/>
+<area shape="rect" id="node15" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="611,279,777,305"/>
+<area shape="rect" id="node16" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="960,329,1144,356"/>
+</map>

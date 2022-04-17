@@ -1,0 +1,19 @@
+<map id="Speech::StateTyingDecisionTreeTrainer" name="Speech::StateTyingDecisionTreeTrainer">
+<area shape="rect" id="node2" href="$classCart_1_1DecisionTreeTrainer.html" title="behaves like a binary decision tree trainer, i.e. " alt="" coords="1816,184,1988,211"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1569,133,1694,160"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1232,213,1363,240"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="969,213,1104,240"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,259,548,301"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,249,292,290"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,78,555,119"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,84,308,111"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="688,251,832,293"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1233,163,1362,189"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="979,163,1095,189"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="983,112,1090,139"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="684,85,836,112"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1248,112,1347,139"/>
+<area shape="rect" id="node18" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Scorer \&gt;" alt="" coords="1543,184,1720,211"/>
+<area shape="rect" id="node19" href="$structCart_1_1DecisionTreeTrainer_1_1TrainingPlan.html" title="Telling the trainer some constraints about how to do the training. " alt="" coords="1545,298,1717,339"/>
+<area shape="rect" id="node20" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="1209,273,1385,314"/>
+</map>

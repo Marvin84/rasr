@@ -1,0 +1,8 @@
+<map id="Lattice::NaryMorphismAutomaton" name="Lattice::NaryMorphismAutomaton">
+<area shape="rect" id="node2" href="$classLattice_1_1MorphismAutomaton.html" title="Lattice::MorphismAutomaton" alt="" coords="704,89,893,116"/>
+<area shape="rect" id="node3" href="$classFtl_1_1SlaveAutomaton.html" title="Fsa::SlaveAutomaton" alt="" coords="323,31,471,57"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; Lattice::WordBoundaries \&gt;" alt="" coords="303,82,492,123"/>
+<area shape="rect" id="node7" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lConstMappingRef \&gt;" alt="" coords="729,147,868,189"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Ref\&lt; const Lattice\l::WordBoundaries \&gt; \&gt;" alt="" coords="723,212,874,268"/>
+</map>

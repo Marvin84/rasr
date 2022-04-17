@@ -1,0 +1,8 @@
+<map id="Speech::ArchiveApproximateWordAccuracyLatticeRescorer" name="Speech::ArchiveApproximateWordAccuracyLatticeRescorer">
+<area shape="rect" id="node2" href="$classSpeech_1_1ApproximateDistanceLatticeRescorer.html" title="Speech::ApproximateDistance\lLatticeRescorer" alt="" coords="15,379,214,420"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DistanceLatticeRescorer.html" title="Speech::DistanceLatticeRescorer" alt="" coords="5,304,224,331"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="31,229,198,256"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="31,155,198,181"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="52,80,177,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="49,5,180,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Core::CharsetConverter" name="Core::CharsetConverter">
+<area shape="rect" id="node2" href="$classCore_1_1UnicodeInputConverter.html" title="Converter for reading text data. " alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1UnicodeOutputConverter.html" title="Converter for writing text data. " alt="" coords="221,80,424,107"/>
+</map>

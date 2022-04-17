@@ -1,0 +1,8 @@
+<map id="XmlBuilder2::XmlChoiceBuilderElement" name="XmlBuilder2::XmlChoiceBuilderElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="397,5,564,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="200,5,329,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; Core::Choice::Value \&gt;" alt="" coords="399,57,563,98"/>
+<area shape="rect" id="node6" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l Core::Choice::Value &amp; \&gt;" alt="" coords="180,57,349,98"/>
+<area shape="rect" id="node7" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; Core\l::Choice::Value * \&gt;" alt="" coords="185,122,345,163"/>
+</map>

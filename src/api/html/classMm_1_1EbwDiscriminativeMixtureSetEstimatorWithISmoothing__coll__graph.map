@@ -1,0 +1,32 @@
+<map id="Mm::EbwDiscriminativeMixtureSetEstimatorWithISmoothing" name="Mm::EbwDiscriminativeMixtureSetEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1ISmoothingMixtureSetEstimator.html" title="ISmoothingMixtureSetEstimator. " alt="" coords="3082,99,3263,140"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2016,527,2141,554"/>
+<area shape="rect" id="node23" href="$classMm_1_1AbstractMixtureSetEstimator.html" title="Base Class for accumulator and estimator class for mixture sets. " alt="" coords="2387,261,2607,287"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1607,533,1737,559"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1256,539,1391,566"/>
+<area shape="rect" id="node22" href="$classMm_1_1DiscriminativeMixtureSetEstimator.html" title="DiscriminativeMixtureSetEstimator. " alt="" coords="2796,168,2975,209"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,569,557,611"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,636,292,677"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,425,564,467"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,346,308,373"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="816,561,960,603"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1607,467,1737,494"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1265,403,1381,430"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1270,463,1377,490"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="812,455,964,482"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1248,107,1399,134"/>
+<area shape="rect" id="node27" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="597,285,760,311"/>
+<area shape="rect" id="node31" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,346,573,373"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1623,397,1721,423"/>
+<area shape="rect" id="node25" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1999,229,2158,255"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="2005,35,2152,62"/>
+<area shape="rect" id="node19" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1591,39,1753,80"/>
+<area shape="rect" id="node33" href="$classSum.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="1283,167,1364,194"/>
+<area shape="rect" id="node34" href="$classMm_1_1EbwDiscriminativeMixtureSetEstimator.html" title="EbwDiscriminativeMixtureSetEstimator. " alt="" coords="3071,5,3275,47"/>
+<area shape="rect" id="node24" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1995,86,2162,113"/>
+<area shape="rect" id="node26" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1016,253,1224,295"/>
+<area shape="rect" id="node28" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Mm\l::AssigningFeatureScorer \&gt;" alt="" coords="1988,280,2169,321"/>
+<area shape="rect" id="node29" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1423,346,1567,373"/>
+<area shape="rect" id="node30" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="784,339,992,380"/>
+<area shape="rect" id="node32" href="$classMm_1_1ProbabilityStatistics.html" title="Histogram statistics for probabilities. " alt="" coords="1787,167,1955,194"/>
+</map>

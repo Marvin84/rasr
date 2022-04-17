@@ -1,0 +1,10 @@
+<map id="Speech::CovarianceEstimator" name="Speech::CovarianceEstimator">
+<area shape="rect" id="node2" href="$classSpeech_1_1FeatureExtractor.html" title="FeatureExtractor is a corpus visitor application for feature extraction. " alt="" coords="227,311,397,338"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DataExtractor.html" title="DataExtractor is a corpus visitor application for extraction of any data type. " alt="" coords="239,229,393,256"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1CorpusProcessor.html" title="CorpusProcessor base class for algorithms driven by a CorpusVisitor. " alt="" coords="230,155,405,181"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="233,80,359,107"/>
+<area shape="rect" id="node8" href="$classSignal_1_1ScatterMatrixEstimator.html" title="Base class for scatter matrix estimators. " alt="" coords="5,155,205,181"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="231,5,361,32"/>
+<area shape="rect" id="node7" href="$classSignal_1_1TotalScatterMatrixEstimator.html" title="Estimator class for total scatter(covariance) matrix. " alt="" coords="28,304,201,345"/>
+<area shape="rect" id="node9" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="22,80,189,107"/>
+</map>

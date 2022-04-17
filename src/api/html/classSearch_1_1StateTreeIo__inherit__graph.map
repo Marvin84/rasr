@@ -1,0 +1,4 @@
+<map id="Search::StateTreeIo" name="Search::StateTreeIo">
+<area shape="rect" id="node2" href="$classSearch_1_1StateTreeReader.html" title="Reconstructs a state tree from a file. " alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classSearch_1_1StateTreeWriter.html" title="Writes a state tree to a binary file. " alt="" coords="200,80,363,107"/>
+</map>

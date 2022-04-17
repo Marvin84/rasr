@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSignal_1_1VectorCutLength.html" title="VectorCutLength cuts out [first..last] interval of input vector. " alt="" coords="5,46,201,73"/>
+<area shape="rect" id="node2" href="$classSignal_1_1VectorCutRelativeLength.html" title="VectorCutRelativeLength cuts out [first..last] interval of input vector. " alt="" coords="249,5,423,47"/>
+<area shape="rect" id="node3" href="$classSignal_1_1VectorCutRelativeSurface.html" title="VectorCutRelativeSurface cuts out [first..last] interval of input vector. " alt="" coords="249,71,423,112"/>
+</map>

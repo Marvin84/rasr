@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMm_1_1MixtureSetBuilder.html" title="MixtureSetTopologyBuilder creates a mixture set with independend densities. " alt="" coords="5,42,160,69"/>
+<area shape="rect" id="node2" href="$classMm_1_1MixtureSpecificCovarianceBuilder.html" title="MixtureSpecificCovarianceTopologyBuilder creates a mixture set with mixture specific covariance matri..." alt="" coords="208,5,416,47"/>
+<area shape="rect" id="node3" href="$classMm_1_1PooledCovarianceBuilder.html" title="PooledCovarianceTopologyBuilder creates a mixture set with one pooled covariance matrix. " alt="" coords="213,71,411,98"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Lattice::SmoothedFrameStateAccuracyAutomaton::LatticeToActiveStates" name="Lattice::SmoothedFrameStateAccuracyAutomaton::LatticeToActiveStates">
+<area shape="rect" id="node2" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="1900,65,2021,91"/>
+<area shape="rect" id="node3" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="1523,13,1627,39"/>
+<area shape="rect" id="node4" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="1125,5,1263,47"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="1081,72,1307,113"/>
+<area shape="rect" id="node8" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="1485,142,1664,169"/>
+<area shape="rect" id="node7" href="$classLattice_1_1SmoothedFrameStateAccuracyAutomaton.html" title="SmoothedFrameStateAccuracyAutomaton. " alt="" coords="1863,231,2059,272"/>
+<area shape="rect" id="node9" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="1117,141,1271,167"/>
+<area shape="rect" id="node10" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="801,79,943,120"/>
+<area shape="rect" id="node12" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="488,111,697,138"/>
+<area shape="rect" id="node13" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="783,145,961,171"/>
+<area shape="rect" id="node14" href="$classLattice_1_1SmoothingFunction.html" title="Lattice::SmoothingFunction" alt="" coords="1484,193,1665,219"/>
+<area shape="rect" id="node15" href="$classLattice_1_1Core_1_1Choice.html" title="Choice class. " alt="" coords="799,203,945,230"/>
+<area shape="rect" id="node16" href="$classLattice_1_1Core_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1111,255,1277,296"/>
+<area shape="rect" id="node17" href="$classLattice_1_1Core_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="775,264,969,305"/>
+<area shape="rect" id="node18" href="$classLattice_1_1Core_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="494,271,691,298"/>
+<area shape="rect" id="node19" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,238,356,265"/>
+<area shape="rect" id="node22" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; PhonemeSequenceAlignment\lGenerator \&gt;" alt="" coords="1472,243,1677,299"/>
+<area shape="rect" id="node23" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; States \&gt;" alt="" coords="1495,323,1654,350"/>
+<area shape="rect" id="node25" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Bliss::LemmaPronunciation\lAlphabet \&gt;" alt="" coords="1460,374,1689,430"/>
+</map>

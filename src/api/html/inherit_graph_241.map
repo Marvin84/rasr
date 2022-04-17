@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Base \&gt;" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$classCore_1_1IoRef.html" title="IoRef extends Ref by allowing reading and writing to binary streams. " alt="" coords="187,5,331,32"/>
+</map>

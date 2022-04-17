@@ -1,0 +1,8 @@
+<map id="Core::FormatSet::Format&lt; T &gt;" name="Core::FormatSet::Format&lt; T &gt;">
+<area shape="rect" id="node3" href="$structCore_1_1BinaryFormat.html" title="Template helper class for registering binary formats. " alt="" coords="505,5,673,32"/>
+<area shape="rect" id="node4" href="$structCore_1_1CompressedBinaryFormat.html" title="Template helper class for registering compressed binary formats. " alt="" coords="468,56,711,83"/>
+<area shape="rect" id="node5" href="$structCore_1_1CompressedPlainTextFormat.html" title="Template helper class for registering plain text formats. " alt="" coords="496,107,683,149"/>
+<area shape="rect" id="node6" href="$structCore_1_1PlainTextFormat.html" title="Template helper class for registering plain text formats. " alt="" coords="496,173,683,200"/>
+<area shape="rect" id="node7" href="$structCore_1_1XmlFormat.html" title="Template helper class for registering xml formats. " alt="" coords="512,224,667,251"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,115,172,141"/>
+</map>

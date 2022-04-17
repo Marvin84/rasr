@@ -1,0 +1,34 @@
+<map id="Lattice::ApproximatePhoneAccuracyMaskAutomaton" name="Lattice::ApproximatePhoneAccuracyMaskAutomaton">
+<area shape="rect" id="node2" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="2299,283,2477,325"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="1900,171,2097,213"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="1535,124,1713,151"/>
+<area shape="rect" id="node5" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="1125,65,1279,92"/>
+<area shape="rect" id="node6" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="797,23,938,65"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="440,56,649,83"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="779,89,956,116"/>
+<area shape="rect" id="node10" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="1089,117,1315,158"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; States \&gt;" alt="" coords="1545,179,1703,205"/>
+<area shape="rect" id="node13" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Bliss::LemmaPronunciation\lAlphabet \&gt;" alt="" coords="1509,229,1739,285"/>
+<area shape="rect" id="node14" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; PhonemeSequenceAlignment\lGenerator \&gt;" alt="" coords="1896,236,2101,292"/>
+<area shape="rect" id="node15" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Am::AllophoneState\lAlphabet \&gt;" alt="" coords="1905,316,2092,372"/>
+<area shape="rect" id="node16" href="$classSpeech_1_1Confidences.html" title="used for weighted accumulation " alt="" coords="2315,455,2461,481"/>
+<area shape="rect" id="node17" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1936,396,2061,423"/>
+<area shape="rect" id="node18" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1559,340,1689,367"/>
+<area shape="rect" id="node19" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1135,325,1269,352"/>
+<area shape="rect" id="node22" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="477,318,612,359"/>
+<area shape="rect" id="node23" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,381,292,422"/>
+<area shape="rect" id="node29" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="471,442,619,483"/>
+<area shape="rect" id="node30" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,509,308,536"/>
+<area shape="rect" id="node21" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="795,318,939,359"/>
+<area shape="rect" id="node24" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1559,393,1689,420"/>
+<area shape="rect" id="node25" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1144,381,1260,408"/>
+<area shape="rect" id="node27" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1149,432,1255,459"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="791,449,943,476"/>
+<area shape="rect" id="node35" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="469,525,620,552"/>
+<area shape="rect" id="node31" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1575,444,1673,471"/>
+<area shape="rect" id="node32" href="$structSpeech_1_1Confidences_1_1Statistics.html" title="Speech::Confidences\l::Statistics" alt="" coords="1925,447,2072,489"/>
+<area shape="rect" id="node33" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1339,515,1485,541"/>
+<area shape="rect" id="node34" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="786,518,949,559"/>
+<area shape="rect" id="node37" href="$classSpeech_1_1Alignment.html" title="Speech::Alignment" alt="" coords="1933,564,2065,591"/>
+<area shape="rect" id="node39" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Fsa\l::Alphabet \&gt;" alt="" coords="1549,615,1699,657"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classChannel_1_1Dispatcher.html" title="Core::Channel::Dispatcher" alt="" coords="133,5,311,32"/>
+<area shape="rect" id="node3" href="$classTextInputStream_1_1Buffer.html" title="Core::TextInputStream\l::Buffer" alt="" coords="145,57,299,98"/>
+<area shape="rect" id="node4" href="$classTextOutputStream_1_1Buffer.html" title="Core::TextOutputStream\l::Buffer" alt="" coords="139,122,305,163"/>
+<area shape="rect" id="node5" href="$classXmlWriter_1_1Buffer.html" title="Core::XmlWriter::Buffer" alt="" coords="143,188,301,215"/>
+<area shape="rect" id="node6" href="$classzstr_1_1istreambuf.html" title="zstr::istreambuf" alt="" coords="165,239,279,265"/>
+<area shape="rect" id="node7" href="$classzstr_1_1ostreambuf.html" title="zstr::ostreambuf" alt="" coords="163,289,281,316"/>
+</map>

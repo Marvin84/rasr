@@ -1,0 +1,13 @@
+<map id="Flf::LabelMap" name="Flf::LabelMap">
+<area shape="rect" id="node3" href="$classFlf_1_1CompoundWordSplittingMap.html" title="Flf::CompoundWordSplittingMap" alt="" coords="369,137,580,163"/>
+<area shape="rect" id="node8" href="$classFlf_1_1NonWordToEpsilonMap.html" title="Flf::NonWordToEpsilonMap" alt="" coords="383,261,566,287"/>
+<area shape="rect" id="node11" href="$classFlf_1_1StaticLabelMap.html" title="Flf::StaticLabelMap" alt="" coords="407,311,542,338"/>
+<area shape="rect" id="node12" href="$classFlf_1_1ToLowerCaseMap.html" title="Flf::ToLowerCaseMap" alt="" coords="399,362,550,389"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,286,172,313"/>
+<area shape="rect" id="node4" href="$classFlf_1_1CompoundEvaluationTokenSplittingMap.html" title="Flf::CompoundEvaluationToken\lSplittingMap" alt="" coords="641,5,846,47"/>
+<area shape="rect" id="node5" href="$classFlf_1_1CompoundLemmaPronunciationSplittingMap.html" title="Flf::CompoundLemmaPronunciation\lSplittingMap" alt="" coords="628,71,859,112"/>
+<area shape="rect" id="node6" href="$classFlf_1_1CompoundLemmaSplittingMap.html" title="Flf::CompoundLemmaSplittingMap" alt="" coords="632,137,855,163"/>
+<area shape="rect" id="node7" href="$classFlf_1_1CompoundSyntacticTokenSplittingMap.html" title="Flf::CompoundSyntacticToken\lSplittingMap" alt="" coords="644,188,843,229"/>
+<area shape="rect" id="node9" href="$classFlf_1_1NonLemmaPronunciationToEpsilonMap.html" title="Flf::NonLemmaPronunciation\lToEpsilonMap" alt="" coords="648,253,839,295"/>
+<area shape="rect" id="node10" href="$classFlf_1_1NonLemmaToEpsilonMap.html" title="Flf::NonLemmaToEpsilonMap" alt="" coords="646,319,841,346"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="Speech::NumeratorFromDenominatorNode" name="Speech::NumeratorFromDenominatorNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeRescorerNode.html" title="LatticeRescorerNode. " alt="" coords="3317,265,3515,292"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1SegmentNode.html" title="SegmentNode. " alt="" coords="3111,265,3268,292"/>
+<area shape="rect" id="node4" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="2841,209,2971,236"/>
+<area shape="rect" id="node5" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2678,192,2767,219"/>
+<area shape="rect" id="node6" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2328,192,2467,219"/>
+<area shape="rect" id="node7" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1986,445,2111,472"/>
+<area shape="rect" id="node29" href="$classBliss_1_1OrthographicParser.html" title="Parses an orthographic sentence into lemmas. " alt="" coords="2312,699,2483,725"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1541,432,1671,459"/>
+<area shape="rect" id="node9" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1152,468,1287,495"/>
+<area shape="rect" id="node12" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="493,475,628,517"/>
+<area shape="rect" id="node13" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,401,303,442"/>
+<area shape="rect" id="node19" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="487,281,635,322"/>
+<area shape="rect" id="node20" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,236,319,263"/>
+<area shape="rect" id="node27" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="343,125,453,152"/>
+<area shape="rect" id="node28" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="668,9,763,36"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="819,475,963,517"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1541,375,1671,401"/>
+<area shape="rect" id="node15" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1161,417,1277,444"/>
+<area shape="rect" id="node17" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1166,367,1273,393"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,295,967,321"/>
+<area shape="rect" id="node26" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="477,201,644,228"/>
+<area shape="rect" id="node21" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1557,483,1655,509"/>
+<area shape="rect" id="node22" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="1958,185,2139,226"/>
+<area shape="rect" id="node24" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1335,123,1479,149"/>
+<area shape="rect" id="node25" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="787,167,995,209"/>
+<area shape="rect" id="node30" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1965,787,2132,813"/>
+<area shape="rect" id="node31" href="$classBliss_1_1OrthographicPrefixTree.html" title="Bliss::OrthographicPrefixTree" alt="" coords="1952,669,2145,696"/>
+<area shape="rect" id="node32" href="$classBliss_1_1PrefixTree.html" title="Bliss::PrefixTree\&lt;\l const char *, ListItem,\l Core::select1st\&lt; ListItem \&gt; \&gt;" alt="" coords="1507,668,1705,724"/>
+<area shape="rect" id="node33" href="$structCore_1_1select1st.html" title="Core::select1st\&lt; ListItem \&gt;" alt="" coords="1128,647,1311,673"/>
+<area shape="rect" id="node35" href="$structBliss_1_1PrefixTree_1_1TreeNode.html" title="Bliss::PrefixTree\&lt;\l S, I, K, T \&gt;::TreeNode" alt="" coords="1141,751,1298,793"/>
+<area shape="rect" id="node36" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::PrefixTree::TreeNode \&gt;" alt="" coords="1136,817,1303,858"/>
+<area shape="rect" id="node37" href="$structCore_1_1Obstack_1_1Chunk.html" title="Core::Obstack\&lt; T \&gt;\l::Chunk" alt="" coords="821,817,960,858"/>
+<area shape="rect" id="node39" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::Lexicon \&gt;" alt="" coords="1971,721,2127,762"/>
+<area shape="rect" id="node40" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="1997,879,2100,905"/>
+<area shape="rect" id="node45" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="2307,900,2488,927"/>
+<area shape="rect" id="node41" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="1559,881,1653,908"/>
+<area shape="rect" id="node42" href="$classBliss_1_1Symbol.html" title="Symbols are character strings which are collected in a SymbolSet. " alt="" coords="1168,883,1271,909"/>
+<area shape="rect" id="node43" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="1525,933,1687,974"/>
+<area shape="rect" id="node44" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="1515,815,1697,857"/>
+<area shape="rect" id="node46" href="$classBliss_1_1Pronunciation.html" title="A pronunciation in the Bliss lexicon. " alt="" coords="2653,900,2792,927"/>
+</map>

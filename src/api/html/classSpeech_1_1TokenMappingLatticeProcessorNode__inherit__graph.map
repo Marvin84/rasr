@@ -1,0 +1,8 @@
+<map id="Speech::TokenMappingLatticeProcessorNode" name="Speech::TokenMappingLatticeProcessorNode">
+<area shape="rect" id="node6" href="$classSpeech_1_1LemmaPronunciationToEvaluationToken.html" title="Speech::LemmaPronunciation\lToEvaluationToken" alt="" coords="885,5,1081,47"/>
+<area shape="rect" id="node7" href="$classSpeech_1_1LemmaPronunciationToSyntacticToken.html" title="Speech::LemmaPronunciation\lToSyntacticToken" alt="" coords="885,71,1081,112"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="399,46,591,73"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="205,21,330,47"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,21,136,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="184,71,351,98"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Speech::NumeratorFromDenominatorExtractor" name="Speech::NumeratorFromDenominatorExtractor">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="1961,300,2153,327"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1647,333,1773,360"/>
+<area shape="rect" id="node20" href="$classBliss_1_1OrthographicParser.html" title="Parses an orthographic sentence into lemmas. " alt="" coords="1972,384,2143,411"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1291,205,1422,232"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="993,108,1128,135"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,101,548,142"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,210,555,251"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="688,101,832,142"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1292,275,1421,301"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1003,275,1119,301"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1007,224,1114,251"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="684,200,836,227"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1307,333,1406,360"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1627,281,1793,308"/>
+<area shape="rect" id="node19" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lLatticeSetProcessor \&gt;" alt="" coords="1634,215,1786,257"/>
+<area shape="rect" id="node21" href="$classBliss_1_1OrthographicPrefixTree.html" title="Bliss::OrthographicPrefixTree" alt="" coords="1613,401,1807,428"/>
+<area shape="rect" id="node22" href="$classBliss_1_1PrefixTree.html" title="Bliss::PrefixTree\&lt;\l const char *, ListItem,\l Core::select1st\&lt; ListItem \&gt; \&gt;" alt="" coords="1257,388,1456,444"/>
+<area shape="rect" id="node23" href="$structCore_1_1select1st.html" title="Core::select1st\&lt; ListItem \&gt;" alt="" coords="969,325,1152,352"/>
+<area shape="rect" id="node25" href="$structBliss_1_1PrefixTree_1_1TreeNode.html" title="Bliss::PrefixTree\&lt;\l S, I, K, T \&gt;::TreeNode" alt="" coords="982,430,1139,471"/>
+<area shape="rect" id="node26" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::PrefixTree::TreeNode \&gt;" alt="" coords="977,495,1144,537"/>
+<area shape="rect" id="node27" href="$structCore_1_1Obstack_1_1Chunk.html" title="Core::Obstack\&lt; T \&gt;\l::Chunk" alt="" coords="691,495,829,537"/>
+<area shape="rect" id="node29" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::Lexicon \&gt;" alt="" coords="1632,453,1788,494"/>
+<area shape="rect" id="node30" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="1659,551,1761,577"/>
+<area shape="rect" id="node35" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="1967,573,2148,600"/>
+<area shape="rect" id="node31" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="1309,492,1404,519"/>
+<area shape="rect" id="node32" href="$classBliss_1_1Symbol.html" title="Symbols are character strings which are collected in a SymbolSet. " alt="" coords="1009,561,1112,588"/>
+<area shape="rect" id="node33" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="1276,543,1437,585"/>
+<area shape="rect" id="node34" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="1265,609,1448,650"/>
+<area shape="rect" id="node36" href="$classBliss_1_1Pronunciation.html" title="A pronunciation in the Bliss lexicon. " alt="" coords="2343,573,2482,600"/>
+</map>

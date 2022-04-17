@@ -1,0 +1,6 @@
+<map id="Ftl::SyncPruneAutomaton&lt; _Automaton &gt;" name="Ftl::SyncPruneAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="305,41,447,82"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="307,106,445,147"/>
+<area shape="rect" id="node7" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; _Weight \&gt;" alt="" coords="292,172,460,199"/>
+</map>

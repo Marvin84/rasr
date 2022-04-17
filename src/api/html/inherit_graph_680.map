@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Semiring,\l State \&gt;" alt="" coords="5,23,188,65"/>
+<area shape="rect" id="node2" href="$classFlf_1_1Lattice.html" title="Lattice. " alt="" coords="236,31,320,57"/>
+<area shape="rect" id="node3" href="$classFlf_1_1FsaToLattice.html" title="fsa to lattice " alt="" coords="379,5,501,32"/>
+<area shape="rect" id="node4" href="$classFlf_1_1FsaVectorLattice.html" title="Flf::FsaVectorLattice" alt="" coords="368,56,512,83"/>
+</map>

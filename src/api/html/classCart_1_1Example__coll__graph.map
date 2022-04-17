@@ -1,0 +1,6 @@
+<map id="Cart::Example" name="Cart::Example">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,109,172,136"/>
+<area shape="rect" id="node3" href="$classCart_1_1FloatBox.html" title="An efficient implementation of a 2&#45;dim matrix. " alt="" coords="197,109,303,136"/>
+<area shape="rect" id="node4" href="$classCart_1_1Properties.html" title="Abstract set of properties, i.e. " alt="" coords="327,109,442,136"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="297,5,473,47"/>
+</map>

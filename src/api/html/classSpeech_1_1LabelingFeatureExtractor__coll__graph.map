@@ -1,0 +1,27 @@
+<map id="Speech::LabelingFeatureExtractor" name="Speech::LabelingFeatureExtractor">
+<area shape="rect" id="node2" href="$classSpeech_1_1FeatureExtractor.html" title="FeatureExtractor is a corpus visitor application for feature extraction. " alt="" coords="2764,231,2935,257"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DataExtractor.html" title="DataExtractor is a corpus visitor application for extraction of any data type. " alt="" coords="2387,212,2541,239"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1CorpusProcessor.html" title="CorpusProcessor base class for algorithms driven by a CorpusVisitor. " alt="" coords="1923,124,2097,151"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1619,63,1744,89"/>
+<area shape="rect" id="node29" href="$classSpeech_1_1LabeledFeatureProcessor.html" title="LabeledFeatureProcessor is base class for algorithms processing labeled feature vectors. " alt="" coords="2121,83,2344,109"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1331,5,1461,32"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1091,47,1225,73"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="497,39,632,81"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="221,66,356,107"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="491,227,639,269"/>
+<area shape="rect" id="node18" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="205,183,372,209"/>
+<area shape="rect" id="node26" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="233,301,344,328"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="772,39,916,81"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1331,156,1461,183"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1100,207,1216,233"/>
+<area shape="rect" id="node15" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1105,156,1211,183"/>
+<area shape="rect" id="node16" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="768,235,920,261"/>
+<area shape="rect" id="node19" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1347,56,1445,83"/>
+<area shape="rect" id="node20" href="$classCore_1_1Timer.html" title="Core::Timer" alt="" coords="1636,191,1727,217"/>
+<area shape="rect" id="node21" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lDataSource \&gt;" alt="" coords="1939,175,2081,217"/>
+<area shape="rect" id="node22" href="$classFlow_1_1Timestamp.html" title="Base class for Flow packets with time stamp information. " alt="" coords="944,397,1067,424"/>
+<area shape="rect" id="node23" href="$classFlow_1_1Data.html" title="Base class for Data class in Flow Features: &#45;Multithread safe reference counting. ..." alt="" coords="521,371,608,397"/>
+<area shape="rect" id="node24" href="$classCore_1_1ThreadSafeReferenceCounted.html" title="Base class for reference&#45;counted objects used in a multithreaded environment. " alt="" coords="196,363,381,405"/>
+<area shape="rect" id="node25" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="5,371,100,397"/>
+<area shape="rect" id="node27" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; LabelIndex \&gt;" alt="" coords="2775,357,2923,398"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Lattice::Mm::CachedAssigningFeatureScorer" name="Lattice::Mm::CachedAssigningFeatureScorer">
+<area shape="rect" id="node7" href="$classLattice_1_1Mm_1_1DensitySpecificCachedAssigningFeatureScorer.html" title="Lattice::Mm::DensitySpecific\lCachedAssigningFeatureScorer" alt="" coords="87,423,294,464"/>
+<area shape="rect" id="node2" href="$classLattice_1_1Mm_1_1AssigningFeatureScorer.html" title="Abstract feature scorer interface with assignment to the best density. " alt="" coords="91,244,291,285"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Mm_1_1FeatureScorer.html" title="Abstract feature scorer interface. " alt="" coords="100,169,281,196"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Core_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="9,87,181,114"/>
+<area shape="rect" id="node5" href="$classLattice_1_1Core_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="205,80,371,121"/>
+</map>

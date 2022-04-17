@@ -1,0 +1,8 @@
+<map id="FeatureExtractor" name="FeatureExtractor">
+<area shape="rect" id="node2" href="$classSpeech_1_1FeatureVectorExtractor.html" title="FeatureVectorExtractor is a corpus visitor application for feature vector extraction. " alt="" coords="5,379,215,405"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1FeatureExtractor.html" title="FeatureExtractor is a corpus visitor application for feature extraction. " alt="" coords="25,304,195,331"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1DataExtractor.html" title="DataExtractor is a corpus visitor application for extraction of any data type. " alt="" coords="33,229,187,256"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1CorpusProcessor.html" title="CorpusProcessor base class for algorithms driven by a CorpusVisitor. " alt="" coords="23,155,197,181"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="47,80,173,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="45,5,175,32"/>
+</map>

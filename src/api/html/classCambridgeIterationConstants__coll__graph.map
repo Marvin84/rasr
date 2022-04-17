@@ -1,0 +1,27 @@
+<map id="CambridgeIterationConstants" name="CambridgeIterationConstants">
+<area shape="rect" id="node2" href="$classMm_1_1IterationConstants.html" title="IterationConstants: base class. " alt="" coords="2125,76,2283,103"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1792,344,1917,371"/>
+<area shape="rect" id="node26" href="$classInternalIc_1_1Icb.html" title="iteration constants b " alt="" coords="2423,285,2526,312"/>
+<area shape="rect" id="node27" href="$classInternalIc_1_1Xi.html" title="InternalIc::Xi" alt="" coords="2156,288,2252,315"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1445,380,1576,407"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1181,381,1316,408"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,374,548,415"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,313,292,354"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,243,555,285"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,191,308,217"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="769,374,913,415"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1446,328,1575,355"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1191,328,1307,355"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1195,277,1302,304"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="765,251,917,277"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="579,75,741,101"/>
+<area shape="rect" id="node23" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1173,167,1324,193"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1461,89,1560,116"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1775,51,1934,77"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="941,39,1149,81"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1781,153,1928,180"/>
+<area shape="rect" id="node22" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1429,146,1592,187"/>
+<area shape="rect" id="node25" href="$classInternalIc_1_1GlobalIcb.html" title="global iteration constants b " alt="" coords="2677,219,2816,245"/>
+<area shape="rect" id="node28" href="$classInternalIc_1_1ReferenceValueMap.html" title="InternalIc::ReferenceValue\lMap\&lt; AbstractMixtureEstimator,\l IterationConstant \&gt;" alt="" coords="1749,264,1960,320"/>
+<area shape="rect" id="node29" href="$classInternalIc_1_1ReferenceValueMap.html" title="InternalIc::ReferenceValue\lMap\&lt; AbstractCovarianceEstimator,\l IterationConstant \&gt;" alt="" coords="2357,204,2592,260"/>
+</map>

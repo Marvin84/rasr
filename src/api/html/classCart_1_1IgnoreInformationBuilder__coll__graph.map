@@ -1,0 +1,12 @@
+<map id="Cart::IgnoreInformationBuilder" name="Cart::IgnoreInformationBuilder">
+<area shape="rect" id="node2" href="$classCart_1_1InformationBuilder.html" title="Cart::InformationBuilder" alt="" coords="5,311,165,338"/>
+<area shape="rect" id="node3" href="$classCart_1_1XmlIgnoreInformationBuilderElement.html" title="Just ignore any information. " alt="" coords="189,304,368,345"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlIgnoreElement.html" title="Helper class.used for ignoring unknown elements. " alt="" coords="87,221,252,247"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="71,117,201,143"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="29,13,155,39"/>
+<area shape="rect" id="node7" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="179,13,410,39"/>
+<area shape="rect" id="node8" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; Information \&gt;" alt="" coords="276,213,425,255"/>
+<area shape="rect" id="node9" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="250,109,414,151"/>
+<area shape="rect" id="node10" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="439,5,579,47"/>
+<area shape="rect" id="node11" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="438,117,599,143"/>
+</map>

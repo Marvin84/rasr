@@ -1,0 +1,9 @@
+<map id="Flf::PhoneCoveragePruningLattice" name="Flf::PhoneCoveragePruningLattice">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="SlaveLattice" alt="" coords="354,56,449,83"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node5" href="$classFlf_1_1TraverseState.html" title="Traverse a lattice. " alt="" coords="338,107,465,133"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="55,107,165,133"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const FwdBwd \&gt;" alt="" coords="306,157,497,184"/>
+<area shape="rect" id="node8" href="$classCore_1_1HashMap.html" title="Core::HashMap\&lt; ArcId,\l bool, Flf::PhoneCoveragePruning\lLattice::ArcIdHash \&gt;" alt="" coords="292,208,511,264"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::LemmaPronunciationAlphabet \&gt;" alt="" coords="294,287,509,329"/>
+</map>

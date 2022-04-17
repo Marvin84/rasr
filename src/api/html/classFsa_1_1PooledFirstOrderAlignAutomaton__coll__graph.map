@@ -1,0 +1,7 @@
+<map id="Fsa::PooledFirstOrderAlignAutomaton" name="Fsa::PooledFirstOrderAlignAutomaton">
+<area shape="rect" id="node2" href="$classFsa_1_1AlignAutomaton.html" title="Fsa::AlignAutomaton" alt="" coords="140,207,284,234"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="23,96,137,123"/>
+<area shape="rect" id="node4" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="162,96,353,123"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Conditional\lLexicon \&gt;" alt="" coords="308,200,500,241"/>
+</map>

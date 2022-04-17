@@ -1,0 +1,8 @@
+<map id="Am::ClassicStateModel" name="Am::ClassicStateModel">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="22,5,189,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Allophone\lAlphabet \&gt;" alt="" coords="13,57,197,98"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Phonology \&gt;" alt="" coords="5,123,205,149"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Allophone\lStateAlphabet \&gt;" alt="" coords="13,174,197,215"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::PhonemeInventory \&gt;" alt="" coords="27,239,183,281"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="50,305,161,332"/>
+</map>

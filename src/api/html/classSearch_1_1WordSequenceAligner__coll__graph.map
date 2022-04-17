@@ -1,0 +1,47 @@
+<map id="Search::WordSequenceAligner" name="Search::WordSequenceAligner">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1050,895,1175,922"/>
+<area shape="rect" id="node13" href="$classSearch_1_1Aligner.html" title="Forced state&#45;level alignment of network with observation seqeuence. " alt="" coords="2082,1137,2193,1163"/>
+<area shape="rect" id="node28" href="$classAligner_1_1SearchSpace.html" title="Search::Aligner::SearchSpace" alt="" coords="1477,1107,1674,1134"/>
+<area shape="rect" id="node36" href="$classSpeech_1_1AllophoneStateGraphBuilder.html" title="AllophoneStateGraphBuilder. " alt="" coords="2039,560,2236,601"/>
+<area shape="rect" id="node39" href="$classBliss_1_1OrthographicParser.html" title="Parses an orthographic sentence into lemmas. " alt="" coords="1490,438,1661,465"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="675,929,806,955"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="296,946,431,973"/>
+<area shape="rect" id="node14" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; u32 \&gt;" alt="" coords="459,1486,617,1513"/>
+<area shape="rect" id="node29" href="$classFtl_1_1StaticAutomaton.html" title="Ftl::StaticAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="292,1125,435,1167"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="10,939,154,980"/>
+<area shape="rect" id="node7" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="676,837,805,863"/>
+<area shape="rect" id="node8" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="305,883,421,910"/>
+<area shape="rect" id="node10" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="310,833,417,859"/>
+<area shape="rect" id="node11" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="6,806,158,833"/>
+<area shape="rect" id="node12" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="691,999,790,1026"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1496,1185,1655,1211"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1009,1247,1217,1288"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="659,1262,822,1289"/>
+<area shape="rect" id="node23" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1031,1312,1194,1353"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1502,1355,1649,1382"/>
+<area shape="rect" id="node19" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1031,1377,1194,1419"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="665,1317,816,1343"/>
+<area shape="rect" id="node35" href="$classSum.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="700,1445,781,1471"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1509,1258,1642,1285"/>
+<area shape="rect" id="node24" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1503,1570,1647,1597"/>
+<area shape="rect" id="node25" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1009,1563,1217,1604"/>
+<area shape="rect" id="node26" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="657,1570,824,1597"/>
+<area shape="rect" id="node27" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="1502,765,1649,807"/>
+<area shape="rect" id="node30" href="$classFtl_1_1StorageAutomaton.html" title="Ftl::StorageAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="5,1191,159,1232"/>
+<area shape="rect" id="node31" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Ref \&gt;" alt="" coords="14,1125,150,1167"/>
+<area shape="rect" id="node32" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Ftl\l::StaticAutomaton \&gt;" alt="" coords="1041,1067,1184,1108"/>
+<area shape="rect" id="node33" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Fsa::StaticAutomaton \&gt;" alt="" coords="997,949,1228,975"/>
+<area shape="rect" id="node34" href="$classMm_1_1ProbabilityStatistics.html" title="Histogram statistics for probabilities. " alt="" coords="1252,1438,1420,1465"/>
+<area shape="rect" id="node37" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1029,383,1196,410"/>
+<area shape="rect" id="node38" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="1483,542,1667,569"/>
+<area shape="rect" id="node40" href="$classBliss_1_1OrthographicPrefixTree.html" title="Bliss::OrthographicPrefixTree" alt="" coords="1016,459,1209,486"/>
+<area shape="rect" id="node41" href="$classBliss_1_1PrefixTree.html" title="Bliss::PrefixTree\&lt;\l const char *, ListItem,\l Core::select1st\&lt; ListItem \&gt; \&gt;" alt="" coords="641,187,840,243"/>
+<area shape="rect" id="node42" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::Lexicon \&gt;" alt="" coords="1035,304,1191,345"/>
+<area shape="rect" id="node43" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="1061,107,1164,134"/>
+<area shape="rect" id="node47" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="1485,107,1666,134"/>
+<area shape="rect" id="node44" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="693,137,788,163"/>
+<area shape="rect" id="node45" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="660,5,821,47"/>
+<area shape="rect" id="node46" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="649,71,832,112"/>
+<area shape="rect" id="node48" href="$classSpeech_1_1Alignment.html" title="Speech::Alignment" alt="" coords="2071,1621,2203,1647"/>
+<area shape="rect" id="node50" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Fsa\l::Alphabet \&gt;" alt="" coords="1501,1672,1650,1713"/>
+</map>

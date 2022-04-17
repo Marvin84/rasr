@@ -1,0 +1,25 @@
+<map id="Speech::MultiplyLatticeProcessorNode" name="Speech::MultiplyLatticeProcessorNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="2023,157,2215,184"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1759,77,1885,104"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1451,85,1581,112"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1121,85,1256,112"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="451,41,585,82"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,57,292,98"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="444,201,592,242"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,239,308,265"/>
+<area shape="rect" id="node23" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; f64 \&gt;" alt="" coords="440,270,596,311"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,49,879,90"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1451,149,1581,176"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1131,149,1247,176"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1135,200,1242,227"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,224,883,251"/>
+<area shape="rect" id="node26" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="443,336,593,363"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1467,35,1565,61"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1739,128,1905,155"/>
+<area shape="rect" id="node19" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Speech::\lLatticeSetProcessor \&gt;" alt="" coords="1746,179,1898,221"/>
+<area shape="rect" id="node20" href="$classFsa_1_1Weight.html" title="Fsa::Weight" alt="" coords="2072,245,2165,272"/>
+<area shape="rect" id="node21" href="$unionFsa_1_1Weight_1_1Value.html" title="Fsa::Weight::Value" alt="" coords="1755,245,1889,272"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterFloatVector.html" title="Declaration class for float vector parameters. " alt="" coords="912,287,1097,313"/>
+<area shape="rect" id="node24" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1280,348,1427,375"/>
+<area shape="rect" id="node25" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="725,341,888,382"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Search::Wfst::DetermisticHmmLatticeTraceRecorder" name="Search::Wfst::DetermisticHmmLatticeTraceRecorder">
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1HmmLatticeTraceRecorder.html" title="Constructs lattices with HMM input labels and word output labels. " alt="" coords="231,276,410,317"/>
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1LatticeTraceRecorder.html" title="Base class for lattice constructing TraceRecorders. " alt="" coords="231,185,410,227"/>
+<area shape="rect" id="node4" href="$classSearch_1_1Wfst_1_1TraceRecorder.html" title="Interface for book keeping classes. " alt="" coords="5,96,199,123"/>
+<area shape="rect" id="node5" href="$classSearch_1_1Wfst_1_1StateSequence.html" title="abstraction of an allophone HMM. " alt="" coords="223,96,419,123"/>
+<area shape="rect" id="node6" href="$classSearch_1_1Wfst_1_1Lattice.html" title="Search::Wfst::Lattice" alt="" coords="443,96,590,123"/>
+</map>

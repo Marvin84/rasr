@@ -1,0 +1,20 @@
+<map id="Lattice::SoftFramePhoneAccuracyAutomaton::LatticeToSoftAccuracies" name="Lattice::SoftFramePhoneAccuracyAutomaton::LatticeToSoftAccuracies">
+<area shape="rect" id="node2" href="$classLattice_1_1SoftFramePhoneAccuracyAutomaton_1_1AlignmentToSoftAccuracies.html" title="Lattice::SoftFramePhoneAccuracy\lAutomaton::AlignmentToSoftAccuracies" alt="" coords="2365,144,2620,185"/>
+<area shape="rect" id="node3" href="$classLattice_1_1SoftFramePhoneAccuracyAutomaton.html" title="SoftFramePhoneAccuracyAutomaton. " alt="" coords="2047,209,2269,251"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="1711,209,1890,251"/>
+<area shape="rect" id="node5" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="1303,281,1500,323"/>
+<area shape="rect" id="node6" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="985,175,1164,202"/>
+<area shape="rect" id="node7" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="617,175,771,202"/>
+<area shape="rect" id="node8" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="310,127,451,168"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,159,215,186"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="292,193,469,219"/>
+<area shape="rect" id="node12" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="581,87,807,128"/>
+<area shape="rect" id="node20" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="2432,71,2553,98"/>
+<area shape="rect" id="node13" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; States \&gt;" alt="" coords="995,330,1154,357"/>
+<area shape="rect" id="node15" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Bliss::LemmaPronunciation\lAlphabet \&gt;" alt="" coords="960,250,1189,306"/>
+<area shape="rect" id="node16" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; PhonemeSequenceAlignment\lGenerator \&gt;" alt="" coords="1299,202,1504,258"/>
+<area shape="rect" id="node17" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Am::AllophoneState\lAlphabet \&gt;" alt="" coords="1308,122,1495,178"/>
+<area shape="rect" id="node18" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; SoftAccuracy \&gt;" alt="" coords="1701,311,1900,338"/>
+<area shape="rect" id="node21" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="2106,19,2210,46"/>
+<area shape="rect" id="node22" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="1731,5,1870,47"/>
+</map>

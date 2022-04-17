@@ -1,0 +1,9 @@
+<map id="RestoreScoresLatticeRescorerAutomaton::SetScoresDfsState" name="RestoreScoresLatticeRescorerAutomaton::SetScoresDfsState">
+<area shape="rect" id="node2" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="880,25,1001,51"/>
+<area shape="rect" id="node3" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="515,13,619,39"/>
+<area shape="rect" id="node4" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="235,5,373,47"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="455,64,680,105"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::ScaledLanguageModel \&gt;" alt="" coords="854,76,1027,117"/>
+<area shape="rect" id="node8" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; History \&gt;" alt="" coords="859,142,1022,169"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::LemmaPronunciationAlphabet \&gt;" alt="" coords="833,193,1048,235"/>
+</map>

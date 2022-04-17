@@ -1,0 +1,6 @@
+<map id="Core::XmlMixedElementRelay" name="Core::XmlMixedElementRelay">
+<area shape="rect" id="node2" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="23,229,187,256"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="21,155,188,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="40,80,169,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="41,5,168,32"/>
+</map>

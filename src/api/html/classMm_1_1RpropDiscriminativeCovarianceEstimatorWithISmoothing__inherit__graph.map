@@ -1,0 +1,10 @@
+<map id="Mm::RpropDiscriminativeCovarianceEstimatorWithISmoothing" name="Mm::RpropDiscriminativeCovarianceEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1RpropDiscriminativeCovarianceEstimator.html" title="RpropDiscriminativeCovarianceEstimator. " alt="" coords="108,393,344,435"/>
+<area shape="rect" id="node3" href="$classMm_1_1DiscriminativeCovarianceEstimator.html" title="DiscriminativeCovarianceEstimator. " alt="" coords="23,304,224,345"/>
+<area shape="rect" id="node4" href="$classMm_1_1CovarianceEstimator.html" title="CovarianceEstimator. " alt="" coords="36,229,211,256"/>
+<area shape="rect" id="node5" href="$classMm_1_1AbstractCovarianceEstimator.html" title="AbstractCovarianceEstimator. " alt="" coords="12,155,235,181"/>
+<area shape="rect" id="node6" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="5,80,241,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="40,5,207,32"/>
+<area shape="rect" id="node8" href="$classMm_1_1RpropOptimization.html" title="Mm::RpropOptimization\l\&lt; VarianceType \&gt;" alt="" coords="249,304,409,345"/>
+<area shape="rect" id="node9" href="$classMm_1_1ISmoothingCovarianceEstimator.html" title="ISmoothingCovarianceEstimator. " alt="" coords="369,393,553,435"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Speech::AlignmentGammaCorrectionNode" name="Speech::AlignmentGammaCorrectionNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1AlignmentTransformNode.html" title="AlignmentTransformNode. " alt="" coords="29,379,251,405"/>
+<area shape="rect" id="node3" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="75,304,205,331"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="95,229,185,256"/>
+<area shape="rect" id="node5" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="71,155,209,181"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="77,80,203,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="75,5,205,32"/>
+</map>

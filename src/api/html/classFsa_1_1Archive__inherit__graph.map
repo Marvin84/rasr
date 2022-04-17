@@ -1,0 +1,6 @@
+<map id="Fsa::Archive" name="Fsa::Archive">
+<area shape="rect" id="node4" href="$classFsa_1_1ArchiveReader.html" title="Fsa::ArchiveReader" alt="" coords="5,229,144,256"/>
+<area shape="rect" id="node5" href="$classFsa_1_1ArchiveWriter.html" title="Fsa::ArchiveWriter" alt="" coords="168,229,299,256"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="91,80,216,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="88,5,219,32"/>
+</map>

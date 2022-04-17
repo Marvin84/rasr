@@ -1,0 +1,28 @@
+<map id="Core::AbstractParameter" name="Core::AbstractParameter">
+<area shape="rect" id="node2" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="239,56,389,83"/>
+<area shape="rect" id="node6" href="$classCore_1_1VectorParameter.html" title="Base class template for vector parameter declaration. " alt="" coords="220,144,408,171"/>
+<area shape="rect" id="node7" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="231,195,397,221"/>
+<area shape="rect" id="node10" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; f64 \&gt;" alt="" coords="234,245,394,272"/>
+<area shape="rect" id="node12" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="233,296,395,323"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="240,347,388,389"/>
+<area shape="rect" id="node19" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::vector\&lt; bool \&gt; \&gt;" alt="" coords="240,413,388,454"/>
+<area shape="rect" id="node21" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; f64 \&gt;" alt="" coords="236,478,392,519"/>
+<area shape="rect" id="node24" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; s32 \&gt;" alt="" coords="236,545,392,586"/>
+<area shape="rect" id="node26" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="236,613,392,654"/>
+<area shape="rect" id="node3" href="$classCore_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="456,5,696,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="479,56,673,83"/>
+<area shape="rect" id="node5" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="750,49,897,90"/>
+<area shape="rect" id="node8" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="472,107,680,149"/>
+<area shape="rect" id="node9" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="751,115,895,141"/>
+<area shape="rect" id="node11" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; f64 \&gt;" alt="" coords="495,173,657,214"/>
+<area shape="rect" id="node13" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="472,238,680,279"/>
+<area shape="rect" id="node15" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="495,303,657,345"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="744,245,903,272"/>
+<area shape="rect" id="node16" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="757,311,890,337"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="500,369,652,396"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterBitVector.html" title="Declaration class for bit vector parameters. " alt="" coords="490,420,662,447"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterFloatVector.html" title="Declaration class for float vector parameters. " alt="" coords="483,471,669,497"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterWeightVector.html" title="Declaration class for weight vector parameters. " alt="" coords="477,521,675,548"/>
+<area shape="rect" id="node25" href="$classCore_1_1ParameterIntVector.html" title="Declaration class for int vector parameters. " alt="" coords="491,572,661,599"/>
+<area shape="rect" id="node27" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="481,623,671,649"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Search::WordConditionedTreeSearch" name="Search::WordConditionedTreeSearch">
+<area shape="rect" id="node2" href="$classSearch_1_1SearchAlgorithm.html" title="Search::SearchAlgorithm" alt="" coords="1730,572,1897,599"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="994,663,1119,689"/>
+<area shape="rect" id="node12" href="$classSearch_1_1StateTree.html" title="Acoustic prefix tree. " alt="" coords="1507,109,1635,136"/>
+<area shape="rect" id="node22" href="$classSearch_1_1SearchSpace.html" title="Search::SearchSpace" alt="" coords="1963,1697,2113,1724"/>
+<area shape="rect" id="node34" href="$classSearch_1_1StaticSearchAutomaton.html" title="Search::StaticSearchAutomaton" alt="" coords="1467,1689,1676,1716"/>
+<area shape="rect" id="node36" href="$classAdvancedTreeSearch_1_1LanguageModelLookahead.html" title="Language model look&#45;ahead. " alt="" coords="1479,1213,1663,1254"/>
+<area shape="rect" id="node43" href="$classSearch_1_1LanguageModelLookahead.html" title="Language model look&#45;ahead. " alt="" coords="1459,871,1684,897"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="551,1025,681,1052"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="291,1000,407,1027"/>
+<area shape="rect" id="node6" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="295,1051,402,1077"/>
+<area shape="rect" id="node7" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="5,1051,157,1077"/>
+<area shape="rect" id="node8" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="567,489,665,516"/>
+<area shape="rect" id="node10" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="977,277,1136,304"/>
+<area shape="rect" id="node44" href="$structLanguageModelLookahead_1_1CacheStatistics.html" title="Search::LanguageModelLookahead\l::CacheStatistics" alt="" coords="944,898,1169,939"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::ScaledLanguageModel \&gt;" alt="" coords="970,1086,1143,1127"/>
+<area shape="rect" id="node11" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="512,221,720,262"/>
+<area shape="rect" id="node19" href="$classStateTree_1_1RequestQueue.html" title="Search::StateTree::\lRequestQueue" alt="" coords="1970,27,2106,69"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="990,379,1123,405"/>
+<area shape="rect" id="node14" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="535,286,697,327"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="985,179,1129,205"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="512,155,720,197"/>
+<area shape="rect" id="node17" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="983,1483,1130,1525"/>
+<area shape="rect" id="node18" href="$classSearch_1_1StateTree_1_1CoarticulationStructure.html" title="Search::StateTree::\lCoarticulationStructure" alt="" coords="979,58,1134,99"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="983,2163,1130,2189"/>
+<area shape="rect" id="node21" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="535,2155,697,2197"/>
+<area shape="rect" id="node30" href="$classAdvancedTreeSearch_1_1AcousticLookAhead.html" title="AdvancedTreeSearch\l::AcousticLookAhead" alt="" coords="2332,2310,2479,2351"/>
+<area shape="rect" id="node23" href="$classPerformanceCounter.html" title="PerformanceCounter" alt="" coords="1500,1937,1643,1964"/>
+<area shape="rect" id="node24" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; u32 \&gt;" alt="" coords="537,1679,695,1705"/>
+<area shape="rect" id="node38" href="$structSearch_1_1SearchSpaceStatistics.html" title="Search::SearchSpaceStatistics" alt="" coords="955,2107,1159,2133"/>
+<area shape="rect" id="node42" href="$structWordConditionedTreeSearch_1_1SearchSpaceStatistics.html" title="Search::WordConditionedTree\lSearch::SearchSpaceStatistics" alt="" coords="955,1837,1159,1878"/>
+<area shape="rect" id="node25" href="$classSearch_1_1Histogram.html" title="histogram of scores for histogram pruning " alt="" coords="1506,1988,1637,2015"/>
+<area shape="rect" id="node26" href="$classSearch_1_1ScoreDependentStatistic.html" title="Search::ScoreDependentStatistic" alt="" coords="1463,2168,1679,2195"/>
+<area shape="rect" id="node27" href="$classLm_1_1History.html" title="Lm::History" alt="" coords="1526,2281,1617,2308"/>
+<area shape="rect" id="node28" href="$classLm_1_1SearchSpaceAwareLanguageModel.html" title="Lm::SearchSpaceAwareLanguage\lModel" alt="" coords="1462,1623,1681,1665"/>
+<area shape="rect" id="node29" href="$classSearch_1_1TraceManager.html" title="Search::TraceManager" alt="" coords="1494,1572,1649,1599"/>
+<area shape="rect" id="node31" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Context\lLookahead \&gt;" alt="" coords="1485,2039,1658,2081"/>
+<area shape="rect" id="node32" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Search::\lSearchSpace::PruningDesc \&gt;" alt="" coords="1474,1506,1669,1547"/>
+<area shape="rect" id="node33" href="$structSearch_1_1SearchAlgorithm_1_1RecognitionContext.html" title="Search::SearchAlgorithm\l::RecognitionContext" alt="" coords="1488,1871,1655,1913"/>
+<area shape="rect" id="node35" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="965,2375,1149,2401"/>
+<area shape="rect" id="node37" href="$classLm_1_1CompiledBatchRequest.html" title="Lm::CompiledBatchRequest" alt="" coords="963,1169,1150,1196"/>
+<area shape="rect" id="node39" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; Score \&gt;" alt="" coords="531,1975,701,2001"/>
+<area shape="rect" id="node40" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::LanguageModel \&gt;" alt="" coords="1499,1741,1644,1782"/>
+<area shape="rect" id="node41" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Context\lScorer \&gt;" alt="" coords="1485,1806,1658,1847"/>
+<area shape="rect" id="node45" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="1987,2553,2089,2580"/>
+<area shape="rect" id="node49" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="2315,2569,2496,2596"/>
+<area shape="rect" id="node46" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="1524,2617,1619,2644"/>
+<area shape="rect" id="node47" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="1491,2486,1652,2527"/>
+<area shape="rect" id="node48" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="1480,2551,1663,2593"/>
+<area shape="rect" id="node50" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; WordConditioned\lTreeSearch::Trace \&gt;" alt="" coords="1943,1355,2133,1397"/>
+</map>

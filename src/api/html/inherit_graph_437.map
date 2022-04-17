@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCore_1_1TsRef.html" title="Core::TsRef\&lt; Flow::\lVector\&lt; Float \&gt; \&gt;" alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node2" href="$classFlow_1_1DataPtr.html" title="Flow::DataPtr\&lt; Flow\l::Vector\&lt; Float \&gt; \&gt;" alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node3" href="$classSignal_1_1SilenceDetection_1_1Frame.html" title="Signal::SilenceDetection\l::Frame" alt="" coords="387,5,552,47"/>
+</map>

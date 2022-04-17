@@ -1,0 +1,28 @@
+<map id="Fsa::StorageAutomatonXmlParser" name="Fsa::StorageAutomatonXmlParser">
+<area shape="rect" id="node2" href="$classCore_1_1XmlSchemaParser.html" title="Stack based XML parser. " alt="" coords="2344,353,2511,380"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParser.html" title="Basic event driven XML parser. " alt="" coords="2077,256,2195,283"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1842,173,1967,200"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1467,95,1597,121"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1092,91,1227,117"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,83,557,125"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node16" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,210,564,251"/>
+<area shape="rect" id="node17" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,83,879,125"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1467,147,1597,173"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1101,147,1217,173"/>
+<area shape="rect" id="node14" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1106,197,1213,224"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,217,883,244"/>
+<area shape="rect" id="node21" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,283,573,309"/>
+<area shape="rect" id="node18" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1483,197,1581,224"/>
+<area shape="rect" id="node19" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1299,256,1443,283"/>
+<area shape="rect" id="node20" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="703,273,911,314"/>
+<area shape="rect" id="node22" href="$classCore_1_1XmlDocumentElement.html" title="Helper class used by XmlSchemaParser when outside the document&#39;s root element. " alt="" coords="2041,353,2231,380"/>
+<area shape="rect" id="node23" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="1821,327,1988,353"/>
+<area shape="rect" id="node24" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="1467,329,1597,356"/>
+<area shape="rect" id="node25" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="1096,316,1223,343"/>
+<area shape="rect" id="node26" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="1044,369,1275,396"/>
+<area shape="rect" id="node27" href="$classFtl_1_1StorageAutomaton.html" title="Ftl::StorageAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="2351,514,2504,555"/>
+<area shape="rect" id="node29" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Semiring \&gt;" alt="" coords="2037,545,2235,572"/>
+<area shape="rect" id="node30" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="2041,600,2231,627"/>
+</map>

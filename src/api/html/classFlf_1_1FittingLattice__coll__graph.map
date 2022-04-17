@@ -1,0 +1,10 @@
+<map id="Flf::FittingLattice" name="Flf::FittingLattice">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="SlaveLattice" alt="" coords="347,56,441,83"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Flf::\lScoresRef \&gt;" alt="" coords="329,107,459,149"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const StateMap \&gt;" alt="" coords="297,173,491,200"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Boundaries \&gt;" alt="" coords="292,224,496,251"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; TopologicalOrder\lQueue \&gt;" alt="" coords="299,275,489,317"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="339,341,449,368"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="299,392,489,419"/>
+</map>

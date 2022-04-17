@@ -1,0 +1,9 @@
+<map id="Signal::TemporalIntegration" name="Signal::TemporalIntegration">
+<area shape="rect" id="node2" href="$classSignal_1_1TimeWindowBuffer.html" title="Signal::TimeWindowBuffer\l\&lt; Flow::Vector\&lt; f32 \&gt; \&gt;" alt="" coords="5,440,183,481"/>
+<area shape="rect" id="node3" href="$classSignal_1_1WindowFunction.html" title="WindowFunction is base class for different windowing functions. " alt="" coords="207,447,370,474"/>
+<area shape="rect" id="node4" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="145,351,304,377"/>
+<area shape="rect" id="node5" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="71,247,279,288"/>
+<area shape="rect" id="node6" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="94,171,257,197"/>
+<area shape="rect" id="node7" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="92,95,259,121"/>
+<area shape="rect" id="node9" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="303,254,402,281"/>
+</map>

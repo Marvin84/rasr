@@ -1,0 +1,8 @@
+<map id="Flow::DataSource" name="Flow::DataSource">
+<area shape="rect" id="node7" href="$classSpeech_1_1DataSource.html" title="Flow::Network handling several ports. " alt="" coords="97,379,240,405"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,229,172,256"/>
+<area shape="rect" id="node3" href="$classFlow_1_1Network.html" title="Flow network class. " alt="" coords="197,229,303,256"/>
+<area shape="rect" id="node4" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="181,155,319,181"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="187,80,313,107"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="185,5,315,32"/>
+</map>

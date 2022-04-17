@@ -1,0 +1,6 @@
+<map id="Core::Configurable" name="Core::Configurable">
+<area shape="rect" id="node2" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="5,421,140,448"/>
+<area shape="rect" id="node5" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="117,213,252,255"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="163,109,297,151"/>
+<area shape="rect" id="node4" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="81,317,225,359"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Core::TracedPriorityQueue&lt; T_Item, T_Key, T_KeyFunction, T_PriorityFunction, T_Hash_Obj &gt;" name="Core::TracedPriorityQueue&lt; T_Item, T_Key, T_KeyFunction, T_PriorityFunction, T_Hash_Obj &gt;">
+<area shape="rect" id="node2" href="$classCore_1_1PriorityQueueBase.html" title="Core::PriorityQueueBase\l\&lt; TracedHeap\&lt; T_Item,\l T_Key, T_KeyFunction,\l DefaultHashMap, T_Hash\l_Obj \&gt;, T_PriorityFunction \&gt;" alt="" coords="871,97,1057,182"/>
+<area shape="rect" id="node3" href="$classCore_1_1TracedHeap.html" title="Core::TracedHeap\&lt; T\l_Item, T_Key, T_KeyFunction,\l DefaultHashMap, T_Hash_Obj \&gt;" alt="" coords="540,70,757,126"/>
+<area shape="rect" id="node4" href="$classCore_1_1UntracedHeap.html" title="Core::UntracedHeap\l\&lt; T_Item \&gt;" alt="" coords="292,5,435,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1DefaultHashMap.html" title="Core::DefaultHashMap\l\&lt; Key, typename Precursor\l::Index, T_Hash_Obj \&gt;" alt="" coords="272,70,455,126"/>
+</map>

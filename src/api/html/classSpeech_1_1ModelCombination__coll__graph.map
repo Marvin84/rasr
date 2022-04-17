@@ -1,0 +1,23 @@
+<map id="Speech::ModelCombination" name="Speech::ModelCombination">
+<area shape="rect" id="node2" href="$classMc_1_1Component.html" title="Base class scaled model combination components. " alt="" coords="1865,229,1979,256"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1556,195,1681,221"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1241,148,1372,175"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="977,96,1112,123"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,89,548,130"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,150,292,191"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,213,555,254"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="688,89,832,130"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1242,199,1371,225"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="987,152,1103,179"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="991,203,1098,229"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="684,220,836,247"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="969,284,1120,311"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1257,97,1356,124"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1545,281,1692,308"/>
+<area shape="rect" id="node19" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1225,277,1388,318"/>
+<area shape="rect" id="node22" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1839,343,2005,369"/>
+<area shape="rect" id="node23" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Lm::ScaledLanguage\lModel \&gt;" alt="" coords="1815,394,2029,435"/>
+<area shape="rect" id="node24" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Am::AcousticModel \&gt;" alt="" coords="1813,460,2031,487"/>
+<area shape="rect" id="node25" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="1830,511,2014,537"/>
+</map>

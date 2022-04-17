@@ -1,0 +1,8 @@
+<map id="Speech::KeyedEstimator" name="Speech::KeyedEstimator">
+<area shape="rect" id="node6" href="$classSpeech_1_1AffineFeatureTransformEstimator.html" title="AffineFeatureTransformEstimator. " alt="" coords="5,379,216,420"/>
+<area shape="rect" id="node7" href="$classSpeech_1_1ModelTransformEstimator.html" title="ModelTransformEstimator. " alt="" coords="240,386,464,413"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1AcousticModelTrainer.html" title="Base class for acoustic training applications. " alt="" coords="131,229,331,256"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1AlignedFeatureProcessor.html" title="AlignedFeatureProcessor is base class for algorithms processing aligned feature vectors. " alt="" coords="121,155,341,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="168,80,293,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="165,5,296,32"/>
+</map>

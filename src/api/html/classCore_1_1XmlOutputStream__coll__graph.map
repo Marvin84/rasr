@@ -1,0 +1,7 @@
+<map id="Core::XmlOutputStream" name="Core::XmlOutputStream">
+<area shape="rect" id="node2" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="6,81,122,108"/>
+<area shape="rect" id="node4" href="$classCore_1_1TextOutputStream.html" title="Stream for text output. " alt="" coords="171,81,336,108"/>
+<area shape="rect" id="node6" href="$classTextOutputStream_1_1Buffer.html" title="Core::TextOutputStream\l::Buffer" alt="" coords="319,200,484,241"/>
+<area shape="rect" id="node8" href="$classCore_1_1UnicodeOutputConverter.html" title="Converter for writing text data. " alt="" coords="464,81,667,108"/>
+<area shape="rect" id="node9" href="$classCore_1_1CharsetConverter.html" title="Core::CharsetConverter" alt="" coords="485,5,646,32"/>
+</map>

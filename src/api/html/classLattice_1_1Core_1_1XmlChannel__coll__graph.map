@@ -1,0 +1,7 @@
+<map id="Lattice::Core::XmlChannel" name="Lattice::Core::XmlChannel">
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="5,365,168,392"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Core_1_1Channel.html" title="Configurable text output stream. " alt="" coords="193,365,346,392"/>
+<area shape="rect" id="node5" href="$classLattice_1_1Core_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="187,261,352,303"/>
+<area shape="rect" id="node6" href="$classLattice_1_1Core_1_1Parameter.html" title="Lattice::Core::Parameter\l\&lt; std::string \&gt;" alt="" coords="187,171,352,212"/>
+<area shape="rect" id="node7" href="$classLattice_1_1Core_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="317,95,531,121"/>
+</map>

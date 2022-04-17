@@ -1,0 +1,7 @@
+<map id="Mm::AffineFeatureTransformAccumulator" name="Mm::AffineFeatureTransformAccumulator">
+<area shape="rect" id="node2" href="$classMm_1_1AbstractAdaptationAccumulator.html" title="Abstract interface for adaptation accumulators. " alt="" coords="612,5,848,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="317,5,483,32"/>
+<area shape="rect" id="node4" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Sum \&gt;" alt="" coords="656,56,804,83"/>
+<area shape="rect" id="node7" href="$classMath_1_1Matrix.html" title="Math::Matrix\&lt; Sum \&gt;" alt="" coords="657,157,803,184"/>
+<area shape="rect" id="node8" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Math\l::Vector\&lt; Sum, VectorRange\lCheckOffPolicy \&gt;, VectorRangeCheck\lOffPolicy \&gt;" alt="" coords="276,135,524,206"/>
+</map>

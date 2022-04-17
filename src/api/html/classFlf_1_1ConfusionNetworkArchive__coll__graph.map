@@ -1,0 +1,24 @@
+<map id="Flf::ConfusionNetworkArchive" name="Flf::ConfusionNetworkArchive">
+<area shape="rect" id="node2" href="$classFlf_1_1Archive.html" title="Archives. " alt="" coords="2084,195,2173,221"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1665,229,1791,256"/>
+<area shape="rect" id="node24" href="$classCore_1_1Archive.html" title="Abstract base class for archives. " alt="" coords="1887,108,1989,135"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1393,229,1524,256"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1052,229,1187,256"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="421,203,555,245"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,273,292,314"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="414,391,562,433"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,452,308,479"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="731,202,875,243"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1394,280,1523,307"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1061,331,1177,357"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1066,280,1173,307"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="727,399,879,425"/>
+<area shape="rect" id="node18" href="$classFlf_1_1IoFormat.html" title="i/o formats " alt="" coords="1410,548,1507,575"/>
+<area shape="rect" id="node21" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="407,627,569,653"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="753,545,852,572"/>
+<area shape="rect" id="node19" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1040,545,1199,572"/>
+<area shape="rect" id="node20" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="699,619,907,661"/>
+<area shape="rect" id="node23" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="721,685,884,726"/>
+<area shape="rect" id="node22" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1053,691,1186,717"/>
+<area shape="rect" id="node25" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="1681,57,1775,84"/>
+</map>

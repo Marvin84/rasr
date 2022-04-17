@@ -1,0 +1,29 @@
+<map id="Flf::CenterFrameCnBuilderNode" name="Flf::CenterFrameCnBuilderNode">
+<area shape="rect" id="node2" href="$classFlf_1_1Node.html" title="Flf::Node" alt="" coords="1982,220,2058,247"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1681,220,1806,247"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1371,271,1502,297"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1044,267,1179,293"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="423,259,557,301"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,229,292,270"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="416,94,564,135"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,64,308,91"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="735,259,879,301"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1372,169,1501,196"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1053,129,1169,156"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1058,180,1165,207"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="731,101,883,128"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="407,39,573,65"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1387,220,1486,247"/>
+<area shape="rect" id="node18" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1660,271,1827,297"/>
+<area shape="rect" id="node19" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Link \&gt;" alt="" coords="1671,133,1815,160"/>
+<area shape="rect" id="node21" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const FwdBwd \&gt;" alt="" coords="1925,271,2115,297"/>
+<area shape="rect" id="node22" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const PosteriorCn \&gt;" alt="" coords="1916,321,2124,348"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1203,9,1347,36"/>
+<area shape="rect" id="node24" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="703,21,911,62"/>
+<area shape="rect" id="node26" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; FwdBwdBuilder \&gt;" alt="" coords="1923,423,2117,449"/>
+<area shape="rect" id="node27" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const CenterFrameCn \&gt;" alt="" coords="1904,473,2136,500"/>
+<area shape="rect" id="node28" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; CenterFrameCn\lBuilder \&gt;" alt="" coords="1928,525,2112,566"/>
+<area shape="rect" id="node29" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Confusion\lNetwork \&gt;" alt="" coords="1927,590,2113,631"/>
+<area shape="rect" id="node30" href="$classCore_1_1Ref.html" title="Class template for smart pointers using intrusive reference&#45;counting. " alt="" coords="1965,656,2075,683"/>
+<area shape="rect" id="node31" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="1925,707,2115,733"/>
+</map>

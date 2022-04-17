@@ -1,0 +1,9 @@
+<map id="Mm::RpropDiscriminativeGaussDensityEstimatorWithISmoothing" name="Mm::RpropDiscriminativeGaussDensityEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1RpropDiscriminativeGaussDensityEstimator.html" title="RpropDiscriminativeGaussDensityEstimator. " alt="" coords="928,57,1136,98"/>
+<area shape="rect" id="node3" href="$classMm_1_1DiscriminativeGaussDensityEstimator.html" title="DiscriminativeGaussDensityEstimator. " alt="" coords="660,57,879,98"/>
+<area shape="rect" id="node4" href="$classMm_1_1GaussDensityEstimator.html" title="GaussDensityEstimator. " alt="" coords="420,64,611,91"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="40,5,207,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Mm::AbstractCovariance\lEstimator \&gt;" alt="" coords="5,57,241,98"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Mm::AbstractMean\lEstimator \&gt;" alt="" coords="22,122,225,163"/>
+<area shape="rect" id="node8" href="$classMm_1_1ISmoothingGaussDensityEstimator.html" title="ISmoothingGaussDensityEstimator. " alt="" coords="931,122,1133,163"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Flf::FittingLattice::Boundaries" name="Flf::FittingLattice::Boundaries">
+<area shape="rect" id="node2" href="$classFlf_1_1Boundaries.html" title="State Boundaries; collection of state boundary. " alt="" coords="369,5,480,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="15,5,182,32"/>
+<area shape="rect" id="node4" href="$classFlf_1_1Boundary.html" title="State Boundary. " alt="" coords="375,64,475,91"/>
+<area shape="rect" id="node5" href="$structFlf_1_1Boundary_1_1Transit.html" title="Flf::Boundary::Transit" alt="" coords="25,64,173,91"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Boundaries \&gt;" alt="" coords="323,115,527,141"/>
+<area shape="rect" id="node7" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Flf::\lBoundary \&gt;" alt="" coords="359,166,490,207"/>
+</map>

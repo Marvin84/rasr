@@ -1,0 +1,6 @@
+<map id="Flf::Semiring::XmlElement" name="Flf::Semiring::XmlElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="11,229,175,256"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="9,155,176,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="28,80,157,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="29,5,156,32"/>
+</map>

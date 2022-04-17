@@ -1,0 +1,9 @@
+<map id="Mm::AbstractAdaptationAccumulator" name="Mm::AbstractAdaptationAccumulator">
+<area shape="rect" id="node3" href="$classMm_1_1AdaptorEstimator.html" title="Base class for adaptor estimators. " alt="" coords="219,162,372,189"/>
+<area shape="rect" id="node8" href="$classMm_1_1AffineFeatureTransformAccumulator.html" title="AffineFeatureTransformAccumulator. " alt="" coords="397,155,586,196"/>
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="309,5,476,32"/>
+<area shape="rect" id="node4" href="$classMm_1_1FullAdaptorViterbiEstimator.html" title="Estimator for full matrix adaptor. " alt="" coords="71,244,282,271"/>
+<area shape="rect" id="node7" href="$classMm_1_1ShiftAdaptorViterbiEstimator.html" title="Estimator for shift adaptor. " alt="" coords="307,244,524,271"/>
+<area shape="rect" id="node5" href="$classMm_1_1BandMllrEstimator.html" title="Estimator for MLLR using band matrices. " alt="" coords="5,319,164,345"/>
+<area shape="rect" id="node6" href="$classMm_1_1SemiTiedEstimator.html" title="Mm::SemiTiedEstimator" alt="" coords="189,319,351,345"/>
+</map>

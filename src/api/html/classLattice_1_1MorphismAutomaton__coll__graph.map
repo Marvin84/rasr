@@ -1,0 +1,5 @@
+<map id="Lattice::MorphismAutomaton" name="Lattice::MorphismAutomaton">
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Fsa::SlaveAutomaton" alt="" coords="64,102,212,129"/>
+<area shape="rect" id="node4" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="121,5,331,32"/>
+<area shape="rect" id="node5" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; Lattice::WordBoundaries \&gt;" alt="" coords="237,95,426,136"/>
+</map>

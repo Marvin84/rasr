@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSignal_1_1SlidingWindow_1_1marginPolicy.html" title="Base class for margin policies creating missing elements. " alt="" coords="5,104,157,145"/>
+<area shape="rect" id="node2" href="$structSignal_1_1SlidingWindow_1_1copyMarginPolicy.html" title="Creates non&#45;existing elements by copying the first resp. " alt="" coords="207,5,373,47"/>
+<area shape="rect" id="node3" href="$structSignal_1_1SlidingWindow_1_1meanMarginPolicy.html" title="Creates non&#45;existing elements by average of the present elements in the sliding window. " alt="" coords="205,71,375,112"/>
+<area shape="rect" id="node4" href="$structSignal_1_1SlidingWindow_1_1oneMarginPolicy.html" title="Creates non&#45;existing elements (all one) (Type of the Data structure T is: Flow::DataPtr&lt;Flow::Vector&lt;..." alt="" coords="211,136,369,177"/>
+<area shape="rect" id="node5" href="$structSignal_1_1SlidingWindow_1_1zeroMarginPolicy.html" title="Creates non&#45;existing elements (all zero) (Type of the Data structure T is: Flow::DataPtr&lt;Flow::Vector..." alt="" coords="209,201,371,243"/>
+</map>

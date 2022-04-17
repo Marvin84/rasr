@@ -1,0 +1,8 @@
+<map id="Core::UntracedHeap&lt; T_Item &gt;" name="Core::UntracedHeap&lt; T_Item &gt;">
+<area shape="rect" id="node2" href="$classCore_1_1TracedHeap.html" title="Core::TracedHeap\&lt; T\l_Item \&gt;" alt="" coords="230,5,379,47"/>
+<area shape="rect" id="node3" href="$classCore_1_1PriorityQueueBase.html" title="PriorityQueueBase\&lt;\l UntracedHeap\&lt; T_Item\l \&gt;, T_PriorityFunction \&gt;" alt="" coords="223,70,386,126"/>
+<area shape="rect" id="node5" href="$classCore_1_1TracedHeap.html" title="TracedHeap\&lt; T_Item,\l T_Key, T_KeyFunction,\l DefaultHashMap, T_Hash_Obj \&gt;" alt="" coords="196,151,413,207"/>
+<area shape="rect" id="node4" href="$classCore_1_1PriorityQueue.html" title="Simple heap&#45;based priority queue template. " alt="" coords="461,75,663,116"/>
+<area shape="rect" id="node6" href="$classCore_1_1PriorityQueueBase.html" title="Core::PriorityQueueBase\l\&lt; TracedHeap\&lt; T_Item,\l T_Key, T_KeyFunction,\l DefaultHashMap, T_Hash\l_Obj \&gt;, T_PriorityFunction \&gt;" alt="" coords="469,141,655,226"/>
+<area shape="rect" id="node7" href="$classCore_1_1TracedPriorityQueue.html" title="Heap&#45;based priority queue class template with random access. " alt="" coords="711,155,936,211"/>
+</map>

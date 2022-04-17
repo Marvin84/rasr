@@ -1,0 +1,29 @@
+<map id="Nn::MeanAndVarianceNormalizationPreprocessingLayer&lt; T &gt;" name="Nn::MeanAndVarianceNormalizationPreprocessingLayer&lt; T &gt;">
+<area shape="rect" id="node2" href="$classNn_1_1NeuralNetworkLayer.html" title="Abstract base class for all neural network layers. " alt="" coords="2276,460,2475,487"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1841,265,1966,292"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1385,259,1515,285"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1067,305,1202,332"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,283,548,325"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,222,292,263"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,153,555,194"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,424,308,451"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="695,295,839,337"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1385,208,1515,235"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1077,204,1193,231"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1081,255,1188,281"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="691,148,843,175"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1053,432,1216,459"/>
+<area shape="rect" id="node23" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="1059,791,1210,817"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1401,376,1499,403"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1824,339,1983,365"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1346,310,1554,351"/>
+<area shape="rect" id="node26" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1369,427,1531,469"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1830,741,1977,768"/>
+<area shape="rect" id="node22" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1369,822,1531,863"/>
+<area shape="rect" id="node27" href="$classMath_1_1CudaVector.html" title="Math::CudaVector\&lt; T \&gt;" alt="" coords="1370,679,1530,705"/>
+<area shape="rect" id="node28" href="$classMath_1_1FastVector.html" title="Math::FastVector\&lt; T \&gt;" alt="" coords="1057,740,1212,767"/>
+<area shape="rect" id="node25" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1837,487,1970,513"/>
+<area shape="rect" id="node29" href="$classMath_1_1CudaDataStructure.html" title="Math::CudaDataStructure" alt="" coords="1049,561,1220,588"/>
+<area shape="rect" id="node30" href="$structMath_1_1curandGenerator__t.html" title="Math::curandGenerator_t" alt="" coords="684,515,851,541"/>
+<area shape="rect" id="node31" href="$structMath_1_1cublasHandle__t.html" title="Math::cublasHandle_t" alt="" coords="693,565,842,592"/>
+</map>

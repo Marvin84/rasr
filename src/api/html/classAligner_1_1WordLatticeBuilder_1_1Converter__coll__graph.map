@@ -1,0 +1,14 @@
+<map id="Aligner::WordLatticeBuilder::Converter" name="Aligner::WordLatticeBuilder::Converter">
+<area shape="rect" id="node2" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="619,30,723,57"/>
+<area shape="rect" id="node3" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStateId \&gt;" alt="" coords="325,5,464,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; StateInfo \&gt;" alt="" coords="584,90,757,117"/>
+<area shape="rect" id="node7" href="$classFtl_1_1StaticAutomaton.html" title="Ftl::StaticAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="599,159,742,200"/>
+<area shape="rect" id="node8" href="$classFtl_1_1StorageAutomaton.html" title="Ftl::StorageAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="318,123,471,164"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Semiring \&gt;" alt="" coords="5,130,203,157"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="9,190,199,217"/>
+<area shape="rect" id="node13" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Core\l::Ref \&gt;" alt="" coords="327,240,463,281"/>
+<area shape="rect" id="node15" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Allophone\lStateAlphabet \&gt;" alt="" coords="579,224,763,265"/>
+<area shape="rect" id="node16" href="$classLattice_1_1WordBoundaries.html" title="Lattice::WordBoundaries" alt="" coords="588,313,753,339"/>
+<area shape="rect" id="node17" href="$classLattice_1_1Core_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="312,305,477,347"/>
+<area shape="rect" id="node18" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Lattice\l::WordBoundary \&gt;" alt="" coords="321,371,468,412"/>
+</map>

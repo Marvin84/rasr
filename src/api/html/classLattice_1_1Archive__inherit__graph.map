@@ -1,0 +1,8 @@
+<map id="Lattice::Archive" name="Lattice::Archive">
+<area shape="rect" id="node4" href="$classLattice_1_1ArchiveReader.html" title="Lattice::ArchiveReader" alt="" coords="22,229,177,256"/>
+<area shape="rect" id="node6" href="$classLattice_1_1ArchiveWriter.html" title="Lattice::ArchiveWriter" alt="" coords="212,229,360,256"/>
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="101,80,273,107"/>
+<area shape="rect" id="node3" href="$classLattice_1_1Core_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="98,5,277,32"/>
+<area shape="rect" id="node5" href="$classLattice_1_1FsaArchiveReader.html" title="Lattice::FsaArchiveReader" alt="" coords="5,304,183,331"/>
+<area shape="rect" id="node7" href="$classLattice_1_1FsaArchiveWriter.html" title="Lattice::FsaArchiveWriter" alt="" coords="207,304,378,331"/>
+</map>

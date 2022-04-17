@@ -1,0 +1,11 @@
+<map id="Lattice::SumTimeframeErrorAutomaton" name="Lattice::SumTimeframeErrorAutomaton">
+<area shape="rect" id="node2" href="$classLattice_1_1TimeframeErrorAutomaton.html" title="timeframe error automaton: base class " alt="" coords="1248,161,1471,188"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="960,111,1139,137"/>
+<area shape="rect" id="node4" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="617,72,771,99"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="310,23,451,65"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node8" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="292,89,469,116"/>
+<area shape="rect" id="node9" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lattice::WordBoundaries \&gt;" alt="" coords="581,123,807,165"/>
+<area shape="rect" id="node10" href="$classLattice_1_1Mapping.html" title="Mapping of label ids: base class implementing trivial mapping. " alt="" coords="990,161,1109,188"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; T \&gt;" alt="" coords="985,212,1113,239"/>
+</map>

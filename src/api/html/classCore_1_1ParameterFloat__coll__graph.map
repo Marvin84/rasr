@@ -1,0 +1,5 @@
+<map id="Core::ParameterFloat" name="Core::ParameterFloat">
+<area shape="rect" id="node2" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="123,263,286,304"/>
+<area shape="rect" id="node3" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="37,185,188,212"/>
+<area shape="rect" id="node4" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="5,95,172,121"/>
+</map>

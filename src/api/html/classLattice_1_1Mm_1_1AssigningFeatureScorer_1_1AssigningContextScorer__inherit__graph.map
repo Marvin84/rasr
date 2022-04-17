@@ -1,0 +1,4 @@
+<map id="Lattice::Mm::AssigningFeatureScorer::AssigningContextScorer" name="Lattice::Mm::AssigningFeatureScorer::AssigningContextScorer">
+<area shape="rect" id="node3" href="$classLattice_1_1Mm_1_1CachedAssigningFeatureScorer_1_1CachedAssigningContextScorer.html" title="Implement emission independent precalculations for feature vector. " alt="" coords="5,169,265,225"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Mm_1_1DensitySpecificCachedAssigningFeatureScorer_1_1ContextScorer.html" title="Lattice::Mm::DensitySpecific\lCachedAssigningFeatureScorer\l::ContextScorer" alt="" coords="32,273,239,329"/>
+</map>

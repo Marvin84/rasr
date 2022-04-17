@@ -1,0 +1,4 @@
+<map id="Signal::SilenceDetection::Frame" name="Signal::SilenceDetection::Frame">
+<area shape="rect" id="node2" href="$classFlow_1_1DataPtr.html" title="Flow::DataPtr\&lt; Flow\l::Vector\&lt; Float \&gt; \&gt;" alt="" coords="17,95,159,136"/>
+<area shape="rect" id="node3" href="$classCore_1_1TsRef.html" title="Core::TsRef\&lt; Flow::\lVector\&lt; Float \&gt; \&gt;" alt="" coords="17,5,159,47"/>
+</map>

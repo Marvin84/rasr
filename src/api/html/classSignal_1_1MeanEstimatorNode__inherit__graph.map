@@ -1,0 +1,8 @@
+<map id="Signal::MeanEstimatorNode" name="Signal::MeanEstimatorNode">
+<area shape="rect" id="node2" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="22,304,151,331"/>
+<area shape="rect" id="node3" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="21,229,110,256"/>
+<area shape="rect" id="node4" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="65,80,191,107"/>
+<area shape="rect" id="node7" href="$classSignal_1_1MeanEstimator.html" title="Estimator class for covariance matrix. " alt="" coords="135,229,289,256"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="63,5,193,32"/>
+</map>

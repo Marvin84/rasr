@@ -1,0 +1,27 @@
+<map id="SilenceDetection.hh" name="SilenceDetection.hh">
+<area shape="rect" id="node2" href="$Parameter_8hh_source.html" title="Core/Parameter.hh" alt="" coords="1871,453,2003,480"/>
+<area shape="rect" id="node20" href="$Flow_2Vector_8hh_source.html" title="Flow/Vector.hh" alt="" coords="617,155,727,181"/>
+<area shape="rect" id="node35" href="$Signal_2Node_8hh_source.html" title="Node.hh" alt="" coords="2299,80,2370,107"/>
+<area shape="rect" id="node49" href="$SlidingWindow_8hh_source.html" title="SlidingWindow.hh" alt="" coords="1375,80,1502,107"/>
+<area shape="rect" id="node8" href="$Choice_8hh_source.html" title="Choice.hh" alt="" coords="1826,677,1907,704"/>
+<area shape="rect" id="node11" href="$Core_2Types_8hh_source.html" title="Types.hh" alt="" coords="1822,752,1898,779"/>
+<area shape="rect" id="node14" href="$StringUtilities_8hh_source.html" title="StringUtilities.hh" alt="" coords="1577,603,1695,629"/>
+<area shape="rect" id="node15" href="$Unicode_8hh.html" title="Unicode support functions. " alt="" coords="1185,677,1305,704"/>
+<area shape="rect" id="node17" href="$Assertions_8hh.html" title="Design by Contract support functions. " alt="" coords="883,752,986,779"/>
+<area shape="rect" id="node21" href="$BinaryStream_8hh.html" title="Core/BinaryStream.hh" alt="" coords="162,528,313,555"/>
+<area shape="rect" id="node25" href="$XmlStream_8hh_source.html" title="Core/XmlStream.hh" alt="" coords="750,453,887,480"/>
+<area shape="rect" id="node30" href="$Timestamp_8hh_source.html" title="Timestamp.hh" alt="" coords="619,229,725,256"/>
+<area shape="rect" id="node26" href="$TextStream_8hh_source.html" title="Core/TextStream.hh" alt="" coords="541,528,681,555"/>
+<area shape="rect" id="node32" href="$Data_8hh_source.html" title="Data.hh" alt="" coords="718,379,786,405"/>
+<area shape="rect" id="node34" href="$Datatype_8hh_source.html" title="Datatype.hh" alt="" coords="487,304,580,331"/>
+<area shape="rect" id="node33" href="$Flow_2Types_8hh_source.html" title="Types.hh" alt="" coords="1115,453,1191,480"/>
+<area shape="rect" id="node37" href="$Configuration_8hh_source.html" title="Core/Configuration.hh" alt="" coords="2372,379,2521,405"/>
+<area shape="rect" id="node41" href="$Flow_2Node_8hh_source.html" title="Flow/Node.hh" alt="" coords="1439,155,1542,181"/>
+<area shape="rect" id="node38" href="$Modules_8hh_source.html" title="Modules.hh" alt="" coords="2669,453,2758,480"/>
+<area shape="rect" id="node42" href="$Core_2Component_8hh_source.html" title="Core/Component.hh" alt="" coords="1565,379,1704,405"/>
+<area shape="rect" id="node43" href="$Core_2Hash_8hh_source.html" title="Core/Hash.hh" alt="" coords="2119,677,2222,704"/>
+<area shape="rect" id="node44" href="$StringExpression_8hh_source.html" title="Core/StringExpression.hh" alt="" coords="2127,304,2297,331"/>
+<area shape="rect" id="node46" href="$AbstractNode_8hh_source.html" title="AbstractNode.hh" alt="" coords="1479,229,1599,256"/>
+<area shape="rect" id="node47" href="$Link_8hh_source.html" title="Link.hh" alt="" coords="1340,304,1404,331"/>
+<area shape="rect" id="node48" href="$Attributes_8hh_source.html" title="Attributes.hh" alt="" coords="1393,379,1489,405"/>
+</map>

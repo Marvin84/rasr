@@ -1,0 +1,4 @@
+<map id="Core::DirectoryFileIterator::FileNameFilter" name="Core::DirectoryFileIterator::FileNameFilter">
+<area shape="rect" id="node3" href="$structCore_1_1DirectoryFileIterator_1_1FileExtensionFilter.html" title="Return only the files whose name end on the given string. " alt="" coords="5,184,179,225"/>
+<area shape="rect" id="node2" href="$structCore_1_1DirectoryFileIterator_1_1Filter.html" title="Abstract base class for directory iterator filters. " alt="" coords="5,5,179,47"/>
+</map>

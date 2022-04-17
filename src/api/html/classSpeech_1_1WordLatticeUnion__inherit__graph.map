@@ -1,0 +1,9 @@
+<map id="Speech::WordLatticeUnion" name="Speech::WordLatticeUnion">
+<area shape="rect" id="node6" href="$classSpeech_1_1BaseWordLatticeMerger.html" title="BaseWordLatticeMerger. " alt="" coords="109,304,324,331"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="121,155,313,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="69,80,194,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="66,5,197,32"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="219,80,385,107"/>
+<area shape="rect" id="node7" href="$classSpeech_1_1SpokenAndCompetingListProcessor.html" title="Speech::SpokenAndCompeting\lListProcessor" alt="" coords="5,379,209,420"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1WordLatticeMerger.html" title="WordLatticeMerger. " alt="" coords="234,386,418,413"/>
+</map>

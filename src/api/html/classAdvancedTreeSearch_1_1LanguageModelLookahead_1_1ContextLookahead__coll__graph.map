@@ -1,0 +1,47 @@
+<map id="AdvancedTreeSearch::LanguageModelLookahead::ContextLookahead" name="AdvancedTreeSearch::LanguageModelLookahead::ContextLookahead">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="2496,5,2663,32"/>
+<area shape="rect" id="node3" href="$classSearch_1_1LinearMiniHash.html" title="Search::LinearMiniHash\l\&lt; LookaheadId,(AdvancedTreeSearch\l::LanguageModelLookahead::LookaheadId)\l&#45;1, Score \&gt;" alt="" coords="2444,57,2715,127"/>
+<area shape="rect" id="node4" href="$classLm_1_1History.html" title="Lm::History" alt="" coords="2534,152,2625,179"/>
+<area shape="rect" id="node5" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="2063,145,2249,186"/>
+<area shape="rect" id="node6" href="$classLm_1_1SingletonHistoryManager.html" title="Lm::SingletonHistoryManager" alt="" coords="1551,145,1745,172"/>
+<area shape="rect" id="node7" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="1133,120,1273,147"/>
+<area shape="rect" id="node8" href="$classSearch_1_1ApproxLinearMiniHash.html" title="Search::ApproxLinearMini\lHash\&lt; LookaheadId,(LanguageModel\lLookahead::LookaheadId)&#45;1, Score,\l false, false \&gt;" alt="" coords="2460,203,2699,274"/>
+<area shape="rect" id="node9" href="$classAdvancedTreeSearch_1_1LanguageModelLookahead.html" title="Language model look&#45;ahead. " alt="" coords="2487,613,2671,654"/>
+<area shape="rect" id="node10" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2093,457,2219,484"/>
+<area shape="rect" id="node11" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1583,369,1713,396"/>
+<area shape="rect" id="node12" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1135,369,1270,396"/>
+<area shape="rect" id="node15" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="456,343,591,385"/>
+<area shape="rect" id="node16" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,359,292,401"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="449,542,597,583"/>
+<area shape="rect" id="node23" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,861,308,888"/>
+<area shape="rect" id="node14" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="768,351,912,393"/>
+<area shape="rect" id="node17" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1583,472,1713,499"/>
+<area shape="rect" id="node18" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1145,459,1261,485"/>
+<area shape="rect" id="node20" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1149,509,1256,536"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="764,549,916,576"/>
+<area shape="rect" id="node34" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="448,1056,599,1083"/>
+<area shape="rect" id="node38" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="442,861,605,888"/>
+<area shape="rect" id="node44" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="440,916,607,943"/>
+<area shape="rect" id="node24" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1599,420,1697,447"/>
+<area shape="rect" id="node25" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::ScaledLanguageModel \&gt;" alt="" coords="2069,622,2243,663"/>
+<area shape="rect" id="node26" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; u32 \&gt;" alt="" coords="2081,687,2231,729"/>
+<area shape="rect" id="node27" href="$classSearch_1_1HMMStateNetwork.html" title="Search::HMMStateNetwork" alt="" coords="2065,753,2247,780"/>
+<area shape="rect" id="node28" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l false, InvalidBatchId, SingleSuccessor\lBatchMask \&gt;" alt="" coords="1523,644,1773,729"/>
+<area shape="rect" id="node29" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l invalidBatch_, singleBatchMask_ \&gt;" alt="" coords="1087,651,1318,722"/>
+<area shape="rect" id="node30" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SubTreeListId, StateId,\l Search::HMMState, true,\l InvalidBatchId \&gt;" alt="" coords="1562,754,1734,825"/>
+<area shape="rect" id="node31" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SubTreeListId, StateId,\l Search::HMMState, invalidBatch_, 0 \&gt;" alt="" coords="1077,761,1328,817"/>
+<area shape="rect" id="node32" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1352,1085,1499,1112"/>
+<area shape="rect" id="node33" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="759,1049,921,1090"/>
+<area shape="rect" id="node36" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1851,861,1985,888"/>
+<area shape="rect" id="node37" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="759,854,921,895"/>
+<area shape="rect" id="node39" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; Score \&gt;" alt="" coords="2081,991,2231,1033"/>
+<area shape="rect" id="node41" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; LookaheadId \&gt;" alt="" coords="2081,1057,2231,1098"/>
+<area shape="rect" id="node42" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1353,933,1497,960"/>
+<area shape="rect" id="node43" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="736,922,944,963"/>
+<area shape="rect" id="node45" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; AdvancedTreeSearch\l::LanguageModelLookahead\l::Node \&gt;" alt="" coords="2064,1174,2248,1245"/>
+<area shape="rect" id="node46" href="$structAdvancedTreeSearch_1_1LanguageModelLookahead_1_1Node.html" title="AdvancedTreeSearch\l::LanguageModelLookahead::Node" alt="" coords="1537,1189,1759,1230"/>
+<area shape="rect" id="node47" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; std::pair\&lt; LookaheadId,\l Score \&gt; \&gt;" alt="" coords="2071,209,2241,265"/>
+<area shape="rect" id="node48" href="$classLm_1_1CompiledBatchRequest.html" title="Lm::CompiledBatchRequest" alt="" coords="2063,289,2249,316"/>
+<area shape="rect" id="node49" href="$classSearch_1_1LinearPrediction.html" title="Search::LinearPrediction" alt="" coords="2074,340,2238,367"/>
+<area shape="rect" id="node50" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="2083,391,2229,433"/>
+</map>

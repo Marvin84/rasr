@@ -1,0 +1,6 @@
+<map id="Test::Lexicon" name="Test::Lexicon">
+<area shape="rect" id="node2" href="$classBliss_1_1Lexicon.html" title="The Bliss lexicon. " alt="" coords="122,155,226,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="197,80,322,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="194,5,325,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="5,99,183,126"/>
+<area shape="rect" id="node2" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="231,49,396,75"/>
+<area shape="rect" id="node3" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="248,99,379,126"/>
+<area shape="rect" id="node11" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="260,150,367,177"/>
+<area shape="rect" id="node4" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="444,74,589,101"/>
+<area shape="rect" id="node9" href="$classBliss_1_1Segment.html" title="General segment of a Recording. " alt="" coords="461,125,572,151"/>
+<area shape="rect" id="node5" href="$classBliss_1_1Corpus.html" title="A collection of recordings. " alt="" coords="664,17,765,43"/>
+<area shape="rect" id="node7" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="655,74,774,101"/>
+<area shape="rect" id="node6" href="$classSegmentOrderingVisitor_1_1CorpusCopy.html" title="Bliss::SegmentOrderingVisitor\l::CorpusCopy" alt="" coords="840,5,1037,47"/>
+<area shape="rect" id="node8" href="$classSegmentOrderingVisitor_1_1RecordingCopy.html" title="Bliss::SegmentOrderingVisitor\l::RecordingCopy" alt="" coords="840,71,1037,112"/>
+<area shape="rect" id="node10" href="$classBliss_1_1SpeechSegment.html" title="Segment of a Recording containing speech. " alt="" coords="637,125,792,151"/>
+</map>

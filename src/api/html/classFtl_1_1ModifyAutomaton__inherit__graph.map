@@ -1,0 +1,49 @@
+<map id="Ftl::ModifyAutomaton&lt; _Automaton &gt;" name="Ftl::ModifyAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node4" href="$classFlf_1_1ArcSortLattice.html" title="Filter: true, if arc has to be removed. " alt="" coords="596,5,724,47"/>
+<area shape="rect" id="node5" href="$classFlf_1_1MapInputFromLemmaPronunciationToLemmaLattice.html" title="The following mappings guarantee mapping success, i.e. " alt="" coords="535,71,785,112"/>
+<area shape="rect" id="node6" href="$classFlf_1_1MapInputFromLemmaToSingleLemmaPronunciationLattice.html" title="Flf::MapInputFromLemmaTo\lSingleLemmaPronunciationLattice\l\&lt; Lattice \&gt;" alt="" coords="551,135,769,191"/>
+<area shape="rect" id="node7" href="$classFlf_1_1MapOutputFromLemmaPronunciationToLemmaLattice.html" title="Flf::MapOutputFromLemmaPronunciation\lToLemmaLattice\&lt; Lattice \&gt;" alt="" coords="529,215,791,256"/>
+<area shape="rect" id="node8" href="$classFlf_1_1MapOutputFromLemmaToSingleLemmaPronunciationLattice.html" title="Flf::MapOutputFromLemmaTo\lSingleLemmaPronunciationLattice\l\&lt; Lattice \&gt;" alt="" coords="551,279,769,335"/>
+<area shape="rect" id="node9" href="$classFlf_1_1OneToOneLabelMappingLattice.html" title="Flf::OneToOneLabelMapping\lLattice\&lt; Lattice \&gt;" alt="" coords="566,359,754,400"/>
+<area shape="rect" id="node10" href="$classFlf_1_1ProjectSemiringLattice.html" title="Flf::ProjectSemiringLattice\l\&lt; Lattice \&gt;" alt="" coords="572,424,748,465"/>
+<area shape="rect" id="node11" href="$classFlf_1_1StaticScoreLattice.html" title="Flf::StaticScoreLattice\l\&lt; Lattice \&gt;" alt="" coords="584,489,736,531"/>
+<area shape="rect" id="node12" href="$classFsa_1_1ExtendByFsaAutomaton.html" title="Fsa::ExtendByFsaAutomaton\l\&lt; Automaton \&gt;" alt="" coords="563,555,757,596"/>
+<area shape="rect" id="node13" href="$classFsa_1_1Posterior64Automaton.html" title="Fsa::Posterior64Automaton\l\&lt; Automaton \&gt;" alt="" coords="569,620,751,661"/>
+<area shape="rect" id="node15" href="$classFsa_1_1RemoveInvalidArcsAutomaton.html" title="Fsa::RemoveInvalidArcsAutomaton\l\&lt; Automaton \&gt;" alt="" coords="545,685,775,727"/>
+<area shape="rect" id="node16" href="$classFtl_1_1AllPrefixesAutomaton.html" title="Ftl::AllPrefixesAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="575,751,745,792"/>
+<area shape="rect" id="node17" href="$classFtl_1_1AllSuffixesAutomaton.html" title="Ftl::AllSuffixesAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="575,816,745,857"/>
+<area shape="rect" id="node18" href="$classFtl_1_1ClosureAutomaton.html" title="Ftl::ClosureAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="583,881,737,923"/>
+<area shape="rect" id="node19" href="$classFtl_1_1CollectAutomaton.html" title="Ftl::CollectAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="585,947,735,988"/>
+<area shape="rect" id="node20" href="$classFtl_1_1ExtendAutomaton.html" title="Ftl::ExtendAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="585,1012,735,1053"/>
+<area shape="rect" id="node21" href="$classFtl_1_1HypothesisAutomaton.html" title="Ftl::HypothesisAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="573,1077,747,1119"/>
+<area shape="rect" id="node22" href="$classFtl_1_1InvertAutomaton.html" title="Ftl::InvertAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="589,1143,731,1184"/>
+<area shape="rect" id="node23" href="$classFtl_1_1MappedAutomaton.html" title="Ftl::MappedAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="583,1208,737,1249"/>
+<area shape="rect" id="node27" href="$classFtl_1_1PosteriorAutomaton.html" title="Ftl::PosteriorAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="580,1273,740,1315"/>
+<area shape="rect" id="node28" href="$classFtl_1_1PosteriorAutomaton4SpecialSymbols.html" title="Ftl::PosteriorAutomaton4\lSpecialSymbols\&lt; _Automaton \&gt;" alt="" coords="555,1339,765,1380"/>
+<area shape="rect" id="node29" href="$classFtl_1_1ProjectInputAutomaton.html" title="Ftl::ProjectInputAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="571,1404,749,1445"/>
+<area shape="rect" id="node30" href="$classFtl_1_1ProjectOutputAutomaton.html" title="Ftl::ProjectOutputAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="566,1469,754,1511"/>
+<area shape="rect" id="node31" href="$classFtl_1_1PushToFinalAutomaton.html" title="Ftl::PushToFinalAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="569,1535,751,1576"/>
+<area shape="rect" id="node32" href="$classFtl_1_1PushToInitialAutomaton.html" title="Ftl::PushToInitialAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="568,1600,752,1641"/>
+<area shape="rect" id="node33" href="$classFtl_1_1RemoveEpsilons.html" title="remove epsilon (input) transitions " alt="" coords="588,1665,732,1707"/>
+<area shape="rect" id="node34" href="$classFtl_1_1ReplaceDisambiguationSymbolsAutomaton.html" title="Ftl::ReplaceDisambiguation\lSymbolsAutomaton\&lt; _Automaton \&gt;" alt="" coords="545,1731,775,1772"/>
+<area shape="rect" id="node35" href="$classFtl_1_1SimpleRemoveEpsilonsAutomaton.html" title="remove &quot;simple&quot; epsilon arcs in a transducer " alt="" coords="568,1796,752,1837"/>
+<area shape="rect" id="node36" href="$classFtl_1_1SortByArcAutomaton.html" title="Ftl::SortByArcAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="576,1861,744,1903"/>
+<area shape="rect" id="node37" href="$classFtl_1_1SortByInputAndOutputAndTargetAutomaton.html" title="Ftl::SortByInputAndOutput\lAndTargetAutomaton\&lt; _Automaton \&gt;" alt="" coords="541,1927,779,1968"/>
+<area shape="rect" id="node38" href="$classFtl_1_1SortByInputAndOutputAutomaton.html" title="Ftl::SortByInputAndOutput\lAutomaton\&lt; _Automaton \&gt;" alt="" coords="571,1992,749,2033"/>
+<area shape="rect" id="node39" href="$classFtl_1_1SortByInputAndTargetAutomaton.html" title="Ftl::SortByInputAndTarget\lAutomaton\&lt; _Automaton \&gt;" alt="" coords="571,2057,749,2099"/>
+<area shape="rect" id="node40" href="$classFtl_1_1SortByInputAutomaton.html" title="Ftl::SortByInputAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="571,2123,749,2164"/>
+<area shape="rect" id="node41" href="$classFtl_1_1SortByOutputAutomaton.html" title="Ftl::SortByOutputAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="567,2188,753,2229"/>
+<area shape="rect" id="node42" href="$classFtl_1_1SortByWeightAutomaton.html" title="Ftl::SortByWeightAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="565,2253,755,2295"/>
+<area shape="rect" id="node43" href="$classFtl_1_1WeightModifyAutomaton.html" title="Ftl::WeightModifyAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="566,2319,754,2360"/>
+<area shape="rect" id="node44" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice\l\&lt; Automaton \&gt;" alt="" coords="571,2384,749,2425"/>
+<area shape="rect" id="node48" href="$classSearch_1_1PartialNbestlist.html" title="Search::PartialNbestlist\l\&lt; Automaton \&gt;" alt="" coords="580,2449,740,2491"/>
+<area shape="rect" id="node49" href="$classSpeech_1_1DenominatorWeightsAutomaton.html" title="DenominatorWeightsAutomaton. " alt="" coords="562,2515,758,2556"/>
+<area shape="rect" id="node2" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="145,1241,287,1283"/>
+<area shape="rect" id="node14" href="$classFsa_1_1PosteriorEAutomaton.html" title="Fsa::PosteriorEAutomaton" alt="" coords="862,627,1038,654"/>
+<area shape="rect" id="node24" href="$classFtl_1_1InputMappedAutomaton.html" title="Ftl::InputMappedAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="859,1143,1041,1184"/>
+<area shape="rect" id="node25" href="$classFtl_1_1InputOutputMappedAutomaton.html" title="Ftl::InputOutputMappedAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="839,1208,1061,1249"/>
+<area shape="rect" id="node26" href="$classFtl_1_1OutputMappedAutomaton.html" title="Ftl::OutputMappedAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="853,1273,1047,1315"/>
+<area shape="rect" id="node45" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="851,2319,1049,2360"/>
+<area shape="rect" id="node46" href="$classLattice_1_1FrameStateAccuracyAutomaton.html" title="FrameStateAccuracyAutomaton. " alt="" coords="854,2384,1046,2425"/>
+<area shape="rect" id="node47" href="$classLattice_1_1SmoothedFrameStateAccuracyAutomaton.html" title="SmoothedFrameStateAccuracyAutomaton. " alt="" coords="852,2449,1048,2491"/>
+</map>

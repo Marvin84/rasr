@@ -1,0 +1,7 @@
+<map id="Search::TraceItem" name="Search::TraceItem">
+<area shape="rect" id="node2" href="$classLm_1_1History.html" title="Lm::History" alt="" coords="10,282,101,309"/>
+<area shape="rect" id="node3" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="73,171,259,212"/>
+<area shape="rect" id="node4" href="$classLm_1_1SingletonHistoryManager.html" title="Lm::SingletonHistoryManager" alt="" coords="71,81,266,108"/>
+<area shape="rect" id="node5" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Search::\lTrace \&gt;" alt="" coords="144,275,284,316"/>
+</map>

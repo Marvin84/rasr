@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; CM, P, PH, HA \&gt;" alt="" coords="96,5,319,47"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; CM, P, P *, P * \&gt;" alt="" coords="96,71,319,112"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; CM, P, P, const P &amp; \&gt;" alt="" coords="96,136,319,177"/>
+<area shape="rect" id="node7" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; CM, P, std::unique_ptr\&lt;\l P \&gt;, std::unique_ptr\&lt; P \&gt; &amp; \&gt;" alt="" coords="96,201,319,257"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlBuilderElement_3_01P_00_01CM_00_01CreateByContext_01_4.html" title="Core::XmlBuilderElement\l\&lt; P, CM, CreateByContext \&gt;" alt="" coords="367,71,560,112"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlBuilderElement_3_01P_00_01CM_00_01CreateStatic_01_4.html" title="Core::XmlBuilderElement\l\&lt; P, CM, CreateStatic \&gt;" alt="" coords="379,136,548,177"/>
+<area shape="rect" id="node8" href="$classCore_1_1XmlBuilderElement_3_01P_00_01CM_00_01CreateUsingNew_01_4.html" title="Core::XmlBuilderElement\l\&lt; P, CM, CreateUsingNew \&gt;" alt="" coords="367,208,559,249"/>
+</map>

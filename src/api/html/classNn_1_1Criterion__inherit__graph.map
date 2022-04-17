@@ -1,0 +1,9 @@
+<map id="Nn::Criterion&lt; FloatT &gt;" name="Nn::Criterion&lt; FloatT &gt;">
+<area shape="rect" id="node4" href="$classNn_1_1BinaryDivergenceCriterion.html" title="Nn::BinaryDivergenceCriterion\l\&lt; FloatT \&gt;" alt="" coords="563,5,761,47"/>
+<area shape="rect" id="node5" href="$classNn_1_1CrossEntropyCriterion.html" title="Nn::CrossEntropyCriterion\l\&lt; FloatT \&gt;" alt="" coords="574,71,750,112"/>
+<area shape="rect" id="node6" href="$classNn_1_1SegmentCriterion.html" title="Nn::SegmentCriterion\l\&lt; FloatT \&gt;" alt="" coords="588,136,736,177"/>
+<area shape="rect" id="node8" href="$classNn_1_1SquaredErrorCriterion.html" title="Nn::SquaredErrorCriterion\l\&lt; FloatT \&gt;" alt="" coords="576,201,748,243"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,111,309,138"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,111,136,138"/>
+<area shape="rect" id="node7" href="$classNn_1_1CtcCriterion.html" title="Nn::CtcCriterion\&lt; FloatT \&gt;" alt="" coords="809,143,988,170"/>
+</map>

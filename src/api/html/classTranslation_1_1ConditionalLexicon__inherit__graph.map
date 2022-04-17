@@ -1,0 +1,7 @@
+<map id="Translation::ConditionalLexicon" name="Translation::ConditionalLexicon">
+<area shape="rect" id="node5" href="$classTranslation_1_1ConditionalLexiconPlain.html" title="Translation::Conditional\lLexiconPlain" alt="" coords="5,244,164,285"/>
+<area shape="rect" id="node6" href="$classTranslation_1_1ConditionalLexiconSri.html" title="Translation::Conditional\lLexiconSri" alt="" coords="188,244,347,285"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="27,80,153,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="25,5,155,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="177,80,344,107"/>
+</map>

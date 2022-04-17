@@ -1,0 +1,8 @@
+<map id="Search::Wfst::Builder::BuildOldLexicon" name="Search::Wfst::Builder::BuildOldLexicon">
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1Builder_1_1BuildLexicon.html" title="build a transducer for the lexicon (phoneme to outputType() mapping). " alt="" coords="848,39,995,80"/>
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1Builder_1_1DisambiguatorDependentOperation.html" title="either paramDisambiguators is set or an AutomatonWithDisambiguator is used as input automaton ..." alt="" coords="567,8,800,49"/>
+<area shape="rect" id="node4" href="$classSearch_1_1Wfst_1_1Builder_1_1Operation.html" title="abstract base class for all operations " alt="" coords="365,5,511,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,17,309,43"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,45,136,71"/>
+<area shape="rect" id="node7" href="$classSearch_1_1Wfst_1_1Builder_1_1OutputTypeDependent.html" title="parameter to set the output type " alt="" coords="357,71,519,112"/>
+</map>

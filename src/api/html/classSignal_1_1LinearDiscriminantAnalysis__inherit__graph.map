@@ -1,0 +1,6 @@
+<map id="Signal::LinearDiscriminantAnalysis" name="Signal::LinearDiscriminantAnalysis">
+<area shape="rect" id="node2" href="$classSignal_1_1EigenTransform.html" title="Base class for eigenvalue analysis based transformations. " alt="" coords="13,229,172,256"/>
+<area shape="rect" id="node3" href="$classSignal_1_1ScatterTransform.html" title="Base class for scatter matrix based tranformations. " alt="" coords="9,155,176,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="30,80,155,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="27,5,158,32"/>
+</map>

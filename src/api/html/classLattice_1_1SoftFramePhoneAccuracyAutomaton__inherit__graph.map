@@ -1,0 +1,7 @@
+<map id="Lattice::SoftFramePhoneAccuracyAutomaton" name="Lattice::SoftFramePhoneAccuracyAutomaton">
+<area shape="rect" id="node2" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="27,408,206,449"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="18,319,215,360"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="27,244,206,271"/>
+<area shape="rect" id="node5" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="39,169,194,196"/>
+<area shape="rect" id="node6" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="46,80,187,121"/>
+</map>

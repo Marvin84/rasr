@@ -1,0 +1,7 @@
+<map id="Search::HMMStateNetwork::ChangePlan" name="Search::HMMStateNetwork::ChangePlan">
+<area shape="rect" id="node2" href="$classSearch_1_1HMMStateNetwork.html" title="Search::HMMStateNetwork" alt="" coords="731,80,913,107"/>
+<area shape="rect" id="node3" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l false, InvalidBatchId, SingleSuccessor\lBatchMask \&gt;" alt="" coords="305,5,556,91"/>
+<area shape="rect" id="node4" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l invalidBatch_, singleBatchMask_ \&gt;" alt="" coords="15,13,246,83"/>
+<area shape="rect" id="node5" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SubTreeListId, StateId,\l Search::HMMState, true,\l InvalidBatchId \&gt;" alt="" coords="345,115,517,186"/>
+<area shape="rect" id="node6" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SubTreeListId, StateId,\l Search::HMMState, invalidBatch_, 0 \&gt;" alt="" coords="5,123,256,179"/>
+</map>

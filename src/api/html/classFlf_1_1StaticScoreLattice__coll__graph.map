@@ -1,0 +1,9 @@
+<map id="Flf::StaticScoreLattice" name="Flf::StaticScoreLattice">
+<area shape="rect" id="node2" href="$classFtl_1_1ModifyAutomaton.html" title="ModifyLattice" alt="" coords="272,199,372,225"/>
+<area shape="rect" id="node3" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="67,95,209,136"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="121,5,331,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="233,102,411,129"/>
+<area shape="rect" id="node7" href="$classFlf_1_1ScoresRef.html" title="Flf::ScoresRef" alt="" coords="411,199,518,225"/>
+<area shape="rect" id="node8" href="$classFlf_1_1Scores.html" title="Flf::Scores" alt="" coords="435,102,521,129"/>
+<area shape="rect" id="node9" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="543,199,733,225"/>
+</map>

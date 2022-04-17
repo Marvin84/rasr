@@ -1,0 +1,39 @@
+<map id="AdvancedTreeSearch::LanguageModelLookahead" name="AdvancedTreeSearch::LanguageModelLookahead">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2093,162,2219,189"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1583,93,1713,119"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1135,93,1270,119"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="456,67,591,108"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,5,292,47"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="449,264,597,305"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,585,308,611"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="768,75,912,116"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1583,210,1713,237"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1145,233,1261,259"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1149,182,1256,209"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="764,271,916,298"/>
+<area shape="rect" id="node26" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="448,778,599,805"/>
+<area shape="rect" id="node30" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="442,585,605,611"/>
+<area shape="rect" id="node36" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="440,639,607,666"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1599,143,1697,170"/>
+<area shape="rect" id="node17" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::ScaledLanguageModel \&gt;" alt="" coords="2069,345,2243,387"/>
+<area shape="rect" id="node18" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; u32 \&gt;" alt="" coords="2081,411,2231,452"/>
+<area shape="rect" id="node19" href="$classSearch_1_1HMMStateNetwork.html" title="Search::HMMStateNetwork" alt="" coords="2065,477,2247,503"/>
+<area shape="rect" id="node20" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l false, InvalidBatchId, SingleSuccessor\lBatchMask \&gt;" alt="" coords="1523,367,1773,453"/>
+<area shape="rect" id="node21" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l invalidBatch_, singleBatchMask_ \&gt;" alt="" coords="1087,375,1318,445"/>
+<area shape="rect" id="node22" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SubTreeListId, StateId,\l Search::HMMState, true,\l InvalidBatchId \&gt;" alt="" coords="1562,477,1734,548"/>
+<area shape="rect" id="node23" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SubTreeListId, StateId,\l Search::HMMState, invalidBatch_, 0 \&gt;" alt="" coords="1077,485,1328,541"/>
+<area shape="rect" id="node24" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1352,805,1499,831"/>
+<area shape="rect" id="node25" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="759,771,921,812"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1851,585,1985,611"/>
+<area shape="rect" id="node29" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="759,577,921,619"/>
+<area shape="rect" id="node31" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; Score \&gt;" alt="" coords="2081,715,2231,756"/>
+<area shape="rect" id="node33" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; LookaheadId \&gt;" alt="" coords="2081,780,2231,821"/>
+<area shape="rect" id="node34" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1353,657,1497,683"/>
+<area shape="rect" id="node35" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="736,645,944,687"/>
+<area shape="rect" id="node37" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; AdvancedTreeSearch\l::LanguageModelLookahead\l::Node \&gt;" alt="" coords="2064,897,2248,968"/>
+<area shape="rect" id="node38" href="$structAdvancedTreeSearch_1_1LanguageModelLookahead_1_1Node.html" title="AdvancedTreeSearch\l::LanguageModelLookahead::Node" alt="" coords="1537,912,1759,953"/>
+<area shape="rect" id="node39" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; std::pair\&lt; LookaheadId,\l Score \&gt; \&gt;" alt="" coords="2071,993,2241,1049"/>
+<area shape="rect" id="node40" href="$classLm_1_1CompiledBatchRequest.html" title="Lm::CompiledBatchRequest" alt="" coords="2063,1073,2249,1099"/>
+<area shape="rect" id="node41" href="$classSearch_1_1LinearPrediction.html" title="Search::LinearPrediction" alt="" coords="2074,1123,2238,1150"/>
+<area shape="rect" id="node42" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="2083,1175,2229,1216"/>
+</map>

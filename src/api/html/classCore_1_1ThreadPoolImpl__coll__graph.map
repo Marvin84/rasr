@@ -1,0 +1,4 @@
+<map id="Core::ThreadPoolImpl&lt; T, M, R &gt;" name="Core::ThreadPoolImpl&lt; T, M, R &gt;">
+<area shape="rect" id="node2" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="55,5,150,32"/>
+<area shape="rect" id="node3" href="$classCore_1_1Condition.html" title="A condition variable. " alt="" coords="138,95,251,121"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Speech::AlignmentToSequenceSelectionNode::Set" name="Speech::AlignmentToSequenceSelectionNode::Set">
+<area shape="rect" id="node5" href="$classSpeech_1_1AlignmentToSequenceSelectionNode_1_1PhonemeSet.html" title="Set of phonemes (e.g. " alt="" coords="652,5,857,47"/>
+<area shape="rect" id="node6" href="$classSpeech_1_1AlignmentToSequenceSelectionNode_1_1StateSet.html" title="Set of HMM states identifier. " alt="" coords="652,71,857,112"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="205,21,330,47"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,21,136,47"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="184,71,351,98"/>
+</map>

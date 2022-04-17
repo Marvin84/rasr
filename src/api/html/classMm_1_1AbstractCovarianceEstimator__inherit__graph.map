@@ -1,0 +1,11 @@
+<map id="Mm::AbstractCovarianceEstimator" name="Mm::AbstractCovarianceEstimator">
+<area shape="rect" id="node4" href="$classMm_1_1CovarianceEstimator.html" title="CovarianceEstimator. " alt="" coords="775,35,949,61"/>
+<area shape="rect" id="node2" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="220,35,456,61"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,35,172,61"/>
+<area shape="rect" id="node5" href="$classMm_1_1ConvertCovarianceEstimator.html" title="ConvertCovarianceEstimator. " alt="" coords="997,5,1217,32"/>
+<area shape="rect" id="node6" href="$classMm_1_1DiscriminativeCovarianceEstimator.html" title="DiscriminativeCovarianceEstimator. " alt="" coords="1007,57,1208,98"/>
+<area shape="rect" id="node7" href="$classMm_1_1EbwDiscriminativeCovarianceEstimator.html" title="EbwDiscriminativeCovarianceEstimator. " alt="" coords="1270,23,1497,65"/>
+<area shape="rect" id="node9" href="$classMm_1_1RpropDiscriminativeCovarianceEstimator.html" title="RpropDiscriminativeCovarianceEstimator. " alt="" coords="1265,89,1501,130"/>
+<area shape="rect" id="node8" href="$classMm_1_1EbwDiscriminativeCovarianceEstimatorWithISmoothing.html" title="EbwDiscriminativeCovarianceEstimatorWithISmoothing. " alt="" coords="1554,23,1781,65"/>
+<area shape="rect" id="node10" href="$classMm_1_1RpropDiscriminativeCovarianceEstimatorWithISmoothing.html" title="RpropDiscriminativeCovarianceEstimatorWithISmoothing. " alt="" coords="1549,89,1785,130"/>
+</map>

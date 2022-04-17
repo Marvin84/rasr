@@ -1,0 +1,47 @@
+<map id="Speech::OrthographyFrameWordAccuracyLatticeRescorer" name="Speech::OrthographyFrameWordAccuracyLatticeRescorer">
+<area shape="rect" id="node2" href="$classSpeech_1_1ApproximateDistanceLatticeRescorer.html" title="Speech::ApproximateDistance\lLatticeRescorer" alt="" coords="3317,755,3516,797"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DistanceLatticeRescorer.html" title="Speech::DistanceLatticeRescorer" alt="" coords="3043,763,3261,789"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="2804,835,2971,861"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="2426,851,2593,877"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="2034,452,2159,479"/>
+<area shape="rect" id="node26" href="$classSpeech_1_1MetricFsaBuilder.html" title="Speech::MetricFsaBuilder\l\&lt; Lattice::ConstWordLatticeRef \&gt;" alt="" coords="2400,457,2619,498"/>
+<area shape="rect" id="node30" href="$classBliss_1_1OrthographicParser.html" title="Parses an orthographic sentence into lemmas. " alt="" coords="2424,264,2595,291"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1429,405,1560,432"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="823,375,958,401"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="168,505,303,546"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="452,755,600,797"/>
+<area shape="rect" id="node18" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,704,319,731"/>
+<area shape="rect" id="node29" href="$classCore_1_1VectorParameter.html" title="Core::VectorParameter\l\&lt; std::string \&gt;" alt="" coords="448,581,604,622"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="454,499,598,541"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1619,527,1748,553"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1256,527,1372,553"/>
+<area shape="rect" id="node15" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1261,577,1367,604"/>
+<area shape="rect" id="node16" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,763,967,789"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="628,821,791,848"/>
+<area shape="rect" id="node50" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="815,709,966,736"/>
+<area shape="rect" id="node19" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1634,615,1733,641"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2217,708,2376,735"/>
+<area shape="rect" id="node25" href="$classSpeech_1_1TimeAlignmentBasedMetricLatticeBuilder.html" title="Base class for metrics which are based on the time alignment, e.g. " alt="" coords="2788,457,2987,498"/>
+<area shape="rect" id="node21" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="991,811,1199,853"/>
+<area shape="rect" id="node23" href="$classSpeech_1_1OrthographyFrameWordAccuracyLatticeBuilder.html" title="frame word accuracy " alt="" coords="3323,690,3510,731"/>
+<area shape="rect" id="node24" href="$classSpeech_1_1OrthographyTimeAlignmentBasedMetricLatticeBuilder.html" title="Numerator lattice is extracted from $param lattice using $param orth. " alt="" coords="3036,457,3268,498"/>
+<area shape="rect" id="node27" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const WordLattice \&gt;" alt="" coords="2405,405,2614,432"/>
+<area shape="rect" id="node28" href="$classCore_1_1ParameterStringVector.html" title="Declaration class for string vector parameters. " alt="" coords="999,500,1190,527"/>
+<area shape="rect" id="node31" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="2013,187,2180,213"/>
+<area shape="rect" id="node32" href="$classBliss_1_1OrthographicPrefixTree.html" title="Bliss::OrthographicPrefixTree" alt="" coords="2000,304,2193,331"/>
+<area shape="rect" id="node33" href="$classBliss_1_1PrefixTree.html" title="Bliss::PrefixTree\&lt;\l const char *, ListItem,\l Core::select1st\&lt; ListItem \&gt; \&gt;" alt="" coords="1584,244,1783,300"/>
+<area shape="rect" id="node34" href="$structCore_1_1select1st.html" title="Core::select1st\&lt; ListItem \&gt;" alt="" coords="1223,237,1405,264"/>
+<area shape="rect" id="node36" href="$structBliss_1_1PrefixTree_1_1TreeNode.html" title="Bliss::PrefixTree\&lt;\l S, I, K, T \&gt;::TreeNode" alt="" coords="1235,171,1393,213"/>
+<area shape="rect" id="node37" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::PrefixTree::TreeNode \&gt;" alt="" coords="1231,289,1397,330"/>
+<area shape="rect" id="node38" href="$structCore_1_1Obstack_1_1Chunk.html" title="Core::Obstack\&lt; T \&gt;\l::Chunk" alt="" coords="821,465,960,506"/>
+<area shape="rect" id="node49" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="1233,702,1395,743"/>
+<area shape="rect" id="node40" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::Lexicon \&gt;" alt="" coords="2019,238,2175,279"/>
+<area shape="rect" id="node41" href="$classBliss_1_1Lemma.html" title="An entry in the Bliss lexion. " alt="" coords="2045,92,2148,119"/>
+<area shape="rect" id="node46" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="2419,73,2600,100"/>
+<area shape="rect" id="node42" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="1636,89,1731,116"/>
+<area shape="rect" id="node43" href="$classBliss_1_1Symbol.html" title="Symbols are character strings which are collected in a SymbolSet. " alt="" coords="1263,67,1365,93"/>
+<area shape="rect" id="node44" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="1603,141,1764,182"/>
+<area shape="rect" id="node45" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="1592,23,1775,65"/>
+<area shape="rect" id="node47" href="$classBliss_1_1Pronunciation.html" title="A pronunciation in the Bliss lexicon. " alt="" coords="2818,73,2957,100"/>
+<area shape="rect" id="node48" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1818,749,1965,776"/>
+</map>

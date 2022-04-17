@@ -1,0 +1,4 @@
+<map id="Search::StateTree::BatchRequest" name="Search::StateTree::BatchRequest">
+<area shape="rect" id="node3" href="$structStateTree_1_1LeapRequest.html" title="Search::StateTree::\lLeapRequest" alt="" coords="5,184,141,225"/>
+<area shape="rect" id="node2" href="$structStateTree_1_1BuildRequest.html" title="Request for building a set of successors in the state tree. " alt="" coords="5,5,141,47"/>
+</map>

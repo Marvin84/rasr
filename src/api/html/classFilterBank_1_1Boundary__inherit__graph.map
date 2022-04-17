@@ -1,0 +1,7 @@
+<map id="Signal::FilterBank::Boundary" name="Signal::FilterBank::Boundary">
+<area shape="rect" id="node4" href="$classEmphasizeBoundary.html" title="Emphasize Boundary: left and right boundaries of input are included with large weights. " alt="" coords="5,244,148,271"/>
+<area shape="rect" id="node5" href="$classIncludeBoundary.html" title="Include Boundary: left and right boundaries of input are included but with small weights. " alt="" coords="172,244,291,271"/>
+<area shape="rect" id="node6" href="$classStretchToCover.html" title="Stretch&#45;To&#45;Cover: filter width and spacing are stretched to cover the complete input exactly..." alt="" coords="315,244,430,271"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="169,80,294,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="166,5,297,32"/>
+</map>

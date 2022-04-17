@@ -1,0 +1,7 @@
+<map id="Core::XmlMapElement&lt; Map &gt;" name="Core::XmlMapElement&lt; Map &gt;">
+<area shape="rect" id="node2" href="$classCore_1_1XmlBuilderElement.html" title="Core::XmlBuilderElement\l\&lt; Map, XmlRegularElement,\l CreateByContext \&gt;" alt="" coords="572,5,759,61"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="582,85,749,112"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="393,85,523,112"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="57,65,184,92"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="5,131,236,157"/>
+</map>

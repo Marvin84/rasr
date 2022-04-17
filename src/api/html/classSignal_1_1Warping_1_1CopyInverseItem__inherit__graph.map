@@ -1,0 +1,5 @@
+<map id="Signal::Warping::CopyInverseItem" name="Signal::Warping::CopyInverseItem">
+<area shape="rect" id="node3" href="$structSignal_1_1Warping_1_1KeepEndInverseItem.html" title="KeepEndInverseItem creates values of the interval (first . " alt="" coords="5,155,180,196"/>
+<area shape="rect" id="node4" href="$structSignal_1_1Warping_1_1SelectBeginInverseItem.html" title="SelectBeginInverseItem merges the interval [begin . " alt="" coords="205,155,397,196"/>
+<area shape="rect" id="node2" href="$structSignal_1_1Warping_1_1InverseItem.html" title="InverseItem is base class for items in inverseWarpingFunction. " alt="" coords="101,5,292,32"/>
+</map>

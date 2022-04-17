@@ -1,0 +1,11 @@
+<map id="Fsa::FirstOrderAlignAutomaton" name="Fsa::FirstOrderAlignAutomaton">
+<area shape="rect" id="node2" href="$classFsa_1_1AlignAutomaton.html" title="Fsa::AlignAutomaton" alt="" coords="863,61,1007,87"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="549,13,664,39"/>
+<area shape="rect" id="node4" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="232,5,381,47"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="511,63,702,90"/>
+<area shape="rect" id="node6" href="$classFsa_1_1TranslationLexicon.html" title="Fsa::TranslationLexicon" alt="" coords="855,139,1016,166"/>
+<area shape="rect" id="node8" href="$classFsa_1_1StaticAlphabet.html" title="The implementation of a statically allocated alphabet. " alt="" coords="538,201,675,227"/>
+<area shape="rect" id="node9" href="$classFsa_1_1Alphabet.html" title="The abstract definition of an alphabet. " alt="" coords="255,174,358,201"/>
+<area shape="rect" id="node10" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,174,172,201"/>
+<area shape="rect" id="node11" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Fsa::\lStaticAlphabet::Symbol \&gt;" alt="" coords="221,225,392,267"/>
+</map>

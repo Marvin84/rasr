@@ -1,0 +1,10 @@
+<map id="Signal::RegressionNode" name="Signal::RegressionNode">
+<area shape="rect" id="node2" href="$classFlow_1_1MergerNode.html" title="Flow::MergerNode\&lt; Flow\l::Vector\&lt; f32 \&gt;, Flow\l::Vector\&lt; f32 \&gt; \&gt;" alt="" coords="6,483,175,539"/>
+<area shape="rect" id="node3" href="$classFlow_1_1CollectorNode.html" title="Flow::CollectorNode\l\&lt; Flow::Vector\&lt; f32\l \&gt;, Flow::Vector\&lt; f32 \&gt; \&gt;" alt="" coords="5,379,176,435"/>
+<area shape="rect" id="node4" href="$classFlow_1_1SourceNode.html" title="Base class for nodes with a single output. " alt="" coords="25,304,156,331"/>
+<area shape="rect" id="node5" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="46,229,135,256"/>
+<area shape="rect" id="node6" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="21,155,160,181"/>
+<area shape="rect" id="node7" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="28,80,153,107"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="25,5,156,32"/>
+<area shape="rect" id="node9" href="$classSignal_1_1Regression.html" title="Calculation of derivatives with linear regression coefficients. " alt="" coords="199,497,331,524"/>
+</map>

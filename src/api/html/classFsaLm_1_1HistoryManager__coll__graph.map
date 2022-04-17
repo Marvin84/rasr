@@ -1,0 +1,4 @@
+<map id="Lm::FsaLm::HistoryManager" name="Lm::FsaLm::HistoryManager">
+<area shape="rect" id="node2" href="$classLm_1_1ReferenceCountingHistoryManager.html" title="HistoryManager for reference counted descriptors. " alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node3" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="37,5,177,32"/>
+</map>

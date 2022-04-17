@@ -1,0 +1,5 @@
+<map id="Lattice::SoftFramePhoneAccuracyAutomaton::LatticeToSoftAccuracies" name="Lattice::SoftFramePhoneAccuracyAutomaton::LatticeToSoftAccuracies">
+<area shape="rect" id="node2" href="$classLattice_1_1SoftFramePhoneAccuracyAutomaton_1_1AlignmentToSoftAccuracies.html" title="Lattice::SoftFramePhoneAccuracy\lAutomaton::AlignmentToSoftAccuracies" alt="" coords="157,5,412,47"/>
+<area shape="rect" id="node3" href="$classLattice_1_1DfsState.html" title="Lattice::DfsState" alt="" coords="224,71,345,98"/>
+<area shape="rect" id="node4" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="5,71,109,98"/>
+</map>

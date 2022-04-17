@@ -1,0 +1,4 @@
+<map id="Bliss::CorpusDescription::SegmentPartitionVisitorAdaptor" name="Bliss::CorpusDescription::SegmentPartitionVisitorAdaptor">
+<area shape="rect" id="node2" href="$classBliss_1_1CorpusVisitor.html" title="Abstract visitor base class for corpus traversal. " alt="" coords="42,80,181,107"/>
+<area shape="rect" id="node3" href="$classBliss_1_1SegmentVisitor.html" title="Abstract visitor base class for processing segments. " alt="" coords="37,5,185,32"/>
+</map>

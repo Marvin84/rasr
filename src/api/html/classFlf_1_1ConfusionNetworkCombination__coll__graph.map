@@ -1,0 +1,7 @@
+<map id="Flf::ConfusionNetworkCombination" name="Flf::ConfusionNetworkCombination">
+<area shape="rect" id="node2" href="$classFlf_1_1ConfusionNetworkAlignment.html" title="Flf::ConfusionNetworkAlignment" alt="" coords="279,7,489,33"/>
+<area shape="rect" id="node3" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Cost \&gt;" alt="" coords="5,7,172,33"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="301,57,467,84"/>
+<area shape="rect" id="node5" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; WeightedCost \&gt;" alt="" coords="291,108,477,135"/>
+<area shape="rect" id="node6" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="307,159,461,185"/>
+</map>

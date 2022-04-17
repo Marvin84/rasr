@@ -1,0 +1,8 @@
+<map id="Math::AnalyticUnaryComposition" name="Math::AnalyticUnaryComposition">
+<area shape="rect" id="node5" href="$classMath_1_1AnalyticMultiplication.html" title="f(x)*g(x) " alt="" coords="5,304,188,331"/>
+<area shape="rect" id="node6" href="$classMath_1_1AnalyticNesting.html" title="f(g(x)) " alt="" coords="212,304,363,331"/>
+<area shape="rect" id="node7" href="$classMath_1_1AnalyticSummation.html" title="f(x)+g(x) " alt="" coords="387,304,559,331"/>
+<area shape="rect" id="node2" href="$classMath_1_1UnaryAnalyticFunction.html" title="Interface class for unary analytic functions. " alt="" coords="192,155,383,181"/>
+<area shape="rect" id="node3" href="$classMath_1_1AnalyticFunction.html" title="Interface class for analytic functions. " alt="" coords="209,80,365,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="204,5,371,32"/>
+</map>

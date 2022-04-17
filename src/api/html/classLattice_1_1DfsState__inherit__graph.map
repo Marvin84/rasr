@@ -1,0 +1,31 @@
+<map id="Lattice::DfsState" name="Lattice::DfsState">
+<area shape="rect" id="node3" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton_1_1LatticeToActiveStates.html" title="Lattice::ApproximatePhone\lAccuracyAutomaton::LatticeToActive\lStates" alt="" coords="327,57,565,113"/>
+<area shape="rect" id="node4" href="$classLattice_1_1ApproximateWordAccuracyAutomaton_1_1LatticeToActiveStates.html" title="Lattice::ApproximateWord\lAccuracyAutomaton::LatticeTo\lActiveStates" alt="" coords="345,137,547,193"/>
+<area shape="rect" id="node5" href="$classLattice_1_1BaseAccumulator.html" title="BaseAccumulator. " alt="" coords="360,217,532,258"/>
+<area shape="rect" id="node17" href="$classLattice_1_1CheckPosteriorDfsState.html" title="Lattice::CheckPosteriorDfs\lState" alt="" coords="356,282,536,323"/>
+<area shape="rect" id="node18" href="$classLattice_1_1DensityDfsState.html" title="Lattice::DensityDfsState" alt="" coords="363,348,529,375"/>
+<area shape="rect" id="node19" href="$classLattice_1_1FrameStateAccuracyAutomaton_1_1LatticeToActiveStates.html" title="Lattice::FrameStateAccuracy\lAutomaton::LatticeToActiveStates" alt="" coords="335,399,557,441"/>
+<area shape="rect" id="node20" href="$classLattice_1_1Internal_1_1ArcsWithContextDfsState.html" title="Lattice::Internal::\lArcsWithContextDfsState" alt="" coords="359,465,533,506"/>
+<area shape="rect" id="node21" href="$classLattice_1_1LatticeCounts.html" title="Lattice::LatticeCounts" alt="" coords="371,531,521,557"/>
+<area shape="rect" id="node22" href="$classLattice_1_1LatticeWeights.html" title="Lattice::LatticeWeights" alt="" coords="368,581,524,608"/>
+<area shape="rect" id="node23" href="$classLattice_1_1SmoothedFrameStateAccuracyAutomaton_1_1LatticeToActiveStates.html" title="Lattice::SmoothedFrameState\lAccuracyAutomaton::LatticeToActive\lStates" alt="" coords="327,632,565,688"/>
+<area shape="rect" id="node24" href="$classLattice_1_1SoftFramePhoneAccuracyAutomaton_1_1LatticeToSoftAccuracies.html" title="Lattice::SoftFramePhoneAccuracy\lAutomaton::LatticeToSoftAccuracies" alt="" coords="328,711,564,753"/>
+<area shape="rect" id="node25" href="$classLattice_1_1TimeframeErrorDfsState.html" title="Calculate 1 &#45; p_t(w_n|x_1,...,x_T) for each time frame and word index. " alt="" coords="356,777,536,818"/>
+<area shape="rect" id="node26" href="$classLattice_1_1WeightedFramePhoneAccuracyAutomaton_1_1SetDerivativesDfsState.html" title="Lattice::WeightedFramePhone\lAccuracyAutomaton::SetDerivatives\lDfsState" alt="" coords="329,841,563,897"/>
+<area shape="rect" id="node27" href="$classLattice_1_1WordTimeframeAccuracyDfsState.html" title="WordTimeframeAccuracyDfsState. " alt="" coords="337,921,555,962"/>
+<area shape="rect" id="node28" href="$classLatticeToAlignmentFsa.html" title="Transform a lattice containing the acoustic scores as arc weights into an alignment fsa with posterio..." alt="" coords="368,987,524,1013"/>
+<area shape="rect" id="node29" href="$classMaximumTimeDfsState.html" title="MaximumTimeDfsState" alt="" coords="366,1037,526,1064"/>
+<area shape="rect" id="node30" href="$classRestoreScoresLatticeRescorerAutomaton_1_1SetScoresDfsState.html" title="RestoreScoresLatticeRescorer\lAutomaton::SetScoresDfsState" alt="" coords="343,1089,549,1130"/>
+<area shape="rect" id="node2" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="5,581,109,608"/>
+<area shape="rect" id="node6" href="$classLattice_1_1AcousticAccumulator.html" title="AcousticAccumulator. " alt="" coords="613,183,807,225"/>
+<area shape="rect" id="node16" href="$classLattice_1_1LmAccumulator.html" title="LmAccumulator. " alt="" coords="630,249,790,290"/>
+<area shape="rect" id="node7" href="$classLattice_1_1CachedAcousticAccumulator.html" title="Lattice::CachedAcousticAccumulator\l\&lt; Trainer \&gt;" alt="" coords="855,118,1093,159"/>
+<area shape="rect" id="node14" href="$classLattice_1_1TdpAccumulator.html" title="TdpAccumulator. " alt="" coords="892,183,1056,225"/>
+<area shape="rect" id="node15" href="$classNn_1_1CachedAcousticAccumulator.html" title="Nn::CachedAcousticAccumulator\l\&lt; Trainer \&gt;" alt="" coords="866,249,1082,290"/>
+<area shape="rect" id="node8" href="$classInternalGmm_1_1DenominatorAccumulator.html" title="InternalGmm::Denominator\lAccumulator\&lt; DiscriminativeMixture\lSetTrainer \&gt;" alt="" coords="1144,5,1377,61"/>
+<area shape="rect" id="node9" href="$classInternalGmm_1_1NumeratorAccumulator.html" title="InternalGmm::NumeratorAccumulator\l\&lt; DiscriminativeMixtureSetTrainer \&gt;" alt="" coords="1141,85,1380,126"/>
+<area shape="rect" id="node10" href="$classLattice_1_1CachedAcousticSparseAccumulator.html" title="CachedAcousticSparseAccumulator. " alt="" coords="1157,150,1364,191"/>
+<area shape="rect" id="node13" href="$classLattice_1_1WeightedCachedAcousticAccumulator.html" title="WeightedCachedAcousticAccumulator. " alt="" coords="1151,215,1371,257"/>
+<area shape="rect" id="node11" href="$classLattice_1_1DensityCachedAcousticAccumulator.html" title="DensityCachedAcousticAccumulator. " alt="" coords="1428,150,1639,191"/>
+<area shape="rect" id="node12" href="$classLattice_1_1WeightedDensityCachedAcousticAccumulator.html" title="WeightedDensityCachedAcousticAccumulator. " alt="" coords="1687,143,1877,199"/>
+</map>

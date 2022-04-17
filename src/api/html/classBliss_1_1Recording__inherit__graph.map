@@ -1,0 +1,6 @@
+<map id="Bliss::Recording" name="Bliss::Recording">
+<area shape="rect" id="node5" href="$classSegmentOrderingVisitor_1_1RecordingCopy.html" title="Bliss::SegmentOrderingVisitor\l::RecordingCopy" alt="" coords="5,304,203,345"/>
+<area shape="rect" id="node2" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="31,155,177,181"/>
+<area shape="rect" id="node3" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="39,80,169,107"/>
+<area shape="rect" id="node4" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="15,5,193,32"/>
+</map>

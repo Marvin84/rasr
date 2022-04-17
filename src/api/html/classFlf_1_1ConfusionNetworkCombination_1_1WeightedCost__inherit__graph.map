@@ -1,0 +1,6 @@
+<map id="Flf::ConfusionNetworkCombination::WeightedCost" name="Flf::ConfusionNetworkCombination::WeightedCost">
+<area shape="rect" id="node4" href="$classFlf_1_1ConfusionNetworkCombination_1_1ExpectedError.html" title="The probability that the slot&#39;s top hypothesis will be wrong 1.0 &#45; max_{w} { w_{ref} * p_{ref}(w) + w..." alt="" coords="753,5,980,47"/>
+<area shape="rect" id="node5" href="$classFlf_1_1ConfusionNetworkCombination_1_1ExpectedLoss.html" title="The expected number of errors caused by this slot sum_{w,v; w != v} p_{ref}(w) * p_{hyp}(v)) ..." alt="" coords="753,71,980,112"/>
+<area shape="rect" id="node2" href="$classFlf_1_1ConfusionNetworkAlignment_1_1Cost.html" title="Flf::ConfusionNetworkAlignment\l::Cost" alt="" coords="220,39,431,80"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,46,172,73"/>
+</map>

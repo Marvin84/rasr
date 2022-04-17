@@ -1,0 +1,6 @@
+<map id="Speech::LabeledFeatureProcessor" name="Speech::LabeledFeatureProcessor">
+<area shape="rect" id="node4" href="$classSpeech_1_1TextIndependentMixtureSetTrainer.html" title="LabelingFeatureExtractor. " alt="" coords="628,5,843,47"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1TextIndependentScatterMatricesEstimator.html" title="Text Independent Lda Estimator. " alt="" coords="629,71,842,112"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,46,309,73"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,46,136,73"/>
+</map>

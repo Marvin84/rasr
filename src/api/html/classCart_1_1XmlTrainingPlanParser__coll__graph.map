@@ -1,0 +1,46 @@
+<map id="Cart::XmlTrainingPlanParser" name="Cart::XmlTrainingPlanParser">
+<area shape="rect" id="node2" href="$classCore_1_1XmlSchemaParser.html" title="Stack based XML parser. " alt="" coords="2596,1135,2763,1161"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParser.html" title="Basic event driven XML parser. " alt="" coords="2259,1189,2377,1216"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1834,1281,1959,1308"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1445,1299,1576,1325"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1025,1267,1159,1293"/>
+<area shape="rect" id="node33" href="$classCart_1_1XmlQuestionRefListBuilderElement.html" title="&lt;questions&gt; &lt;question index=&quot;0&quot; description=&quot;hmm&#45;state&quot;&gt; &lt;key&gt; state &lt;/key&gt; &lt;values&gt; 1..." alt="" coords="1811,742,1983,783"/>
+<area shape="rect" id="node40" href="$structCart_1_1DecisionTreeTrainer_1_1TrainingPlan_1_1Step.html" title="Cart::DecisionTreeTrainer\l::TrainingPlan::Step" alt="" coords="1211,993,1383,1034"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="709,1259,853,1301"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1446,1349,1575,1376"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1034,1321,1150,1348"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1039,1372,1145,1399"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="705,1389,857,1416"/>
+<area shape="rect" id="node14" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1461,1248,1560,1275"/>
+<area shape="rect" id="node48" href="$classCart_1_1PropertyMap.html" title="The property map fullfills two tasks. " alt="" coords="1832,1063,1961,1089"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1825,1189,1969,1216"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1407,1182,1615,1223"/>
+<area shape="rect" id="node17" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="1009,1189,1175,1216"/>
+<area shape="rect" id="node18" href="$classCore_1_1XmlDocumentElement.html" title="Helper class used by XmlSchemaParser when outside the document&#39;s root element. " alt="" coords="997,1124,1187,1151"/>
+<area shape="rect" id="node19" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="697,747,864,773"/>
+<area shape="rect" id="node24" href="$classCore_1_1XmlRegularElement.html" title="XML element declaration for the regular content model. " alt="" coords="1005,464,1179,491"/>
+<area shape="rect" id="node30" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="1010,747,1174,773"/>
+<area shape="rect" id="node20" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="393,748,523,775"/>
+<area shape="rect" id="node43" href="$classCore_1_1XmlEmptyElement.html" title="XML Element declaration for the empty content model. " alt="" coords="1427,607,1594,633"/>
+<area shape="rect" id="node21" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="57,719,184,745"/>
+<area shape="rect" id="node22" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="5,783,236,809"/>
+<area shape="rect" id="node23" href="$classCart_1_1XmlTrainingPlanBuilderElement.html" title="&lt;decision&#45;tree&#45;training&gt; &lt;properties&#45;definition&gt; ... " alt="" coords="2584,334,2775,375"/>
+<area shape="rect" id="node35" href="$classCore_1_1XmlRegularElementRelay.html" title="Core::XmlRegularElementRelay" alt="" coords="1407,797,1615,824"/>
+<area shape="rect" id="node44" href="$classCart_1_1XmlPropertiesDefinitionBuilderElement.html" title="Cart::XmlPropertiesDefinition\lBuilderElement" alt="" coords="2222,383,2414,425"/>
+<area shape="rect" id="node25" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; DecisionTreeTrainer\l::TrainingPlan \&gt;" alt="" coords="1435,28,1586,84"/>
+<area shape="rect" id="node26" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; const\l T &amp; \&gt;" alt="" coords="1010,159,1174,201"/>
+<area shape="rect" id="node31" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; DecisionTreeTrainer\l::TrainingPlan::Step \&gt;" alt="" coords="1435,237,1586,293"/>
+<area shape="rect" id="node34" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; QuestionRefList \&gt;" alt="" coords="1436,541,1585,582"/>
+<area shape="rect" id="node45" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap \&gt;" alt="" coords="1436,107,1585,149"/>
+<area shape="rect" id="node47" href="$classCore_1_1BuildDelegation.html" title="Core::BuildDelegation\l\&lt; PropertyMap::IndexedString \&gt;" alt="" coords="1407,173,1615,214"/>
+<area shape="rect" id="node27" href="$structCore_1_1Delegation_1_1Target.html" title="Core::Delegation\&lt; T\l \&gt;::Target" alt="" coords="711,113,851,154"/>
+<area shape="rect" id="node28" href="$classCore_1_1Delegation.html" title="Core::Delegation\&lt; T * \&gt;" alt="" coords="1011,71,1173,97"/>
+<area shape="rect" id="node29" href="$classCart_1_1XmlStepBuilderElement.html" title="&lt;step name=&quot;silence&quot; action=&quot;split|cluster&quot;&gt; &lt;min&#45;obs&gt; 0 &lt;/min&#45;obs&gt; &lt;min&#45;gain&gt; 0.0 &lt;/min&#45;gain&gt; &lt;quest..." alt="" coords="2221,723,2415,749"/>
+<area shape="rect" id="node37" href="$classCore_1_1XmlMixedElementRelay.html" title="Core::XmlMixedElementRelay" alt="" coords="1411,683,1610,709"/>
+<area shape="rect" id="node36" href="$classCore_1_1XmlAttributes.html" title="XML element attributes. " alt="" coords="1023,797,1161,824"/>
+<area shape="rect" id="node42" href="$classCore_1_1XmlEmptyElementRelay.html" title="Core::XmlEmptyElementRelay" alt="" coords="1796,837,1997,864"/>
+<area shape="rect" id="node39" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Property\lMap \&gt;" alt="" coords="1423,421,1599,462"/>
+<area shape="rect" id="node50" href="$structCart_1_1DecisionTreeTrainer_1_1TrainingPlan.html" title="Telling the trainer some constraints about how to do the training. " alt="" coords="2023,215,2195,257"/>
+<area shape="rect" id="node46" href="$classCart_1_1XmlIndexedStringBuilderElement.html" title="&lt;properties&#45;definition&gt; &lt;key&gt; central &lt;/key&gt; &lt;value&#45;map&gt; # a &lt;/value&#45;map&gt;... " alt="" coords="1797,325,1996,366"/>
+<area shape="rect" id="node49" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1427,1063,1594,1089"/>
+</map>

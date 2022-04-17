@@ -1,0 +1,6 @@
+<map id="PronunciationLatticeRescorerAutomaton" name="PronunciationLatticeRescorerAutomaton">
+<area shape="rect" id="node2" href="$classSpeech_1_1LatticeExtratorInternal_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeExtratorInternal\l::LatticeRescorerAutomaton" alt="" coords="5,319,208,360"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ModifyWordLattice.html" title="Lattice::ModifyWordLattice" alt="" coords="17,244,196,271"/>
+<area shape="rect" id="node4" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="29,169,184,196"/>
+<area shape="rect" id="node5" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="36,80,177,121"/>
+</map>

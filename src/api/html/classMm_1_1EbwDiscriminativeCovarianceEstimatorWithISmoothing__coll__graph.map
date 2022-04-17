@@ -1,0 +1,11 @@
+<map id="Mm::EbwDiscriminativeCovarianceEstimatorWithISmoothing" name="Mm::EbwDiscriminativeCovarianceEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1EbwDiscriminativeCovarianceEstimator.html" title="EbwDiscriminativeCovarianceEstimator. " alt="" coords="1384,54,1611,95"/>
+<area shape="rect" id="node3" href="$classMm_1_1DiscriminativeCovarianceEstimator.html" title="DiscriminativeCovarianceEstimator. " alt="" coords="1085,54,1287,95"/>
+<area shape="rect" id="node4" href="$classMm_1_1CovarianceEstimator.html" title="CovarianceEstimator. " alt="" coords="860,61,1035,88"/>
+<area shape="rect" id="node5" href="$classMm_1_1AbstractCovarianceEstimator.html" title="AbstractCovarianceEstimator. " alt="" coords="507,5,729,32"/>
+<area shape="rect" id="node6" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="221,5,457,32"/>
+<area shape="rect" id="node7" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node8" href="$classMm_1_1VectorAccumulator.html" title="Mm::VectorAccumulator\l\&lt; FeatureType, plusSquare\l\&lt; Sum \&gt;, plusSquareWeighted\l\&lt; Sum \&gt; \&gt;" alt="" coords="517,57,719,127"/>
+<area shape="rect" id="node9" href="$classMm_1_1ISmoothingCovarianceEstimator.html" title="ISmoothingCovarianceEstimator. " alt="" coords="1405,119,1589,161"/>
+<area shape="rect" id="node10" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Mm::Discriminative\lCovarianceEstimator \&gt;" alt="" coords="1084,119,1288,161"/>
+</map>

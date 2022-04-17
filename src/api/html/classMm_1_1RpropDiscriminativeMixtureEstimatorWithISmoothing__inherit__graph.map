@@ -1,0 +1,8 @@
+<map id="Mm::RpropDiscriminativeMixtureEstimatorWithISmoothing" name="Mm::RpropDiscriminativeMixtureEstimatorWithISmoothing">
+<area shape="rect" id="node2" href="$classMm_1_1RpropDiscriminativeMixtureEstimator.html" title="discriminative mixture estimator: Rprop " alt="" coords="95,244,308,285"/>
+<area shape="rect" id="node3" href="$classMm_1_1DiscriminativeMixtureEstimator.html" title="discriminative mixture estimator: base class " alt="" coords="16,155,195,196"/>
+<area shape="rect" id="node4" href="$classMm_1_1AbstractMixtureEstimator.html" title="AbstractMixtureEstimator: base class. " alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="22,5,189,32"/>
+<area shape="rect" id="node6" href="$classMm_1_1RpropOptimization.html" title="Mm::RpropOptimization\l\&lt; Weight \&gt;" alt="" coords="219,155,379,196"/>
+<area shape="rect" id="node7" href="$classMm_1_1ISmoothingMixtureEstimator.html" title="i&#45;smoothing mixture estimator " alt="" coords="333,251,550,278"/>
+</map>

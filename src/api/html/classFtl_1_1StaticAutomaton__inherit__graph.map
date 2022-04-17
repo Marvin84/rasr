@@ -1,0 +1,13 @@
+<map id="Ftl::StaticAutomaton&lt; _Automaton &gt;" name="Ftl::StaticAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node4" href="$classAm_1_1AllophoneStateToPhonemeTransducer.html" title="Am::AllophoneStateToPhoneme\lTransducer\&lt; Automaton \&gt;" alt="" coords="559,5,767,47"/>
+<area shape="rect" id="node5" href="$classAm_1_1EmissionToPhonemeTransducer.html" title="Am::EmissionToPhonemeTransducer\l\&lt; Automaton \&gt;" alt="" coords="543,71,782,112"/>
+<area shape="rect" id="node6" href="$classBliss_1_1LemmaAcceptor.html" title="Bliss::LemmaAcceptor\l\&lt; Automaton \&gt;" alt="" coords="585,136,740,177"/>
+<area shape="rect" id="node7" href="$classBliss_1_1LemmaPronunciationAcceptor.html" title="Bliss::LemmaPronunciation\lAcceptor\&lt; Automaton \&gt;" alt="" coords="572,201,753,243"/>
+<area shape="rect" id="node8" href="$classBliss_1_1LemmaPronunciationToLemmaTransducer.html" title="Bliss::LemmaPronunciation\lToLemmaTransducer\&lt; Automaton \&gt;" alt="" coords="547,267,779,308"/>
+<area shape="rect" id="node9" href="$classBliss_1_1LemmaToEvaluationTokenTransducer.html" title="Bliss::LemmaToEvaluation\lTokenTransducer\&lt; Automaton \&gt;" alt="" coords="557,332,768,373"/>
+<area shape="rect" id="node10" href="$classBliss_1_1LemmaToSyntacticTokenTransducer.html" title="Bliss::LemmaToSyntacticToken\lTransducer\&lt; Automaton \&gt;" alt="" coords="559,397,767,439"/>
+<area shape="rect" id="node11" href="$classBliss_1_1PhonemeToLemmaPronunciationTransducer.html" title="Bliss::PhonemeToLemmaPronunciation\lTransducer\&lt; Automaton \&gt;" alt="" coords="537,463,788,504"/>
+<area shape="rect" id="node12" href="$classFsa_1_1Search_1_1FirstBestTracer.html" title="Fsa::Search::FirstBestTracer\l\&lt; Automaton \&gt;" alt="" coords="567,528,758,569"/>
+<area shape="rect" id="node2" href="$classFtl_1_1StorageAutomaton.html" title="Ftl::StorageAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="145,267,299,308"/>
+<area shape="rect" id="node13" href="$classFsa_1_1Search_1_1LatticeTracer.html" title="update: " alt="" coords="836,535,1013,562"/>
+</map>

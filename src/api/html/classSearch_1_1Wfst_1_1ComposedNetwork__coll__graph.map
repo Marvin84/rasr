@@ -1,0 +1,26 @@
+<map id="Search::Wfst::ComposedNetwork" name="Search::Wfst::ComposedNetwork">
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1FstNetwork.html" title="Search::Wfst::FstNetwork\l\&lt; FstLib::ComposeFst\&lt; FstLib\l::StdArc \&gt; \&gt;" alt="" coords="2014,108,2215,164"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1657,71,1783,97"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1276,44,1407,71"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="983,44,1118,71"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,83,548,125"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,73,292,114"/>
+<area shape="rect" id="node15" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,210,555,251"/>
+<area shape="rect" id="node16" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,279,308,305"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="688,73,832,114"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1277,117,1406,144"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="993,105,1109,132"/>
+<area shape="rect" id="node13" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="997,156,1104,183"/>
+<area shape="rect" id="node14" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="684,217,836,244"/>
+<area shape="rect" id="node20" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="969,347,1132,373"/>
+<area shape="rect" id="node17" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1292,268,1391,295"/>
+<area shape="rect" id="node18" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="1641,320,1799,347"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1237,339,1445,381"/>
+<area shape="rect" id="node22" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="1260,405,1423,446"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1843,412,1976,439"/>
+<area shape="rect" id="node23" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="2023,473,2207,500"/>
+<area shape="rect" id="node24" href="$classSearch_1_1Wfst_1_1AbstractStateTable.html" title="Interface for state tables. " alt="" coords="2021,525,2208,566"/>
+<area shape="rect" id="node25" href="$classSearch_1_1Wfst_1_1AbstractLexicalFst.html" title="Interface for C o L transducer. " alt="" coords="2007,591,2223,617"/>
+<area shape="rect" id="node26" href="$classSearch_1_1Wfst_1_1AbstractLexicalFstImpl.html" title="Interface for LexicalFstImpl. " alt="" coords="1621,583,1819,625"/>
+<area shape="rect" id="node27" href="$classSearch_1_1Wfst_1_1AbstractGrammarFst.html" title="Interface for G transducers used in ComposedNetwork. " alt="" coords="2000,641,2229,668"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Bliss::PhonemeInventory" name="Bliss::PhonemeInventory">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="5,414,172,441"/>
+<area shape="rect" id="node3" href="$structPhonemeInventory_1_1Internal.html" title="Bliss::PhonemeInventory\l::Internal" alt="" coords="197,407,365,448"/>
+<area shape="rect" id="node4" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l Bliss::PhonemeAlphabet \&gt;" alt="" coords="110,303,291,344"/>
+<area shape="rect" id="node5" href="$classCore_1_1WeakRefBase.html" title="Base class of the WeakRef template. " alt="" coords="129,206,272,233"/>
+<area shape="rect" id="node6" href="$classBliss_1_1SymbolSet.html" title="A pool of Symbols. " alt="" coords="315,310,438,337"/>
+<area shape="rect" id="node7" href="$classCore_1_1Obstack.html" title="Core::Obstack\&lt; Bliss\l::Symbol::Char \&gt;" alt="" coords="303,199,451,240"/>
+<area shape="rect" id="node8" href="$structCore_1_1Obstack_1_1Chunk.html" title="Core::Obstack\&lt; T \&gt;\l::Chunk" alt="" coords="307,95,446,136"/>
+<area shape="rect" id="node10" href="$classBliss_1_1TokenInventory.html" title="Bliss::TokenInventory" alt="" coords="389,414,538,441"/>
+</map>

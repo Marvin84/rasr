@@ -1,0 +1,13 @@
+<map id="Bliss::CorpusDescription::SegmentPartitionVisitorAdaptor" name="Bliss::CorpusDescription::SegmentPartitionVisitorAdaptor">
+<area shape="rect" id="node2" href="$classBliss_1_1CorpusVisitor.html" title="Abstract visitor base class for corpus traversal. " alt="" coords="1117,43,1255,70"/>
+<area shape="rect" id="node3" href="$classBliss_1_1SegmentVisitor.html" title="Abstract visitor base class for processing segments. " alt="" coords="907,43,1055,70"/>
+<area shape="rect" id="node4" href="$classCore_1_1StringHashSet.html" title="Core::StringHashSet" alt="" coords="1115,119,1257,146"/>
+<area shape="rect" id="node6" href="$classBliss_1_1Recording.html" title="Continuous audio data. " alt="" coords="1127,178,1245,205"/>
+<area shape="rect" id="node7" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="908,178,1053,205"/>
+<area shape="rect" id="node8" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="5,106,136,133"/>
+<area shape="rect" id="node9" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="239,150,416,177"/>
+<area shape="rect" id="node11" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="607,178,713,205"/>
+<area shape="rect" id="node12" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="577,127,743,154"/>
+<area shape="rect" id="node13" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="583,280,737,321"/>
+<area shape="rect" id="node15" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="583,5,737,47"/>
+</map>

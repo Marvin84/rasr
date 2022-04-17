@@ -1,0 +1,10 @@
+<map id="Flf::Semiring::XmlElement" name="Flf::Semiring::XmlElement">
+<area shape="rect" id="node2" href="$classCore_1_1XmlMixedElement.html" title="XML element declaration for the mixed content model. " alt="" coords="1203,133,1367,160"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlParentElement.html" title="XML Element declarator base class for elments with child elements. " alt="" coords="935,111,1101,137"/>
+<area shape="rect" id="node4" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="608,67,737,93"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="249,107,376,133"/>
+<area shape="rect" id="node7" href="$classFlf_1_1Semiring_1_1XmlElement_1_1Internal.html" title="Flf::Semiring::XmlElement\l::Internal" alt="" coords="585,201,760,242"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlElementGarbageCollector.html" title="Easy solution for collecting and destroying XmlElements. " alt="" coords="197,5,428,32"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="235,272,390,299"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="217,323,408,349"/>
+</map>

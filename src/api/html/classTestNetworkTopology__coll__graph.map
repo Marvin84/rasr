@@ -1,0 +1,8 @@
+<map id="TestNetworkTopology" name="TestNetworkTopology">
+<area shape="rect" id="node2" href="$classTest_1_1ConfigurableFixture.html" title="Test fixture for classes derived from Core::Configurable / Core::Component, which require a configura..." alt="" coords="5,518,175,545"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="124,421,259,448"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="255,213,389,255"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="300,109,435,151"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="229,317,373,359"/>
+<area shape="rect" id="node9" href="$classNn_1_1NetworkTopology.html" title="Nn::NetworkTopology\l\&lt; f32 \&gt;" alt="" coords="199,511,349,552"/>
+</map>

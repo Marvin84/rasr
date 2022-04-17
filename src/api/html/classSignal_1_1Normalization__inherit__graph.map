@@ -1,0 +1,8 @@
+<map id="Signal::Normalization" name="Signal::Normalization">
+<area shape="rect" id="node2" href="$classSignal_1_1LevelNormalization.html" title="Maximum of the sliding window gets substracted from the output. " alt="" coords="246,5,423,32"/>
+<area shape="rect" id="node3" href="$classSignal_1_1MeanAndVarianceNormalization1D.html" title="1D MVN. " alt="" coords="200,56,469,83"/>
+<area shape="rect" id="node4" href="$classSignal_1_1MeanNormalization.html" title="Arithmetic average of the sliding window is substracted from the output. " alt="" coords="245,107,424,133"/>
+<area shape="rect" id="node7" href="$classSignal_1_1MeanNormNormalization.html" title="Output is divided by the arithmetic mean of the norm of the elements of the sliding window..." alt="" coords="229,157,440,184"/>
+<area shape="rect" id="node5" href="$classSignal_1_1DivideByMean.html" title="Output is divided by arithmetic mean of the sliding window. " alt="" coords="568,81,719,108"/>
+<area shape="rect" id="node6" href="$classSignal_1_1MeanAndVarianceNormalization.html" title="Arithmetic average of the sliding window is substracted from the output, followed by division with st..." alt="" coords="517,132,769,159"/>
+</map>

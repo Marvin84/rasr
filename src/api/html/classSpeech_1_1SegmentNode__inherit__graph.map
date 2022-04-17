@@ -1,0 +1,19 @@
+<map id="Speech::SegmentNode" name="Speech::SegmentNode">
+<area shape="rect" id="node7" href="$classSpeech_1_1AlignmentGeneratorNode.html" title="AlignmentGeneratorNode. " alt="" coords="1071,57,1291,83"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1LatticeRescorerNode.html" title="LatticeRescorerNode. " alt="" coords="1083,107,1280,134"/>
+<area shape="rect" id="node18" href="$classSpeech_1_1SegmentwiseFeaturesNode.html" title="SegmentwiseFeaturesNode. " alt="" coords="1064,158,1299,185"/>
+<area shape="rect" id="node2" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="681,107,811,134"/>
+<area shape="rect" id="node3" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="544,107,633,134"/>
+<area shape="rect" id="node4" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="357,107,496,134"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="184,107,309,134"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,107,136,134"/>
+<area shape="rect" id="node9" href="$classSpeech_1_1AcousticLatticeRescorerNode.html" title="AcousticLatticeRescorerNode. " alt="" coords="1358,50,1606,77"/>
+<area shape="rect" id="node11" href="$classSpeech_1_1DistanceLatticeRescorerNode.html" title="LatticeDistanceRescorerNode. " alt="" coords="1357,107,1607,134"/>
+<area shape="rect" id="node17" href="$classSpeech_1_1NumeratorFromDenominatorNode.html" title="NumeratorFromDenominatorNode. " alt="" coords="1347,158,1617,185"/>
+<area shape="rect" id="node10" href="$classSpeech_1_1AlignmentAcousticLatticeRescorerNode.html" title="AlignmentAcousticLatticeRescorerNode In contrast to CombinedAcousticLatticeRescorer, this rescorer uses the scores from the alignment, which makes rescoring more efficient. " alt="" coords="1673,39,1856,80"/>
+<area shape="rect" id="node12" href="$classSpeech_1_1ApproximateDistanceLatticeRescorerNode.html" title="ApproximateLatticeRescorerNode. " alt="" coords="1665,104,1864,145"/>
+<area shape="rect" id="node13" href="$classSpeech_1_1ApproximatePhoneAccuracyLatticeRescorerNode.html" title="ApproximatePhoneAccuracyLatticeRescorerNode. " alt="" coords="1925,5,2125,47"/>
+<area shape="rect" id="node14" href="$classSpeech_1_1FramePhoneAccuracyLatticeRescorerNode.html" title="FramePhoneAccuracyLatticeRescorerNode. " alt="" coords="1924,71,2127,112"/>
+<area shape="rect" id="node15" href="$classSpeech_1_1SoftFramePhoneAccuracyLatticeRescorerNode.html" title="SoftFramePhoneAccuracyLatticeRescorerNode. " alt="" coords="1912,136,2139,177"/>
+<area shape="rect" id="node16" href="$classSpeech_1_1WeightedFramePhoneAccuracyLatticeRescorerNode.html" title="WeightedFramePhoneAccuracyLatticeRescorerNode. " alt="" coords="1924,201,2127,243"/>
+</map>

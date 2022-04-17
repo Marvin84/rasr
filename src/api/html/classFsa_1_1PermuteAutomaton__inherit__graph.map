@@ -1,0 +1,10 @@
+<map id="Fsa::PermuteAutomaton&lt; Processing &gt;" name="Fsa::PermuteAutomaton&lt; Processing &gt;">
+<area shape="rect" id="node6" href="$classFsa_1_1DoubleLocalPermuteAutomaton.html" title="Fsa::DoubleLocalPermuteAutomaton\l\&lt; Processing \&gt;" alt="" coords="820,5,1056,47"/>
+<area shape="rect" id="node7" href="$classFsa_1_1IBMPermuteAutomaton.html" title="Fsa::IBMPermuteAutomaton\l\&lt; Processing \&gt;" alt="" coords="844,71,1032,112"/>
+<area shape="rect" id="node8" href="$classFsa_1_1InverseIBMPermuteAutomaton.html" title="Fsa::InverseIBMPermuteAutomaton\l\&lt; Processing \&gt;" alt="" coords="823,136,1053,177"/>
+<area shape="rect" id="node9" href="$classFsa_1_1LocalPermuteAutomaton.html" title="Fsa::LocalPermuteAutomaton\l\&lt; Processing \&gt;" alt="" coords="841,201,1035,243"/>
+<area shape="rect" id="node2" href="$classFsa_1_1PermuteAutomatonBase.html" title="Fsa::PermuteAutomatonBase\l\&lt; Processing \&gt;" alt="" coords="365,104,560,145"/>
+<area shape="rect" id="node3" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton" alt="" coords="203,86,317,113"/>
+<area shape="rect" id="node4" href="$classFsa_1_1Automaton.html" title="Fsa::Automaton\&lt; Fsa\l::Semiring \&gt;" alt="" coords="5,79,155,120"/>
+<area shape="rect" id="node5" href="$classFtl_1_1DfsState.html" title="Due to the principle of on&#45;demand computation, exploring automata becomes an important issue as state..." alt="" coords="223,137,297,163"/>
+</map>

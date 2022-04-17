@@ -1,0 +1,4 @@
+<map id="Lattice::Core::XmlOutputStream" name="Lattice::Core::XmlOutputStream">
+<area shape="rect" id="node2" href="$classLattice_1_1Core_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="5,89,168,115"/>
+<area shape="rect" id="node4" href="$classLattice_1_1Core_1_1TextOutputStream.html" title="Stream for text output. " alt="" coords="192,81,363,123"/>
+</map>

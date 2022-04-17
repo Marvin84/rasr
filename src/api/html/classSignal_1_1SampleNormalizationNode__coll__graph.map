@@ -1,0 +1,34 @@
+<map id="Signal::SampleNormalizationNode" name="Signal::SampleNormalizationNode">
+<area shape="rect" id="node2" href="$classSignal_1_1SlidingAlgorithmNode.html" title="Signal::SlidingAlgorithm\lNode\&lt; LengthDependentSampleNormalization \&gt;" alt="" coords="3189,319,3492,360"/>
+<area shape="rect" id="node3" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="2969,326,3099,353"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2613,326,2703,353"/>
+<area shape="rect" id="node5" href="$classFlow_1_1AbstractNode.html" title="Abstract flow network node. " alt="" coords="2273,286,2412,313"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1932,262,2057,289"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1493,218,1623,245"/>
+<area shape="rect" id="node8" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1128,213,1263,239"/>
+<area shape="rect" id="node11" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="493,205,628,247"/>
+<area shape="rect" id="node12" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="168,191,303,232"/>
+<area shape="rect" id="node18" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="487,328,635,369"/>
+<area shape="rect" id="node19" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="152,402,319,429"/>
+<area shape="rect" id="node26" href="$classFlow_1_1Datatype.html" title="Flow data type identifier. " alt="" coords="343,77,453,103"/>
+<area shape="rect" id="node27" href="$classFlow_1_1__Filter.html" title="Flow filter identifier. " alt="" coords="668,506,763,533"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="819,205,963,247"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1493,319,1623,346"/>
+<area shape="rect" id="node14" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1137,265,1253,291"/>
+<area shape="rect" id="node16" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1142,319,1249,346"/>
+<area shape="rect" id="node17" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="815,326,967,353"/>
+<area shape="rect" id="node25" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="477,395,644,422"/>
+<area shape="rect" id="node34" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="485,553,636,579"/>
+<area shape="rect" id="node38" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="479,449,642,475"/>
+<area shape="rect" id="node20" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1509,269,1607,295"/>
+<area shape="rect" id="node21" href="$classCore_1_1StringHashMap.html" title="Core::StringHashMap\l\&lt; Core::StringExpression \&gt;" alt="" coords="1904,167,2085,208"/>
+<area shape="rect" id="node23" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1287,391,1431,418"/>
+<area shape="rect" id="node24" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="787,377,995,419"/>
+<area shape="rect" id="node28" href="$classSignal_1_1LengthDependentSampleNormalization.html" title="Signal::LengthDependentSample\lNormalization" alt="" coords="2928,199,3140,240"/>
+<area shape="rect" id="node29" href="$classSignal_1_1SampleNormalization.html" title="Signal::SampleNormalization" alt="" coords="2563,53,2753,79"/>
+<area shape="rect" id="node30" href="$classSignal_1_1SlidingWindow.html" title="Signal::SlidingWindow\l\&lt; Sample \&gt;" alt="" coords="2267,5,2419,47"/>
+<area shape="rect" id="node32" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1709,567,1856,594"/>
+<area shape="rect" id="node33" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="809,563,972,604"/>
+<area shape="rect" id="node36" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2109,450,2243,477"/>
+<area shape="rect" id="node37" href="$classCore_1_1RangedParameter.html" title="Core::RangedParameter\l\&lt; s32 \&gt;" alt="" coords="809,443,972,484"/>
+</map>

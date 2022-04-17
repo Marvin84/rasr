@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCore_1_1Factory.html" title="Core::Factory\&lt; Mm::\lMixtureSetReader::Reader,\l Mm::MixtureSetReader::\lReader *(*)(const Core::\lConfiguration &amp;), const std\l::string \&gt;" alt="" coords="5,5,187,105"/>
+<area shape="rect" id="node2" href="$classCore_1_1ComponentFactory.html" title="Core::ComponentFactory\l\&lt; Mm::MixtureSetReader\l::Reader, const std::string \&gt;" alt="" coords="235,27,421,83"/>
+</map>

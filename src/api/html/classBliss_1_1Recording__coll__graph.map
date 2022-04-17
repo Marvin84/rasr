@@ -1,0 +1,9 @@
+<map id="Bliss::Recording" name="Bliss::Recording">
+<area shape="rect" id="node2" href="$classBliss_1_1CorpusSection.html" title="Abstract base class for the &quot;parts&quot; of a corpus which contain others. " alt="" coords="896,178,1041,205"/>
+<area shape="rect" id="node3" href="$classBliss_1_1ParentEntity.html" title="A NamedCorpusEntity which can be parent of other entities. " alt="" coords="5,106,136,133"/>
+<area shape="rect" id="node4" href="$classBliss_1_1NamedCorpusEntity.html" title="Abstract base class for the various &quot;parts&quot; of a corpus. " alt="" coords="239,150,416,177"/>
+<area shape="rect" id="node6" href="$classBliss_1_1Speaker.html" title="Someone who speaks. " alt="" coords="607,178,713,205"/>
+<area shape="rect" id="node7" href="$classBliss_1_1AcousticCondition.html" title="Acoustic condition. " alt="" coords="577,127,743,154"/>
+<area shape="rect" id="node8" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::Speaker \&gt;" alt="" coords="583,280,737,321"/>
+<area shape="rect" id="node10" href="$classBliss_1_1Directory.html" title="Bliss::Directory\&lt; Bliss\l::AcousticCondition \&gt;" alt="" coords="583,5,737,47"/>
+</map>

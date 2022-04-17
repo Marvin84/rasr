@@ -1,0 +1,50 @@
+<map id="Speech::AlignmentNode" name="Speech::AlignmentNode">
+<area shape="rect" id="node2" href="$classSpeech_1_1AlignmentBaseNode.html" title="AlignmentBaseNode. " alt="" coords="3239,853,3432,879"/>
+<area shape="rect" id="node3" href="$classFlow_1_1SleeveNode.html" title="Flow::SleeveNode" alt="" coords="2577,763,2707,790"/>
+<area shape="rect" id="node4" href="$classFlow_1_1Node.html" title="Abstract flow network node. " alt="" coords="2088,758,2177,785"/>
+<area shape="rect" id="node5" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1514,809,1643,835"/>
+<area shape="rect" id="node11" href="$classSpeech_1_1AllophoneStateGraphBuilder.html" title="AllophoneStateGraphBuilder. " alt="" coords="2808,932,3005,973"/>
+<area shape="rect" id="node12" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1874,1019,1999,1046"/>
+<area shape="rect" id="node40" href="$classSearch_1_1Aligner.html" title="Forced state&#45;level alignment of network with observation seqeuence. " alt="" coords="2851,1737,2962,1763"/>
+<area shape="rect" id="node47" href="$classSearch_1_1Aligner_1_1WordLatticeBuilder.html" title="Search::Aligner::WordLattice\lBuilder" alt="" coords="2812,1287,3001,1328"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1166,809,1282,835"/>
+<area shape="rect" id="node7" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1171,738,1277,765"/>
+<area shape="rect" id="node8" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="746,557,898,583"/>
+<area shape="rect" id="node20" href="$classSpeech_1_1FsaCache.html" title="Cache for Fsa object. " alt="" coords="2839,657,2974,683"/>
+<area shape="rect" id="node9" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="341,591,489,632"/>
+<area shape="rect" id="node23" href="$classCore_1_1Archive.html" title="Abstract base class for archives. " alt="" coords="2293,707,2396,734"/>
+<area shape="rect" id="node26" href="$classLattice_1_1Archive.html" title="Lattice::Archive" alt="" coords="765,347,879,374"/>
+<area shape="rect" id="node30" href="$classLattice_1_1Core_1_1Configuration.html" title="Central configuration class. " alt="" coords="323,409,506,435"/>
+<area shape="rect" id="node41" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; u32 \&gt;" alt="" coords="544,1962,703,1989"/>
+<area shape="rect" id="node19" href="$classBliss_1_1OrthographicParser.html" title="Parses an orthographic sentence into lemmas. " alt="" coords="2259,910,2430,937"/>
+<area shape="rect" id="node44" href="$classAligner_1_1SearchSpace.html" title="Search::Aligner::SearchSpace" alt="" coords="2246,1583,2443,1610"/>
+<area shape="rect" id="node13" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1513,1019,1644,1046"/>
+<area shape="rect" id="node14" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1529,1943,1628,1970"/>
+<area shape="rect" id="node37" href="$classCore_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="2265,1987,2424,2014"/>
+<area shape="rect" id="node15" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1853,906,2020,933"/>
+<area shape="rect" id="node16" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Fsa::StaticAutomaton \&gt;" alt="" coords="1821,1095,2052,1122"/>
+<area shape="rect" id="node17" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="2253,1183,2437,1210"/>
+<area shape="rect" id="node18" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="2271,1336,2418,1377"/>
+<area shape="rect" id="node21" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="2273,1234,2417,1261"/>
+<area shape="rect" id="node22" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="1833,1223,2041,1264"/>
+<area shape="rect" id="node24" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="2249,606,2440,633"/>
+<area shape="rect" id="node25" href="$classLattice_1_1ArchiveReader.html" title="Lattice::ArchiveReader" alt="" coords="1147,282,1301,309"/>
+<area shape="rect" id="node50" href="$classLattice_1_1ArchiveWriter.html" title="Lattice::ArchiveWriter" alt="" coords="1325,355,1473,382"/>
+<area shape="rect" id="node27" href="$classLattice_1_1Core_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="329,281,501,307"/>
+<area shape="rect" id="node28" href="$classLattice_1_1Core_1_1Choice.html" title="Choice class. " alt="" coords="5,222,152,249"/>
+<area shape="rect" id="node29" href="$classLattice_1_1Core_1_1ParameterChoice.html" title="Declaration class for discrete multiple&#45;choice parameters. " alt="" coords="332,215,497,256"/>
+<area shape="rect" id="node31" href="$classLattice_1_1Core_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="332,460,497,501"/>
+<area shape="rect" id="node32" href="$classLattice_1_1Core_1_1Ref.html" title="Lattice::Core::Ref\l\&lt; const Lexicon \&gt;" alt="" coords="351,525,478,567"/>
+<area shape="rect" id="node33" href="$classLattice_1_1Core_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="739,128,905,169"/>
+<area shape="rect" id="node34" href="$classLattice_1_1Core_1_1RangedParameter.html" title="Lattice::Core::RangedParameter\l\&lt; f64 \&gt;" alt="" coords="309,71,520,112"/>
+<area shape="rect" id="node35" href="$classLattice_1_1Core_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="727,33,917,59"/>
+<area shape="rect" id="node36" href="$classLattice_1_1Core_1_1AbstractChoiceParameter.html" title="Base class template for multiple&#45;choice parameters. " alt="" coords="317,5,512,47"/>
+<area shape="rect" id="node38" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="1833,2031,2041,2072"/>
+<area shape="rect" id="node39" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="1497,2095,1660,2122"/>
+<area shape="rect" id="node42" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="2271,1783,2418,1810"/>
+<area shape="rect" id="node43" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="2278,1885,2411,1911"/>
+<area shape="rect" id="node45" href="$classMm_1_1ProbabilityStatistics.html" title="Histogram statistics for probabilities. " alt="" coords="2261,1685,2429,1711"/>
+<area shape="rect" id="node46" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Am::AcousticModel \&gt;" alt="" coords="3227,1311,3444,1338"/>
+<area shape="rect" id="node48" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AllophoneStateAlphabet \&gt;" alt="" coords="2254,1401,2435,1443"/>
+<area shape="rect" id="node49" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Bliss\l::LemmaPronunciationAlphabet \&gt;" alt="" coords="2237,1467,2452,1508"/>
+</map>

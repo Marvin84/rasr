@@ -1,0 +1,9 @@
+<map id="Speech::FeatureVectorExtractor" name="Speech::FeatureVectorExtractor">
+<area shape="rect" id="node7" href="$classFeatureExtractor.html" title="Copyright 2020 RWTH Aachen University. " alt="" coords="5,453,124,480"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1HistogramEstimator.html" title="HistogramEstimator. " alt="" coords="148,453,339,480"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1FeatureExtractor.html" title="FeatureExtractor is a corpus visitor application for feature extraction. " alt="" coords="69,304,239,331"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1DataExtractor.html" title="DataExtractor is a corpus visitor application for extraction of any data type. " alt="" coords="77,229,231,256"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1CorpusProcessor.html" title="CorpusProcessor base class for algorithms driven by a CorpusVisitor. " alt="" coords="67,155,241,181"/>
+<area shape="rect" id="node5" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="91,80,217,107"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="89,5,219,32"/>
+</map>

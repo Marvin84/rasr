@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classLattice_1_1ExactAccuracyGenerator.html" title="ExactAccuracyGenerator: base class. " alt="" coords="5,46,220,73"/>
+<area shape="rect" id="node2" href="$classLattice_1_1ExactPhonemeAccuracyGenerator.html" title="ExactPhonemeAccuracyGenerator. " alt="" coords="268,5,481,47"/>
+<area shape="rect" id="node3" href="$classLattice_1_1ExactWordAccuracyGenerator.html" title="ExactWordAccuracyGenerator: on word level. " alt="" coords="280,71,469,112"/>
+</map>

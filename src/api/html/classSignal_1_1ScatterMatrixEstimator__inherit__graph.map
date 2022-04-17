@@ -1,0 +1,8 @@
+<map id="Signal::ScatterMatrixEstimator" name="Signal::ScatterMatrixEstimator">
+<area shape="rect" id="node5" href="$classSignal_1_1ScatterMatricesEstimator.html" title="Estimator class for between and within class scatter matrices. " alt="" coords="5,237,220,263"/>
+<area shape="rect" id="node6" href="$classSignal_1_1TotalScatterMatrixEstimator.html" title="Estimator class for total scatter(covariance) matrix. " alt="" coords="245,229,418,271"/>
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="74,80,199,107"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="71,5,202,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="224,80,391,107"/>
+<area shape="rect" id="node7" href="$classSpeech_1_1CovarianceEstimator.html" title="Speech::CovarianceEstimator" alt="" coords="233,319,429,345"/>
+</map>

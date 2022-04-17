@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structStateTree_1_1BuildRequest.html" title="Request for building a set of successors in the state tree. " alt="" coords="5,5,141,47"/>
+<area shape="rect" id="node2" href="$structStateTree_1_1BatchRequest.html" title="Build a new batch, i.e. " alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node3" href="$structStateTree_1_1LeapRequest.html" title="Search::StateTree::\lLeapRequest" alt="" coords="373,5,509,47"/>
+</map>

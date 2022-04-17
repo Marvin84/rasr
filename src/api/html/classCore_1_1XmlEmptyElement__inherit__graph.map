@@ -1,0 +1,14 @@
+<map id="Core::XmlEmptyElement" name="Core::XmlEmptyElement">
+<area shape="rect" id="node4" href="$classCart_1_1XmlFloatBoxBuilderElement.html" title="&lt;matrix&#45;f64 nRows=&quot;2&quot; nColumns=&quot;3&quot;&gt; 1.0 2.0 3.0 1.0 2.0 3.0 &lt;/matrix&#45;f64&gt; " alt="" coords="614,5,785,47"/>
+<area shape="rect" id="node5" href="$classCart_1_1XmlIndexedStringBuilderElement.html" title="&lt;properties&#45;definition&gt; &lt;key&gt; central &lt;/key&gt; &lt;value&#45;map&gt; # a &lt;/value&#45;map&gt;... " alt="" coords="600,71,799,112"/>
+<area shape="rect" id="node6" href="$classCore_1_1XmlEmptyElementRelay.html" title="Core::XmlEmptyElementRelay" alt="" coords="599,137,800,163"/>
+<area shape="rect" id="node7" href="$classXmlBuilder2_1_1XmlChoiceBuilderElement.html" title="XmlBuilder2::XmlChoiceBuilder\lElement" alt="" coords="597,188,801,229"/>
+<area shape="rect" id="node8" href="$classXmlBuilder2_1_1XmlDataOnlyBuilderElement.html" title="XmlBuilder2::XmlDataOnly\lBuilderElement\&lt; T, Converter \&gt;" alt="" coords="596,253,803,295"/>
+<area shape="rect" id="node9" href="$classXmlBuilder2_1_1XmlDataOnlyBuilderElement_3_01std_1_1string_00_01StringConversion_3_01std_1_1string_01_4_01_4.html" title="XmlBuilder2::XmlDataOnly\lBuilderElement\&lt; std::string,\l StringConversion\&lt; std::string \&gt; \&gt;" alt="" coords="589,318,809,374"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlBuilderElementTemplate.html" title="Core::XmlBuilderElementTemplate\l\&lt; XmlEmptyElement, P, P, const P &amp; \&gt;" alt="" coords="572,397,827,439"/>
+<area shape="rect" id="node2" href="$classCore_1_1XmlElement.html" title="Abstract XML element declaration for use with XmlSchemaParser. " alt="" coords="180,195,309,222"/>
+<area shape="rect" id="node3" href="$classCore_1_1XmlContext.html" title="Core::XmlContext" alt="" coords="5,195,132,222"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlDataOnlyBuilderElement.html" title="Core::XmlDataOnlyBuilder\lElement\&lt; P, C \&gt;" alt="" coords="890,361,1066,403"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlDataOnlyBuilderElement.html" title="Core::XmlDataOnlyBuilder\lElement\&lt; P, ChoiceConversion\l\&lt; P \&gt; \&gt;" alt="" coords="875,426,1081,482"/>
+<area shape="rect" id="node13" href="$classCore_1_1XmlChoiceBuilderElement.html" title="Core::XmlChoiceBuilderElement\&lt; P \&gt;" alt="" coords="1129,441,1372,467"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="AdvancedTreeSearch::AcousticLookAhead" name="AdvancedTreeSearch::AcousticLookAhead">
+<area shape="rect" id="node10" href="$classSearch_1_1SearchSpace.html" title="Search::SearchSpace" alt="" coords="2235,761,2384,788"/>
+<area shape="rect" id="node2" href="$classMm_1_1SimdGaussDiagonalMaximumFeatureScorer.html" title="Accelerated feature&#45;scorer for MixtureSet of Gauss densities with diagonal covariance matrices Scores..." alt="" coords="1292,303,1520,345"/>
+<area shape="rect" id="node3" href="$classMm_1_1CachedAssigningFeatureScorer.html" title="Abstract feature scorer interface with cached scores and assignment. " alt="" coords="919,314,1118,355"/>
+<area shape="rect" id="node4" href="$classMm_1_1AssigningFeatureScorer.html" title="Abstract feature scorer interface with assignment to the best density. " alt="" coords="521,321,712,348"/>
+<area shape="rect" id="node5" href="$classMm_1_1FeatureScorerIntelOptimization.html" title="FeatureScorerIntelOptimization. " alt="" coords="903,380,1135,407"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="551,409,682,436"/>
+<area shape="rect" id="node11" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1343,795,1469,821"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="267,409,402,436"/>
+<area shape="rect" id="node31" href="$classSearch_1_1PersistentStateTree.html" title="Search::PersistentStateTree" alt="" coords="925,949,1112,976"/>
+<area shape="rect" id="node15" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; f32 \&gt;" alt="" coords="257,1081,412,1108"/>
+<area shape="rect" id="node16" href="$classCore_1_1Statistics.html" title="Core::Statistics\&lt; u32 \&gt;" alt="" coords="1327,191,1485,217"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="5,139,149,181"/>
+<area shape="rect" id="node30" href="$classSearch_1_1StaticSearchAutomaton.html" title="Search::StaticSearchAutomaton" alt="" coords="1823,1009,2033,1036"/>
+<area shape="rect" id="node36" href="$classAdvancedTreeSearch_1_1LanguageModelLookahead.html" title="Language model look&#45;ahead. " alt="" coords="1836,1567,2020,1609"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="954,809,1083,836"/>
+<area shape="rect" id="node13" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="969,755,1068,781"/>
+<area shape="rect" id="node14" href="$classPerformanceCounter.html" title="PerformanceCounter" alt="" coords="736,1163,879,1189"/>
+<area shape="rect" id="node47" href="$structSearch_1_1SearchSpaceStatistics.html" title="Search::SearchSpaceStatistics" alt="" coords="1826,137,2030,164"/>
+<area shape="rect" id="node17" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::ScaledLanguageModel \&gt;" alt="" coords="1319,1223,1493,1265"/>
+<area shape="rect" id="node18" href="$classSearch_1_1Histogram.html" title="histogram of scores for histogram pruning " alt="" coords="1863,543,1993,569"/>
+<area shape="rect" id="node19" href="$classSearch_1_1ScoreDependentStatistic.html" title="Search::ScoreDependentStatistic" alt="" coords="1820,593,2036,620"/>
+<area shape="rect" id="node20" href="$classLm_1_1History.html" title="Lm::History" alt="" coords="1883,483,1973,509"/>
+<area shape="rect" id="node21" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="1313,534,1499,575"/>
+<area shape="rect" id="node22" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="1336,483,1476,509"/>
+<area shape="rect" id="node23" href="$classLm_1_1SearchSpaceAwareLanguageModel.html" title="Lm::SearchSpaceAwareLanguage\lModel" alt="" coords="1819,695,2037,737"/>
+<area shape="rect" id="node24" href="$classSearch_1_1TraceManager.html" title="Search::TraceManager" alt="" coords="1851,644,2005,671"/>
+<area shape="rect" id="node25" href="$classSearch_1_1SparseVector.html" title="Search::SparseVector\l\&lt; std::pair\&lt; u32, Search\l::TraceManager::Modification \&gt; \&gt;" alt="" coords="1299,664,1513,720"/>
+<area shape="rect" id="node26" href="$classSearch_1_1SparseVector.html" title="Search::SparseVector\l\&lt; Search::TraceItem \&gt;" alt="" coords="1329,599,1483,641"/>
+<area shape="rect" id="node27" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Context\lLookahead \&gt;" alt="" coords="1841,813,2015,854"/>
+<area shape="rect" id="node28" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Search::\lSearchSpace::PruningDesc \&gt;" alt="" coords="1831,878,2025,919"/>
+<area shape="rect" id="node29" href="$structSearch_1_1SearchAlgorithm_1_1RecognitionContext.html" title="Search::SearchAlgorithm\l::RecognitionContext" alt="" coords="1845,943,2011,985"/>
+<area shape="rect" id="node35" href="$classSearch_1_1PrefixFilter.html" title="Search::PrefixFilter" alt="" coords="1339,849,1473,876"/>
+<area shape="rect" id="node32" href="$classSearch_1_1HMMStateNetwork.html" title="Search::HMMStateNetwork" alt="" coords="525,1013,708,1040"/>
+<area shape="rect" id="node33" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="525,771,709,797"/>
+<area shape="rect" id="node34" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="543,1097,690,1138"/>
+<area shape="rect" id="node37" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; u32 \&gt;" alt="" coords="1331,1353,1481,1394"/>
+<area shape="rect" id="node38" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1333,1479,1479,1505"/>
+<area shape="rect" id="node39" href="$classCore_1_1ParameterInt.html" title="Declaration class for integer valued parameters. " alt="" coords="1339,1859,1473,1885"/>
+<area shape="rect" id="node40" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; Score \&gt;" alt="" coords="1331,1530,1481,1571"/>
+<area shape="rect" id="node41" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; LookaheadId \&gt;" alt="" coords="1331,1595,1481,1637"/>
+<area shape="rect" id="node42" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="1334,1661,1478,1688"/>
+<area shape="rect" id="node43" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; AdvancedTreeSearch\l::LanguageModelLookahead\l::Node \&gt;" alt="" coords="1314,1713,1498,1783"/>
+<area shape="rect" id="node44" href="$classCore_1_1ConstantVector.html" title="Core::ConstantVector\l\&lt; std::pair\&lt; LookaheadId,\l Score \&gt; \&gt;" alt="" coords="1321,1909,1491,1965"/>
+<area shape="rect" id="node45" href="$classLm_1_1CompiledBatchRequest.html" title="Lm::CompiledBatchRequest" alt="" coords="1313,1989,1499,2016"/>
+<area shape="rect" id="node46" href="$classSearch_1_1LinearPrediction.html" title="Search::LinearPrediction" alt="" coords="1324,2040,1488,2067"/>
+<area shape="rect" id="node48" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lm\l::LanguageModel \&gt;" alt="" coords="1855,2143,2001,2185"/>
+<area shape="rect" id="node49" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Context\lScorer \&gt;" alt="" coords="1841,2209,2015,2250"/>
+<area shape="rect" id="node50" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Mm::MixtureSet \&gt;" alt="" coords="1308,369,1504,396"/>
+</map>

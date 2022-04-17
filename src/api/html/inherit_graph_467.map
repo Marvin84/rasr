@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCore_1_1XmlBuilderElement.html" title="Core::XmlBuilderElement\l\&lt; std::string, Core::XmlMixed\lElement, Core::CreateStatic \&gt;" alt="" coords="5,20,204,76"/>
+<area shape="rect" id="node2" href="$classBliss_1_1OrthographyElement.html" title="Bliss::OrthographyElement" alt="" coords="265,5,444,32"/>
+<area shape="rect" id="node3" href="$classMySchemaParser_1_1OrthographyElement.html" title="MySchemaParser::Orthography\lElement" alt="" coords="252,57,457,98"/>
+</map>

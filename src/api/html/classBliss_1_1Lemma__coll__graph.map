@@ -1,0 +1,8 @@
+<map id="Bliss::Lemma" name="Bliss::Lemma">
+<area shape="rect" id="node6" href="$classBliss_1_1LemmaPronunciation.html" title="Bliss::LemmaPronunciation" alt="" coords="795,73,976,100"/>
+<area shape="rect" id="node2" href="$classBliss_1_1Token.html" title="Bliss::Token" alt="" coords="253,15,348,41"/>
+<area shape="rect" id="node3" href="$classBliss_1_1Symbol.html" title="Symbols are character strings which are collected in a SymbolSet. " alt="" coords="5,75,108,101"/>
+<area shape="rect" id="node4" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; OrthographicForm \&gt;" alt="" coords="220,66,381,107"/>
+<area shape="rect" id="node5" href="$classBliss_1_1SymbolSequence.html" title="Bliss::SymbolSequence\l\&lt; const SyntacticToken * \&gt;" alt="" coords="209,131,392,173"/>
+<area shape="rect" id="node7" href="$classBliss_1_1Pronunciation.html" title="A pronunciation in the Bliss lexicon. " alt="" coords="1113,73,1252,100"/>
+</map>

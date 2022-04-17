@@ -1,0 +1,9 @@
+<map id="Speech::TdpLatticeRescorer" name="Speech::TdpLatticeRescorer">
+<area shape="rect" id="node8" href="$classSpeech_1_1CombinedAcousticLatticeRescorer.html" title="Speech::CombinedAcoustic\lLatticeRescorer" alt="" coords="37,528,221,569"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1AcousticLatticeRescorer.html" title="Speech::AcousticLatticeRescorer" alt="" coords="20,379,237,405"/>
+<area shape="rect" id="node3" href="$classSpeech_1_1AcousticLatticeRescorerBase.html" title="Speech::AcousticLatticeRescorerBase" alt="" coords="5,304,252,331"/>
+<area shape="rect" id="node4" href="$classSpeech_1_1LatticeRescorer.html" title="Speech::LatticeRescorer" alt="" coords="45,229,212,256"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1LatticeExtractor.html" title="Speech::LatticeExtractor" alt="" coords="45,155,212,181"/>
+<area shape="rect" id="node6" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="66,80,191,107"/>
+<area shape="rect" id="node7" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="63,5,194,32"/>
+</map>

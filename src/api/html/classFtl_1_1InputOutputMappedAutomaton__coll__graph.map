@@ -1,0 +1,10 @@
+<map id="Ftl::InputOutputMappedAutomaton&lt; _Automaton &gt;" name="Ftl::InputOutputMappedAutomaton&lt; _Automaton &gt;">
+<area shape="rect" id="node2" href="$classFtl_1_1MappedAutomaton.html" title="Ftl::MappedAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="856,107,1011,149"/>
+<area shape="rect" id="node3" href="$classFtl_1_1ModifyAutomaton.html" title="Ftl::ModifyAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="597,81,744,122"/>
+<area shape="rect" id="node4" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="317,23,458,65"/>
+<area shape="rect" id="node6" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _Automaton \&gt;" alt="" coords="5,56,215,83"/>
+<area shape="rect" id="node7" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const _State \&gt;" alt="" coords="299,89,476,116"/>
+<area shape="rect" id="node8" href="$classFsa_1_1AlphabetMapping.html" title="Represents the result of a call to one of the mapAlphabet functions. " alt="" coords="595,147,747,173"/>
+<area shape="rect" id="node9" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; LabelId \&gt;" alt="" coords="306,143,469,169"/>
+<area shape="rect" id="node11" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="292,193,483,220"/>
+</map>

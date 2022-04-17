@@ -1,0 +1,49 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classCore_1_1composedBinaryFunction.html" title="Functor for f(g(x), h(y)) " alt="" coords="187,5,392,47"/>
+<area shape="rect" id="node3" href="$structCore_1_1maximum.html" title="max: functor for max function " alt="" coords="216,71,363,98"/>
+<area shape="rect" id="node4" href="$structCore_1_1minimum.html" title="min: functor for min function " alt="" coords="218,122,361,149"/>
+<area shape="rect" id="node5" href="$structCore_1_1power.html" title="power: functor for pow function " alt="" coords="227,173,352,199"/>
+<area shape="rect" id="node6" href="$structCore_1_1StringEquality.html" title="Core::StringEquality" alt="" coords="220,223,359,250"/>
+<area shape="rect" id="node7" href="$structFtl_1_1byArc.html" title="Ftl::byArc\&lt; _Automaton \&gt;" alt="" coords="203,274,376,301"/>
+<area shape="rect" id="node8" href="$structFtl_1_1byInput.html" title="Ftl::byInput\&lt; _Automaton \&gt;" alt="" coords="198,325,381,351"/>
+<area shape="rect" id="node9" href="$structFtl_1_1byInputAndOutput.html" title="Ftl::byInputAndOutput\l\&lt; _Automaton \&gt;" alt="" coords="214,376,365,417"/>
+<area shape="rect" id="node10" href="$structFtl_1_1byInputAndOutputAndTarget.html" title="Ftl::byInputAndOutputAnd\lTarget\&lt; _Automaton \&gt;" alt="" coords="203,441,376,483"/>
+<area shape="rect" id="node11" href="$structFtl_1_1byInputAndTarget.html" title="Ftl::byInputAndTarget\l\&lt; _Automaton \&gt;" alt="" coords="215,507,363,548"/>
+<area shape="rect" id="node12" href="$structFtl_1_1byOutput.html" title="Ftl::byOutput\&lt; _Automaton \&gt;" alt="" coords="193,573,385,599"/>
+<area shape="rect" id="node13" href="$structFtl_1_1byWeight.html" title="Ftl::byWeight\&lt; _Automaton \&gt;" alt="" coords="192,623,387,650"/>
+<area shape="rect" id="node14" href="$structFtl_1_1sssp4SpecialSymbolsHelper_1_1byInputAndOutput.html" title="Ftl::sssp4SpecialSymbols\lHelper::byInputAndOutput\l\&lt; _leftArc, _rightArc \&gt;" alt="" coords="202,674,377,730"/>
+<area shape="rect" id="node15" href="$classLattice_1_1Core_1_1composedBinaryFunction.html" title="Functor for f(g(x), h(y)) " alt="" coords="188,753,391,795"/>
+<area shape="rect" id="node16" href="$structLattice_1_1Core_1_1maximum.html" title="max: functor for max function " alt="" coords="192,819,387,846"/>
+<area shape="rect" id="node17" href="$structLattice_1_1Core_1_1minimum.html" title="min: functor for min function " alt="" coords="194,870,385,897"/>
+<area shape="rect" id="node18" href="$structLattice_1_1Core_1_1power.html" title="power: functor for pow function " alt="" coords="203,921,375,947"/>
+<area shape="rect" id="node19" href="$structLattice_1_1Core_1_1StringEquality.html" title="Lattice::Core::StringEquality" alt="" coords="196,971,383,998"/>
+<area shape="rect" id="node20" href="$structLattice_1_1Mm_1_1equalReferenced.html" title="Lattice::Mm::equalReferenced\l\&lt; Pointer \&gt;" alt="" coords="191,1023,388,1064"/>
+<area shape="rect" id="node21" href="$classLattice_1_1Mm_1_1normalizedMinus.html" title="(x &#45; y) / normalization " alt="" coords="175,1089,404,1115"/>
+<area shape="rect" id="node22" href="$classLattice_1_1Mm_1_1plusNormalizedSquare.html" title="x + y^2 / normalization_ " alt="" coords="195,1140,384,1181"/>
+<area shape="rect" id="node23" href="$structLattice_1_1Mm_1_1plusSquare.html" title="x + y^2 " alt="" coords="191,1206,387,1233"/>
+<area shape="rect" id="node24" href="$structLattice_1_1Mm_1_1plusSquareWeighted.html" title="x + weight*y^2 " alt="" coords="164,1257,415,1283"/>
+<area shape="rect" id="node25" href="$structLattice_1_1Mm_1_1plusWeighted.html" title="x + weight*y " alt="" coords="184,1307,395,1334"/>
+<area shape="rect" id="node26" href="$structLattice_1_1TimeConditionedWordLattice_1_1ByInputAndTarget.html" title="Lattice::TimeConditioned\lWordLattice::ByInputAndTarget" alt="" coords="187,1359,392,1400"/>
+<area shape="rect" id="node27" href="$structMath_1_1absoluteDifference.html" title="absolute difference function " alt="" coords="189,1425,389,1451"/>
+<area shape="rect" id="node28" href="$classMath_1_1absoluteDifferencePower.html" title="absolute difference to the power function " alt="" coords="205,1476,373,1517"/>
+<area shape="rect" id="node29" href="$structMath_1_1absoluteDifferenceSquare.html" title="absolute difference square function " alt="" coords="205,1541,373,1583"/>
+<area shape="rect" id="node30" href="$structMath_1_1absoluteDifferenceSquareRoot.html" title="absolute difference square&#45;root function " alt="" coords="205,1607,373,1648"/>
+<area shape="rect" id="node31" href="$structMath_1_1conjugateMultiplies.html" title="functors for x * conjugate(y) " alt="" coords="188,1673,391,1699"/>
+<area shape="rect" id="node32" href="$structMath_1_1makeComplex.html" title="functor for the template constructor std::complex&lt;T&gt;::complex " alt="" coords="202,1723,377,1750"/>
+<area shape="rect" id="node33" href="$structMath_1_1PiecewiseConstantFunction_1_1greaterOrEqual.html" title="Math::PiecewiseConstantFunction\l::greaterOrEqual" alt="" coords="178,1775,401,1816"/>
+<area shape="rect" id="node34" href="$structMc_1_1maximum.html" title="max(x,y) " alt="" coords="221,1841,358,1867"/>
+<area shape="rect" id="node35" href="$structMc_1_1minimum.html" title="min(x,y) " alt="" coords="223,1891,356,1918"/>
+<area shape="rect" id="node36" href="$structMc_1_1plusWeight.html" title="x + y*factor " alt="" coords="217,1942,362,1969"/>
+<area shape="rect" id="node37" href="$structMm_1_1equalReferenced.html" title="Mm::equalReferenced\l\&lt; Pointer \&gt;" alt="" coords="214,1993,365,2035"/>
+<area shape="rect" id="node38" href="$structMm_1_1IdSetEntryLess.html" title="Mm::IdSetEntryLess" alt="" coords="218,2059,361,2086"/>
+<area shape="rect" id="node39" href="$classMm_1_1normalizedMinus.html" title="(x &#45; y) / normalization " alt="" coords="198,2110,381,2137"/>
+<area shape="rect" id="node40" href="$classMm_1_1plusNormalizedSquare.html" title="x + y^2 / normalization_ " alt="" coords="182,2161,397,2187"/>
+<area shape="rect" id="node41" href="$structMm_1_1plusSquare.html" title="x + y^2 " alt="" coords="215,2211,364,2238"/>
+<area shape="rect" id="node42" href="$structMm_1_1plusSquareWeighted.html" title="x + weight*y^2 " alt="" coords="187,2262,391,2289"/>
+<area shape="rect" id="node43" href="$structMm_1_1plusWeighted.html" title="x + weight*y " alt="" coords="208,2313,371,2339"/>
+<area shape="rect" id="node44" href="$classSignal_1_1normalizeCrossAbsoluteDifferenceUpperBound.html" title="normalizeCrossAbsoluteDifferenceUpperBound: normalizes upper bound of cross&#45;absolute&#45;difference to 1 ..." alt="" coords="172,2364,407,2405"/>
+<area shape="rect" id="node45" href="$classSignal_1_1normalizeCrossCorrelationEstimate.html" title="normalizeCrossCorrelationEstimate: normalizes cross&#45;correlation estimate by number of addands Leads t..." alt="" coords="179,2429,399,2471"/>
+<area shape="rect" id="node46" href="$classSignal_1_1normalizeCrossCorrelationUpperBound.html" title="normalizeCrossCorrelationUpperBound: normalizes upper bound of cross&#45;correlation to 1 |Rxy(m)| / sqrt..." alt="" coords="179,2495,399,2536"/>
+<area shape="rect" id="node47" href="$classSignal_1_1normalizeCrossSquareDifferenceUpperBound.html" title="normalizeCrossSquareDifferenceUpperBound: normalizes upper bound of cross&#45;square&#45;difference to 1..." alt="" coords="172,2560,407,2601"/>
+<area shape="rect" id="node48" href="$structSpeech_1_1PhonemeSequenceAlignmentGenerator_1_1KeyEquality.html" title="Speech::PhonemeSequenceAlignment\lGenerator::KeyEquality" alt="" coords="167,2625,412,2667"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Am::ClassicAcousticModel" name="Am::ClassicAcousticModel">
+<area shape="rect" id="node7" href="$classAm_1_1AdaptedAcousticModel.html" title="AdaptedAcousticModel. " alt="" coords="61,379,245,405"/>
+<area shape="rect" id="node2" href="$classAm_1_1AcousticModel.html" title="Interface class for acoustic models Concepts and Future Plans: &#45;An acoustic model consist of: &#45;Emissi..." alt="" coords="85,229,221,256"/>
+<area shape="rect" id="node3" href="$classMc_1_1Component.html" title="Base class scaled model combination components. " alt="" coords="13,155,128,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="8,80,133,107"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="153,155,319,181"/>
+</map>

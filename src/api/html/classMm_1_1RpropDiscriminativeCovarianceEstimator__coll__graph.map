@@ -1,0 +1,17 @@
+<map id="Mm::RpropDiscriminativeCovarianceEstimator" name="Mm::RpropDiscriminativeCovarianceEstimator">
+<area shape="rect" id="node2" href="$classMm_1_1DiscriminativeCovarianceEstimator.html" title="DiscriminativeCovarianceEstimator. " alt="" coords="1689,74,1891,115"/>
+<area shape="rect" id="node3" href="$classMm_1_1CovarianceEstimator.html" title="CovarianceEstimator. " alt="" coords="1409,79,1584,105"/>
+<area shape="rect" id="node4" href="$classMm_1_1AbstractCovarianceEstimator.html" title="AbstractCovarianceEstimator. " alt="" coords="941,5,1164,32"/>
+<area shape="rect" id="node5" href="$classMm_1_1AbstractEstimationAccumulator.html" title="AbstractEstimationAccumulator. " alt="" coords="656,5,892,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="440,5,607,32"/>
+<area shape="rect" id="node7" href="$classMm_1_1VectorAccumulator.html" title="Mm::VectorAccumulator\l\&lt; FeatureType, plusSquare\l\&lt; Sum \&gt;, plusSquareWeighted\l\&lt; Sum \&gt; \&gt;" alt="" coords="952,57,1153,127"/>
+<area shape="rect" id="node8" href="$classMm_1_1RpropOptimization.html" title="Mm::RpropOptimization\l\&lt; VarianceType \&gt;" alt="" coords="1710,139,1870,181"/>
+<area shape="rect" id="node9" href="$classMm_1_1RpropSettings.html" title="Mm::RpropSettings\&lt;\l VarianceType \&gt;" alt="" coords="1425,143,1568,185"/>
+<area shape="rect" id="node10" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="979,255,1126,281"/>
+<area shape="rect" id="node11" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="693,247,855,289"/>
+<area shape="rect" id="node12" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="448,203,599,229"/>
+<area shape="rect" id="node13" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,172,308,199"/>
+<area shape="rect" id="node18" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; bool \&gt;" alt="" coords="440,152,607,179"/>
+<area shape="rect" id="node16" href="$classCore_1_1ParameterBool.html" title="Declaration class for boolean valued parameters. " alt="" coords="981,152,1125,179"/>
+<area shape="rect" id="node17" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; bool \&gt;" alt="" coords="670,145,878,186"/>
+</map>

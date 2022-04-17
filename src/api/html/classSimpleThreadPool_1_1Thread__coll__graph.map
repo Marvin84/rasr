@@ -1,0 +1,6 @@
+<map id="SimpleThreadPool::Thread" name="SimpleThreadPool::Thread">
+<area shape="rect" id="node2" href="$classCore_1_1Thread.html" title="Abstract Thread. " alt="" coords="5,95,104,121"/>
+<area shape="rect" id="node3" href="$structSimpleThreadPool_1_1Job.html" title="Override this class to implement your jobs. " alt="" coords="128,95,285,121"/>
+<area shape="rect" id="node4" href="$classCore_1_1Condition.html" title="A condition variable. " alt="" coords="310,95,423,121"/>
+<area shape="rect" id="node5" href="$classCore_1_1Mutex.html" title="A mutex. " alt="" coords="319,5,414,32"/>
+</map>

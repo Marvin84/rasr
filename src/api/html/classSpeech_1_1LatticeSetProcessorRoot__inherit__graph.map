@@ -1,0 +1,9 @@
+<map id="Speech::LatticeSetProcessorRoot" name="Speech::LatticeSetProcessorRoot">
+<area shape="rect" id="node7" href="$classSpeech_1_1LatticeSetReader.html" title="LatticeSetReader. " alt="" coords="19,311,194,338"/>
+<area shape="rect" id="node8" href="$classSpeech_1_1NumeratorLatticeGenerator.html" title="NumeratorLatticeGenerator. " alt="" coords="218,304,393,345"/>
+<area shape="rect" id="node2" href="$classSpeech_1_1CorpusProcessor.html" title="CorpusProcessor base class for algorithms driven by a CorpusVisitor. " alt="" coords="222,155,397,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="228,80,353,107"/>
+<area shape="rect" id="node5" href="$classSpeech_1_1LatticeSetProcessor.html" title="LatticeSetProcessor is base class for algorithms processing lattice sets. " alt="" coords="5,155,197,181"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="225,5,356,32"/>
+<area shape="rect" id="node6" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="18,80,185,107"/>
+</map>

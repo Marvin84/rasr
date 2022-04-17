@@ -1,0 +1,11 @@
+<map id="Lm::HistoryManager" name="Lm::HistoryManager">
+<area shape="rect" id="node2" href="$classLm_1_1NNHistoryManager.html" title="Lm::NNHistoryManager" alt="" coords="215,5,375,32"/>
+<area shape="rect" id="node3" href="$classLm_1_1ReferenceCountingHistoryManager.html" title="HistoryManager for reference counted descriptors. " alt="" coords="193,57,396,98"/>
+<area shape="rect" id="node6" href="$classLm_1_1SingletonHistoryManager.html" title="Lm::SingletonHistoryManager" alt="" coords="197,123,392,149"/>
+<area shape="rect" id="node9" href="$classLm_1_1StaticHistoryManager.html" title="Manager for statically allocated HistoryHandles. " alt="" coords="207,203,382,229"/>
+<area shape="rect" id="node4" href="$classFsaLm_1_1HistoryManager.html" title="Lm::FsaLm::HistoryManager" alt="" coords="444,13,632,40"/>
+<area shape="rect" id="node5" href="$classLm_1_1WordlistInterfaceLm.html" title="Abstract bsse class for Philips&#45; and (legacy) RWTH language model adaptors. " alt="" coords="455,64,621,91"/>
+<area shape="rect" id="node7" href="$classLm_1_1History_1_1SentinelHistoryManager.html" title="Lm::History::SentinelHistory\lManager" alt="" coords="445,115,631,157"/>
+<area shape="rect" id="node8" href="$classLm_1_1Zerogram.html" title="Lm::Zerogram" alt="" coords="487,181,589,208"/>
+<area shape="rect" id="node10" href="$classLm_1_1BackingOffLm_1_1Internal.html" title="Lm::BackingOffLm::Internal" alt="" coords="447,232,629,259"/>
+</map>

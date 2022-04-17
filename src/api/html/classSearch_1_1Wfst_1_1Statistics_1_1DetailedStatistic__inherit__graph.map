@@ -1,0 +1,14 @@
+<map id="Search::Wfst::Statistics::DetailedStatistic" name="Search::Wfst::Statistics::DetailedStatistic">
+<area shape="rect" id="node3" href="$classSearch_1_1Wfst_1_1Statistics_1_1DetailedSearchSpaceStatistic.html" title="Search::Wfst::Statistics\l::DetailedSearchSpaceStatistic\&lt; u32 \&gt;" alt="" coords="427,136,676,177"/>
+<area shape="rect" id="node13" href="$classSearch_1_1Wfst_1_1Statistics_1_1DetailedSearchSpaceStatistic.html" title="Search::Wfst::Statistics\l::DetailedSearchSpaceStatistic\&lt; T \&gt;" alt="" coords="433,201,669,243"/>
+<area shape="rect" id="node2" href="$classSearch_1_1Wfst_1_1Statistics_1_1AbstractStatistic.html" title="Interface for statistic classes. " alt="" coords="5,169,168,211"/>
+<area shape="rect" id="node4" href="$classSearch_1_1Wfst_1_1Statistics_1_1InactiveHypsStatistic.html" title="Search::Wfst::Statistics\l::InactiveHypsStatistic" alt="" coords="724,37,887,79"/>
+<area shape="rect" id="node5" href="$classSearch_1_1Wfst_1_1Statistics_1_1StateStatistic.html" title="Search::Wfst::Statistics\l::StateStatistic" alt="" coords="724,103,887,144"/>
+<area shape="rect" id="node11" href="$classSearch_1_1Wfst_1_1Statistics_1_1UniqueHmmStatistic.html" title="Search::Wfst::Statistics\l::UniqueHmmStatistic" alt="" coords="724,168,887,209"/>
+<area shape="rect" id="node12" href="$classSearch_1_1Wfst_1_1Statistics_1_1UniqueMixtureStatistic.html" title="Search::Wfst::Statistics\l::UniqueMixtureStatistic" alt="" coords="724,233,887,275"/>
+<area shape="rect" id="node6" href="$classSearch_1_1Wfst_1_1Statistics_1_1GrammarStateStatistic.html" title="Search::Wfst::Statistics\l::GrammarStateStatistic\&lt; S \&gt;" alt="" coords="935,37,1131,79"/>
+<area shape="rect" id="node9" href="$classSearch_1_1Wfst_1_1Statistics_1_1SourceStateStatistic.html" title="Search::Wfst::Statistics\l::SourceStateStatistic" alt="" coords="951,103,1114,144"/>
+<area shape="rect" id="node10" href="$classSearch_1_1Wfst_1_1Statistics_1_1TargetStateStatistic.html" title="Search::Wfst::Statistics\l::TargetStateStatistic" alt="" coords="951,168,1114,209"/>
+<area shape="rect" id="node7" href="$classSearch_1_1Wfst_1_1Statistics_1_1SourceGrammarStateStatistic.html" title="Search::Wfst::Statistics\l::SourceGrammarStateStatistic\&lt; S \&gt;" alt="" coords="1179,5,1416,47"/>
+<area shape="rect" id="node8" href="$classSearch_1_1Wfst_1_1Statistics_1_1TargetGrammarStateStatistic.html" title="Search::Wfst::Statistics\l::TargetGrammarStateStatistic\&lt; S \&gt;" alt="" coords="1181,71,1414,112"/>
+</map>

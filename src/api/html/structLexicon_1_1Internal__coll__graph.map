@@ -1,0 +1,8 @@
+<map id="Lexicon::Internal" name="Lexicon::Internal">
+<area shape="rect" id="node2" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l LemmaPronunciationAlphabet \&gt;" alt="" coords="197,5,408,47"/>
+<area shape="rect" id="node3" href="$classCore_1_1WeakRefBase.html" title="Base class of the WeakRef template. " alt="" coords="5,143,148,170"/>
+<area shape="rect" id="node4" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l LemmaAlphabet \&gt;" alt="" coords="224,71,381,112"/>
+<area shape="rect" id="node5" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l SyntacticTokenAlphabet \&gt;" alt="" coords="213,136,393,177"/>
+<area shape="rect" id="node6" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l EvaluationTokenAlphabet \&gt;" alt="" coords="209,201,396,243"/>
+<area shape="rect" id="node7" href="$classCore_1_1WeakRef.html" title="Core::WeakRef\&lt; const\l LetterAlphabet \&gt;" alt="" coords="224,267,381,308"/>
+</map>

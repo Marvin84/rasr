@@ -1,0 +1,7 @@
+<map id="Lm::BackingOffLm::Internal" name="Lm::BackingOffLm::Internal">
+<area shape="rect" id="node2" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="311,5,477,32"/>
+<area shape="rect" id="node3" href="$classLm_1_1StaticHistoryManager.html" title="Manager for statically allocated HistoryHandles. " alt="" coords="307,56,481,83"/>
+<area shape="rect" id="node4" href="$classLm_1_1HistoryManager.html" title="The HistoryManager serves as a memory manger for the HistoryDescriptors used by a LanguageModel..." alt="" coords="5,56,145,83"/>
+<area shape="rect" id="node5" href="$structLm_1_1BackingOffLm_1_1WordScore.html" title="Lm::BackingOffLm::WordScore" alt="" coords="292,113,496,140"/>
+<area shape="rect" id="node6" href="$classLm_1_1BackingOffLm_1_1Node.html" title="Lm::BackingOffLm::Node" alt="" coords="309,188,479,215"/>
+</map>

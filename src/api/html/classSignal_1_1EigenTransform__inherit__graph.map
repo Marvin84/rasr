@@ -1,0 +1,7 @@
+<map id="Signal::EigenTransform" name="Signal::EigenTransform">
+<area shape="rect" id="node5" href="$classSignal_1_1LinearDiscriminantAnalysis.html" title="Linear Discriminant Analysis Input: between class and within class scatter matrices. " alt="" coords="5,304,180,345"/>
+<area shape="rect" id="node6" href="$classSignal_1_1PrincipalComponentAnalysis.html" title="Principal Component Analysis. " alt="" coords="204,304,387,345"/>
+<area shape="rect" id="node2" href="$classSignal_1_1ScatterTransform.html" title="Base class for scatter matrix based tranformations. " alt="" coords="111,155,277,181"/>
+<area shape="rect" id="node3" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="131,80,257,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="129,5,259,32"/>
+</map>

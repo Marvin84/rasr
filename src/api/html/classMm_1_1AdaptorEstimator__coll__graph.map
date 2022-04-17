@@ -1,0 +1,23 @@
+<map id="Mm::AdaptorEstimator" name="Mm::AdaptorEstimator">
+<area shape="rect" id="node2" href="$classMm_1_1AbstractAdaptationAccumulator.html" title="Abstract interface for adaptation accumulators. " alt="" coords="1757,32,1993,59"/>
+<area shape="rect" id="node3" href="$classCore_1_1ReferenceCounted.html" title="Base class for reference&#45;counted objects. " alt="" coords="1345,5,1512,32"/>
+<area shape="rect" id="node4" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1813,109,1938,136"/>
+<area shape="rect" id="node5" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1363,56,1494,83"/>
+<area shape="rect" id="node6" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1016,56,1151,83"/>
+<area shape="rect" id="node9" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="448,46,583,87"/>
+<area shape="rect" id="node10" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,62,292,103"/>
+<area shape="rect" id="node16" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="441,293,589,334"/>
+<area shape="rect" id="node17" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,300,308,327"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="729,47,873,89"/>
+<area shape="rect" id="node11" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1364,168,1493,195"/>
+<area shape="rect" id="node12" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1025,140,1141,167"/>
+<area shape="rect" id="node14" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1030,191,1137,217"/>
+<area shape="rect" id="node15" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="725,296,877,323"/>
+<area shape="rect" id="node22" href="$classCore_1_1Parameter.html" title="Base class template for parameter declaration. " alt="" coords="440,359,591,385"/>
+<area shape="rect" id="node18" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1379,107,1478,133"/>
+<area shape="rect" id="node19" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Math::Reference\lCountedVector\&lt; LeafNumber \&gt; \&gt;" alt="" coords="1767,293,1983,334"/>
+<area shape="rect" id="node20" href="$classCore_1_1ParameterFloat.html" title="Declaration class for floating point parameters. " alt="" coords="1175,359,1321,385"/>
+<area shape="rect" id="node21" href="$classCore_1_1RangedParameter.html" title="Base class template for parameters with lower und upper bounds. " alt="" coords="720,351,883,393"/>
+<area shape="rect" id="node24" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; Core::BinaryTree \&gt;" alt="" coords="1774,409,1977,436"/>
+<area shape="rect" id="node25" href="$classMath_1_1Vector.html" title="Math::Vector\&lt; Sum \&gt;" alt="" coords="1801,460,1949,487"/>
+</map>

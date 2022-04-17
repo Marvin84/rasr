@@ -1,0 +1,6 @@
+<map id="Am::Allophone" name="Am::Allophone">
+<area shape="rect" id="node2" href="$classBliss_1_1ContextPhonology_1_1PhonemeInContext.html" title="Phonology::Allophone" alt="" coords="41,333,189,360"/>
+<area shape="rect" id="node3" href="$classBliss_1_1Allophone.html" title="Abstract base class for all types of allophones. " alt="" coords="5,237,121,263"/>
+<area shape="rect" id="node4" href="$structBliss_1_1ContextPhonology_1_1Context.html" title="Bliss::ContextPhonology\l::Context" alt="" coords="145,229,312,271"/>
+<area shape="rect" id="node5" href="$classBliss_1_1ContextPhonology_1_1SemiContext.html" title="Bliss::ContextPhonology\l::SemiContext" alt="" coords="145,111,312,152"/>
+</map>

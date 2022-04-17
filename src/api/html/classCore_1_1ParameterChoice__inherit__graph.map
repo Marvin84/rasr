@@ -1,0 +1,5 @@
+<map id="Core::ParameterChoice" name="Core::ParameterChoice">
+<area shape="rect" id="node2" href="$classCore_1_1AbstractChoiceParameter.html" title="Core::AbstractChoiceParameter\l\&lt; s32 \&gt;" alt="" coords="5,155,213,196"/>
+<area shape="rect" id="node3" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; s32 \&gt;" alt="" coords="28,80,191,107"/>
+<area shape="rect" id="node4" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="26,5,193,32"/>
+</map>

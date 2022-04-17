@@ -1,0 +1,25 @@
+<map id="Search::StaticSearchAutomaton" name="Search::StaticSearchAutomaton">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1889,115,2014,141"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1568,229,1699,256"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1237,229,1371,256"/>
+<area shape="rect" id="node17" href="$classSearch_1_1PersistentStateTree.html" title="Search::PersistentStateTree" alt="" coords="1540,380,1727,407"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="465,210,599,251"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,199,292,241"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="458,66,606,107"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,97,308,124"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="840,201,984,242"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1569,49,1698,76"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1246,5,1362,32"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1251,56,1357,83"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="836,73,988,100"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1584,100,1683,127"/>
+<area shape="rect" id="node26" href="$classSearch_1_1PrefixFilter.html" title="Search::PrefixFilter" alt="" coords="1884,417,2019,444"/>
+<area shape="rect" id="node18" href="$classCore_1_1DependencySet.html" title="Core::DependencySet" alt="" coords="1229,352,1379,379"/>
+<area shape="rect" id="node19" href="$classSearch_1_1HMMStateNetwork.html" title="Search::HMMStateNetwork" alt="" coords="1213,403,1395,429"/>
+<area shape="rect" id="node20" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l false, InvalidBatchId, SingleSuccessor\lBatchMask \&gt;" alt="" coords="787,267,1037,352"/>
+<area shape="rect" id="node21" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SuccessorBatchId,\l StateId, Search::HMMState,\l invalidBatch_, singleBatchMask_ \&gt;" alt="" coords="417,275,647,346"/>
+<area shape="rect" id="node22" href="$classTools_1_1BatchManager.html" title="Tools::BatchManager\l\&lt; SubTreeListId, StateId,\l Search::HMMState, true,\l InvalidBatchId \&gt;" alt="" coords="826,377,998,447"/>
+<area shape="rect" id="node23" href="$classTools_1_1BatchBuilder.html" title="Tools::BatchBuilder\l\&lt; SubTreeListId, StateId,\l Search::HMMState, invalidBatch_, 0 \&gt;" alt="" coords="407,384,657,440"/>
+<area shape="rect" id="node24" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Lexicon \&gt;" alt="" coords="1212,525,1396,552"/>
+<area shape="rect" id="node25" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Am\l::AcousticModel \&gt;" alt="" coords="1231,163,1377,205"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Flf::FwdBwdBuilder::Internal" name="Flf::FwdBwdBuilder::Internal">
+<area shape="rect" id="node2" href="$classCore_1_1Component.html" title="Base class for configurable components with logging and error logging facilities. ..." alt="" coords="1763,212,1889,239"/>
+<area shape="rect" id="node3" href="$classCore_1_1Configurable.html" title="Abstract base class for run&#45;time configurable classes. " alt="" coords="1399,137,1530,164"/>
+<area shape="rect" id="node4" href="$classCore_1_1Configuration.html" title="Central configuration class. " alt="" coords="1040,125,1175,152"/>
+<area shape="rect" id="node7" href="$classConfiguration_1_1Resource.html" title="Item of configuration. " alt="" coords="413,43,548,85"/>
+<area shape="rect" id="node8" href="$classConfiguration_1_1SourceDescriptor.html" title="Describes where a resource comes from. " alt="" coords="157,59,292,101"/>
+<area shape="rect" id="node14" href="$classCore_1_1Parameter.html" title="Core::Parameter\&lt; std\l::string \&gt;" alt="" coords="407,187,555,229"/>
+<area shape="rect" id="node15" href="$classCore_1_1AbstractParameter.html" title="Abstract base class for parameter declaration. " alt="" coords="141,176,308,203"/>
+<area shape="rect" id="node6" href="$classConfiguration_1_1ResourceDataBase.html" title="Central storage place for all resources. " alt="" coords="703,51,847,93"/>
+<area shape="rect" id="node9" href="$classCore_1_1XmlChannel.html" title="Configurable XML output stream. " alt="" coords="1400,243,1529,269"/>
+<area shape="rect" id="node10" href="$classCore_1_1XmlWriter.html" title="Stream adaptor for producing XML output. " alt="" coords="1049,243,1165,269"/>
+<area shape="rect" id="node12" href="$classCore_1_1Channel.html" title="Configurable text output stream. " alt="" coords="1054,192,1161,219"/>
+<area shape="rect" id="node13" href="$classCore_1_1ParameterString.html" title="Declaration class for string parameters. " alt="" coords="699,181,851,208"/>
+<area shape="rect" id="node16" href="$classCore_1_1Choice.html" title="Choice class. " alt="" coords="1415,192,1514,219"/>
+<area shape="rect" id="node17" href="$structFlf_1_1FwdBwdBuilder_1_1Internal_1_1CombinationConfiguration.html" title="Flf::FwdBwdBuilder\l::Internal::CombinationConfiguration" alt="" coords="1711,391,1941,433"/>
+<area shape="rect" id="node18" href="$structFlf_1_1FwdBwd_1_1CombinationParameters.html" title="Flf::FwdBwd::Combination\lParameters" alt="" coords="1376,391,1553,433"/>
+<area shape="rect" id="node19" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; CombinationHelper \&gt;" alt="" coords="1000,344,1215,371"/>
+<area shape="rect" id="node20" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ScoreId \&gt;" alt="" coords="1025,397,1190,424"/>
+<area shape="rect" id="node22" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; ConstSemiring\lRef \&gt;" alt="" coords="1010,449,1205,490"/>
+<area shape="rect" id="node24" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Alphabet \&gt;" alt="" coords="1012,293,1203,320"/>
+<area shape="rect" id="node25" href="$classCore_1_1Vector.html" title="Core::Vector\&lt; Score \&gt;" alt="" coords="1030,532,1185,559"/>
+<area shape="rect" id="node27" href="$structFlf_1_1FwdBwdBuilder_1_1Internal_1_1SingleConfiguration.html" title="Flf::FwdBwdBuilder\l::Internal::SingleConfiguration" alt="" coords="1729,599,1923,641"/>
+<area shape="rect" id="node28" href="$structFlf_1_1FwdBwd_1_1Parameters.html" title="Flf::FwdBwd::Parameters" alt="" coords="1379,664,1550,691"/>
+<area shape="rect" id="node29" href="$classCore_1_1Ref.html" title="Core::Ref\&lt; const Semiring \&gt;" alt="" coords="1012,620,1203,647"/>
+</map>

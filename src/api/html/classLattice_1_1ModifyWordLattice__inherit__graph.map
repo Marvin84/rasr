@@ -1,0 +1,38 @@
+<map id="Lattice::ModifyWordLattice" name="Lattice::ModifyWordLattice">
+<area shape="rect" id="node5" href="$classLattice_1_1ApproximateAccuracyAutomaton.html" title="ApproximateAccuracyAutomaton. " alt="" coords="780,137,977,179"/>
+<area shape="rect" id="node12" href="$classLattice_1_1FrameStateAccuracyAutomaton.html" title="FrameStateAccuracyAutomaton. " alt="" coords="783,203,975,244"/>
+<area shape="rect" id="node13" href="$classLattice_1_1SmoothedFrameStateAccuracyAutomaton.html" title="SmoothedFrameStateAccuracyAutomaton. " alt="" coords="781,268,977,309"/>
+<area shape="rect" id="node14" href="$classLattice_1_1TimeframeErrorAutomaton.html" title="timeframe error automaton: base class " alt="" coords="767,334,990,361"/>
+<area shape="rect" id="node17" href="$classLattice_1_1TurnOffCompetingHypothesesLattice.html" title="turnOffCompetingHypotheses " alt="" coords="791,385,967,427"/>
+<area shape="rect" id="node18" href="$classLattice_1_1WordTimeframeAccuracyAutomaton.html" title="WordTimeframeAccuracyAutomaton. " alt="" coords="770,451,987,492"/>
+<area shape="rect" id="node19" href="$classSpeech_1_1LatticeExtratorInternal_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeExtratorInternal\l::LatticeRescorerAutomaton" alt="" coords="777,516,980,557"/>
+<area shape="rect" id="node28" href="$classSpeech_1_1LatticeRescorerAutomaton.html" title="Speech::LatticeRescorerAutomaton" alt="" coords="764,963,993,990"/>
+<area shape="rect" id="node2" href="$classFtl_1_1ModifyAutomaton.html" title="Fsa::ModifyAutomaton" alt="" coords="335,363,489,390"/>
+<area shape="rect" id="node3" href="$classFtl_1_1SlaveAutomaton.html" title="Ftl::SlaveAutomaton\l\&lt; _Automaton \&gt;" alt="" coords="145,356,287,397"/>
+<area shape="rect" id="node6" href="$classLattice_1_1ApproximatePhoneAccuracyAutomaton.html" title="ApproximatePhoneAccuracyAutomaton. " alt="" coords="1067,103,1246,144"/>
+<area shape="rect" id="node11" href="$classLattice_1_1ApproximateWordAccuracyAutomaton.html" title="ApproximateWordAccuracyAutomaton: Word lattices may contain epsilon arcs (input labels) but they must..." alt="" coords="1070,168,1243,209"/>
+<area shape="rect" id="node7" href="$classLattice_1_1ApproximatePhoneAccuracyMaskAutomaton.html" title="ApproximatePhoneAccuracyMaskAutomaton. " alt="" coords="1362,5,1541,47"/>
+<area shape="rect" id="node8" href="$classLattice_1_1FramePhoneAccuracyAutomaton.html" title="FramePhoneAccuracyAutomaton. " alt="" coords="1352,71,1551,112"/>
+<area shape="rect" id="node9" href="$classLattice_1_1SoftFramePhoneAccuracyAutomaton.html" title="SoftFramePhoneAccuracyAutomaton. " alt="" coords="1340,136,1563,177"/>
+<area shape="rect" id="node10" href="$classLattice_1_1WeightedFramePhoneAccuracyAutomaton.html" title="WeightedFramePhoneAccuracyAutomaton. " alt="" coords="1352,201,1551,243"/>
+<area shape="rect" id="node15" href="$classLattice_1_1MaximumTimeframeErrorAutomaton.html" title="maximum scoring " alt="" coords="1063,264,1251,305"/>
+<area shape="rect" id="node16" href="$classLattice_1_1SumTimeframeErrorAutomaton.html" title="sum scoring " alt="" coords="1063,329,1250,371"/>
+<area shape="rect" id="node20" href="$classCombinedAcousticLatticeRescorerAutomaton.html" title="CombinedAcousticLatticeRescorer\lAutomaton" alt="" coords="1045,396,1269,437"/>
+<area shape="rect" id="node21" href="$classLmLatticeRescorerAutomaton.html" title="LmLatticeRescorerAutomaton" alt="" coords="1059,462,1254,489"/>
+<area shape="rect" id="node22" href="$classPronunciationLatticeRescorerAutomaton.html" title="PronunciationLatticeRescorer\lAutomaton" alt="" coords="1060,513,1253,555"/>
+<area shape="rect" id="node23" href="$classRestoreScoresLatticeRescorerAutomaton.html" title="RestoreScoresLatticeRescorer\lAutomaton" alt="" coords="1056,579,1257,620"/>
+<area shape="rect" id="node24" href="$classSpeech_1_1LatticeExtratorInternal_1_1CachedLatticeRescorerAutomaton.html" title="Speech::LatticeExtratorInternal\l::CachedLatticeRescorerAutomaton" alt="" coords="1041,644,1272,685"/>
+<area shape="rect" id="node25" href="$classAlignmentLatticeRescorerAutomaton.html" title="AlignmentLatticeRescorer\lAutomaton" alt="" coords="1365,560,1537,601"/>
+<area shape="rect" id="node26" href="$classEmissionLatticeRescorerAutomaton.html" title="EmissionLatticeRescorerAutomaton" alt="" coords="1336,626,1567,653"/>
+<area shape="rect" id="node27" href="$classTdpLatticeRescorerAutomaton.html" title="TdpLatticeRescorerAutomaton" alt="" coords="1352,677,1551,703"/>
+<area shape="rect" id="node29" href="$classSpeech_1_1CachedLatticeRescorerAutomaton.html" title="Speech::CachedLatticeRescorer\lAutomaton" alt="" coords="1051,859,1262,900"/>
+<area shape="rect" id="node34" href="$classSpeech_1_1CombinedAcousticLatticeRescorerAutomaton.html" title="Speech::CombinedAcoustic\lLatticeRescorerAutomaton" alt="" coords="1065,956,1249,997"/>
+<area shape="rect" id="node37" href="$classSpeech_1_1LmLatticeRescorerAutomaton.html" title="Speech::LmLatticeRescorer\lAutomaton" alt="" coords="1065,1021,1249,1063"/>
+<area shape="rect" id="node38" href="$classSpeech_1_1PronunciationLatticeRescorerAutomaton.html" title="Speech::PronunciationLattice\lRescorerAutomaton" alt="" coords="1061,1087,1253,1128"/>
+<area shape="rect" id="node30" href="$classNn_1_1EmissionLatticeRescorerAutomaton.html" title="Nn::EmissionLatticeRescorer\lAutomaton" alt="" coords="1355,728,1548,769"/>
+<area shape="rect" id="node31" href="$classSpeech_1_1AlignmentLatticeRescorerAutomaton.html" title="Speech::AlignmentLattice\lRescorerAutomaton" alt="" coords="1366,793,1537,835"/>
+<area shape="rect" id="node32" href="$classSpeech_1_1EmissionLatticeRescorerAutomaton.html" title="Speech::EmissionLatticeRescorer\lAutomaton" alt="" coords="1341,859,1561,900"/>
+<area shape="rect" id="node33" href="$classSpeech_1_1TdpLatticeRescorerAutomaton.html" title="Speech::TdpLatticeRescorer\lAutomaton" alt="" coords="1357,924,1545,965"/>
+<area shape="rect" id="node35" href="$classCombinedAcousticSummedPronunciationLatticeRescorerAutomaton.html" title="CombinedAcousticSummedPronunciation\lLatticeRescorerAutomaton" alt="" coords="1320,989,1583,1031"/>
+<area shape="rect" id="node36" href="$classSpeech_1_1CombinedAcousticSummedPronunciationLatticeRescorerAutomaton.html" title="Speech::CombinedAcoustic\lSummedPronunciationLatticeRescorer\lAutomaton" alt="" coords="1329,1054,1574,1110"/>
+</map>
